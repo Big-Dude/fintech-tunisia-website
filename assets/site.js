@@ -26,6 +26,41 @@
     });
   }
 
+  // Directory: search + category filter
+  function setupFilter(gridSel, itemSel, searchId, chipsId, attr, extraSel) {
+    var grid = document.querySelector(gridSel); if (!grid) return;
+    var items = Array.prototype.slice.call(grid.querySelectorAll(itemSel));
+    var input = searchId && document.getElementById(searchId);
+    var chips = chipsId ? Array.prototype.slice.call(document.querySelectorAll("#" + chipsId + " .chip")) : [];
+    var extra = extraSel && document.querySelector(extraSel);
+    var empty = grid.parentNode.querySelector(".no-results");
+    var cur = "all";
+    var norm = function (s) { return (s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, ""); };
+    function apply() {
+      var terms = input ? norm(input.value).split(/\s+/).filter(Boolean) : [], shown = 0, topic = extra ? extra.value : "";
+      items.forEach(function (it) {
+        var ok = (cur === "all" || it.getAttribute(attr) === cur);
+        if (ok && terms.length) { var hay = norm(it.getAttribute("data-search")); ok = terms.every(function (t) { return hay.indexOf(t) !== -1; }); }
+        if (ok && topic) ok = (" " + it.getAttribute("data-topics") + " ").indexOf(" " + topic + " ") !== -1;
+        it.hidden = !ok; if (ok) shown++;
+      });
+      grid.querySelectorAll(".yr").forEach(function (y) {
+        var n = y.nextElementSibling, any = false;
+        while (n && !n.classList.contains("yr")) { if (!n.hidden) any = true; n = n.nextElementSibling; }
+        y.hidden = !any;
+      });
+      if (empty) empty.hidden = shown !== 0;
+    }
+    chips.forEach(function (c) { c.addEventListener("click", function () {
+      chips.forEach(function (o) { o.classList.remove("active"); o.setAttribute("aria-pressed", "false"); });
+      c.classList.add("active"); c.setAttribute("aria-pressed", "true"); cur = c.getAttribute("data-filter"); apply();
+    }); });
+    if (input) input.addEventListener("input", apply);
+    if (extra) extra.addEventListener("change", apply);
+  }
+  setupFilter("#co-grid", ".co-card", "co-search", "co-filters", "data-cat");
+  setupFilter("#reg-list", ".reg", null, "reg-filters", "data-group", "#reg-topic");
+
   // Table of contents: highlight the current section
   var tocLinks = document.querySelectorAll(".toc a[href^='#']");
   if (tocLinks.length && "IntersectionObserver" in window) {

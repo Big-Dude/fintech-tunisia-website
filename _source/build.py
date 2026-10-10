@@ -10,6 +10,8 @@ from xml.sax.saxutils import escape as xesc
 import markdown
 from covers import cover_svg
 from i18n import *
+import extra as XP
+from i18n_extra import NAV, GOATCOUNTER, X as XX, ABOUT, EDITORIAL, CORRECTIONS
 
 MODE = sys.argv[1] if len(sys.argv) > 1 else "live"
 OUT = sys.argv[2] if len(sys.argv) > 2 else "dist"
@@ -18,6 +20,7 @@ BUILD_DATE = "2026-10-10"
 LANGS = ["en", "fr"]
 E = html.escape
 AC = ' aria-current="page"'
+GC = f'<script data-goatcounter="https://{GOATCOUNTER}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
 NBSP = "\u00a0"
 
 # ---------------------------------------------------------------- content
@@ -60,6 +63,8 @@ def path_of(lang, kind, key=None):
         "home": f"{pre}index.html", "blog": f"{pre}blog/index.html",
         "cat": f"{pre}blog/category/{key}.html", "post": f"{pre}blog/{key}.html",
         "programs": f"{pre}programs.html", "contact": f"{pre}contact.html", "feed": f"{pre}feed.xml",
+        "about": f"{pre}about.html", "editorial": f"{pre}editorial-policy.html", "corrections": f"{pre}corrections.html",
+        "directory": f"{pre}directory/index.html", "company": f"{pre}directory/{key}.html", "tracker": f"{pre}regulation-tracker.html",
     }[kind]
 
 
@@ -200,6 +205,7 @@ def head(page, L, title, desc, canonical_path, alt_paths, og_image, og_type="web
 <link rel="stylesheet" href="{page.rel('assets/site.css')}">
 <meta name="theme-color" content="#e31e24">
 {lds}
+{GC if MODE == "live" else ""}
 </head>
 <body>
 <a class="skip" href="#main">{'Skip to content' if L=='en' else 'Aller au contenu'}</a>"""
@@ -207,10 +213,9 @@ def head(page, L, title, desc, canonical_path, alt_paths, og_image, og_type="web
 
 def header(page, L, active, alt_path):
     t = T[L]
-    links = [("articles", path_of(L, "blog")), ("regulation", path_of(L, "cat", "regulation")),
-             ("payments", path_of(L, "cat", "payments")), ("africa", path_of(L, "cat", "africa")),
-             ("programs", path_of(L, "programs")), ("contact", path_of(L, "contact"))]
-    lab = lambda k: t.get(k) or CAT[L][k]
+    links = [("articles", path_of(L, "blog")), ("directory", path_of(L, "directory")), ("tracker", path_of(L, "tracker")),
+             ("programs", path_of(L, "programs")), ("about", path_of(L, "about")), ("contact", path_of(L, "contact"))]
+    lab = lambda k: NAV[L].get(k) or t.get(k) or CAT[L][k]
     nav = "".join(f'<a href="{page.rel(p)}"{AC if k==active else ""}>{E(lab(k))}</a>' for k, p in links)
     other = "fr" if L == "en" else "en"
     return f"""
@@ -259,6 +264,7 @@ def footer(page, L):
         <div class="wordmark">Fin<span>Tech</span> Tunisia</div>
         <p>{t['tagline']}</p>
         <p class="foot-contact">{CONTACT[L]['address_v']}<br><a href="mailto:{EMAIL}">{EMAIL}</a></p>
+        <p class="foot-langs"><a href="{page.rel(path_of('en','home'))}" hreflang="en" lang="en">English</a> · <a href="{page.rel(path_of('fr','home'))}" hreflang="fr" lang="fr">Français</a></p>
         <div class="social">
           <a href="{LINKEDIN}" target="_blank" rel="noopener" aria-label="LinkedIn">{ICON['linkedin']}</a>
           <a href="{FACEBOOK}" target="_blank" rel="noopener" aria-label="Facebook">{ICON['facebook']}</a>
@@ -267,14 +273,18 @@ def footer(page, L):
       <div class="foot-col"><h3>{t['topics']}</h3>{cats}</div>
       <div class="foot-col"><h3>{t['explore']}</h3>
         <a href="{page.rel(path_of(L,'blog'))}">{t['all_articles']}</a>
+        <a href="{page.rel(path_of(L,'directory'))}">{XX[L]['tool_dir']}</a>
+        <a href="{page.rel(path_of(L,'tracker'))}">{XX[L]['tool_reg']}</a>
         <a href="{page.rel(path_of(L,'programs'))}">{t['programs']}</a>
-        <a href="{page.rel(path_of(L,'contact'))}">{t['contact']}</a>
         <a href="{page.rel(path_of(L,'feed'))}">RSS</a>
       </div>
-      <div class="foot-col"><h3>{t['language']}</h3>
-        <a href="{page.rel(path_of('en','home'))}" hreflang="en" lang="en">English</a>
-        <a href="{page.rel(path_of('fr','home'))}" hreflang="fr" lang="fr">Français</a>
+      <div class="foot-col"><h3>{t['about']}</h3>
+        <a href="{page.rel(path_of(L,'about'))}">{ABOUT[L]['h1']}</a>
+        <a href="{page.rel(path_of(L,'editorial'))}">{EDITORIAL[L]['h1']}</a>
+        <a href="{page.rel(path_of(L,'corrections'))}">{CORRECTIONS[L]['h1']}</a>
+        <a href="{page.rel(path_of(L,'contact'))}">{t['contact']}</a>
       </div>
+
     </div>
     <div class="foot-bottom"><span>&copy; 2026 {SITE_NAME}. {t['rights']}</span><span>{t['footer_note']}</span></div>
   </div>
@@ -396,7 +406,7 @@ def build_post(p, L):
              "".join(f'<meta property="article:tag" content="{E(x)}">' for x in a.get("tags", [])) +
              f'<link rel="preload" as="image" href="{page.rel(cover_rel(slug))}">')
     h = head(page, L, f"{title} | {SITE_NAME}", desc, path, alt, og_rel(slug, L), "article", extra, lds)
-    h += header(page, L, p["category"] if p["category"] in ("regulation", "payments", "africa") else "articles", alt["fr" if L == "en" else "en"])
+    h += header(page, L, "articles", alt["fr" if L == "en" else "en"])
     take = "".join(f"<li>{E(x)}</li>" for x in a.get("key_takeaways", []))
     tocs = "".join(f'<li><a href="#{i}">{E(n)}</a></li>' for i, n in toc)
     faqs = "".join(f'<details class="faq-item"><summary>{E(f["q"])}</summary><p>{E(f["a"])}</p></details>' for f in faq)
@@ -435,6 +445,7 @@ def build_post(p, L):
       {f'<section class="takeaways"><h2>{t["key_takeaways"]}</h2><ul>{take}</ul></section>' if take else ''}
       {stat_cards(p, L)}
       <div class="prose">{body}</div>
+      {XP.mentioned_box(sys.modules[__name__], page, L, slug)}
       {f'<section class="faq" id="faq"><h2>{t["faq"]}</h2>{faqs}</section>' if faqs else ''}
       <section class="sources" id="sources"><h2>{t['sources']}</h2><ol>{srcs}</ol></section>
       <p class="disclaimer">{t['disclaimer']}</p>
@@ -492,7 +503,7 @@ def build_cat(L, c):
             "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": absu(path_of(L, "post", p["slug"]))} for i, p in enumerate(items)]}},
            crumbs_ld([(t["home"], path_of(L, "home")), (t["breadcrumb_blog"], path_of(L, "blog")), (name, path)])]
     h = head(page, L, f"{title} | {SITE_NAME}", desc, path, alt, og_rel(items[0]["slug"], L), ld=lds)
-    h += header(page, L, c if c in ("regulation", "payments", "africa") else "articles", alt["fr" if L == "en" else "en"])
+    h += header(page, L, "articles", alt["fr" if L == "en" else "en"])
     chips = f'<a class="chip" href="{page.rel(path_of(L,"blog"))}">{t["all_articles"]} <b>{len(posts)}</b></a>' + "".join(
         f'<a class="chip{" active" if k==c else ""}" href="{page.rel(path_of(L,"cat",k))}"{AC if k==c else ""}>{CAT[L][k]} <b>{sum(1 for p in posts if p["category"]==k)}</b></a>' for k in CATS)
     grid = "".join(card(page, L, p) for p in items)
@@ -546,8 +557,9 @@ def build_home(L):
   </div>
 </div></section>
 <section class="home-stats"><div class="wrap"><h2 class="sec-label">{c['numbers_title']}</h2><div class="hstats">{stats}</div></div></section>
-<section class="sec"><div class="wrap"><div class="sec-head"><h2>{t['latest']}</h2><a class="more" href="{page.rel(path_of(L,'blog'))}">{t['see_all']} {ICON['arrow']}</a></div><div class="grid grid-3">{latest}</div></div></section>
-<section class="sec sec-alt"><div class="wrap"><div class="sec-head"><h2>{t['browse_topics']}</h2></div><div class="tiles">{tiles}</div></div></section>
+{XP.tools_section(sys.modules[__name__], page, L)}
+<section class="sec sec-alt"><div class="wrap"><div class="sec-head"><h2>{t['latest']}</h2><a class="more" href="{page.rel(path_of(L,'blog'))}">{t['see_all']} {ICON['arrow']}</a></div><div class="grid grid-3">{latest}</div></div></section>
+<section class="sec"><div class="wrap"><div class="sec-head"><h2>{t['browse_topics']}</h2></div><div class="tiles">{tiles}</div></div></section>
 <section class="sec"><div class="wrap start-grid"><div><h2>{t['start_here']}</h2><p class="lead">{t['start_here_sub']}</p></div><ol class="start-list">{start}</ol></div></section>
 <section class="sec sec-dark"><div class="wrap"><div class="sec-head"><div><h2>{t['africa_title']}</h2><p>{t['africa_sub']}</p></div><a class="more" href="{page.rel(path_of(L,'cat','africa'))}">{CAT[L]['africa']} {ICON['arrow']}</a></div><div class="grid grid-3">{afr}</div></div></section>
 <section class="sec"><div class="wrap prog-teaser">
@@ -657,6 +669,9 @@ def build_sitemap():
     add("home", prio="1.0"); add("blog", prio="0.9")
     for c in CATS: add("cat", c, prio="0.7")
     add("programs", prio="0.6"); add("contact", prio="0.4")
+    add("about", prio="0.5"); add("editorial", prio="0.4"); add("corrections", prio="0.3")
+    add("directory", prio="0.9"); add("tracker", lastmod=XP.TRACKER["updated"], prio="0.9")
+    for c in XP.companies: add("company", c["slug"], c.get("last_verified", BUILD_DATE), "0.7")
     for p in posts: add("post", p["slug"], p["modified"], "0.8", p["slug"])
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n' + "\n".join(urls) + "\n</urlset>\n")
     write("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n")
@@ -696,6 +711,7 @@ def main():
         build_home(L); build_blog(L); build_programs(L); build_contact(L); build_feed(L)
         for c in CATS: build_cat(L, c)
         for p in posts: build_post(p, L)
+    XP.build_all(sys.modules[__name__])
     build_404(); build_sitemap()
     # old URLs -> new
     redirect("news.html", path_of("en", "blog"))

@@ -1,0 +1,81 @@
+{
+  "slug": "vermeg",
+  "name": "VERMEG",
+  "also_known_as": [
+    "Vermeg Group"
+  ],
+  "category": "banking-tech",
+  "website": "https://www.vermeg.com",
+  "founded": 2002,
+  "hq": null,
+  "status": "active",
+  "status_note": "Founded in Tunisia; now an international group with offices in Europe and elsewhere and a major development hub in Tunisia.",
+  "licences": [],
+  "funding": [
+    {
+      "date": "2018-03",
+      "round": "Debt (EBRD loan)",
+      "amount": "€25M",
+      "investors": [
+        "EBRD"
+      ],
+      "source_url": "https://www.ebrd.com/home/news-and-events/news/2018/ebrd-supports-expansion-of-software-developer-vermeg.html"
+    }
+  ],
+  "people": [
+    {
+      "name": "Badreddine Ouali",
+      "role": "Founder & Chairman",
+      "source_url": "https://www.lapresse.tn/2026/06/30/vermeg-recoit-linternational-excellence-award-2026-lors-du-tunisia-investment-forum/"
+    }
+  ],
+  "en": {
+    "tagline": "Tunisian-born software for banks, central banks, capital markets and insurers",
+    "description": "VERMEG is a financial software company born in Tunisia that builds critical systems for banks, central banks, market infrastructure providers and insurance companies. It was spun off in 2002 from BFI, the Tunisian banking software firm, and is chaired by its founder Badreddine Ouali. Its product range covers areas such as collateral management, regulatory reporting, securities and asset servicing, and life insurance and wealth management platforms. In 2018 the EBRD lent it €25 million to help finance the acquisition of London-based Lombard Risk, a regulatory reporting and risk software provider; the EBRD then described Vermeg as employing more than 700 people with annual revenue of €54 million. According to La Presse, VERMEG is present in more than 40 countries, serves more than 160 financial institutions including 24 central banks, and keeps a major development, research and expertise hub in Tunisia, with more than 30% of its teams working in R&D. In June 2026 it received the International Excellence Award at the Tunisia Investment Forum organised by FIPA. VERMEG is a B2B software vendor and does not provide financial services to the public.",
+    "products": [
+      "Collateral management software",
+      "Regulatory and risk reporting",
+      "Securities and asset servicing platforms",
+      "Insurance and wealth management software"
+    ]
+  },
+  "fr": {
+    "tagline": "Éditeur né en Tunisie de logiciels pour banques, banques centrales, marchés et assureurs",
+    "description": "VERMEG est un éditeur de logiciels financiers né en Tunisie, qui conçoit des systèmes critiques pour les banques, les banques centrales, les infrastructures de marché et les compagnies d'assurance. L'entreprise est issue en 2002 d'une scission de BFI, éditeur tunisien de logiciels bancaires, et est présidée par son fondateur Badreddine Ouali. Son offre couvre notamment la gestion des collatéraux, le reporting réglementaire, le traitement des titres et des actifs, ainsi que des plateformes pour l'assurance vie et la gestion de patrimoine. En 2018, la BERD lui a prêté 25 millions d'euros pour financer en partie le rachat du londonien Lombard Risk, spécialiste du reporting réglementaire et du risque ; la BERD indiquait alors que Vermeg employait plus de 700 personnes pour un chiffre d'affaires annuel de 54 millions d'euros. Selon La Presse, VERMEG est présent dans plus de 40 pays, sert plus de 160 institutions financières dont 24 banques centrales, et conserve en Tunisie un important pôle de développement, de recherche et d'expertise, plus de 30 % de ses équipes travaillant en R&D. En juin 2026, il a reçu l'International Excellence Award lors du Tunisia Investment Forum organisé par la FIPA. VERMEG est un éditeur B2B et ne fournit pas de services financiers au public.",
+    "products": [
+      "Gestion des collatéraux",
+      "Reporting réglementaire et risques",
+      "Plateformes titres et services aux actifs",
+      "Logiciels d'assurance et de gestion de patrimoine"
+    ]
+  },
+  "related_articles": [],
+  "sources": [
+    {
+      "title": "VERMEG reçoit l'International Excellence Award 2026 lors du Tunisia Investment Forum",
+      "publisher": "La Presse",
+      "url": "https://www.lapresse.tn/2026/06/30/vermeg-recoit-linternational-excellence-award-2026-lors-du-tunisia-investment-forum/"
+    },
+    {
+      "title": "EBRD supports expansion of software developer Vermeg",
+      "publisher": "EBRD",
+      "url": "https://www.ebrd.com/home/news-and-events/news/2018/ebrd-supports-expansion-of-software-developer-vermeg.html"
+    },
+    {
+      "title": "Vermeg",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vermeg"
+    },
+    {
+      "title": "Surviving the Ben Ali regime: the success story of Vermeg",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/index.php/2016/08/surviving-ben-ali-regime-success-story-vermeg"
+    },
+    {
+      "title": "De BFI à Vermeg, une success story internationale, par des compétences tunisiennes",
+      "publisher": "African Manager",
+      "url": "https://africanmanager.com/17_de-bfi-a-vermeg-une-success-story-internationale-par-des-competences-tunisiennes/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

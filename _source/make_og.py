@@ -16,5 +16,13 @@ with sync_playwright() as pw:
             svg = cover_svg(p["slug"], p["category"], p.get("cover_motif"), title=p[L]["title"], label=CAT[L][p["category"]], variant=p["variant"])
             pg.set_content(f'<html><body style="margin:0">{svg}</body></html>')
             pg.screenshot(path=out, type="jpeg", quality=86, clip={"x": 0, "y": 0, "width": 1200, "height": 630})
+    from i18n_extra import X
+    for slug, cat, motif in [("directory", "startups", "network-nodes"), ("regulation-tracker", "regulation", "scales-law")]:
+        for L in ("en", "fr"):
+            title = X[L]["dir_h1"] if slug == "directory" else X[L]["reg_h1"]
+            lab = "fintechtunisia.com"
+            svg = cover_svg(slug, cat, motif, title=title, label=X[L]["tool_dir"] if slug == "directory" else X[L]["tool_reg"])
+            pg.set_content(f'<html><body style="margin:0">{svg}</body></html>')
+            pg.screenshot(path=os.path.join(OUT, slug + ("" if L == "en" else "-fr") + ".jpg"), type="jpeg", quality=86, clip={"x": 0, "y": 0, "width": 1200, "height": 630})
     b.close()
 print(len(os.listdir(OUT)), "images")

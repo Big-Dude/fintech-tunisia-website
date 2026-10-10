@@ -1,0 +1,56 @@
+{
+  "slug": "bfi",
+  "name": "BFI",
+  "also_known_as": [
+    "BFI International",
+    "BFI Groupe"
+  ],
+  "category": "banking-tech",
+  "website": null,
+  "founded": null,
+  "hq": "Tunis",
+  "status": "unclear",
+  "status_note": "Most recent coverage we found dates from 2019–2020 (BEAC contract); no more recent public news located.",
+  "licences": [],
+  "funding": [],
+  "people": [],
+  "en": {
+    "tagline": "Tunisian publisher of core banking, clearing and central-bank software",
+    "description": "BFI is a Tunisian publisher and integrator of software for banks and central banks. It is best known for its Global Banking Carthago core banking system, which is modular and extended with business modules according to each client's needs; state-owned STB is a reference client. In a 2019 interview with Webmanagercenter, the company said it began its Tunisian work in 1994 with the modernisation of the Tunis stock exchange, equipped the trading rooms and securities operations of Tunisian banks, and won the national interbank clearing (télécompensation) contract of the Central Bank of Tunisia in 1999. It also said it was present in 13 or 14 African countries and held about 80% of the regional electronic clearing market; these figures are the company's own. In December 2020 Ecomatin reported that BFI International had won a World Bank-funded tender from the Bank of Central African States (BEAC) to supply the CEMAC zone's central credit risk register, worth about €815,000, after earlier BEAC contracts on payment incidents and banking supervision. Financial software group VERMEG was spun off from BFI in 2002. We found no recent public news on BFI, so its current status is listed as unclear.",
+    "products": [
+      "Global Banking Carthago core banking system",
+      "Interbank clearing systems",
+      "Securities and trading-room software",
+      "Central bank risk and incident registers"
+    ]
+  },
+  "fr": {
+    "tagline": "Éditeur tunisien de core banking, télécompensation et logiciels pour banques centrales",
+    "description": "BFI est un éditeur et intégrateur tunisien de logiciels pour les banques et les banques centrales. Il est surtout connu pour son système de core banking Global Banking Carthago, modulaire et complété de modules métiers selon les besoins de chaque client ; la STB en est une référence. Dans un entretien accordé à Webmanagercenter en 2019, l'entreprise indiquait avoir commencé ses activités en Tunisie en 1994 avec la modernisation de la Bourse de Tunis, avoir équipé les salles des marchés et les activités titres des banques tunisiennes, et avoir remporté en 1999 le marché de la télécompensation de la Banque centrale de Tunisie. Elle revendiquait aussi une présence dans 13 ou 14 pays africains et environ 80 % du marché régional de la télécompensation ; ces chiffres sont ceux de l'entreprise. En décembre 2020, Ecomatin rapportait que BFI International avait remporté un appel d'offres de la Banque des États de l'Afrique centrale (BEAC), financé par la Banque mondiale, pour la centrale des risques bancaires de la zone CEMAC, pour environ 815 000 euros, après d'autres contrats avec la BEAC sur les incidents de paiement et la supervision bancaire. Le groupe VERMEG est issu d'une scission de BFI en 2002. Faute d'actualité publique récente, son statut est indiqué comme incertain.",
+    "products": [
+      "Core banking Global Banking Carthago",
+      "Systèmes de télécompensation interbancaire",
+      "Logiciels titres et salles des marchés",
+      "Centrales des risques et des incidents pour banques centrales"
+    ]
+  },
+  "related_articles": [],
+  "sources": [
+    {
+      "title": "Habib Ben Hariz : « La modularité constitue la force de notre système » (2/2)",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2019/07/03/436465/habib-ben-hariz-la-modularite-constitue-la-force-de-notre-systeme-22/"
+    },
+    {
+      "title": "BFI S.A. est le nouveau gestionnaire de la centrale des risques bancaires en zone CEMAC",
+      "publisher": "Ecomatin",
+      "url": "https://ecomatin.net/bfi-s-a-est-le-nouveau-gestionnaire-de-la-centrale-des-risques-bancaires-en-zone-cemac/"
+    },
+    {
+      "title": "De BFI à Vermeg, une success story internationale, par des compétences tunisiennes",
+      "publisher": "African Manager",
+      "url": "https://africanmanager.com/17_de-bfi-a-vermeg-une-success-story-internationale-par-des-competences-tunisiennes/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

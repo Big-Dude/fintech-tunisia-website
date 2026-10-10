@@ -1,0 +1,78 @@
+{
+  "slug": "walletii-ooredoo",
+  "name": "walletii by Ooredoo (OFT Tunisie)",
+  "also_known_as": [
+    "OFT Tunisie",
+    "Ooredoo Fintech Tunisie",
+    "walletii"
+  ],
+  "category": "wallet",
+  "website": "https://www.walletii.tn",
+  "founded": null,
+  "hq": "Tunis",
+  "status": "active",
+  "status_note": "OFT Tunisie received a provisional BCT authorisation in December 2024 and a definitive payment institution licence published in the Official Journal in March 2026; walletii launched commercially in August 2026.",
+  "licences": [
+    {
+      "type": "bct-payment-institution",
+      "label_en": "Licensed resident payment institution (BCT)",
+      "label_fr": "Établissement de paiement résident agréé (BCT)",
+      "date": "2026-03",
+      "source_url": "https://www.webmanagercenter.com/2026/03/16/563259/paiement-electronique-en-tunisie-oft-tunisie-filiale-dooredoo-fintech-officiellement-agreee-par-la-bct/"
+    }
+  ],
+  "funding": [],
+  "people": [],
+  "en": {
+    "tagline": "Ooredoo's mobile wallet, issued by its BCT-licensed payment institution OFT Tunisie",
+    "description": "walletii by Ooredoo is a mobile wallet operated in Tunisia by OFT Tunisie (Ooredoo Fintech Tunisie), a subsidiary of Ooredoo Fintech International, which is wholly owned by the Ooredoo group. OFT Tunisie received a provisional authorisation from the Central Bank of Tunisia (BCT) in December 2024. Its definitive licence as a resident payment institution was published in the Official Journal on 14 March 2026, giving it six months to start operating; Webmanagercenter reported that this brought the number of licensed payment service providers in Tunisia to 16. The official commercial launch of walletii was announced in late August 2026, in partnership with Ooredoo Tunisie. According to the launch announcement, the wallet supports domestic bill payments, sending and receiving money, deposits and withdrawals through approved walletii agents across the country, and QR code payments for everyday purchases. A launch promotion offered full cashback on school fee payments made through the wallet. walletii competes with other telecom-linked wallets such as Tunisie Telecom's Kashy and with bank and postal wallets. Like other payment institutions, OFT Tunisie operates in dinars and inside Tunisia only, under BCT rules including Circular 2026-10.",
+    "products": [
+      "walletii mobile wallet",
+      "Bill payments and P2P transfers",
+      "Cash-in/cash-out via walletii agents",
+      "QR code merchant payments"
+    ]
+  },
+  "fr": {
+    "tagline": "Le wallet mobile d'Ooredoo, émis par son établissement de paiement agréé OFT Tunisie",
+    "description": "walletii by Ooredoo est un wallet mobile exploité en Tunisie par OFT Tunisie (Ooredoo Fintech Tunisie), filiale d'Ooredoo Fintech International, elle-même détenue à 100 % par le groupe Ooredoo. OFT Tunisie a obtenu une autorisation provisoire de la Banque centrale de Tunisie (BCT) en décembre 2024. Son agrément définitif d'établissement de paiement résident a été publié au Journal officiel le 14 mars 2026, avec un délai de six mois pour démarrer l'activité ; selon Webmanagercenter, cela portait à 16 le nombre de prestataires de services de paiement agréés en Tunisie. Le lancement commercial officiel de walletii a été annoncé fin août 2026, en partenariat avec Ooredoo Tunisie. Selon l'annonce, le wallet permet de payer les factures, d'envoyer et de recevoir de l'argent, de déposer et retirer des espèces auprès d'agents walletii agréés dans tout le pays, et de payer les achats du quotidien par QR code. Une offre de lancement remboursait intégralement les frais de scolarité payés via le wallet. walletii est en concurrence avec d'autres wallets adossés à des opérateurs, comme Kashy de Tunisie Telecom, ainsi qu'avec les wallets bancaires et postaux. Comme tout établissement de paiement, OFT Tunisie opère uniquement en dinars et en Tunisie, sous les règles de la BCT, dont la circulaire 2026-10.",
+    "products": [
+      "Wallet mobile walletii",
+      "Paiement de factures et transferts P2P",
+      "Cash-in/cash-out via les agents walletii",
+      "Paiement marchand par QR code"
+    ]
+  },
+  "related_articles": [
+    "payment-institutions-tunisia",
+    "mobile-payments-tunisia",
+    "tunisia-fintech-ecosystem-map",
+    "digital-banking-tunisia",
+    "neobanks-tunisia",
+    "tunisia-morocco-egypt-fintech-comparison",
+    "konnect-networks-profile"
+  ],
+  "sources": [
+    {
+      "title": "Paiement électronique en Tunisie : OFT Tunisie, filiale d'Ooredoo FinTech, officiellement agréée par la BCT",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2026/03/16/563259/paiement-electronique-en-tunisie-oft-tunisie-filiale-dooredoo-fintech-officiellement-agreee-par-la-bct/"
+    },
+    {
+      "title": "OFT Tunisie obtient l'agrément définitif de la BCT en tant qu'établissement de paiement",
+      "publisher": "African Manager",
+      "url": "https://africanmanager.com/oft-tunisie-obtient-lagrement-definitif-de-la-bct-en-tant-quetablissement-de-paiement/"
+    },
+    {
+      "title": "Ooredoo Fintech Tunisie obtient l'agrément de la Banque Centrale pour lancer walletii by Ooredoo",
+      "publisher": "La Presse / AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202602270546.html"
+    },
+    {
+      "title": "Walletii by Ooredoo est désormais disponible en Tunisie",
+      "publisher": "La Presse de Tunisie",
+      "url": "https://www.lapresse.tn/2026/08/28/walletii-by-ooredoo-est-desormais-disponible-en-tunisie-avec-un-cashback-instantane-de-100-sur-le-paiement-des-frais-de-scolarite/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

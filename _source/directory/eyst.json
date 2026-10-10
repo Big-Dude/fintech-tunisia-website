@@ -1,0 +1,84 @@
+{
+  "slug": "eyst",
+  "name": "EYST",
+  "also_known_as": [
+    "EYST Technology"
+  ],
+  "category": "insurtech",
+  "website": null,
+  "founded": 2022,
+  "hq": null,
+  "status": "active",
+  "status_note": null,
+  "licences": [],
+  "funding": [
+    {
+      "date": "2026-05",
+      "round": null,
+      "amount": null,
+      "investors": [
+        "216 Capital"
+      ],
+      "source_url": "https://www.wamda.com/2026/05/tunisian-insurtech-eyst-secures-figure-investment-216-capital"
+    }
+  ],
+  "people": [
+    {
+      "name": "Marwen Amamou",
+      "role": "Co-founder & CTO",
+      "source_url": "https://www.wamda.com/2026/05/tunisian-insurtech-eyst-secures-figure-investment-216-capital"
+    },
+    {
+      "name": "Antoine Vanoverberghe",
+      "role": "Co-founder",
+      "source_url": "https://www.wamda.com/2026/05/tunisian-insurtech-eyst-secures-figure-investment-216-capital"
+    },
+    {
+      "name": "Arnaud Brodzki",
+      "role": "Co-founder",
+      "source_url": "https://www.wamda.com/2026/05/tunisian-insurtech-eyst-secures-figure-investment-216-capital"
+    }
+  ],
+  "en": {
+    "tagline": "Insurance claims paid instantly through virtual bank cards",
+    "description": "EYST (EYST Technology) is a Tunisia-based insurtech founded in 2022. It builds a software-as-a-service platform that lets insurers settle claims by issuing the policyholder a virtual bank card loaded with the reimbursement amount, so the insured person does not have to pay medical or repair costs upfront and wait to be repaid. Insurers can offer the service through their own mobile apps or web interfaces. According to the company, the platform can restrict card use to certain spending categories or beneficiaries, improves the traceability of payouts and analyses transaction data in real time to flag suspicious behaviour. In May 2026 EYST announced a six-figure investment from 216 Capital, an ANAVA-backed Tunisian seed fund; the exact amount was not disclosed. The company said it would use the money to add features such as cashback, deeper integration with insurers' systems and data intelligence, to strengthen its sales and data teams, and to prepare an international expansion towards Europe, the Americas, the Middle East and Asia. EYST has not named its insurer clients publicly, and it is not a licensed insurer or payment institution; card issuing relies on partners it has not disclosed.",
+    "products": [
+      "Virtual cards for instant claims payouts",
+      "Spending controls by category or beneficiary",
+      "Real-time fraud and transaction analytics"
+    ]
+  },
+  "fr": {
+    "tagline": "Indemnisation instantanée des sinistres via des cartes bancaires virtuelles",
+    "description": "EYST (EYST Technology) est une insurtech basée en Tunisie, fondée en 2022. Elle développe une plateforme SaaS qui permet aux assureurs de régler un sinistre en remettant à l'assuré une carte bancaire virtuelle créditée du montant du remboursement : l'assuré n'avance plus ses frais médicaux ou de réparation. Les assureurs peuvent proposer le service dans leurs propres applications mobiles ou interfaces web. Selon l'entreprise, la plateforme peut limiter l'usage de la carte à certaines catégories de dépenses ou à certains bénéficiaires, améliore la traçabilité des paiements et analyse les transactions en temps réel pour repérer les comportements suspects. En mai 2026, EYST a annoncé un investissement à six chiffres de 216 Capital, fonds d'amorçage tunisien soutenu par ANAVA ; le montant exact n'a pas été communiqué. La société prévoit d'ajouter des fonctions comme le cashback, une intégration plus poussée avec les systèmes des assureurs et l'exploitation des données, de renforcer ses équipes commerciales et data, et de préparer une expansion vers l'Europe, les Amériques, le Moyen-Orient et l'Asie. EYST n'a pas nommé publiquement ses assureurs clients. Elle n'est ni assureur ni établissement de paiement agréé ; l'émission des cartes repose sur des partenaires non divulgués.",
+    "products": [
+      "Cartes virtuelles pour l'indemnisation instantanée",
+      "Contrôle des dépenses par catégorie ou bénéficiaire",
+      "Analyse des transactions et détection de fraude en temps réel"
+    ]
+  },
+  "related_articles": [
+    "anava-fund-of-funds",
+    "insurtech-tunisia",
+    "tunisia-startup-funding-trends",
+    "venture-capital-tunisia"
+  ],
+  "sources": [
+    {
+      "title": "Tunisian insurtech EYST secures six-figure investment from 216 Capital",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/2026/05/tunisian-insurtech-eyst-secures-figure-investment-216-capital"
+    },
+    {
+      "title": "Tunisie : l'insurtech EYST lève des fonds pour rembourser les assurés",
+      "publisher": "We Are Tech Africa",
+      "url": "https://www.wearetech.africa/fr/fils/breves/breves-simple/tunisie-linsurtech-eyst-leve-des-fonds-pour-rembourser-les-assures"
+    },
+    {
+      "title": "EYST secures six-figure round",
+      "publisher": "AU Startups",
+      "url": "https://au-startups.com/news/eyst-secures-six-figure-round"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

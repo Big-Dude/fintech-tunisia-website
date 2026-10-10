@@ -1,0 +1,71 @@
+{
+  "slug": "first-pay",
+  "name": "First Pay",
+  "also_known_as": [
+    "FirstPay"
+  ],
+  "category": "payments",
+  "website": null,
+  "founded": null,
+  "hq": "Tunis",
+  "status": "unclear",
+  "status_note": "Licensed in 2024; we found no public information since August 2024 on its products, brand or operational launch.",
+  "licences": [
+    {
+      "type": "bct-payment-institution",
+      "label_en": "Licensed resident payment institution (BCT)",
+      "label_fr": "Établissement de paiement résident agréé (BCT)",
+      "date": "2024-07",
+      "source_url": "https://managers.tn/2024/08/12/first-pay-obtient-lagrement-pour-devenir-un-etablissement-de-paiement-resident-en-tunisie/"
+    }
+  ],
+  "funding": [],
+  "people": [],
+  "en": {
+    "tagline": "Amen Bank's payment institution subsidiary, licensed by the BCT in 2024",
+    "description": "First Pay is a payment institution owned by Amen Bank, one of Tunisia's private banks. It was licensed as a resident payment institution by decision No. 59 of the Central Bank of Tunisia's licensing committee dated 1 July 2024, published in the Official Journal on 9 August 2024, under article 10 of Law No. 2016-48 on banks and financial institutions. The decision gave the company six months from notification to start operating. In its August 2024 announcement, First Pay said it would offer cash deposits and withdrawals, direct debits and fund transfers within Tunisia and from abroad, with the stated aims of widening access to digital financial services and reducing cash use. It said it would operate under its own management while staying aligned with the Amen Bank group. Amen Bank already ran AmenPay, a bank-issued mobile payment app, before First Pay was created. First Pay is one of several payment institutions set up by Tunisian banks, alongside Zitouna Payment. We found no public information on a First Pay app, brand or user numbers after the licence announcement, so its operational status is listed as unclear.",
+    "products": [
+      "Payment accounts (planned)",
+      "Cash deposits and withdrawals",
+      "Domestic transfers and direct debits",
+      "Receipt of transfers from abroad"
+    ]
+  },
+  "fr": {
+    "tagline": "Filiale d'Amen Bank, établissement de paiement agréé par la BCT en 2024",
+    "description": "First Pay est un établissement de paiement détenu par Amen Bank, l'une des banques privées tunisiennes. Il a été agréé comme établissement de paiement résident par la décision n° 59 du comité d'agrément de la Banque centrale de Tunisie du 1er juillet 2024, publiée au Journal officiel le 9 août 2024, en vertu de l'article 10 de la loi n° 2016-48 relative aux banques et aux établissements financiers. La décision lui donnait six mois à compter de sa notification pour démarrer son activité. Dans son annonce d'août 2024, First Pay indiquait vouloir proposer dépôts et retraits d'espèces, prélèvements et transferts de fonds en Tunisie et depuis l'étranger, avec pour objectifs d'élargir l'accès aux services financiers numériques et de réduire l'usage des espèces. L'entreprise précisait disposer de sa propre direction tout en restant alignée sur le groupe Amen Bank. Amen Bank proposait déjà AmenPay, une application de paiement mobile bancaire, avant la création de First Pay. First Pay fait partie des établissements de paiement créés par des banques tunisiennes, comme Zitouna Payment. Nous n'avons trouvé aucune information publique sur une application, une marque ou des chiffres d'utilisateurs après l'annonce de l'agrément ; son statut opérationnel est donc indiqué comme incertain.",
+    "products": [
+      "Comptes de paiement (prévus)",
+      "Dépôts et retraits d'espèces",
+      "Transferts nationaux et prélèvements",
+      "Réception de transferts de l'étranger"
+    ]
+  },
+  "related_articles": [
+    "payment-institutions-tunisia",
+    "tunisia-fintech-ecosystem-map"
+  ],
+  "sources": [
+    {
+      "title": "« First Pay » obtient l'agrément pour devenir un établissement de paiement résident en Tunisie",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2024/08/12/first-pay-obtient-lagrement-pour-devenir-un-etablissement-de-paiement-resident-en-tunisie/"
+    },
+    {
+      "title": "Lancement de « First Pay » : l'innovation au service de l'inclusion financière et de la dynamisation du marché",
+      "publisher": "Tuniscope",
+      "url": "https://www.tuniscope.com/article/388120/business/banque/lancement-first-pay-innovation-service-inclusion-financiere-dynamisation-marche-255611"
+    },
+    {
+      "title": "La société FirstPay agréée établissement de paiement résident",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2024/08/10/la-societe-firstpay-agreee-etablissement-de-paiement-resident/"
+    },
+    {
+      "title": "Amen Bank généralise AmenPay, son application de mobile paiement",
+      "publisher": "Kapitalis",
+      "url": "https://kapitalis.com/tunisie/2019/04/26/amen-bank-generalise-amenpay-son-application-de-mobile-paiement/embed/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

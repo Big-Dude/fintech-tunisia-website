@@ -1,0 +1,51 @@
+{
+  "slug": "insight-plus",
+  "name": "Insight Plus",
+  "also_known_as": [
+    "Exsys"
+  ],
+  "category": "remittance",
+  "website": null,
+  "founded": 2019,
+  "hq": null,
+  "status": "active",
+  "status_note": "Its consumer product for the diaspora was announced for mid-2026; we could not confirm whether it has launched.",
+  "licences": [],
+  "funding": [],
+  "people": [
+    {
+      "name": "Adel Jenni",
+      "role": "Founder",
+      "source_url": "https://managers.tn/2026/01/16/insight-plus-la-fintech-tunisienne-qui-veut-devenir-la-revolut-de-la-diaspora/"
+    }
+  ],
+  "en": {
+    "tagline": "Currency-exchange software for bureaus and banks, building a diaspora money app",
+    "description": "Insight Plus is a Tunisian fintech founded in 2019 that specialises in currency exchange. According to Managers, it started with B2B software: Exsys, a platform where banks, exchange bureaus, importers, exporters and travellers can negotiate foreign-exchange operations, and a management system for exchange bureaus, built after a 2018 Central Bank of Tunisia circular required the roughly 400 bureaus in the country to use an information system. The company says the full solution, including an ERP and a marketplace, took three years to build. In January 2026 its founder, engineer Adel Jenni, presented plans for a cross-border app aimed mainly at Tunisians living in Europe, which Managers described as an ambition to become \"the Revolut of the diaspora\". The planned service would offer quickly opened dinar accounts, transfers, euro-dinar conversion and a virtual trading room, with a commercial launch planned for mid-2026. The company argues that bank and money-transfer channels can cost 5–10% per transfer, against about 2% for payment fintechs; these are its own figures. Insight Plus has a French subsidiary in Nice that raised an undisclosed round. Public sources do not say which licence or partner institution the consumer service will rely on.",
+    "products": [
+      "Exsys FX negotiation platform",
+      "Exchange bureau management software",
+      "Planned cross-border app for the diaspora"
+    ]
+  },
+  "fr": {
+    "tagline": "Logiciels de change pour bureaux et banques, et future application pour la diaspora",
+    "description": "Insight Plus est une fintech tunisienne fondée en 2019, spécialisée dans le change. Selon Managers, elle a commencé par des solutions B2B : Exsys, une plateforme où banques, bureaux de change, importateurs, exportateurs et voyageurs négocient leurs opérations de change, et un système de gestion pour bureaux de change, conçu après une circulaire de la Banque centrale de Tunisie de 2018 imposant un système d'information aux quelque 400 bureaux du pays. L'entreprise indique que la solution complète, avec un ERP et une place de marché, a demandé trois ans de développement. En janvier 2026, son fondateur, l'ingénieur Adel Jenni, a présenté un projet d'application transfrontalière destinée surtout aux Tunisiens d'Europe, que Managers résumait comme l'ambition de devenir « la Revolut de la diaspora ». Le service prévu offrirait l'ouverture rapide de comptes en dinars, des transferts, la conversion euro-dinar et une salle des marchés virtuelle, avec un lancement commercial prévu mi-2026. La société estime que les canaux bancaires et les sociétés de transfert coûtent 5 à 10 % par envoi, contre environ 2 % pour les fintechs de paiement ; ce sont ses propres chiffres. Insight Plus dispose d'une filiale française à Nice, qui a levé un montant non communiqué. Les sources publiques ne précisent pas sur quel agrément ou établissement partenaire reposera le service grand public.",
+    "products": [
+      "Plateforme de négociation de change Exsys",
+      "Logiciel de gestion pour bureaux de change",
+      "Application transfrontalière pour la diaspora (en projet)"
+    ]
+  },
+  "related_articles": [
+    "neobanks-tunisia"
+  ],
+  "sources": [
+    {
+      "title": "Insight Plus, la fintech tunisienne qui veut devenir la Revolut de la diaspora",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/01/16/insight-plus-la-fintech-tunisienne-qui-veut-devenir-la-revolut-de-la-diaspora/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

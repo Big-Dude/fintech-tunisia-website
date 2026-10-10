@@ -1,0 +1,51 @@
+{
+  "slug": "garanty",
+  "name": "Garanty",
+  "also_known_as": [],
+  "category": "insurtech",
+  "website": null,
+  "founded": null,
+  "hq": null,
+  "status": "unclear",
+  "status_note": "The only public coverage we found dates from the June 2022 launch with BH Assurance; we found no website or later news.",
+  "licences": [
+    {
+      "type": "other",
+      "label_en": "Distributes affinity insurance in partnership with BH Assurance (licensed insurer)",
+      "label_fr": "Distribue de l'assurance affinitaire en partenariat avec BH Assurance (assureur agréé)",
+      "date": "2022-06",
+      "source_url": "https://managers.tn/2022/06/02/transformation-digitale-et-open-innovation-le-combo-gagnant-de-bh-assurance"
+    }
+  ],
+  "funding": [],
+  "people": [],
+  "en": {
+    "tagline": "Affinity insurance for smartphones and glasses, launched with BH Assurance",
+    "description": "Garanty is a Tunisian startup that offers affinity insurance for everyday items. In June 2022, insurer BH Assurance announced the official launch of its first affinity insurance products in partnership with Garanty, as part of its open-innovation programme. According to Managers, the initial offer let members insure their smartphones and glasses against screen, lens or frame breakage, with technical interventions and telephone assistance included. The two partners said at the time that cover would be extended within a few months to other everyday items such as multimedia equipment and household appliances. In this model the startup handles the product and the customer relationship while the risk is carried by BH Assurance, a licensed insurer; Garanty itself is not reported to hold an insurance licence. The article said Garanty would benefit from BH Assurance's network and support. We found no public information on Garanty's founders, founding date, funding or current activity since the 2022 launch, so its status is listed as unclear.",
+    "products": [
+      "Smartphone breakage insurance",
+      "Glasses (lens and frame) breakage insurance",
+      "Technical intervention and phone assistance"
+    ]
+  },
+  "fr": {
+    "tagline": "Assurance affinitaire pour smartphones et lunettes, lancée avec BH Assurance",
+    "description": "Garanty est une startup tunisienne qui propose de l'assurance affinitaire pour les objets du quotidien. En juin 2022, BH Assurance a annoncé le lancement officiel de ses premiers produits d'assurance affinitaire en partenariat avec Garanty, dans le cadre de sa démarche d'open innovation. Selon Managers, l'offre initiale permettait aux adhérents d'assurer leurs smartphones et leurs lunettes contre la casse de l'écran, des verres ou de la monture, avec interventions techniques et assistance téléphonique. Les deux partenaires annonçaient alors une extension, dans les mois suivants, à d'autres objets comme le multimédia et l'électroménager. Dans ce modèle, la startup gère le produit et la relation client tandis que le risque est porté par BH Assurance, assureur agréé ; aucune source n'indique que Garanty détient elle-même un agrément d'assurance. L'article précisait que Garanty bénéficierait du réseau et de l'accompagnement de l'assureur. Nous n'avons trouvé aucune information publique sur ses fondateurs, sa date de création, son financement ou son activité depuis 2022 ; son statut est donc indiqué comme incertain.",
+    "products": [
+      "Assurance casse smartphone",
+      "Assurance casse lunettes (verres et monture)",
+      "Intervention technique et assistance téléphonique"
+    ]
+  },
+  "related_articles": [
+    "insurtech-tunisia"
+  ],
+  "sources": [
+    {
+      "title": "Transformation digitale et open innovation, le combo gagnant de BH Assurance",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2022/06/02/transformation-digitale-et-open-innovation-le-combo-gagnant-de-bh-assurance"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

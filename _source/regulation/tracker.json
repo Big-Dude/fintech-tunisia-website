@@ -1,0 +1,924 @@
+{
+ "updated": "2026-10-10",
+ "entries": [
+  {
+   "id": "bct-circular-2026-10",
+   "type": "bct-circular",
+   "reference": "Circular No. 2026-10",
+   "issuer": "BCT",
+   "title_en": "Payment institutions: licensing, governance, remote onboarding, cybersecurity and account caps",
+   "title_fr": "Établissements de paiement : agrément, gouvernance, entrée en relation à distance, cybersécurité et plafonds",
+   "date": "2026-09-25",
+   "in_force": "2026-12 (approx.)",
+   "status": "adopted_not_in_force",
+   "status_note_en": "Published 25 Sept 2026; corrected version posted 28 Sept. Enters into force three months after publication, i.e. late December 2026.",
+   "status_note_fr": "Publiée le 25 sept. 2026 ; version rectifiée le 28 sept. Entre en vigueur trois mois après publication, soit fin décembre 2026.",
+   "summary_en": "Replaces Circular 2018-16 as the operating rulebook for payment institutions. Keeps the three account levels capped at TND 1,500, 5,000 and 20,000, dinar-only and domestic-only activity, and distribution (not issuance) of e-money. Adds a board audit and risk committee, independent control functions, client-fund segregation at a bank, prior BCT approval of partnerships, remote onboarding with liveness checks and two-factor authentication, annual ANCS-certified security audits and immediate incident reporting.",
+   "summary_fr": "Remplace la circulaire 2018-16 comme cadre de fonctionnement des établissements de paiement. Maintient les trois niveaux de comptes plafonnés à 1 500, 5 000 et 20 000 dinars, l'activité en dinars et en Tunisie uniquement, et la distribution (non l'émission) de monnaie électronique. Ajoute un comité d'audit et des risques, le cantonnement des fonds clients, l'accord préalable de la BCT pour les partenariats, l'entrée en relation à distance avec preuve de vie et double authentification, un audit annuel certifié ANCS et la déclaration immédiate des incidents.",
+   "topics": [
+    "payments",
+    "kyc",
+    "cyber",
+    "data"
+   ],
+   "related_articles": [
+    "payment-institutions-tunisia",
+    "ekyc-aml-tunisia",
+    "cybersecurity-financial-sector-tunisia",
+    "neobanks-tunisia",
+    "open-banking-tunisia",
+    "bct-regulatory-sandbox"
+   ],
+   "replaces": "bct-circular-2018-16",
+   "source_url": "https://www.lapresse.tn/2026/09/27/bct-de-nouvelles-regles-pour-les-etablissements-de-paiement/",
+   "source_name": "La Presse de Tunisie"
+  },
+  {
+   "id": "bct-note-2026-202",
+   "type": "bct-circular",
+   "reference": "Circular note No. 2026-202",
+   "issuer": "BCT",
+   "title_en": "School registration fees for 2026-2027 payable only through digital channels",
+   "title_fr": "Frais d'inscription scolaire 2026-2027 payables uniquement par canaux numériques",
+   "date": "2026-07-21",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "Applies to the 2026-2027 school-year registration, as reported by the press; full text not reviewed.",
+   "status_note_fr": "S'applique aux inscriptions de l'année scolaire 2026-2027, selon la presse ; texte intégral non consulté.",
+   "summary_en": "Note addressed to banks, the Office National des Postes and payment institutions stating that school registration fees for 2026-2027 are to be paid exclusively through digital channels: mobile wallets and bank or postal payment cards. It is a state nudge that pushes first-time users, including La Poste customers, towards wallets and cards, and gives payment institutions a mass-market use case.",
+   "summary_fr": "Note adressée aux banques, à l'Office National des Postes et aux établissements de paiement : les frais d'inscription scolaire 2026-2027 doivent être réglés exclusivement par canaux numériques, portefeuilles mobiles et cartes bancaires ou postales. Cette mesure incite de nouveaux utilisateurs, y compris les clients de La Poste, à adopter portefeuilles et cartes, et offre aux établissements de paiement un cas d'usage grand public.",
+   "topics": [
+    "payments",
+    "cash"
+   ],
+   "related_articles": [
+    "mobile-payments-tunisia",
+    "la-poste-tunisienne-e-dinar-d17",
+    "cash-economy-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://www.thd.tn/tunisie-paiement-de-linscription-scolaire-2026-2027-sera-100-digitale-confirme-la-bct/",
+   "source_name": "THD"
+  },
+  {
+   "id": "cga-insurance-strategy-2026-2030",
+   "type": "strategy",
+   "reference": "Insurance sector strategy 2026-2030",
+   "issuer": "CGA",
+   "title_en": "Insurance sector strategy 2026-2030, including an Insurance Code revision",
+   "title_fr": "Stratégie du secteur des assurances 2026-2030, dont la révision du Code des assurances",
+   "date": "2026-07",
+   "in_force": null,
+   "status": "announced",
+   "status_note_en": "Presented by the CGA in July 2026. The Insurance Code revision it plans had not been tabled as of October 2026, as far as we found.",
+   "status_note_fr": "Présentée par le CGA en juillet 2026. La révision du Code des assurances prévue n'avait pas été déposée en octobre 2026, à notre connaissance.",
+   "summary_en": "Roadmap from the insurance supervisor (Comité général des assurances) for 2026-2030. It plans to revise the Insurance Code, strengthen life insurance and complementary pension products, widen the list of entities allowed to distribute insurance to include the stock exchange and financial institutions, create a natural-disaster insurance regime and pursue digital transformation. Wider distribution rules could open channels for insurtechs and embedded insurance.",
+   "summary_fr": "Feuille de route du Comité général des assurances pour 2026-2030. Elle prévoit de réviser le Code des assurances, de renforcer l'assurance vie et la retraite complémentaire, d'élargir la liste des distributeurs autorisés à la Bourse et aux établissements financiers, de créer un régime d'assurance des catastrophes naturelles et de poursuivre la transformation numérique. L'élargissement de la distribution pourrait ouvrir des canaux aux insurtechs et à l'assurance intégrée.",
+   "topics": [
+    "insurance"
+   ],
+   "related_articles": [
+    "insurtech-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://fr.allafrica.com/stories/202607100351.html",
+   "source_name": "La Presse via allAfrica",
+   "reference_fr": "Stratégie du secteur des assurances 2026-2030"
+  },
+  {
+   "id": "bct-note-2026-132-tunpay",
+   "type": "bct-circular",
+   "reference": "Note No. 2026-132",
+   "issuer": "BCT",
+   "title_en": "TUNPAY: single national label for mobile payment",
+   "title_fr": "TUNPAY : label national unique du paiement mobile",
+   "date": "2026-05-05",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "Issued 5 May 2026. A branding and trust standard, not a technical interoperability rule; SMT access terms for independent fintechs remain to be clarified.",
+   "status_note_fr": "Émise le 5 mai 2026. Norme de marque et de confiance, pas une règle technique d'interopérabilité ; les conditions d'accès à la SMT pour les fintechs indépendantes restent à préciser.",
+   "summary_en": "Creates TUNPAY, a common label for mobile payment designed with the Société Monétique Tunisie, which runs the national mobile switch. Wallet issuers (banks, La Poste and payment institutions) are asked to display it in their apps, and merchants and agents at points of acceptance. It does not set fees. Its practical impact for fintechs depends on how access to the SMT switch is organised.",
+   "summary_fr": "Crée TUNPAY, label commun du paiement mobile conçu avec la Société Monétique Tunisie, qui gère le switch mobile national. Les émetteurs de portefeuilles (banques, La Poste, établissements de paiement) sont invités à l'afficher dans leurs applications, et les commerçants et agents aux points d'acceptation. Il ne fixe pas les commissions. Son effet pour les fintechs dépendra des conditions d'accès au switch de la SMT.",
+   "topics": [
+    "payments"
+   ],
+   "related_articles": [
+    "mobile-payments-tunisia",
+    "instant-payments-tunisia",
+    "open-banking-tunisia",
+    "la-poste-tunisienne-e-dinar-d17"
+   ],
+   "replaces": null,
+   "source_url": "https://businessnews.com.tn/2026/05/06/la-bct-lance-le-label-unifie-tunpay-pour-le-paiement-mobile/1400181/",
+   "source_name": "Business News"
+  },
+  {
+   "id": "startup-act-2-0",
+   "type": "bill",
+   "reference": "Startup Act 2.0 (draft law)",
+   "issuer": "Government",
+   "title_en": "Startup Act 2.0: planned revision of the startup framework, focused on access to finance",
+   "title_fr": "Startup Act 2.0 : révision prévue du cadre des startups, axée sur l'accès au financement",
+   "date": "2026-04-17",
+   "in_force": null,
+   "status": "announced",
+   "status_note_en": "Announced by the Minister of Communication Technologies on 17 April 2026 as a bill in preparation with several ministries. No draft or timetable published as of October 2026.",
+   "status_note_fr": "Annoncé par le ministre des Technologies de la communication le 17 avril 2026 comme projet de loi en préparation avec plusieurs ministères. Aucun texte ni calendrier publié en octobre 2026.",
+   "summary_en": "Minister Sofiene Hemissi said his ministry is preparing a new law, the Startup Act 2.0, to build on Law 2018-20 and update the legal framework for the digital ecosystem, with access to finance as the main focus. Founders have raised complex procedures, poor coordination between agencies and capital requirements ill-suited to fintechs. Until a text is published, the 2018 law continues to apply.",
+   "summary_fr": "Le ministre Sofiene Hemissi a indiqué que son département prépare une nouvelle loi, le Startup Act 2.0, pour prolonger la loi 2018-20 et actualiser le cadre de l'écosystème numérique, avec l'accès au financement comme axe principal. Les fondateurs pointent la complexité des procédures, la mauvaise coordination administrative et des exigences de capital inadaptées aux fintechs. En attendant un texte, la loi de 2018 reste applicable.",
+   "topics": [
+    "startups"
+   ],
+   "related_articles": [
+    "startup-act-tunisia-explained",
+    "how-to-raise-funding-tunisian-fintech"
+   ],
+   "replaces": null,
+   "source_url": "https://fr.allafrica.com/stories/202604180001.html",
+   "source_name": "La Presse via allAfrica",
+   "reference_fr": "Startup Act 2.0 (projet de loi)"
+  },
+  {
+   "id": "finance-law-2026",
+   "type": "law",
+   "reference": "Law No. 2025-17 (Finance Law 2026)",
+   "issuer": "Parliament",
+   "title_en": "2026 Finance Law: resident foreign-currency accounts and repeal of the TND 5,000 cash rule",
+   "title_fr": "Loi de finances 2026 : comptes en devises des résidents et abrogation de la règle des 5 000 dinars en espèces",
+   "date": "2025-12-12",
+   "in_force": "2026-01-01",
+   "status": "in_force",
+   "status_note_en": "In force since 1 January 2026. Mid-2026 reports said the BCT implementing circulars for resident FX accounts had not yet been issued; we could not confirm whether they have since.",
+   "status_note_fr": "En vigueur depuis le 1er janvier 2026. À la mi-2026, les circulaires d'application de la BCT pour les comptes en devises n'étaient pas publiées ; nous n'avons pas pu confirmer leur parution depuis.",
+   "summary_en": "An amendment adopted on 2 December 2025 (69 votes to 17) lets residents open foreign-currency or convertible-dinar accounts at authorised banks without prior BCT approval; accounts cannot be overdrawn. Article 54 repeals, from 1 January 2026, the 2019 rule that penalised cash settlement above TND 5,000 for sales of property, businesses and vehicles. Practical use of the FX accounts depends on BCT implementing rules.",
+   "summary_fr": "Un amendement adopté le 2 décembre 2025 (69 voix contre 17) permet aux résidents d'ouvrir des comptes en devises ou en dinars convertibles auprès des banques sans autorisation préalable de la BCT ; ces comptes ne peuvent être débiteurs. L'article 54 abroge, dès le 1er janvier 2026, la règle de 2019 qui sanctionnait les paiements en espèces de plus de 5 000 dinars pour les ventes d'immeubles, de fonds de commerce et de véhicules. L'usage effectif des comptes dépend des textes d'application de la BCT.",
+   "topics": [
+    "fx",
+    "cash"
+   ],
+   "related_articles": [
+    "tunisia-foreign-exchange-code-reform",
+    "cash-economy-tunisia",
+    "tunisia-zero-equity-deals-h1-2026",
+    "diaspora-remittances-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://managers.tn/2025/12/13/cest-officiel-la-loi-de-finances-2026-a-ete-publiee-au-jort/",
+   "source_name": "Managers",
+   "reference_fr": "Loi n° 2025-17 (loi de finances 2026)"
+  },
+  {
+   "id": "fx-code-bill-2025",
+   "type": "bill",
+   "reference": "Proposed law on the Foreign Exchange Code (91 articles)",
+   "issuer": "Parliament",
+   "title_en": "New Foreign Exchange Code bill (MPs' proposal)",
+   "title_fr": "Proposition de loi portant nouveau Code des changes",
+   "date": "2025-10-21",
+   "in_force": null,
+   "status": "in_parliament",
+   "status_note_en": "In the Finance Committee. Vote postponed pending BCT input; in July 2026 the Finance Ministry proposed delaying to early 2027 and the committee planned to resume in October 2026. No committee or plenary vote found as of 10 Oct 2026.",
+   "status_note_fr": "En commission des finances. Vote reporté dans l'attente de l'avis de la BCT ; en juillet 2026, le ministère des Finances a proposé un report à début 2027 et la commission prévoyait de reprendre l'examen en octobre 2026. Aucun vote trouvé au 10 oct. 2026.",
+   "summary_en": "Filed by MP Maher Ktari with about 45 co-sponsors to replace the 1976 FX law. It redefines residence, allows resident foreign-currency accounts and accounts for platform income aimed at freelancers, eases investment abroad, and covers digital assets and remote payments. The committee text adds an approved exchange operator status open to eligible startups, declaration and repatriation of foreign and crypto assets above a threshold, and prison terms of up to three years.",
+   "summary_fr": "Déposée par le député Maher Ktari avec environ 45 cosignataires pour remplacer la loi de change de 1976. Elle redéfinit la résidence, autorise des comptes en devises pour les résidents et des comptes pour les revenus de plateformes destinés aux freelances, assouplit l'investissement à l'étranger et traite des actifs numériques et des paiements à distance. Le texte en commission ajoute un statut d'opérateur de change agréé ouvert aux startups, la déclaration et le rapatriement des avoirs crypto au-delà d'un seuil, et jusqu'à trois ans de prison.",
+   "topics": [
+    "fx",
+    "crypto",
+    "startups"
+   ],
+   "related_articles": [
+    "tunisia-foreign-exchange-code-reform",
+    "crypto-regulation-tunisia",
+    "stablecoins-africa"
+   ],
+   "replaces": null,
+   "source_url": "https://www.tunisienumerique.com/tunisie-code-des-changes-report-a-2027-ou-vote-decisif-en-octobre-declaration/",
+   "source_name": "Tunisie Numérique",
+   "reference_fr": "Proposition de loi portant Code des changes (91 articles)"
+  },
+  {
+   "id": "distance-insurance-bill",
+   "type": "bill",
+   "reference": "Draft law on distance insurance services",
+   "issuer": "Parliament",
+   "title_en": "Legal framework for distance insurance, allowing telecom operators as intermediaries",
+   "title_fr": "Cadre juridique de l'assurance à distance, ouvrant l'intermédiation aux opérateurs télécoms",
+   "date": "2025-10",
+   "in_force": null,
+   "status": "unclear",
+   "status_note_en": "In October 2025 the CGA said the text was before Parliament. We found no report of adoption or of its parliamentary reference, so its status is unclear.",
+   "status_note_fr": "En octobre 2025, le CGA a indiqué que le texte était devant le Parlement. Nous n'avons trouvé ni adoption ni référence parlementaire : statut incertain.",
+   "summary_en": "According to the insurance supervisor, a legal framework for distance insurance services was before Parliament in October 2025. It would allow telecom operators to act as insurance intermediaries, a potential channel for micro-insurance and mobile-first products. For insurtechs, adoption would make embedded and app-based distribution easier to scale, alongside the Insurance Code revision planned in the 2026-2030 strategy.",
+   "summary_fr": "Selon le Comité général des assurances, un cadre juridique pour l'assurance à distance était devant le Parlement en octobre 2025. Il permettrait aux opérateurs télécoms d'agir comme intermédiaires d'assurance, un canal possible pour la micro-assurance et les produits mobiles. Pour les insurtechs, son adoption faciliterait la distribution intégrée et par application, en complément de la révision du Code des assurances prévue par la stratégie 2026-2030.",
+   "topics": [
+    "insurance"
+   ],
+   "related_articles": [
+    "insurtech-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://lapresse.tn/2025/10/02/le-secteur-des-assurances-en-tunisie-entre-croissance-et-defis/",
+   "source_name": "La Presse de Tunisie",
+   "reference_fr": "Projet de loi sur la commercialisation à distance des assurances"
+  },
+  {
+   "id": "assurance-auto-2-0",
+   "type": "other",
+   "reference": "Assurance Auto 2.0 project",
+   "issuer": "CGA",
+   "title_en": "Assurance Auto 2.0: single digital QR-code motor insurance card",
+   "title_fr": "Assurance Auto 2.0 : carte d'assurance automobile unique et numérique à QR code",
+   "date": "2025-10",
+   "in_force": null,
+   "status": "unclear",
+   "status_note_en": "Announced in October 2025 as imminent, steered by the Presidency of the Government. We could not confirm whether it has gone live.",
+   "status_note_fr": "Annoncé en octobre 2025 comme imminent, piloté par la Présidence du gouvernement. Mise en service non confirmée.",
+   "summary_en": "Project announced by the CGA president, steered by the Presidency of the Government with several ministries and the insurers' federation FTUSA. It would replace paper motor insurance documents with a single QR-code card accessible on a smartphone and centralise vehicle data to reduce fraud. Motor is the largest insurance line, so digital proof of cover could support claims and distribution tools built by insurtechs.",
+   "summary_fr": "Projet annoncé par la présidente du CGA, piloté par la Présidence du gouvernement avec plusieurs ministères et la FTUSA. Il remplacerait les documents papier d'assurance automobile par une carte unique à QR code accessible sur smartphone et centraliserait les données des véhicules pour réduire la fraude. L'automobile étant la première branche, une attestation numérique pourrait soutenir les outils de sinistres et de distribution des insurtechs.",
+   "topics": [
+    "insurance"
+   ],
+   "related_articles": [
+    "insurtech-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://fr.allafrica.com/stories/202510010453.html",
+   "source_name": "La Presse via allAfrica",
+   "reference_fr": "Projet Assurance Auto 2.0"
+  },
+  {
+   "id": "data-protection-bill-2025",
+   "type": "bill",
+   "reference": "Draft organic law on personal data protection (132 articles)",
+   "issuer": "Parliament",
+   "title_en": "Personal data protection bill to replace Organic Law 2004-63",
+   "title_fr": "Proposition de loi organique sur la protection des données personnelles, remplaçant la loi 2004-63",
+   "date": "2025-07",
+   "in_force": null,
+   "status": "in_parliament",
+   "status_note_en": "Filed by 17 MPs in July 2025. Rights and Freedoms Committee hearings in February 2026; on 20 May 2026 it discussed hearing more experts. No vote found as of October 2026.",
+   "status_note_fr": "Déposée par 17 députés en juillet 2025. Auditions en commission des droits et libertés en février 2026 ; le 20 mai 2026, élargissement de la liste des experts à entendre. Aucun vote trouvé en octobre 2026.",
+   "summary_en": "A 132-article text in six chapters that would repeal the 2004 law. It creates an independent authority with financial autonomy, raises fines for serious breaches to up to TND 200,000, introduces impact assessments for high-risk processing and a right not to be subject to solely automated decisions, adds articles on AI and rewrites rules on transfers abroad. Fintechs using biometrics, credit scoring or foreign cloud hosting would be directly affected.",
+   "summary_fr": "Texte de 132 articles en six chapitres qui abrogerait la loi de 2004. Il crée une autorité indépendante dotée de l'autonomie financière, porte les amendes pour infractions graves jusqu'à 200 000 dinars, instaure des analyses d'impact pour les traitements à risque et un droit de ne pas faire l'objet de décisions entièrement automatisées, ajoute des articles sur l'IA et réécrit les règles de transfert à l'étranger. Les fintechs utilisant biométrie, scoring ou hébergement cloud étranger seraient directement concernées.",
+   "topics": [
+    "data"
+   ],
+   "related_articles": [
+    "data-protection-tunisia-fintech",
+    "ai-in-tunisian-banking",
+    "open-banking-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://businessnews.com.tn/2026/05/20/associations-donnees-personnelles-nationalite-larp-ouvre-plusieurs-fronts/1402562/",
+   "source_name": "Business News",
+   "reference_fr": "Proposition de loi organique sur la protection des données personnelles (132 articles)"
+  },
+  {
+   "id": "law-2025-9-labour",
+   "type": "law",
+   "reference": "Law No. 2025-9 of 21 May 2025",
+   "issuer": "Parliament",
+   "title_en": "Employment contracts: open-ended contract as default and ban on labour subcontracting",
+   "title_fr": "Contrats de travail : CDI par défaut et interdiction de la sous-traitance de main-d'œuvre",
+   "date": "2025-05-21",
+   "in_force": "2025-05",
+   "status": "in_force",
+   "status_note_en": "Published in JORT No. 61 on 23 May 2025. Employers had three months to regularise contracts.",
+   "status_note_fr": "Publiée au JORT n° 61 le 23 mai 2025. Les employeurs disposaient de trois mois pour régulariser.",
+   "summary_en": "Makes the open-ended contract (CDI) the default; fixed-term contracts are allowed only for temporary activity increases, replacements and seasonal work, otherwise they convert to CDIs. Probation is capped at six months, renewable once. Labour subcontracting is banned; service contracts are lawful only for specialised work outside the client's core activity and not under its control. Fines reach TND 10,000, doubled for companies. Startups using rolling CDDs or embedded outsourced developers are exposed.",
+   "summary_fr": "Fait du CDI la norme ; le CDD n'est permis qu'en cas de surcroît temporaire d'activité, de remplacement ou de travail saisonnier, faute de quoi il devient un CDI. La période d'essai est limitée à six mois, renouvelable une fois. La sous-traitance de main-d'œuvre est interdite ; la prestation de services n'est licite que pour un travail spécialisé hors de l'activité principale et sans direction du client. Amendes jusqu'à 10 000 dinars, doublées pour les sociétés. Les startups recourant aux CDD successifs ou à des développeurs externalisés sont exposées.",
+   "topics": [
+    "labour",
+    "startups"
+   ],
+   "related_articles": [
+    "tunisia-labor-law-reform-startups",
+    "tunisia-tech-talent-brain-drain"
+   ],
+   "replaces": null,
+   "source_url": "https://www.webmanagercenter.com/2025/05/24/546668/tunisie-publication-au-jort-de-la-loi-interdisant-la-sous-traitance-et-renforcant-les-cdi/",
+   "source_name": "WMC (Webmanagercenter)"
+  },
+  {
+   "id": "bct-circular-2025-06",
+   "type": "bct-circular",
+   "reference": "Circular No. 2025-06",
+   "issuer": "BCT",
+   "title_en": "Banks: minimum requirements for electronic customer onboarding (e-KYC)",
+   "title_fr": "Banques : exigences minimales pour l'enrôlement électronique des clients (e-KYC)",
+   "date": "2025-02-28",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "Published 28 February 2025; applies to banks.",
+   "status_note_fr": "Publiée le 28 février 2025 ; s'applique aux banques.",
+   "summary_en": "Six chapters and 18 articles allowing banks to onboard customers remotely through an automated or semi-automated process, provided identity assurance is at least equivalent to an in-person check under Circular 2017-08. Banks must apply risk-based due diligence, may use facial recognition and biometrics, must keep false-acceptance rates low, encrypt KYC files, test technology before deployment and keep a performance register. It underpins bank-fintech digital onboarding partnerships.",
+   "summary_fr": "Six chapitres et 18 articles autorisant les banques à enrôler des clients à distance par un processus automatisé ou semi-automatisé, si le niveau d'assurance de l'identité équivaut au moins à une vérification en présentiel au sens de la circulaire 2017-08. Les banques appliquent une vigilance fondée sur le risque, peuvent recourir à la reconnaissance faciale et à la biométrie, doivent limiter les fausses acceptations, chiffrer les dossiers KYC, tester la technologie et tenir un registre de performance.",
+   "topics": [
+    "kyc",
+    "banking",
+    "data"
+   ],
+   "related_articles": [
+    "ekyc-aml-tunisia",
+    "digital-banking-tunisia",
+    "neobanks-tunisia",
+    "cybersecurity-financial-sector-tunisia",
+    "ai-in-tunisian-banking"
+   ],
+   "replaces": null,
+   "source_url": "https://managers.tn/?p=92783",
+   "source_name": "Managers"
+  },
+  {
+   "id": "national-ai-strategy",
+   "type": "strategy",
+   "reference": "National artificial intelligence strategy",
+   "issuer": "Government",
+   "title_en": "National AI strategy",
+   "title_fr": "Stratégie nationale de l'intelligence artificielle",
+   "date": "2025-02",
+   "in_force": null,
+   "status": "unclear",
+   "status_note_en": "In February 2025 the Ministry of Communication Technologies said it was in final drafting with an operational plan to follow. Formal adoption not confirmed as of October 2026.",
+   "status_note_fr": "En février 2025, le ministère des Technologies de la communication la disait en phase finale de rédaction, avec un plan opérationnel à suivre. Adoption formelle non confirmée en octobre 2026.",
+   "summary_en": "Tunisia has no AI law or sector rulebook for AI in finance. The national AI strategy, described in February 2025 as in its final drafting phase, is the main policy document expected to frame AI use. For banks and fintechs deploying chatbots, credit scoring or fraud detection, the binding constraints today remain the 2004 data protection law and BCT rules on e-KYC and outsourcing.",
+   "summary_fr": "La Tunisie n'a ni loi sur l'IA ni règles sectorielles pour l'IA en finance. La stratégie nationale, décrite en février 2025 comme en phase finale de rédaction, est le principal document attendu pour encadrer son usage. Pour les banques et fintechs qui déploient chatbots, scoring ou détection de fraude, les contraintes contraignantes restent la loi de 2004 sur les données et les règles de la BCT sur l'e-KYC.",
+   "topics": [
+    "data",
+    "banking"
+   ],
+   "related_articles": [
+    "ai-in-tunisian-banking",
+    "data-protection-tunisia-fintech"
+   ],
+   "replaces": null,
+   "source_url": "https://www.leconomistemaghrebin.com/2025/02/24/tunisie-strategie-nationale-intelligence-artificielle-ia/",
+   "source_name": "L'Economiste Maghrébin",
+   "reference_fr": "Stratégie nationale d'intelligence artificielle"
+  },
+  {
+   "id": "cmf-crowdfunding-regulation-2024",
+   "type": "cmf-regulation",
+   "reference": "CMF regulation of 11 November 2024 on securities crowdfunding",
+   "issuer": "CMF",
+   "title_en": "Equity crowdfunding: platform approval and operating rules",
+   "title_fr": "Financement participatif en valeurs mobilières : agrément et fonctionnement des plateformes",
+   "date": "2024-11-11",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "Announced by the CMF as published in the Official Journal; completes the equity crowdfunding framework.",
+   "status_note_fr": "Publié au JORT selon le CMF ; complète le cadre du crowdfunding en valeurs mobilières.",
+   "summary_en": "Completes Law 2020-37 and Decree 2022-765 for the securities track. Platforms need CMF approval, TND 100,000 paid-up capital, a business plan, AML/CFT controls, IT security, insurance and a data protection authorisation; the CEO must reside in Tunisia. Issuers publish a short information note on a CMF template instead of a prospectus, and canvassing outside the platform is banned. Stockbrokers and fund managers may operate platforms on prior declaration.",
+   "summary_fr": "Complète la loi 2020-37 et le décret 2022-765 pour le volet valeurs mobilières. Les plateformes doivent obtenir l'agrément du CMF, disposer de 100 000 dinars de capital libéré, d'un business plan, de dispositifs LBC/FT, de sécurité informatique, d'une assurance et d'une autorisation de l'autorité des données personnelles ; le dirigeant réside en Tunisie. Les émetteurs publient une note d'information selon un modèle du CMF, et le démarchage hors plateforme est interdit.",
+   "topics": [
+    "crowdfunding",
+    "startups"
+   ],
+   "related_articles": [
+    "crowdfunding-law-tunisia",
+    "how-to-raise-funding-tunisian-fintech"
+   ],
+   "replaces": null,
+   "source_url": "https://cmf.tn/sites/default/files/crowdfunding_fr.pdf",
+   "source_name": "Conseil du marché financier",
+   "reference_fr": "Règlement du CMF du 11 novembre 2024 sur le financement participatif en titres"
+  },
+  {
+   "id": "law-2024-41-cheques",
+   "type": "law",
+   "reference": "Law No. 2024-41 of 2 August 2024",
+   "issuer": "Parliament",
+   "title_en": "Cheque reform: real-time verification, chequebook limits and TuniChèque",
+   "title_fr": "Réforme du chèque : vérification en temps réel, plafonds et plateforme TuniChèque",
+   "date": "2024-08-02",
+   "in_force": "2025-02-02",
+   "status": "in_force",
+   "status_note_en": "Main provisions in force since 2 February 2025.",
+   "status_note_fr": "Principales dispositions en vigueur depuis le 2 février 2025.",
+   "summary_en": "Reforms the cheque regime to restore the cheque as an immediate means of payment rather than informal credit. It introduces a new cheque format, limits on chequebooks and the TuniChèque platform, which lets a payee check fund availability in real time. In 2025 the number of cheques fell 67.5%, bills of exchange rose and part of the activity moved to transfers and cash, leaving a gap for digital instalment products.",
+   "summary_fr": "Réforme le régime du chèque pour en refaire un moyen de paiement immédiat et non un crédit informel. Elle introduit un nouveau format, des plafonds sur les chéquiers et la plateforme TuniChèque, qui permet au bénéficiaire de vérifier la provision en temps réel. En 2025, le nombre de chèques a chuté de 67,5 %, les lettres de change ont progressé et une partie de l'activité s'est reportée sur les virements et les espèces, laissant un besoin de paiement fractionné numérique.",
+   "topics": [
+    "payments",
+    "cash",
+    "banking"
+   ],
+   "related_articles": [
+    "cash-economy-tunisia",
+    "digital-banking-tunisia",
+    "instant-payments-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://www.webmanagercenter.com/2025/01/23/539093/plafond-des-cheques-verification-electronique-les-principales-mesures-de-la-nouvelle-loi-tunisienne/",
+   "source_name": "WMC (Webmanagercenter)"
+  },
+  {
+   "id": "fx-code-government-draft-2024",
+   "type": "bill",
+   "reference": "Government draft Foreign Exchange Code (ministerial council, March 2024)",
+   "issuer": "Government",
+   "title_en": "Government draft FX code, including authorisation of crypto-asset transactions",
+   "title_fr": "Projet gouvernemental de Code des changes, incluant l'autorisation des opérations sur crypto-actifs",
+   "date": "2024-03",
+   "in_force": null,
+   "status": "unclear",
+   "status_note_en": "Adopted by a ministerial council in March 2024 but never put to a vote; the government did not submit a bill by January 2026 as promised. Overtaken in practice by the MPs' 2025 bill.",
+   "status_note_fr": "Adopté en conseil ministériel en mars 2024 mais jamais soumis au vote ; le gouvernement n'a pas déposé de projet en janvier 2026 comme promis. Dépassé dans les faits par la proposition des députés de 2025.",
+   "summary_en": "Draft prepared with the Ministry of Finance and the BCT, aiming at a unified FX framework, progressive liberalisation and digitised external payments. Announced measures included a revised definition of residence, an approved exchange operator status open to companies including startups, revised penalties and authorisation for residents to hold and trade crypto-assets subject to prior BCT authorisation and a threshold to be set by regulation.",
+   "summary_fr": "Projet préparé avec le ministère des Finances et la BCT, visant un cadre de change unifié, une libéralisation progressive et la digitalisation des paiements extérieurs. Il prévoyait une nouvelle définition de la résidence, un statut d'opérateur de change agréé ouvert notamment aux startups, des sanctions révisées et la possibilité pour les résidents de détenir et d'échanger des crypto-actifs sous autorisation préalable de la BCT et au-delà d'un seuil réglementaire.",
+   "topics": [
+    "fx",
+    "crypto"
+   ],
+   "related_articles": [
+    "tunisia-foreign-exchange-code-reform",
+    "crypto-regulation-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://pm.gov.tn/fr/article/finances-adoption-du-code-des-changes-lors-dun-conseil-ministeriel",
+   "source_name": "Présidence du gouvernement",
+   "reference_fr": "Projet gouvernemental de Code des changes (conseil des ministres, mars 2024)"
+  },
+  {
+   "id": "bct-circular-2024-03",
+   "type": "bct-circular",
+   "reference": "Circular No. 2024-03",
+   "issuer": "BCT",
+   "title_en": "Temporary reduction of bank fees for low-income customers",
+   "title_fr": "Réduction exceptionnelle des commissions bancaires pour les clients à faible revenu",
+   "date": "2024-01-29",
+   "in_force": null,
+   "status": "unclear",
+   "status_note_en": "Exceptional one-year measure; banks could not raise tariffs until 31 December 2024 and had to adopt a compliant pricing policy. Whether any element was extended is not confirmed.",
+   "status_note_fr": "Mesure exceptionnelle d'un an ; les banques ne pouvaient relever leurs tarifs avant le 31 décembre 2024 et devaient adopter une politique tarifaire conforme. Prolongation éventuelle non confirmée.",
+   "summary_en": "Requires banks to lower six commissions, including account maintenance, card subscription, outgoing transfers and card-terminal payments, for customers with net monthly income of TND 1,500 or less, for one year. Press reports put the capped account fee at TND 36 a year, down from TND 68. It targets cost as a barrier to account ownership and benchmarks the pricing fintech wallets compete with.",
+   "summary_fr": "Impose aux banques de réduire six commissions, dont la tenue de compte, l'abonnement carte, les virements émis et les paiements par TPE, pour les clients dont le revenu net mensuel ne dépasse pas 1 500 dinars, pendant un an. Selon la presse, les frais de tenue de compte sont plafonnés à 36 dinars par an contre 68. La mesure cible le coût comme frein à la bancarisation et sert de référence tarifaire face aux portefeuilles des fintechs.",
+   "topics": [
+    "banking"
+   ],
+   "related_articles": [
+    "financial-inclusion-tunisia",
+    "women-financial-inclusion-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://managers.tn/2024/01/29/reforme-tarifaire-la-bct-renforce-la-transparence-pour-proteger-les-usagers/",
+   "source_name": "Managers"
+  },
+  {
+   "id": "bct-circular-2023-06",
+   "type": "bct-circular",
+   "reference": "Circular No. 2023-06",
+   "issuer": "BCT",
+   "title_en": "Loan-based crowdfunding: application file for platform approval",
+   "title_fr": "Financement participatif en prêts : dossier de demande d'agrément des plateformes",
+   "date": "2023-11",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "Issued November 2023. No publicly reported approved lending platform as of October 2026.",
+   "status_note_fr": "Émise en novembre 2023. Aucune plateforme de prêt agréée signalée publiquement en octobre 2026.",
+   "summary_en": "Lists the documents a company must file with the BCT Governor to obtain approval as a loan-based crowdfunding platform, under Law 2020-37 and Decree 2022-766. It operationalises the lending track of the crowdfunding law, which requires a Tunisian public limited company dedicated to a single crowdfunding category. Fintechs considering peer-to-business lending must go through this BCT approval.",
+   "summary_fr": "Fixe la liste des pièces à déposer auprès du Gouverneur de la BCT pour obtenir l'agrément de plateforme de financement participatif en prêts, en application de la loi 2020-37 et du décret 2022-766. Elle rend opérationnel le volet prêts de la loi, qui exige une société anonyme tunisienne dédiée à une seule catégorie. Les fintechs visant le prêt participatif aux entreprises doivent passer par cet agrément.",
+   "topics": [
+    "crowdfunding"
+   ],
+   "related_articles": [
+    "crowdfunding-law-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://www.webdo.tn/fr/actualite/national/tunisie-le-crowdfunding-en-prets-commence-a-s-organiser/209866/",
+   "source_name": "Webdo"
+  },
+  {
+   "id": "decree-law-2023-17-cybersecurity",
+   "type": "decree-law",
+   "reference": "Decree-law No. 2023-17 of 11 March 2023",
+   "issuer": "Presidency",
+   "title_en": "Cybersecurity: creation and missions of the National Cybersecurity Agency (ANCS)",
+   "title_fr": "Cybersécurité : création et missions de l'Agence nationale de la cybersécurité (ANCS)",
+   "date": "2023-03-11",
+   "in_force": "2023-09-11",
+   "status": "in_force",
+   "status_note_en": "Entered into force on 11 September 2023.",
+   "status_note_fr": "Entré en vigueur le 11 septembre 2023.",
+   "summary_en": "National cybersecurity framework. It creates the ANCS, replacing the former national computer security agency (ANSI), under the ministry for communication technologies, and gives it oversight of information system security in public and private bodies, standards, incident response and the accreditation of security auditors. BCT Circular 2026-10 relies on it: payment institutions need ANCS-certified audits and must report attacks to the ANCS.",
+   "summary_fr": "Cadre national de la cybersécurité. Il crée l'ANCS, qui remplace l'ancienne Agence nationale de la sécurité informatique (ANSI), sous tutelle du ministère des Technologies de la communication, et lui confie le suivi de la sécurité des systèmes d'information publics et privés, les normes, la réponse aux incidents et l'agrément des auditeurs. La circulaire 2026-10 s'y adosse : audits par des organismes certifiés ANCS et déclaration des attaques à l'ANCS.",
+   "topics": [
+    "cyber"
+   ],
+   "related_articles": [
+    "cybersecurity-financial-sector-tunisia",
+    "payment-institutions-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://africanmanager.com/entree-en-vigueur-lundi-du-decret-loi-n-2023-17-du-11-mars-2023-fixant-les-missions-de-lagence-nationale-de-la-cyber-securite/",
+   "source_name": "African Manager"
+  },
+  {
+   "id": "bct-sandbox-express-2023",
+   "type": "other",
+   "reference": "BCT Sandbox Express",
+   "issuer": "BCT",
+   "title_en": "Sandbox Express: fast-track testing for banks' digital solutions",
+   "title_fr": "Sandbox Express : test accéléré des solutions numériques des banques",
+   "date": "2023-02",
+   "in_force": null,
+   "status": "announced",
+   "status_note_en": "Announced by the BCT governor in February 2023. No published eligibility criteria or launch date found.",
+   "status_note_fr": "Annoncée par le gouverneur de la BCT en février 2023. Aucun critère d'éligibilité ni date de lancement publiés.",
+   "summary_en": "A second sandbox track reserved for licensed Tunisian banks, meant to give them a faster route to market for digital solutions while letting the BCT check their robustness, including from an open banking perspective. Unlike the 2020 fintech sandbox, participants already hold a licence and capital. Fintechs can benefit indirectly by partnering with a bank that tests a joint product through this track.",
+   "summary_fr": "Second volet de bac à sable réservé aux banques tunisiennes agréées, destiné à accélérer la mise sur le marché de leurs solutions numériques tout en permettant à la BCT d'en vérifier la robustesse, y compris dans une optique d'open banking. Contrairement à la sandbox fintech de 2020, les participants disposent déjà d'un agrément et de fonds propres. Les fintechs peuvent en profiter indirectement via un partenariat bancaire.",
+   "topics": [
+    "banking"
+   ],
+   "related_articles": [
+    "bct-regulatory-sandbox",
+    "open-banking-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://managers.tn/2023/02/09/la-bct-lance-une-sandbox-express-au-profit-des-banques-tunisiennes",
+   "source_name": "Managers",
+   "reference_fr": "Sandbox Express de la BCT"
+  },
+  {
+   "id": "decree-2022-765",
+   "type": "decree",
+   "reference": "Decree No. 2022-765 of 19 October 2022",
+   "issuer": "Government",
+   "title_en": "Securities crowdfunding: limits for projects and contributors",
+   "title_fr": "Financement participatif en valeurs mobilières : plafonds par projet et par contributeur",
+   "date": "2022-10-19",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "In force; completed by the CMF regulation of 11 November 2024.",
+   "status_note_fr": "En vigueur ; complété par le règlement du CMF du 11 novembre 2024.",
+   "summary_en": "Implements the securities track of Law 2020-37. A project may raise at most TND 1 million on a platform and each contributor may invest at most TND 10,000 per project. Companies listed on the stock exchange or that have made a CMF-approved public offer are excluded. Contributors can be residents or non-residents, including the diaspora, and funds sit in a ring-fenced account at a bank or La Poste.",
+   "summary_fr": "Met en œuvre le volet valeurs mobilières de la loi 2020-37. Un projet peut lever au plus 1 million de dinars sur une plateforme et chaque contributeur investir au plus 10 000 dinars par projet. Les sociétés cotées ou ayant réalisé une offre publique visée par le CMF sont exclues. Les contributeurs peuvent être résidents ou non-résidents, y compris la diaspora, et les fonds sont cantonnés sur un compte bancaire ou postal.",
+   "topics": [
+    "crowdfunding",
+    "startups"
+   ],
+   "related_articles": [
+    "crowdfunding-law-tunisia",
+    "how-to-raise-funding-tunisian-fintech"
+   ],
+   "replaces": null,
+   "source_url": "https://regalert.today/document/1f331303-b347-42af-b6d6-c6f31c7fc3ba/text",
+   "source_name": "RegAlert"
+  },
+  {
+   "id": "decree-2022-766",
+   "type": "decree",
+   "reference": "Decree No. 2022-766",
+   "issuer": "Government",
+   "title_en": "Loan-based crowdfunding: conditions for platforms",
+   "title_fr": "Financement participatif en prêts : conditions applicables aux plateformes",
+   "date": "2022-10",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "Issued in October 2022 alongside Decree 2022-765; operational detail added by BCT Circular 2023-06.",
+   "status_note_fr": "Publié en octobre 2022 avec le décret 2022-765 ; détails opérationnels fixés par la circulaire BCT 2023-06.",
+   "summary_en": "Sets the conditions applicable to loan-based crowdfunding under Law 2020-37, the track supervised by the Governor of the Central Bank of Tunisia. Together with BCT Circular 2023-06, it defines how a platform obtains approval to intermediate loans from the public to projects carried out in Tunisia. As of October 2026 no approved lending platform had been publicly reported.",
+   "summary_fr": "Fixe les conditions applicables au financement participatif en prêts prévu par la loi 2020-37, volet supervisé par le Gouverneur de la Banque centrale. Avec la circulaire BCT 2023-06, il définit comment une plateforme obtient l'agrément pour intermédier des prêts du public à des projets réalisés en Tunisie. En octobre 2026, aucune plateforme de prêt agréée n'avait été signalée publiquement.",
+   "topics": [
+    "crowdfunding"
+   ],
+   "related_articles": [
+    "crowdfunding-law-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://www.webdo.tn/fr/actualite/national/tunisie-le-crowdfunding-en-prets-commence-a-s-organiser/209866/",
+   "source_name": "Webdo"
+  },
+  {
+   "id": "law-2020-37-crowdfunding",
+   "type": "law",
+   "reference": "Law No. 2020-37 of 6 August 2020",
+   "issuer": "Parliament",
+   "title_en": "Crowdfunding law: equity, loans and donations",
+   "title_fr": "Loi sur le financement participatif : valeurs mobilières, prêts et dons",
+   "date": "2020-08-06",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "In force; implementing texts issued 2022-2024. First reported approval: donation platform CnBees, licensed by the ACM in December 2025.",
+   "status_note_fr": "En vigueur ; textes d'application publiés entre 2022 et 2024. Premier agrément signalé : CnBees (dons), agréée par l'ACM en décembre 2025.",
+   "summary_en": "Defines crowdfunding as raising money from the public through an online platform for a project carried out in Tunisia, in three categories: securities (approved by the CMF), loans (approved by the BCT Governor) and donations (supervised by the ACM). Operators must be Tunisian public limited companies running only one category, and a project cannot be listed on two platforms of the same category at once.",
+   "summary_fr": "Définit le financement participatif comme la collecte de fonds auprès du public via une plateforme en ligne pour un projet réalisé en Tunisie, en trois catégories : valeurs mobilières (agrément CMF), prêts (agrément du Gouverneur de la BCT) et dons (supervision ACM). Les opérateurs doivent être des sociétés anonymes tunisiennes limitées à une seule catégorie, et un projet ne peut figurer sur deux plateformes de même catégorie.",
+   "topics": [
+    "crowdfunding",
+    "startups"
+   ],
+   "related_articles": [
+    "crowdfunding-law-tunisia",
+    "how-to-raise-funding-tunisian-fintech",
+    "islamic-fintech-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://regalert.today/document/law-no-2020-37-of-august-6-2020-on-crowdfunding-887da7f1-27f5-4dd6-ba98-5fd02cce47c4/text",
+   "source_name": "RegAlert"
+  },
+  {
+   "id": "bct-regulatory-sandbox-2020",
+   "type": "other",
+   "reference": "BCT fintech regulatory sandbox",
+   "issuer": "BCT",
+   "title_en": "BCT regulatory sandbox for fintech",
+   "title_fr": "Bac à sable réglementaire fintech de la BCT",
+   "date": "2020-01-21",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "Announced by communiqué on 11 Dec 2019, launched 21 Jan 2020; first cohort of four selected in late 2020/January 2021. No published outcomes or later cohort calls found.",
+   "status_note_fr": "Annoncé par communiqué le 11 déc. 2019, lancé le 21 janv. 2020 ; première cohorte de quatre sélectionnée fin 2020/janvier 2021. Aucun bilan ni appel ultérieur publié.",
+   "summary_en": "Supervised test environment, launched with World Bank support, letting fintechs try innovative services with volunteer customers before holding a licence. The first cohort tested remote identification, cross-border clearing, crypto-assets and central bank digital currency over nine months. It came with a BCT-Fintech committee. It is not a licence: commercial activity still requires authorisation under Law 2016-48 and compliance with Circular 2026-10.",
+   "summary_fr": "Environnement de test supervisé, lancé avec l'appui de la Banque mondiale, permettant aux fintechs d'expérimenter des services innovants avec des clients volontaires avant tout agrément. La première cohorte a testé l'identification à distance, la compensation transfrontière, les crypto-actifs et la monnaie numérique de banque centrale pendant neuf mois. Un comité BCT-Fintech l'accompagne. Ce n'est pas un agrément : l'activité commerciale exige une autorisation au titre de la loi 2016-48.",
+   "topics": [
+    "payments",
+    "kyc",
+    "crypto",
+    "startups"
+   ],
+   "related_articles": [
+    "bct-regulatory-sandbox",
+    "crypto-regulation-tunisia",
+    "open-banking-tunisia",
+    "ekyc-aml-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://www.webmanagercenter.com/2020/01/21/443813/la-bct-annonce-le-lancement-officiel-de-la-sandbox-reglementaire/",
+   "source_name": "Webmanagercenter",
+   "reference_fr": "Bac à sable réglementaire fintech de la BCT"
+  },
+  {
+   "id": "bct-circular-2019-02",
+   "type": "bct-circular",
+   "reference": "Circular No. 2019-02",
+   "issuer": "BCT",
+   "title_en": "International technology card for resident companies and labelled startups",
+   "title_fr": "Carte technologique internationale pour les entreprises résidentes et les startups labellisées",
+   "date": "2019-01",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "Issued January 2019 under the Startup Act framework; no repeal reported.",
+   "status_note_fr": "Émise en janvier 2019 dans le cadre du Startup Act ; aucune abrogation signalée.",
+   "summary_en": "Creates an international technology card for online payments abroad. Resident companies can obtain an annual allowance of up to TND 10,000, while companies holding the Startup Label can obtain up to TND 100,000 a year. It lets startups pay for foreign SaaS, cloud hosting and advertising without case-by-case FX authorisation, but does not change the 1976 foreign exchange law.",
+   "summary_fr": "Crée une carte technologique internationale pour les paiements en ligne à l'étranger. Les entreprises résidentes peuvent obtenir une allocation annuelle jusqu'à 10 000 dinars, et les sociétés labellisées startup jusqu'à 100 000 dinars par an. Elle permet de payer SaaS, hébergement cloud et publicité à l'étranger sans autorisation de change au cas par cas, sans modifier la loi de change de 1976.",
+   "topics": [
+    "fx",
+    "startups"
+   ],
+   "related_articles": [
+    "tunisia-foreign-exchange-code-reform",
+    "startup-act-tunisia-explained"
+   ],
+   "replaces": null,
+   "source_url": "https://www.webmanagercenter.com/2019/02/01/430519/bct-conditions-douverture-de-comptes-startup-en-devises/",
+   "source_name": "Webmanagercenter"
+  },
+  {
+   "id": "bct-circular-2019-01",
+   "type": "bct-circular",
+   "reference": "Circular No. 2019-01",
+   "issuer": "BCT",
+   "title_en": "Startup foreign-currency account",
+   "title_fr": "Compte startup en devises",
+   "date": "2019-01",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "Issued January 2019 under article 17 of the Startup Act; no repeal reported.",
+   "status_note_fr": "Émise en janvier 2019 en application de l'article 17 du Startup Act ; aucune abrogation signalée.",
+   "summary_en": "Sets the rules for the special foreign-currency account available to labelled startups. It can be credited with export proceeds and equity or convertible bonds from non-residents, and used to pay foreign suppliers, cover staff travel and invest in companies abroad. It has long been the most practical FX tool for Tunisian startups, but only for holders of the Startup Label.",
+   "summary_fr": "Fixe les règles du compte spécial en devises ouvert aux startups labellisées. Il peut être alimenté par les recettes d'exportation et les apports en capital ou obligations convertibles de non-résidents, et servir à payer des fournisseurs étrangers, des déplacements professionnels et des investissements à l'étranger. C'est l'outil de change le plus pratique pour les startups, réservé aux titulaires du label.",
+   "topics": [
+    "fx",
+    "startups"
+   ],
+   "related_articles": [
+    "tunisia-foreign-exchange-code-reform",
+    "startup-act-tunisia-explained"
+   ],
+   "replaces": null,
+   "source_url": "https://www.webmanagercenter.com/2019/02/01/430519/bct-conditions-douverture-de-comptes-startup-en-devises/",
+   "source_name": "Webmanagercenter"
+  },
+  {
+   "id": "bct-circular-2018-16",
+   "type": "bct-circular",
+   "reference": "Circular No. 2018-16 of 31 December 2018",
+   "issuer": "BCT",
+   "title_en": "Payment institutions: operating rules and tiered payment accounts (2018 framework)",
+   "title_fr": "Établissements de paiement : règles de fonctionnement et comptes de paiement à niveaux (cadre de 2018)",
+   "date": "2018-12-31",
+   "in_force": null,
+   "status": "replaced",
+   "status_note_en": "Replaced by Circular 2026-10 (published 25 Sept 2026); continues to apply until the new circular takes effect in late December 2026.",
+   "status_note_fr": "Remplacée par la circulaire 2026-10 (publiée le 25 sept. 2026) ; reste applicable jusqu'à l'entrée en vigueur de celle-ci fin décembre 2026.",
+   "summary_en": "First operating rulebook for payment institutions created by Law 2016-48. It introduced tiered payment accounts with balance caps of TND 1,500, 5,000 and 20,000, and required an annual IT security audit sent to the BCT, a tested business continuity plan and management of operational and cyber risk. It enabled the first licensed non-bank wallets and remained the reference until 2026.",
+   "summary_fr": "Premier cadre de fonctionnement des établissements de paiement créés par la loi 2016-48. Elle a introduit les comptes de paiement à niveaux plafonnés à 1 500, 5 000 et 20 000 dinars, et exigé un audit annuel de sécurité informatique transmis à la BCT, un plan de continuité testé et la gestion des risques opérationnels et cyber. Elle a permis les premiers portefeuilles non bancaires agréés.",
+   "topics": [
+    "payments",
+    "kyc",
+    "cyber"
+   ],
+   "related_articles": [
+    "payment-institutions-tunisia",
+    "cybersecurity-financial-sector-tunisia",
+    "neobanks-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://www.ilboursa.com/marches/les-nouvelles-regles-regissant-lactivite-et-le-fonctionnement-des-etablissements-de-paiement_15621",
+   "source_name": "Ilboursa"
+  },
+  {
+   "id": "law-2018-20-startup-act",
+   "type": "law",
+   "reference": "Law No. 2018-20 of 17 April 2018",
+   "issuer": "Parliament",
+   "title_en": "Startup Act: Startup Label and incentives for founders, startups and investors",
+   "title_fr": "Startup Act : label startup et incitations pour fondateurs, startups et investisseurs",
+   "date": "2018-04-17",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "In force, implemented by Decree 2018-840; 1,352 labelled startups by July 2026. A Startup Act 2.0 is in preparation.",
+   "status_note_fr": "En vigueur, mise en œuvre par le décret 2018-840 ; 1 352 startups labellisées en juillet 2026. Un Startup Act 2.0 est en préparation.",
+   "summary_en": "Creates the Startup Label for companies under eight years old, with fewer than 100 staff and turnover or balance sheet below TND 15 million. Benefits include founder leave and a one-year grant, corporate tax exemption and state-paid social contributions during the label, a foreign-currency account, patent support and investor tax incentives. The label is not a financial licence: payment or lending activity still needs BCT approval.",
+   "summary_fr": "Crée le label startup pour les sociétés de moins de huit ans, de moins de 100 salariés et dont le chiffre d'affaires ou le bilan est inférieur à 15 millions de dinars. Avantages : congé et bourse d'un an pour les fondateurs, exonération d'impôt sur les sociétés et prise en charge des cotisations sociales par l'État, compte en devises, soutien aux brevets et incitations fiscales pour les investisseurs. Le label n'est pas un agrément financier.",
+   "topics": [
+    "startups",
+    "fx"
+   ],
+   "related_articles": [
+    "startup-act-tunisia-explained",
+    "how-to-raise-funding-tunisian-fintech",
+    "tunisia-foreign-exchange-code-reform"
+   ],
+   "replaces": null,
+   "source_url": "https://cmf.tn/sites/default/files/pdfs/reglementation/textes-reference/Loi2018_20%20%20sur%20les%20start%20up.pdf",
+   "source_name": "CMF (texte de la loi)"
+  },
+  {
+   "id": "bct-circular-2017-08",
+   "type": "bct-circular",
+   "reference": "Circular No. 2017-08",
+   "issuer": "BCT",
+   "title_en": "Customer identification and AML/CFT due diligence",
+   "title_fr": "Identification de la clientèle et vigilance LBC/FT",
+   "date": "2017",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "Still the reference for identity verification; e-KYC circulars require remote checks at least equivalent to it.",
+   "status_note_fr": "Toujours la référence pour la vérification d'identité ; les circulaires e-KYC exigent un niveau au moins équivalent.",
+   "summary_en": "BCT circular setting customer identification and due diligence rules for supervised institutions under the AML/CFT law. It remains the benchmark for verifying identity: Circular 2025-06 for banks and Circular 2026-10 for payment institutions allow remote onboarding only if the level of assurance is at least equivalent to the in-person checks it requires. Every fintech onboarding flow is measured against it.",
+   "summary_fr": "Circulaire de la BCT fixant les règles d'identification et de vigilance à l'égard de la clientèle pour les établissements assujettis à la loi LBC/FT. Elle reste la référence : la circulaire 2025-06 pour les banques et la circulaire 2026-10 pour les établissements de paiement n'autorisent l'entrée en relation à distance que si le niveau d'assurance est au moins équivalent aux vérifications en présentiel qu'elle impose.",
+   "topics": [
+    "kyc",
+    "banking"
+   ],
+   "related_articles": [
+    "ekyc-aml-tunisia",
+    "digital-banking-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://managers.tn/?p=92783",
+   "source_name": "Managers"
+  },
+  {
+   "id": "law-2016-48-banking",
+   "type": "law",
+   "reference": "Law No. 2016-48 of 11 July 2016",
+   "issuer": "Parliament",
+   "title_en": "Banks and financial institutions law, including payment institutions and Islamic banking",
+   "title_fr": "Loi relative aux banques et aux établissements financiers, dont les établissements de paiement et la finance islamique",
+   "date": "2016-07-11",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "In force; legal basis for bank and payment institution licences.",
+   "status_note_fr": "En vigueur ; base légale des agréments de banques et d'établissements de paiement.",
+   "summary_en": "Core banking law. It sets two-stage bank licensing by a committee chaired by the BCT governor, doubles minimum bank capital to TND 50 million, allows à la carte licences, creates a deposit guarantee fund, provides the first framework for Islamic banking and windows, and creates payment institutions (article 10 on services, article 20 on authorisation). There is no separate digital-bank licence, so neobanks need a full licence or the payment institution route.",
+   "summary_fr": "Loi bancaire de référence. Elle organise l'agrément des banques en deux étapes par une commission présidée par le gouverneur de la BCT, double le capital minimum à 50 millions de dinars, permet des agréments à la carte, crée un fonds de garantie des dépôts, encadre pour la première fois la finance islamique et crée les établissements de paiement (articles 10 et 20). Il n'existe pas d'agrément de banque numérique distinct.",
+   "topics": [
+    "banking",
+    "payments"
+   ],
+   "related_articles": [
+    "payment-institutions-tunisia",
+    "neobanks-tunisia",
+    "islamic-fintech-tunisia",
+    "bct-regulatory-sandbox"
+   ],
+   "replaces": null,
+   "source_url": "https://oxfordbusinessgroup.com/reports/tunisia/2017-report/economy/by-the-book-a-new-banking-law-provides-clearer-guidelines-for-investors-and-financial-institutions",
+   "source_name": "Oxford Business Group"
+  },
+  {
+   "id": "organic-law-2015-26-aml",
+   "type": "law",
+   "reference": "Organic Law No. 2015-26 of 7 August 2015, amended by Organic Law No. 2019-9 of 23 January 2019",
+   "issuer": "Parliament",
+   "title_en": "Anti-money laundering and counter-terrorist financing law",
+   "title_fr": "Loi relative à la lutte contre le terrorisme et à la répression du blanchiment d'argent",
+   "date": "2015-08-07",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "In force as amended in 2019. Tunisia faces a MENAFATF mutual evaluation in 2025-2026.",
+   "status_note_fr": "En vigueur telle que modifiée en 2019. La Tunisie fait l'objet d'une évaluation mutuelle du GAFIMOAN en 2025-2026.",
+   "summary_en": "Requires banks, payment institutions, brokers and other obliged entities to identify customers, monitor transactions and report suspicions to the CTAF, Tunisia's financial intelligence unit, via the goAML platform since 2021. Payment institutions' suspicious transaction reports rose from 4 in 2023 to 119 in 2024. With a MENAFATF evaluation underway, supervisors expect fintechs to run real transaction monitoring, not just onboarding checks.",
+   "summary_fr": "Impose aux banques, établissements de paiement, intermédiaires et autres assujettis d'identifier leurs clients, de surveiller les opérations et de déclarer leurs soupçons à la CTAF, la cellule de renseignement financier, via goAML depuis 2021. Les déclarations des établissements de paiement sont passées de 4 en 2023 à 119 en 2024. Avec l'évaluation du GAFIMOAN en cours, les superviseurs attendent des fintechs un vrai suivi des transactions.",
+   "topics": [
+    "kyc",
+    "payments",
+    "banking"
+   ],
+   "related_articles": [
+    "ekyc-aml-tunisia",
+    "payment-institutions-tunisia",
+    "crypto-regulation-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fur-tunisia-2020.html",
+   "source_name": "FATF",
+   "reference_fr": "Loi organique n° 2015-26 du 7 août 2015, modifiée par la loi organique n° 2019-9 du 23 janvier 2019"
+  },
+  {
+   "id": "decree-law-2011-117-microfinance",
+   "type": "decree-law",
+   "reference": "Decree-Law No. 2011-117 of 5 November 2011",
+   "issuer": "Presidency",
+   "title_en": "Microfinance institutions and creation of the ACM supervisor",
+   "title_fr": "Institutions de microfinance et création de l'autorité de contrôle (ACM)",
+   "date": "2011-11-05",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "In force; since late 2025 the ACM sets the reference rates used to judge excessive microcredit pricing.",
+   "status_note_fr": "En vigueur ; depuis fin 2025, l'ACM fixe les taux de référence servant à apprécier le caractère excessif des taux.",
+   "summary_en": "Organises microfinance through two families of lenders: licensed microfinance companies set up as public limited companies, and microfinance associations. It creates the Autorité de Contrôle de la Microfinance (ACM), an independent supervisor that licenses institutions and publishes sector data. The ACM also supervises donation-based crowdfunding. Fintechs building lending or credit-scoring tools for microfinance work within this framework.",
+   "summary_fr": "Organise la microfinance autour de deux familles : les sociétés de microfinance agréées, constituées en sociétés anonymes, et les associations de microcrédit. Il crée l'Autorité de Contrôle de la Microfinance (ACM), superviseur indépendant qui agrée les institutions et publie les données du secteur. L'ACM supervise aussi le financement participatif par dons. Les fintechs développant des outils de crédit ou de scoring pour la microfinance s'inscrivent dans ce cadre.",
+   "topics": [
+    "banking",
+    "crowdfunding"
+   ],
+   "related_articles": [
+    "microfinance-tunisia",
+    "financial-inclusion-tunisia",
+    "crowdfunding-law-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://www.leconomistemaghrebin.com/2025/12/29/microfinanceurs-et-clients-de-la-microfinance-ceci-vous-concerne/",
+   "source_name": "L'Economiste Maghrébin",
+   "reference_fr": "Décret-loi n° 2011-117 du 5 novembre 2011"
+  },
+  {
+   "id": "organic-law-2004-63-data",
+   "type": "law",
+   "reference": "Organic Law No. 2004-63 of 27 July 2004",
+   "issuer": "Parliament",
+   "title_en": "Personal data protection law",
+   "title_fr": "Loi organique relative à la protection des données à caractère personnel",
+   "date": "2004-07-27",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "In force, with Decrees 2007-3003 and 2007-3004. The INPDP has reportedly not operated since 2024; a replacement bill is in Parliament.",
+   "status_note_fr": "En vigueur, avec les décrets 2007-3003 et 2007-3004. L'INPDP ne fonctionnerait plus depuis 2024 ; une proposition de loi de remplacement est au Parlement.",
+   "summary_en": "Governs personal data processing, supervised by the INPDP. Most processing must be declared in advance; some needs prior authorisation. Transfers abroad require INPDP authorisation and an adequate destination, and unauthorised transfers carry one year in prison and a TND 5,000 fine. Disclosure to third parties needs express written consent. Fintechs hosting data on foreign cloud services or using biometrics are directly concerned.",
+   "summary_fr": "Encadre le traitement des données personnelles sous le contrôle de l'INPDP. La plupart des traitements doivent être déclarés au préalable, certains autorisés. Les transferts à l'étranger exigent l'autorisation de l'INPDP et un pays offrant une protection adéquate ; un transfert non autorisé est puni d'un an de prison et de 5 000 dinars d'amende. La communication à des tiers requiert un consentement écrit exprès. Les fintechs utilisant un cloud étranger ou la biométrie sont directement concernées.",
+   "topics": [
+    "data"
+   ],
+   "related_articles": [
+    "data-protection-tunisia-fintech",
+    "ekyc-aml-tunisia",
+    "open-banking-tunisia",
+    "ai-in-tunisian-banking",
+    "cybersecurity-financial-sector-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://bkassocies.tn/en/practical-guide-application-of-tunisian-legislation-on-personal-data-protection/",
+   "source_name": "Boussayen Knani & Associés"
+  },
+  {
+   "id": "law-1976-18-fx-code",
+   "type": "law",
+   "reference": "Law No. 76-18 of 21 January 1976",
+   "issuer": "Parliament",
+   "title_en": "Foreign Exchange and Foreign Trade Code",
+   "title_fr": "Code des changes et du commerce extérieur",
+   "date": "1976-01-21",
+   "in_force": null,
+   "status": "in_force",
+   "status_note_en": "In force, updated once in 1993 and supplemented by BCT circulars and the 2026 Finance Law. Replacement bill in committee.",
+   "status_note_fr": "En vigueur, actualisé une fois en 1993 et complété par des circulaires BCT et la loi de finances 2026. Proposition de remplacement en commission.",
+   "summary_en": "Tunisia's foreign exchange regime, built on prior BCT authorisation for many operations involving foreign currency or assets held abroad. For startups it complicates paying for foreign SaaS and cloud, receiving foreign revenue and opening subsidiaries abroad. It is also the main legal constraint on crypto: buying or holding crypto abroad can amount to an FX offence, as there is no dedicated crypto law.",
+   "summary_fr": "Régime de change tunisien, fondé sur l'autorisation préalable de la BCT pour de nombreuses opérations en devises ou sur des avoirs à l'étranger. Pour les startups, il complique le paiement de SaaS et de cloud étrangers, l'encaissement de revenus de l'étranger et la création de filiales. C'est aussi la principale contrainte juridique sur les crypto-actifs : en l'absence de loi dédiée, leur achat ou détention à l'étranger peut constituer une infraction de change.",
+   "topics": [
+    "fx",
+    "crypto",
+    "startups"
+   ],
+   "related_articles": [
+    "tunisia-foreign-exchange-code-reform",
+    "crypto-regulation-tunisia",
+    "diaspora-remittances-tunisia"
+   ],
+   "replaces": null,
+   "source_url": "https://www.lapresse.tn/2026/06/04/reglementation-de-change-un-nouveau-code-a-lexamen/",
+   "source_name": "La Presse de Tunisie"
+  }
+ ]
+}

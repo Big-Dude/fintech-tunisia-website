@@ -1,0 +1,69 @@
+{
+  "slug": "payvago",
+  "name": "Payvago",
+  "also_known_as": [],
+  "category": "wallet",
+  "website": null,
+  "founded": null,
+  "hq": null,
+  "status": "unclear",
+  "status_note": "Licensed in 2023 and admitted to the SIBTEL clearing system in May 2024; we found no public news on the company since then.",
+  "licences": [
+    {
+      "type": "bct-payment-institution",
+      "label_en": "Licensed payment institution (BCT)",
+      "label_fr": "Établissement de paiement agréé (BCT)",
+      "date": "2023-02",
+      "source_url": "https://managers.tn/2023/08/02/payvago-de-pgh-la-revolution-des-paiements-mobiles/"
+    }
+  ],
+  "funding": [],
+  "people": [],
+  "en": {
+    "tagline": "Poulina Group's payment institution offering a mobile wallet and agent services",
+    "description": "Payvago is a mobile payment company and subsidiary of Poulina Group Holding (PGH), the Tunisian industrial group. Managers reported in March 2023 that Poulina planned to launch its own payment institution. According to a company announcement published in August 2023, Payvago has been approved by the Central Bank of Tunisia (BCT) as a payment institution since 2 February 2023, and its mobile payment solution was then fully operational. The announcement listed cash-in and cash-out, merchant payments, bill payments, wallet-to-wallet transfers (agent-assisted or direct) and mobile phone top-ups, with wallets that can be opened remotely. It said its payment services were approved by the Société Monétique Tunisie (SMT) and connected in real time to the national switch. In May 2024 the BCT admitted Payvago, alongside Zitouna Pay, as a participant in the SIBTEL interbank clearing system, which lets it clear transactions with banks directly. Payvago has not published user or transaction figures that we could find, and we found no news about the company after May 2024, so its current activity level is listed as unclear.",
+    "products": [
+      "Mobile wallet with remote account opening",
+      "Cash-in/cash-out via agents",
+      "Merchant and bill payments",
+      "Wallet-to-wallet transfers and top-ups"
+    ]
+  },
+  "fr": {
+    "tagline": "L'établissement de paiement du groupe Poulina : wallet mobile et services via agents",
+    "description": "Payvago est une société de paiement mobile, filiale de Poulina Group Holding (PGH), groupe industriel tunisien. Managers rapportait en mars 2023 que Poulina comptait lancer son propre établissement de paiement. Selon un communiqué publié en août 2023, Payvago est agréé par la Banque centrale de Tunisie (BCT) comme établissement de paiement depuis le 2 février 2023, et sa solution de paiement mobile était alors pleinement opérationnelle. Le communiqué citait le cash-in et le cash-out, le paiement marchand, le paiement de factures, les transferts de wallet à wallet (directs ou via un agent) et les recharges téléphoniques, avec des wallets pouvant être ouverts à distance. Il indiquait que ses services de paiement étaient homologués par la Société Monétique Tunisie (SMT) et connectés en temps réel au switch national. En mai 2024, la BCT a admis Payvago, aux côtés de Zitouna Pay, comme participant au système de télécompensation interbancaire SIBTEL, ce qui lui permet de compenser directement avec les banques. Payvago n'a pas publié de chiffres d'utilisateurs ou de transactions à notre connaissance, et nous n'avons trouvé aucune actualité de l'entreprise après mai 2024 : son niveau d'activité actuel est donc indiqué comme incertain.",
+    "products": [
+      "Wallet mobile avec ouverture de compte à distance",
+      "Cash-in/cash-out via agents",
+      "Paiement marchand et de factures",
+      "Transferts entre wallets et recharges"
+    ]
+  },
+  "related_articles": [
+    "tunisia-fintech-ecosystem-map",
+    "payment-institutions-tunisia"
+  ],
+  "sources": [
+    {
+      "title": "Payvago de PGH : la révolution des paiements mobiles",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2023/08/02/payvago-de-pgh-la-revolution-des-paiements-mobiles/"
+    },
+    {
+      "title": "Poulina va lancer son propre établissement de paiement",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2023/03/08/poulina-va-lancer-son-propre-etablissement-de-paiement"
+    },
+    {
+      "title": "Zitouna Pay and Payvago join Tunisian interbank clearing system",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2024/05/02/zitouna-pay-and-payvago-join-tunisian-interbank-clearing-system/"
+    },
+    {
+      "title": "Zitouna Pay et Payvago intègrent le système tunisien de télécompensation interbancaire",
+      "publisher": "Kapitalis",
+      "url": "https://kapitalis.com/tunisie/?p=12671441"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

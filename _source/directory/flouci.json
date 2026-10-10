@@ -1,0 +1,122 @@
+{
+  "slug": "flouci",
+  "name": "Flouci",
+  "also_known_as": [
+    "Kaoun",
+    "Flouci by Kaoun"
+  ],
+  "category": "wallet",
+  "website": "https://www.flouci.com",
+  "founded": 2018,
+  "hq": "Tunis",
+  "status": "active",
+  "status_note": "Kaoun, the company behind Flouci, was founded in 2018 (We Are Tech Africa); the Flouci app launched in 2020, the founding year Forbes Middle East uses.",
+  "licences": [
+    {
+      "type": "other",
+      "label_en": "Payment facilitator authorised by the BCT (company statement)",
+      "label_fr": "Facilitateur de paiement autorisé par la BCT (selon l'entreprise)",
+      "date": null,
+      "source_url": "https://www.forbesmiddleeast.com/lists/the-middle-easts-fintech-50-2025/flouci-by-kaoun/"
+    },
+    {
+      "type": "partner-bank",
+      "label_en": "Accounts held with partner banks (Attijari Bank, BTE)",
+      "label_fr": "Comptes tenus par des banques partenaires (Attijari Bank, BTE)",
+      "date": "2020-11",
+      "source_url": "https://managers.tn/2020/11/10/attijari-bank-lance-un-nouveau-service-de-paiement-mobile-via-lapplication-flouci/"
+    }
+  ],
+  "funding": [
+    {
+      "date": null,
+      "round": "Cumulative (various rounds)",
+      "amount": "$2M+",
+      "investors": [
+        "Launch Africa Ventures",
+        "Rally Cap VC",
+        "Musha Ventures"
+      ],
+      "source_url": "https://www.forbesmiddleeast.com/lists/30-under-30-2024/nebras-jemel-anis-kallel/"
+    }
+  ],
+  "people": [
+    {
+      "name": "Anis Kallel",
+      "role": "Co-founder",
+      "source_url": "https://www.forbesmiddleeast.com/lists/30-under-30-2024/nebras-jemel-anis-kallel/"
+    },
+    {
+      "name": "Nebras Jemel",
+      "role": "Co-founder",
+      "source_url": "https://www.forbesmiddleeast.com/lists/30-under-30-2024/nebras-jemel-anis-kallel/"
+    },
+    {
+      "name": "Rostom Bouazizi",
+      "role": "Co-founder",
+      "source_url": "https://www.wearetech.africa/fr/fils/solutions/en-tunisie-flouci-se-mue-en-banque-mobile-pour-faciliter-les-transactions-financieres-grace-a-la-blockchain"
+    }
+  ],
+  "en": {
+    "tagline": "Mobile wallet and app-based partner-bank accounts, plus a merchant payment gateway",
+    "description": "Flouci is a Tunisian payments app built by the startup Kaoun, founded in 2018. Kaoun started with remote identity verification for TunTrust electronic signatures before launching Flouci in 2020. In November 2020 Attijari Bank launched an online account and a linked Flouci wallet; BTE launched its own offer through the app in June 2022, connected to the national mobile payment switch. Flouci is not a bank: accounts are held by partner banks, and the company describes itself as a payment facilitator authorised by the Central Bank of Tunisia (BCT). The app offers accounts with an IBAN, dinar cards, transfers by phone number or QR code, cardless ATM withdrawals, bill payments and top-ups. For merchants, Flouci runs an online payment gateway with plugins for WooCommerce, PrestaShop and Converty, and a native Shopify plugin since June 2026. Monoprix began accepting Flouci QR payments in March 2025, and Orange Tunisie integrated the wallet into its Max It app in April 2025. Forbes Middle East reported 67,000 active users and $91.2 million in processed transactions as of December 2024; in June 2026 the company cited more than 140,000 accounts opened since launch. Forbes Middle East also reported more than $2 million raised from investors including Launch Africa Ventures.",
+    "products": [
+      "Mobile wallet (P2P transfers, QR payments, bill payments)",
+      "Partner-bank accounts and dinar cards",
+      "Online payment gateway and e-commerce plugins",
+      "Merchant QR acceptance in stores"
+    ]
+  },
+  "fr": {
+    "tagline": "Wallet mobile, comptes bancaires partenaires et passerelle de paiement marchande",
+    "description": "Flouci est une application de paiement tunisienne développée par la startup Kaoun, fondée en 2018. L'application Flouci a été lancée en 2020. En novembre 2020, Attijari Bank a lancé un compte en ligne et un wallet Flouci associé ; la BTE a lancé sa propre offre via l'application en juin 2022, connectée au switch national de paiement mobile. Flouci n'est pas une banque : les comptes sont tenus par des banques partenaires, et l'entreprise se présente comme facilitateur de paiement autorisé par la Banque centrale de Tunisie (BCT). L'application propose des comptes avec IBAN, des cartes en dinars, des transferts par numéro de téléphone ou QR code, des retraits sans carte aux distributeurs, le paiement de factures et les recharges. Côté marchands, Flouci exploite une passerelle de paiement en ligne avec des plugins WooCommerce, PrestaShop et Converty, et un plugin Shopify natif depuis juin 2026. Monoprix accepte les paiements QR Flouci depuis mars 2025, et Orange Tunisie a intégré le wallet à son application Max It en avril 2025. Selon Forbes Middle East, Flouci comptait 67 000 utilisateurs actifs fin 2024 ; en juin 2026, l'entreprise revendiquait plus de 140 000 comptes ouverts. Forbes Middle East fait aussi état de plus de 2 millions de dollars levés, notamment auprès de Launch Africa Ventures.",
+    "products": [
+      "Wallet mobile (transferts P2P, paiement QR, factures)",
+      "Comptes et cartes en dinars via des banques partenaires",
+      "Passerelle de paiement en ligne et plugins e-commerce",
+      "Acceptation QR en magasin"
+    ]
+  },
+  "related_articles": [
+    "flouci-profile",
+    "mobile-payments-tunisia",
+    "ecommerce-payments-tunisia",
+    "instant-payments-tunisia",
+    "tunisia-fintech-ecosystem-map",
+    "la-poste-tunisienne-e-dinar-d17",
+    "paymee-profile"
+  ],
+  "sources": [
+    {
+      "title": "Flouci (by Kaoun) – The Middle East's Fintech 50 2025",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/the-middle-easts-fintech-50-2025/flouci-by-kaoun/"
+    },
+    {
+      "title": "Nebras Jemel and Anis Kallel – 30 Under 30 2024",
+      "publisher": "Forbes Middle East",
+      "url": "https://www.forbesmiddleeast.com/lists/30-under-30-2024/nebras-jemel-anis-kallel/"
+    },
+    {
+      "title": "En Tunisie, Flouci se mue en banque mobile",
+      "publisher": "We Are Tech Africa",
+      "url": "https://www.wearetech.africa/fr/fils/solutions/en-tunisie-flouci-se-mue-en-banque-mobile-pour-faciliter-les-transactions-financieres-grace-a-la-blockchain"
+    },
+    {
+      "title": "Attijari bank lance un nouveau service de paiement mobile via l'application Flouci",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2020/11/10/attijari-bank-lance-un-nouveau-service-de-paiement-mobile-via-lapplication-flouci/"
+    },
+    {
+      "title": "Tunisie : Flouci lance un plugin de paiement natif pour Shopify",
+      "publisher": "Entreprises Magazine",
+      "url": "https://www.entreprises-magazine.com/tunisie-flouci-lance-un-plugin-de-paiement-natif-pour-shopify-une-premiere-sur-le-marche/"
+    },
+    {
+      "title": "Orange Tunisie et Flouci : un partenariat stratégique",
+      "publisher": "Challenges TN",
+      "url": "https://www.challenges.tn/high-tech/orange-tunisie-et-flouci-un-partenariat-strategique-pour-dynamiser-le-marche-du-paiement-mobile-et-accelerer-linclusion-financiere-en-tunisie/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

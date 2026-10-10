@@ -1,0 +1,59 @@
+{
+  "slug": "taysir-microfinance",
+  "name": "Taysir Microfinance",
+  "also_known_as": [
+    "Taysir"
+  ],
+  "category": "lending",
+  "website": null,
+  "founded": 2014,
+  "hq": "Tunis",
+  "status": "active",
+  "status_note": "Listed as a reference institution: a licensed microfinance company rather than a fintech startup.",
+  "licences": [
+    {
+      "type": "other",
+      "label_en": "Microfinance company authorised by the Ministry of Finance, supervised by the ACM",
+      "label_fr": "Institution de microfinance autorisée par le ministère des Finances, supervisée par l'ACM",
+      "date": "2014-03",
+      "source_url": "https://www.webmanagercenter.com/2014/05/22/150413/tunisie-finances-lancement-des-activites-de-taysir-microfinance-et-taysir-conseil/"
+    }
+  ],
+  "funding": [],
+  "people": [],
+  "en": {
+    "tagline": "Licensed microfinance company lending to small entrepreneurs in underserved regions",
+    "description": "Taysir Microfinance is a Tunisian microfinance company that started operating in 2014 after receiving authorisation from the Ministry of Finance on 28 March 2014. At launch, Tunisian shareholders held more than 80% of its capital, including several banks, insurers and leasing companies, alongside ADIE International and Crédit Coopératif; it was created together with Taysir Conseil, which provides support services to borrowers. Its first branches opened in Le Kef, Siliana, Béni Khaled and Ibn Khaldoun, reflecting a focus on disadvantaged regions and neighbourhoods. According to the summary of its 2024 bond prospectus reported by L'Economiste Maghrébin, Taysir is now majority-owned by the Horchani Group and operated 26 branches; 46% of its financing went to women, 42% to young people and 74% to regional development zones. Unlike most microlenders, Taysir taps the bond market to fund growth: its 2024 public issue targeted TND 30 million, expandable to TND 40 million, at a fixed rate of about 11%. MicroRate gave it a β+ rating. It is supervised by the Autorité de contrôle de la microfinance (ACM). It is included here as a reference credit institution rather than as a fintech startup.",
+    "products": [
+      "Microloans for micro-enterprises",
+      "Financing for women and young entrepreneurs",
+      "Support services via Taysir Conseil"
+    ]
+  },
+  "fr": {
+    "tagline": "Institution de microfinance agréée qui finance les petits entrepreneurs des régions",
+    "description": "Taysir Microfinance est une institution tunisienne de microfinance qui a démarré ses activités en 2014, après avoir obtenu l'autorisation du ministère des Finances le 28 mars 2014. À son lancement, plus de 80 % du capital était détenu par des actionnaires tunisiens, dont plusieurs banques, assureurs et sociétés de leasing, aux côtés de l'ADIE International et du Crédit Coopératif ; elle a été créée en même temps que Taysir Conseil, chargée de l'accompagnement des emprunteurs. Ses premières agences ont ouvert au Kef, à Siliana, à Béni Khaled et à Ibn Khaldoun, signe d'un ciblage des régions et quartiers défavorisés. Selon le résumé de son prospectus obligataire 2024 relayé par L'Economiste Maghrébin, Taysir est désormais détenue majoritairement par le groupe Horchani et comptait 26 agences ; 46 % de ses financements allaient aux femmes, 42 % aux jeunes et 74 % aux zones de développement régional. Fait rare pour une institution de microfinance, Taysir se finance sur le marché obligataire : son emprunt public de 2024 visait 30 millions de dinars, extensibles à 40 millions, à un taux fixe d'environ 11 %. MicroRate lui a attribué la note β+. Elle est supervisée par l'Autorité de contrôle de la microfinance (ACM). Elle figure ici comme institution de crédit de référence plutôt que comme startup fintech.",
+    "products": [
+      "Microcrédits aux micro-entreprises",
+      "Financements pour femmes et jeunes entrepreneurs",
+      "Accompagnement via Taysir Conseil"
+    ]
+  },
+  "related_articles": [
+    "microfinance-tunisia",
+    "women-financial-inclusion-tunisia"
+  ],
+  "sources": [
+    {
+      "title": "Tunisie – Finances : lancement des activités de Taysir Microfinance et Taysir Conseil",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2014/05/22/150413/tunisie-finances-lancement-des-activites-de-taysir-microfinance-et-taysir-conseil/"
+    },
+    {
+      "title": "Taysir Microfinance en quête de 40 MTND sur le marché obligataire",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2024/07/24/taysir-microfinance-en-quete-de-40-mtnd-sur-le-marche-obligataire/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

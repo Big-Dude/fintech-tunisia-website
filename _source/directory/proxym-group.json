@@ -1,0 +1,63 @@
+{
+  "slug": "proxym-group",
+  "name": "Proxym Group",
+  "also_known_as": [
+    "Proxym",
+    "Proxym IT",
+    "Bankerise"
+  ],
+  "category": "banking-tech",
+  "website": null,
+  "founded": 2006,
+  "hq": null,
+  "status": "active",
+  "status_note": null,
+  "licences": [],
+  "funding": [],
+  "people": [
+    {
+      "name": "Wassel Berrayana",
+      "role": "Founder & CEO",
+      "source_url": "https://www.wearetech.africa/fr/fils/tech-stars/le-tunisien-wassel-berrayana-concoit-des-solutions-numeriques-pour-les-institutions-financieres-et-gouvernementales"
+    }
+  ],
+  "en": {
+    "tagline": "Digital banking platforms and services for banks, microfinance and insurers",
+    "description": "Proxym Group is a Tunisian-founded digital services and software company created in 2006 by Wassel Berrayana, who leads it as chairman and CEO. It builds digital channels and information systems for banks, microfinance institutions, insurers and government bodies. Its main fintech product is Bankerise, a digital banking engagement platform sold through a subsidiary of the same name, with ready-made modules such as retail banking apps that aim to help financial institutions launch services faster and meet regulatory requirements. According to We Are Tech Africa, the group has more than 250 digital consultants in five centres of excellence and works in more than 20 countries across Europe, the Middle East and Africa; it says it has delivered more than 400 digital projects. The Fintech Times reported customers among banks in France, the Middle East, North Africa and sub-Saharan Africa, including Egypt and Tunisia. Berrayana is a regular voice in the Tunisian debate on bank digitalisation; at a February 2025 banking forum in Tunis he said Tunisian institutions lag behind several African peers in digital banking services. Client names and financial figures are not published; the figures above are the company's own.",
+    "products": [
+      "Bankerise digital banking platform",
+      "Mobile and web banking apps",
+      "Digital transformation services for financial institutions"
+    ]
+  },
+  "fr": {
+    "tagline": "Banque digitale et services numériques pour banques, microfinance et assureurs",
+    "description": "Proxym Group est une entreprise de services numériques et d'édition logicielle d'origine tunisienne, créée en 2006 par Wassel Berrayana, qui la dirige en tant que président-directeur général. Elle conçoit des canaux digitaux et des systèmes d'information pour les banques, les institutions de microfinance, les assureurs et les administrations. Son principal produit fintech est Bankerise, plateforme d'engagement pour la banque digitale commercialisée par une filiale du même nom, avec des modules prêts à l'emploi, comme des applications de banque de détail, pour aider les établissements à lancer plus vite leurs services et à respecter les exigences réglementaires. Selon We Are Tech Africa, le groupe compte plus de 250 consultants digitaux répartis dans cinq centres d'excellence et intervient dans plus de 20 pays d'Europe, du Moyen-Orient et d'Afrique ; il revendique plus de 400 projets digitaux. The Fintech Times cite des clients parmi des banques en France, au Moyen-Orient, en Afrique du Nord et en Afrique subsaharienne, notamment en Égypte et en Tunisie. Wassel Berrayana intervient régulièrement dans le débat sur la digitalisation bancaire : lors d'un forum à Tunis en février 2025, il estimait que les institutions tunisiennes sont en retard sur plusieurs pays africains. Les noms de clients et les chiffres financiers ne sont pas publiés ; les données ci-dessus sont celles de l'entreprise.",
+    "products": [
+      "Plateforme de banque digitale Bankerise",
+      "Applications bancaires mobiles et web",
+      "Services de transformation digitale pour institutions financières"
+    ]
+  },
+  "related_articles": [
+    "digital-banking-tunisia"
+  ],
+  "sources": [
+    {
+      "title": "Le Tunisien Wassel Berrayana conçoit des solutions numériques pour les institutions financières et gouvernementales",
+      "publisher": "We Are Tech Africa",
+      "url": "https://www.wearetech.africa/fr/fils/tech-stars/le-tunisien-wassel-berrayana-concoit-des-solutions-numeriques-pour-les-institutions-financieres-et-gouvernementales"
+    },
+    {
+      "title": "How Proxym Group is empowering MENA banks to compete like fintechs",
+      "publisher": "The Fintech Times",
+      "url": "https://thefintechtimes.com/how-proxym-group-is-empowering-mena-banks-to-compete-like-fintechs"
+    },
+    {
+      "title": "Les banques tunisiennes font face à de nombreux défis, selon Berrayana",
+      "publisher": "African Manager",
+      "url": "https://africanmanager.com/les-banques-tunisiennes-font-face-a-de-nombreux-defis-selon-berrayana/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

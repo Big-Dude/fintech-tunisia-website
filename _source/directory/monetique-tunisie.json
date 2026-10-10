@@ -1,0 +1,80 @@
+{
+  "slug": "monetique-tunisie",
+  "name": "Société Monétique Tunisie (SMT)",
+  "also_known_as": [
+    "SMT",
+    "Monétique Tunisie",
+    "ClicToPay"
+  ],
+  "category": "infrastructure",
+  "website": null,
+  "founded": 1999,
+  "hq": "Tunis",
+  "status": "active",
+  "status_note": null,
+  "licences": [],
+  "funding": [],
+  "people": [],
+  "en": {
+    "tagline": "National card switch, ClicToPay e-commerce platform and mobile payment switch",
+    "description": "The Société Monétique Tunisie (SMT) is the company behind Tunisia's shared card payment infrastructure. It was created in 1999 with a mission to develop card payments among Tunisians and card acceptance for foreign visitors. SMT acts as the national card switch, routing card transactions between banks. It also operates ClicToPay, the online payment platform that banks offer to their merchants. Merchants apply through their bank rather than to SMT directly; ClicToPay accepts Tunisian CIB cards and local and foreign Visa and Mastercard, and fees are set by each bank. UNCTAD counted about 1,800 ClicToPay merchant sites at the end of 2020, handling 4.8 million transactions worth about 275 million dinars. In 2019 SMT selected the Moroccan vendor HPS to build an interoperable mobile payment platform, which became the basis of the national mobile payment switch launched by the Central Bank of Tunisia (BCT) with seven banks in June 2022. In May 2026 the BCT announced TUNPAY, a national mobile payment label designed with SMT, which wallet issuers are asked to display in apps and at acceptance points. Several fintech gateways, including Paymee, have processed card payments through SMT's platform.",
+    "products": [
+      "National interbank card switch",
+      "ClicToPay online payment platform (via banks)",
+      "National mobile payment switch",
+      "TUNPAY label (with the BCT)"
+    ]
+  },
+  "fr": {
+    "tagline": "Switch monétique national, plateforme e-commerce ClicToPay et switch de paiement mobile",
+    "description": "La Société Monétique Tunisie (SMT) est l'entreprise qui porte l'infrastructure commune de paiement par carte en Tunisie. Créée en 1999, elle a pour mission de développer l'usage de la carte de paiement chez les Tunisiens et son acceptation pour les visiteurs étrangers. La SMT joue le rôle de switch monétique national, en acheminant les transactions par carte entre banques. Elle exploite aussi ClicToPay, la plateforme de paiement en ligne que les banques proposent à leurs commerçants. Le commerçant passe par sa banque et non directement par la SMT ; ClicToPay accepte les cartes CIB tunisiennes ainsi que les cartes Visa et Mastercard locales et étrangères, et les frais sont fixés par chaque banque. La CNUCED recensait environ 1 800 sites marchands ClicToPay fin 2020, pour 4,8 millions de transactions et environ 275 millions de dinars. En 2019, la SMT a retenu l'éditeur marocain HPS pour bâtir une plateforme de paiement mobile interopérable, socle du switch national de paiement mobile lancé par la Banque centrale de Tunisie (BCT) avec sept banques en juin 2022. En mai 2026, la BCT a annoncé TUNPAY, label national de paiement mobile conçu avec la SMT, que les émetteurs de wallets doivent afficher dans leurs applications et points d'acceptation. Plusieurs passerelles fintech, dont Paymee, ont traité des paiements par carte via la plateforme de la SMT.",
+    "products": [
+      "Switch monétique interbancaire national",
+      "Plateforme de paiement en ligne ClicToPay (via les banques)",
+      "Switch national de paiement mobile",
+      "Label TUNPAY (avec la BCT)"
+    ]
+  },
+  "related_articles": [
+    "ecommerce-payments-tunisia",
+    "instant-payments-tunisia",
+    "mobile-payments-tunisia",
+    "la-poste-tunisienne-e-dinar-d17",
+    "paymee-profile",
+    "open-banking-tunisia",
+    "digital-banking-tunisia"
+  ],
+  "sources": [
+    {
+      "title": "Le paiement électronique en Tunisie : réalités et perspectives",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2007/11/19/35729/le-paiement-electronique-en-tunisie-realites-et-perspectives/"
+    },
+    {
+      "title": "Mobile Payment : Monétique Tunisie choisit la solution de l'éditeur marocain HPS",
+      "publisher": "Ilboursa",
+      "url": "https://www.ilboursa.com/marches/mobile-payment-monetique-tunisie-choisit-la-solution-de-l-editeur-marocain-hps_16646"
+    },
+    {
+      "title": "La Tunisie lance sa solution de paiement mobile : explications",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2022/06/21/488419/la-tunisie-lance-sa-solution-de-paiement-mobile-explications/"
+    },
+    {
+      "title": "Paiement en ligne en Tunisie : accepter la carte sur son site",
+      "publisher": "Novahoster",
+      "url": "https://www.novahoster.tn/blog/paiement-en-ligne-tunisie-site-web/"
+    },
+    {
+      "title": "La BCT lance le label unifié « TUNPAY » pour le paiement mobile",
+      "publisher": "Business News",
+      "url": "https://businessnews.com.tn/2026/05/06/la-bct-lance-le-label-unifie-tunpay-pour-le-paiement-mobile/1400181/"
+    },
+    {
+      "title": "Paiement mobile : la Tunisie lance le label « TUNPAY » pour structurer l'écosystème",
+      "publisher": "We Are Tech Africa",
+      "url": "https://www.wearetech.africa/fr/fils/actualites/tech/paiement-mobile-la-tunisie-lance-le-label-tunpay-pour-structurer-l-ecosysteme"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

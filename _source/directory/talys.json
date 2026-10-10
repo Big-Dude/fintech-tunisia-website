@@ -1,0 +1,64 @@
+{
+  "slug": "talys",
+  "name": "Talys",
+  "also_known_as": [
+    "Talys Group",
+    "Talys Solutions"
+  ],
+  "category": "banking-tech",
+  "website": null,
+  "founded": null,
+  "hq": null,
+  "status": "active",
+  "status_note": "Not to be confused with Groupe Talys, an unrelated Madagascar-based retail group.",
+  "licences": [],
+  "funding": [],
+  "people": [],
+  "en": {
+    "tagline": "Consulting and credit-management software for banks and microfinance institutions",
+    "description": "Talys is a consulting and software group that works with financial institutions; its software is developed in Tunisia. Its main product is ICM (Intelligent Credit Management), a platform that digitises the credit lifecycle, from onboarding, online applications, scoring and AML/CFT screening to disbursement, monitoring, recovery and litigation, with a configurable rules engine that can handle Islamic finance products. Talys says it has worked with financial institutions for more than 18 years, in Africa, Europe and the Middle East, and in 2024 described itself as the technology partner of more than 200 financial institutions in over 20 countries; these figures are the company's own. In Tunisia it has become a key supplier to the microfinance sector. In June 2024 Microcred deployed its credit platform alongside Fern Software's Abacus system, and Enda Tamweel chose Talys to implement the MEGA HOPEX governance, risk and compliance suite. In June 2025 Islamic microfinance institution Zitouna Tamkeen went live on ICM. Besides software, Talys offers consulting on information-system strategy, enterprise architecture, data governance, process re-engineering and risk mapping. TALYS Group was also an investor in the October 2025 pre-seed round of the Tunisian fintech PAYDAY.",
+    "products": [
+      "ICM credit lifecycle platform",
+      "Scoring, AML/CFT screening and recovery modules",
+      "Governance, risk and compliance integration",
+      "IT strategy and data consulting"
+    ]
+  },
+  "fr": {
+    "tagline": "Conseil et logiciels de gestion du crédit pour banques et institutions de microfinance",
+    "description": "Talys est un groupe de conseil et d'édition de logiciels au service des institutions financières ; ses solutions sont développées en Tunisie. Son produit phare, ICM (Intelligent Credit Management), digitalise tout le cycle du crédit : entrée en relation, demande en ligne, scoring, filtrage LBA/FT, décaissement, suivi, recouvrement et contentieux, avec un moteur de règles paramétrable capable de gérer les produits de la finance islamique. Talys indique accompagner des institutions financières depuis plus de 18 ans, en Afrique, en Europe et au Moyen-Orient, et se présentait en 2024 comme partenaire technologique de plus de 200 institutions dans plus de 20 pays ; ces chiffres sont ceux de l'entreprise. En Tunisie, elle est devenue un fournisseur clé de la microfinance. En juin 2024, Microcred a déployé sa plateforme de crédit aux côtés du système Abacus de Fern Software, et Enda Tamweel a retenu Talys pour mettre en place la suite de gouvernance, risques et conformité MEGA HOPEX. En juin 2025, l'institution de microfinance islamique Zitouna Tamkeen a basculé sur ICM. Talys propose aussi du conseil : schémas directeurs, architecture d'entreprise, gouvernance des données, refonte des processus et cartographie des risques. TALYS Group a par ailleurs participé au tour de pré-amorçage de la fintech tunisienne PAYDAY en octobre 2025.",
+    "products": [
+      "Plateforme ICM de gestion du cycle du crédit",
+      "Modules de scoring, filtrage LBA/FT et recouvrement",
+      "Intégration gouvernance, risques et conformité",
+      "Conseil en SI et en données"
+    ]
+  },
+  "related_articles": [
+    "ai-in-tunisian-banking",
+    "islamic-fintech-tunisia"
+  ],
+  "sources": [
+    {
+      "title": "Talys : la transformation boostée par l'IA",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/02/12/talys-la-transformation-boostee-par-lia/"
+    },
+    {
+      "title": "Zitouna Tamkeen lance son nouveau système d'information avec la plateforme ICM de Talys",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2025/06/19/zitouna-tamkeen-lance-nouveau-systeme-dinformation-plateforme-icm-talys-digitaliser-gestion-financements-microfinance-islamique/"
+    },
+    {
+      "title": "Pour digitaliser ses services, Microcred s'associe à Talys",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2024/06/25/pour-digitaliser-ses-services-microcred-sassocie-a-talys"
+    },
+    {
+      "title": "Press release: Enda Tamweel and Talys",
+      "publisher": "Enda Tamweel",
+      "url": "https://www.endatamweel.tn/wp-content/uploads/2024/06/Press-Release-Enda-Talys.pdf"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

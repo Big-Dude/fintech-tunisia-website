@@ -1,0 +1,60 @@
+{
+  "slug": "axe-finance",
+  "name": "Axe Finance",
+  "also_known_as": [
+    "ACP",
+    "Axe Credit Portal"
+  ],
+  "category": "banking-tech",
+  "website": "https://www.axefinance.com",
+  "founded": 2004,
+  "hq": null,
+  "status": "active",
+  "status_note": "Founded by a Tunisian entrepreneur and long based in Tunis (Wamda, 2011); its 2025 Singapore FinTech Festival listing gives the United Kingdom as its main country of business.",
+  "licences": [],
+  "funding": [],
+  "people": [
+    {
+      "name": "Dhafer Berrachid",
+      "role": "Founder",
+      "source_url": "https://www.wamda.com/en/2011/10/the-benefits-of-moving-back-home-tunisias-axe-finance"
+    }
+  ],
+  "en": {
+    "tagline": "Credit lifecycle automation software (Axe Credit Portal) for banks",
+    "description": "Axe Finance is a software company founded in 2004 that automates lending and credit risk processes for banks and other lenders. It was founded by Tunisian entrepreneur and software engineer Dhafer Berrachid, initially to provide consulting to European banks; Wamda reported in 2011 that he had moved the company from France to Tunis, from where it served clients in the Middle East, North Africa and sub-Saharan Africa, with STB among its early software clients. Its flagship product, the Axe Credit Portal (ACP), covers the credit lifecycle from KYC and origination to scoring, automated decisions and servicing, for retail, commercial, corporate, financial-institution and sovereign lending. The company says ACP also supports microfinance, buy now pay later, embedded finance, Islamic finance and green loans, and can be deployed on premises, as SaaS or in the cloud. Its 2025 Singapore FinTech Festival exhibitor listing names Société Générale, OTP Group, Bangkok Bank, Permata Bank and ADCB among the banks using its software. Axe Finance is a B2B software vendor and does not lend to the public. Its current headquarters and funding are not documented in the sources we found.",
+    "products": [
+      "Axe Credit Portal (ACP) lending platform",
+      "Credit scoring and automated decisioning",
+      "Retail, SME and corporate loan origination"
+    ]
+  },
+  "fr": {
+    "tagline": "Logiciel d'automatisation du cycle de crédit (Axe Credit Portal) pour les banques",
+    "description": "Axe Finance est un éditeur de logiciels fondé en 2004 qui automatise les processus de crédit et de gestion du risque des banques et autres prêteurs. Il a été créé par Dhafer Berrachid, entrepreneur et ingénieur logiciel tunisien, d'abord pour proposer du conseil aux banques européennes ; Wamda rapportait en 2011 qu'il avait transféré l'entreprise de France à Tunis, d'où elle servait des clients au Moyen-Orient, en Afrique du Nord et en Afrique subsaharienne, la STB figurant parmi ses premiers clients logiciels. Son produit phare, l'Axe Credit Portal (ACP), couvre le cycle du crédit, du KYC et de l'instruction au scoring, à la décision automatisée et à la gestion des prêts, pour le crédit aux particuliers, aux PME, aux grandes entreprises, aux institutions financières et aux États. Selon l'entreprise, ACP gère aussi la microfinance, le paiement fractionné, le financement intégré, la finance islamique et les prêts verts, en mode local, SaaS ou cloud. Sa fiche d'exposant au Singapore FinTech Festival 2025 cite Société Générale, OTP Group, Bangkok Bank, Permata Bank et ADCB parmi les banques utilisatrices. Axe Finance est un éditeur B2B et ne prête pas au public. Son siège actuel et son financement ne sont pas documentés dans les sources consultées.",
+    "products": [
+      "Plateforme de crédit Axe Credit Portal (ACP)",
+      "Scoring et décision automatisée",
+      "Instruction de crédits particuliers, PME et entreprises"
+    ]
+  },
+  "related_articles": [],
+  "sources": [
+    {
+      "title": "The benefits of moving back home: Tunisia's Axe Finance",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/2011/10/the-benefits-of-moving-back-home-tunisias-axe-finance"
+    },
+    {
+      "title": "Axe Finance – exhibitor profile",
+      "publisher": "Singapore FinTech Festival",
+      "url": "https://www.fintechfestival.sg/2025-exhibitors/axefinance"
+    },
+    {
+      "title": "4 Tunisia-based fintechs transforming the African finance industry",
+      "publisher": "IBS Intelligence",
+      "url": "https://ibsintelligence.com/ibsi-news/4-tunisia-based-fintechs-transforming-the-african-finance-industry"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

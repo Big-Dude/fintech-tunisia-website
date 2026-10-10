@@ -1,0 +1,130 @@
+{
+  "slug": "konnect-networks",
+  "name": "Konnect Networks",
+  "also_known_as": [
+    "Konnect"
+  ],
+  "category": "infrastructure",
+  "website": "https://new.konnect.network/",
+  "founded": 2021,
+  "hq": "Tunis",
+  "status": "active",
+  "status_note": null,
+  "licences": [
+    {
+      "type": "other",
+      "label_en": "Payment facilitator licensed by the BCT (company statement; says it was the first)",
+      "label_fr": "Facilitateur de paiement agréé par la BCT (selon l'entreprise, le premier)",
+      "date": null,
+      "source_url": "https://www.wamda.com/2025/05/attijariwafa-ventures-backs-tunisian-fintech-konnect-multi-investor-round"
+    }
+  ],
+  "funding": [
+    {
+      "date": "2024-07",
+      "round": "Pre-seed (Fuzé programme)",
+      "amount": null,
+      "investors": [
+        "Digital Africa (Fuzé)"
+      ],
+      "source_url": "https://launchbaseafrica.com/2024/07/16/fuze-investment-series-tunisian-fintech-konnect-networks-gets-funding-boost/?amp=1"
+    },
+    {
+      "date": "2024-12",
+      "round": "Seed",
+      "amount": "$1.5M",
+      "investors": [
+        "Attijariwafa Ventures",
+        "Renew Capital",
+        "Digital Africa Ventures",
+        "Sunny Side Venture Partners",
+        "Plug and Play Africa",
+        "54 Collective"
+      ],
+      "source_url": "https://launchbaseafrica.com/2024/12/17/tunisias-konnect-networks-raises-1-5m-to-simplify-online-transactions-for-businesses"
+    },
+    {
+      "date": "2025-05",
+      "round": "Multi-investor round (relation to Dec 2024 round unclear)",
+      "amount": null,
+      "investors": [
+        "Attijariwafa Ventures",
+        "Visa",
+        "Utopia Capital Management"
+      ],
+      "source_url": "https://www.wamda.com/2025/05/attijariwafa-ventures-backs-tunisian-fintech-konnect-multi-investor-round"
+    }
+  ],
+  "people": [
+    {
+      "name": "Amin Ben Abderrahman",
+      "role": "Founder & CEO",
+      "source_url": "https://launchbaseafrica.com/2024/12/17/tunisias-konnect-networks-raises-1-5m-to-simplify-online-transactions-for-businesses"
+    }
+  ],
+  "en": {
+    "tagline": "Payment gateway turned white-label wallet and payment infrastructure provider",
+    "description": "Konnect Networks is a Tunis-based payments company founded in 2021 by Amin Ben Abderrahman. It started as a payment gateway for Tunisian merchants, accepting local and international cards, e-Dinar postal cards and its own wallet through payment links, e-commerce plugins and an API. The company says it was the first to receive a payment facilitator licence from the Central Bank of Tunisia (BCT); under BCT guidelines published in January 2024, facilitators must work with a licensed acquirer. By 2026 its website presented Konnect mainly as payment infrastructure for banks, payment institutions and telecom operators: white-label wallets and ledgers, agent-network tools, remittance connectors, KYC and reconciliation. The company names Tunisie Telecom's Kashy wallet and the payment institution Viamobile as production clients; press coverage of Kashy's launch does not mention Konnect, so that role rests on the company's account. Launch Base Africa reported a $1.5 million round in December 2024 involving Attijariwafa Ventures, Renew Capital, Digital Africa Ventures and others, after an earlier investment from Digital Africa's Fuzé programme. In May 2025 Wamda reported a round including Attijariwafa Ventures, Visa and Utopia Capital Management, without an amount. The company has claimed rapid growth, which we could not verify independently.",
+    "products": [
+      "White-label wallets and ledgers",
+      "Payment gateway (links, plugins, API)",
+      "Agent banking tools for cash-in/cash-out",
+      "Remittance connectors and compliance tools"
+    ]
+  },
+  "fr": {
+    "tagline": "Passerelle de paiement devenue fournisseur d'infrastructure et de wallets marque blanche",
+    "description": "Konnect Networks est une entreprise de paiement basée à Tunis, fondée en 2021 par Amin Ben Abderrahman. Elle a débuté comme passerelle de paiement pour les commerçants tunisiens, acceptant cartes locales et internationales, cartes e-Dinar et son propre wallet, via des liens de paiement, des plugins e-commerce et une API. L'entreprise affirme avoir été la première à obtenir une licence de facilitateur de paiement de la Banque centrale de Tunisie (BCT) ; les directives de la BCT de janvier 2024 imposent aux facilitateurs de travailler avec un acquéreur agréé. En 2026, son site présente surtout Konnect comme une infrastructure de paiement pour banques, établissements de paiement et opérateurs télécoms : wallets et registres en marque blanche, outils de réseaux d'agents, connecteurs de transferts internationaux, KYC et rapprochement. L'entreprise cite le wallet Kashy de Tunisie Telecom et l'établissement de paiement Viamobile comme clients en production ; la presse consacrée au lancement de Kashy ne mentionne pas Konnect, ce rôle repose donc sur les déclarations de l'entreprise. Launch Base Africa a annoncé une levée de 1,5 million de dollars en décembre 2024 avec Attijariwafa Ventures, Renew Capital, Digital Africa Ventures et d'autres, après un investissement du programme Fuzé. En mai 2025, Wamda a fait état d'un tour incluant Attijariwafa Ventures, Visa et Utopia Capital Management, sans montant.",
+    "products": [
+      "Wallets et registres en marque blanche",
+      "Passerelle de paiement (liens, plugins, API)",
+      "Outils d'agent banking (cash-in/cash-out)",
+      "Connecteurs de transferts et outils de conformité"
+    ]
+  },
+  "related_articles": [
+    "konnect-networks-profile",
+    "ecommerce-payments-tunisia",
+    "tunisia-fintech-ecosystem-map",
+    "tunisia-startup-funding-trends",
+    "la-poste-tunisienne-e-dinar-d17",
+    "paymee-profile",
+    "flutterwave-paystack-payment-rails",
+    "venture-capital-tunisia",
+    "how-to-raise-funding-tunisian-fintech",
+    "tunisia-incubators-accelerators"
+  ],
+  "sources": [
+    {
+      "title": "Tunisia's Konnect Networks raises $1.5M to simplify online transactions for businesses",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2024/12/17/tunisias-konnect-networks-raises-1-5m-to-simplify-online-transactions-for-businesses"
+    },
+    {
+      "title": "Attijariwafa Ventures backs Tunisian fintech Konnect in multi-investor round",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/2025/05/attijariwafa-ventures-backs-tunisian-fintech-konnect-multi-investor-round"
+    },
+    {
+      "title": "Fuzé investment series: Tunisian fintech Konnect Networks gets funding boost",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2024/07/16/fuze-investment-series-tunisian-fintech-konnect-networks-gets-funding-boost/?amp=1"
+    },
+    {
+      "title": "Konnect Networks · Infrastructure de paiement souveraine",
+      "publisher": "Konnect Networks",
+      "url": "https://new.konnect.network/"
+    },
+    {
+      "title": "La BCT publie les directives pour l'exercice de l'activité de facilitateur de paiement",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2024/01/12/la-bct-publie-les-directives-pour-lexercice-de-lactivite-de-facilitateur-de-paiement/"
+    },
+    {
+      "title": "Tunisia's state telecom operator enters digital services with Kashy mobile wallet",
+      "publisher": "Ecofin Agency",
+      "url": "https://www.ecofinagency.com/news-digital/1903-53913-tunisia-s-state-telecom-operator-enters-digital-services-with-kashy-mobile-wallet"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

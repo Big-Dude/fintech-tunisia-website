@@ -1,0 +1,74 @@
+{
+ "slug": "zitouna-payment",
+ "name": "Zitouna Payment",
+ "also_known_as": [
+  "Zitouna Paiement",
+  "Zitouna Pay",
+  "izi"
+ ],
+ "category": "wallet",
+ "website": null,
+ "founded": 2021,
+ "hq": "Tunis",
+ "status": "active",
+ "status_note": null,
+ "licences": [
+  {
+   "type": "bct-payment-institution",
+   "label_en": "Licensed payment institution (BCT)",
+   "label_fr": "Établissement de paiement agréé (BCT)",
+   "date": "2021-11",
+   "source_url": "https://www.leconomistemaghrebin.com/2022/03/25/zitouna-payment-devoile-application-paiement-mobile-izi/"
+  }
+ ],
+ "funding": [],
+ "people": [],
+ "en": {
+  "tagline": "Banque Zitouna's payment institution and its izi mobile payment app",
+  "description": "Zitouna Payment (Zitouna Paiement) is a payment institution created in May 2021 as a subsidiary of Banque Zitouna, the Islamic bank. It was approved by the Central Bank of Tunisia (BCT) under Law 2016-48 and Circular 2018-16; our research on Islamic fintech dates the approval to November 2021. At launch, Banque Zitouna held 51% of the company, alongside group companies Zitouna Takaful and Zitouna Finance. In March 2022 it launched izi, a mobile payment app offering account opening, cash-in and cash-out, person-to-person transfers, bill payments and phone top-ups for all operators. A network of mandated agents lets customers without a smartphone carry out operations, and the company said it started with 500 agents. In May 2024 the BCT admitted Zitouna Pay to the SIBTEL interbank clearing system as a participant, alongside Payvago, allowing it to clear transactions with banks directly. Zitouna Payment has not published user or transaction figures that we could find. It is one of the bank-owned payment institutions now subject to BCT Circular 2026-10.",
+  "products": [
+   "izi mobile payment app",
+   "Payment accounts with cash-in/cash-out",
+   "P2P transfers, bill payments and top-ups",
+   "Agent network"
+  ]
+ },
+ "fr": {
+  "tagline": "L'établissement de paiement de Banque Zitouna et son application de paiement mobile izi",
+  "description": "Zitouna Payment (Zitouna Paiement) est un établissement de paiement créé en mai 2021, filiale de Banque Zitouna, banque islamique tunisienne. Il a été agréé par la Banque centrale de Tunisie (BCT) en vertu de la loi 2016-48 et de la circulaire 2018-16 ; nos recherches sur la fintech islamique datent cet agrément de novembre 2021. Au lancement, Banque Zitouna détenait 51 % du capital, aux côtés des sociétés du groupe Zitouna Takaful et Zitouna Finance. En mars 2022, l'entreprise a lancé izi, une application de paiement mobile permettant l'ouverture de compte, le cash-in et le cash-out, les transferts entre particuliers, le paiement de factures et les recharges téléphoniques tous opérateurs. Un réseau d'agents mandatés permet aux clients sans smartphone d'effectuer des opérations ; l'entreprise indiquait démarrer avec 500 agents. En mai 2024, la BCT a admis Zitouna Pay comme participant au système de télécompensation interbancaire SIBTEL, aux côtés de Payvago, ce qui lui permet de compenser directement avec les banques. Nous n'avons pas trouvé de chiffres publics d'utilisateurs ou de transactions. Zitouna Payment fait partie des établissements de paiement adossés à des banques, désormais soumis à la circulaire BCT 2026-10.",
+  "products": [
+   "Application de paiement mobile izi",
+   "Comptes de paiement avec cash-in/cash-out",
+   "Transferts P2P, factures et recharges",
+   "Réseau d'agents"
+  ]
+ },
+ "related_articles": [
+  "islamic-fintech-tunisia",
+  "tunisia-fintech-ecosystem-map",
+  "payment-institutions-tunisia"
+ ],
+ "sources": [
+  {
+   "title": "Zitouna Paiement lance la nouvelle application de paiement mobile IZI en Tunisie",
+   "publisher": "Webmanagercenter",
+   "url": "https://www.webmanagercenter.com/2022/03/26/483081/zitouna-paiement-lance-la-nouvelle-application-de-paiement-mobile-izi-en-tunisie/"
+  },
+  {
+   "title": "Zitouna Payment dévoile l'application de paiement mobile izi",
+   "publisher": "L'Economiste Maghrébin",
+   "url": "https://www.leconomistemaghrebin.com/2022/03/25/zitouna-payment-devoile-application-paiement-mobile-izi/"
+  },
+  {
+   "title": "Zitouna Pay and Payvago join Tunisian interbank clearing system",
+   "publisher": "Launch Base Africa",
+   "url": "https://launchbaseafrica.com/2024/05/02/zitouna-pay-and-payvago-join-tunisian-interbank-clearing-system/"
+  },
+  {
+   "title": "Zitouna Pay et Payvago intègrent le système tunisien de télécompensation interbancaire",
+   "publisher": "Kapitalis",
+   "url": "https://kapitalis.com/tunisie/?p=12671441"
+  }
+ ],
+ "last_verified": "2026-10-10"
+}

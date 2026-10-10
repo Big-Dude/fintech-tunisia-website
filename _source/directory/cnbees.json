@@ -1,0 +1,70 @@
+{
+  "slug": "cnbees",
+  "name": "CnBees",
+  "also_known_as": [],
+  "category": "crowdfunding",
+  "website": null,
+  "founded": null,
+  "hq": null,
+  "status": "active",
+  "status_note": "Approved in December 2025; the company was targeting its first funded projects for Q3 2026 (La Presse, June 2026).",
+  "licences": [
+    {
+      "type": "acm",
+      "label_en": "Donation-based crowdfunding platform approved by the ACM",
+      "label_fr": "Plateforme de crowdfunding en dons agréée par l'ACM",
+      "date": "2025-12",
+      "source_url": "https://fr.allafrica.com/stories/202606020385.html"
+    },
+    {
+      "type": "startup-label",
+      "label_en": "Startup Act label",
+      "label_fr": "Label Startup Act",
+      "date": "2026-04",
+      "source_url": "https://fr.allafrica.com/stories/202606020385.html"
+    }
+  ],
+  "funding": [],
+  "people": [
+    {
+      "name": "Jaouher Mghirbi",
+      "role": "Co-founder & CEO",
+      "source_url": "https://fr.allafrica.com/stories/202606020385.html"
+    }
+  ],
+  "en": {
+    "tagline": "Donation-based crowdfunding platform for social and environmental impact projects",
+    "description": "CnBees is a Tunisian crowdfunding platform that finances projects through donations and gifts only, not loans or equity. According to an interview with co-founder and CEO Jaouher Mghirbi published by La Presse in June 2026, the project launched in August 2022, the company filed for approval in May 2024 and obtained it from the Autorité de contrôle de la microfinance (ACM), which supervises donation crowdfunding under Law 2020-37, in December 2025. CnBees describes itself as Tunisia's first approved crowdfunding platform; it was also granted the Startup Act label in April 2026. It focuses on projects with social and environmental impact, including the green, blue and circular economies and the social and solidarity economy. The company says contributions do not sit with CnBees but go through dedicated accounts held with a partner bank, which it has not named. At the time of the interview it said it had selected more than 200 projects through regional campaigns in nine governorates and expected its first funded projects in the third quarter of 2026. Its partners include the Tunisian Scouts, the National Council of Women Entrepreneurs, the CDC and APII, according to the company. Its funding and user figures have not been disclosed.",
+    "products": [
+      "Donation-based crowdfunding campaigns",
+      "Regional project-selection campaigns",
+      "Impact TN citizen evaluation platform"
+    ]
+  },
+  "fr": {
+    "tagline": "Plateforme de crowdfunding en dons pour des projets à impact social et environnemental",
+    "description": "CnBees est une plateforme tunisienne de financement participatif qui finance des projets uniquement par des dons, sans prêts ni prises de participation. Selon un entretien de son cofondateur et directeur général Jaouher Mghirbi publié par La Presse en juin 2026, le projet a démarré en août 2022, le dossier d'agrément a été déposé en mai 2024 et l'agrément a été accordé en décembre 2025 par l'Autorité de contrôle de la microfinance (ACM), compétente pour le crowdfunding en dons depuis la loi 2020-37. CnBees se présente comme la première plateforme de crowdfunding agréée en Tunisie ; elle a aussi obtenu le label Startup Act en avril 2026. Elle cible les projets à impact social et environnemental : économie verte, bleue et circulaire, économie sociale et solidaire. Selon l'entreprise, les fonds ne transitent pas par CnBees mais par des comptes dédiés ouverts auprès d'une banque partenaire, non nommée. Au moment de l'entretien, elle indiquait avoir sélectionné plus de 200 projets lors de campagnes régionales dans neuf gouvernorats et visait le troisième trimestre 2026 pour ses premiers projets financés. Parmi ses partenaires, la société cite les Scouts tunisiens, la Chambre nationale des femmes chefs d'entreprise, la CDC et l'APII. Son financement et ses chiffres d'utilisateurs ne sont pas publics.",
+    "products": [
+      "Campagnes de crowdfunding en dons",
+      "Campagnes régionales de sélection de projets",
+      "Plateforme d'évaluation citoyenne Impact TN"
+    ]
+  },
+  "related_articles": [
+    "crowdfunding-law-tunisia",
+    "how-to-raise-funding-tunisian-fintech"
+  ],
+  "sources": [
+    {
+      "title": "CnBees, première plateforme de crowdfunding agréée (entretien)",
+      "publisher": "La Presse / allAfrica",
+      "url": "https://fr.allafrica.com/stories/202606020385.html"
+    },
+    {
+      "title": "Law No. 2020-37 of August 6, 2020 on crowdfunding (text)",
+      "publisher": "RegAlert",
+      "url": "https://regalert.today/document/law-no-2020-37-of-august-6-2020-on-crowdfunding-887da7f1-27f5-4dd6-ba98-5fd02cce47c4/text"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

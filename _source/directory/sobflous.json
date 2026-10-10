@@ -1,0 +1,68 @@
+{
+  "slug": "sobflous",
+  "name": "Sobflous",
+  "also_known_as": [
+    "SF Technologies"
+  ],
+  "category": "wallet",
+  "website": null,
+  "founded": 2013,
+  "hq": null,
+  "status": "unclear",
+  "status_note": "Most recent press coverage found dates from July 2020; we could not confirm whether its 2020 payment institution application was approved or whether the service still operates.",
+  "licences": [
+    {
+      "type": "startup-label",
+      "label_en": "Startup Label (held by SF Technologies)",
+      "label_fr": "Label Startup (détenu par SF Technologies)",
+      "date": null,
+      "source_url": "https://managers.tn/2020/07/27/la-premiere-fintech-tunisienne-se-transforme-en-etablissement-de-paiement/"
+    }
+  ],
+  "funding": [
+    {
+      "date": null,
+      "round": "Undisclosed",
+      "amount": null,
+      "investors": [
+        "Cap Bank"
+      ],
+      "source_url": "https://managers.tn/2020/07/27/la-premiere-fintech-tunisienne-se-transforme-en-etablissement-de-paiement/"
+    }
+  ],
+  "people": [],
+  "en": {
+    "tagline": "Early Tunisian virtual wallet for online payments and transfers",
+    "description": "Sobflous is a Tunisian virtual wallet platform that has been in production since 2013, according to Managers, which described it in 2020 as the country's first fintech of its kind. It started with a phone top-up service and grew into a wallet that could be funded by Tunisian and international bank cards, e-Dinar and DigiCard cards, and bank, postal or voucher payments. Users could transfer balances free of charge by email or QR code, move money instantly to e-Dinar, DigiCard or bank accounts, pay bills online and pay partner online shops, including by QR code. Sobflous belongs to SF Technologies, a company holding the Startup Label and described as linked to Hamtel; Cap Bank was named as an investor, with no amount disclosed. In July 2020 the company reported about 180,000 registered users and released a new version of its mobile app. At the end of March 2020 it had applied to the Central Bank of Tunisia (BCT) for approval as a payment institution. We found no public confirmation that this licence was granted, and no press coverage of Sobflous after 2020, so its current status is listed as unclear.",
+    "products": [
+      "Virtual wallet funded by card, e-Dinar or vouchers",
+      "Free transfers by email or QR code",
+      "Online bill payments",
+      "Merchant payments for partner online shops"
+    ]
+  },
+  "fr": {
+    "tagline": "Pionnier tunisien du porte-monnaie virtuel pour le paiement en ligne et les transferts",
+    "description": "Sobflous est une plateforme tunisienne de porte-monnaie virtuel en production depuis 2013, selon Managers, qui la présentait en 2020 comme la première fintech tunisienne de ce type. Elle a débuté avec un service de recharge téléphonique avant de devenir un wallet alimentable par cartes bancaires tunisiennes et internationales, cartes e-Dinar et DigiCard, ainsi que par versements bancaires, postaux ou bons. Les utilisateurs pouvaient transférer gratuitement leur solde par e-mail ou QR code, envoyer instantanément de l'argent vers des comptes e-Dinar, DigiCard ou bancaires, payer leurs factures en ligne et régler leurs achats chez les boutiques en ligne partenaires, y compris par QR code. Sobflous appartient à SF Technologies, société labellisée Startup et présentée comme liée à Hamtel ; Cap Bank est cité comme investisseur, sans montant communiqué. En juillet 2020, l'entreprise revendiquait environ 180 000 utilisateurs inscrits et lançait une nouvelle version de son application mobile. Fin mars 2020, elle avait déposé auprès de la Banque centrale de Tunisie (BCT) une demande d'agrément comme établissement de paiement. Nous n'avons trouvé aucune confirmation publique de l'octroi de cet agrément, ni de couverture médiatique de Sobflous après 2020 : son statut actuel est donc indiqué comme incertain.",
+    "products": [
+      "Wallet virtuel alimenté par carte, e-Dinar ou bons",
+      "Transferts gratuits par e-mail ou QR code",
+      "Paiement de factures en ligne",
+      "Paiement chez les boutiques en ligne partenaires"
+    ]
+  },
+  "related_articles": [],
+  "sources": [
+    {
+      "title": "Sobflous : la première fintech tunisienne se transforme en établissement de paiement",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2020/07/27/la-premiere-fintech-tunisienne-se-transforme-en-etablissement-de-paiement/"
+    },
+    {
+      "title": "Sobflous lance une nouvelle version de son application mobile",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2020/07/07/sobflous-lance-une-nouvelle-version-de-son-application-mobile/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

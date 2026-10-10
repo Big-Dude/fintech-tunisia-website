@@ -1,0 +1,83 @@
+{
+  "slug": "la-poste-tunisienne-d17",
+  "name": "La Poste Tunisienne (e-Dinar & D17)",
+  "also_known_as": [
+    "Office National des Postes (ONP)",
+    "D17",
+    "e-Dinar",
+    "Wallet e-Dinar"
+  ],
+  "category": "wallet",
+  "website": "https://www.poste.tn",
+  "founded": 2000,
+  "hq": "Tunis",
+  "status": "active",
+  "status_note": "Founding year refers to the launch of the e-Dinar system, not of La Poste itself (a public enterprise). La Poste does not publish D17 user or transaction figures.",
+  "licences": [
+    {
+      "type": "other",
+      "label_en": "Public postal operator (ONP); may issue e-money under BCT rules",
+      "label_fr": "Opérateur postal public (ONP) ; peut émettre de la monnaie électronique selon les règles de la BCT",
+      "date": null,
+      "source_url": "https://www.lapresse.tn/2026/09/27/bct-de-nouvelles-regles-pour-les-etablissements-de-paiement/"
+    }
+  ],
+  "funding": [],
+  "people": [],
+  "en": {
+    "tagline": "Postal e-Dinar cards and wallet, and the D17 mobile payment app",
+    "description": "La Poste Tunisienne, the trade name of the public Office National des Postes (ONP), is one of the oldest players in Tunisian digital payments. It set up the e-Dinar online payment system in 2000, launched the e-Dinar Smart card at the end of 2008 and later added the e-DINARPOST card for postal account holders. e-Dinar cards can be topped up and used online, which made them popular with people without a bank card; most fintech gateways accept them. D17 is La Poste's mobile app, used for transfers and for payments at affiliated merchants. In July 2025 La Poste made the e-Dinar wallet free for citizens, valid for ten years, with transfers, money orders, merchant payments, bill payments and online payment of school and university fees. La Poste also runs its own e-commerce acceptance service, separate from the banks' ClicToPay platform; UNCTAD counted 652 affiliated sites at the end of 2020. Under BCT Circular 2026-10, prepaid e-money distributed by payment institutions must be issued by a bank or by the ONP, which gives La Poste a structural role in the market. La Poste does not publish D17 user or transaction figures, so its market share cannot be assessed from public data.",
+    "products": [
+      "e-Dinar prepaid cards",
+      "Free e-Dinar wallet",
+      "D17 mobile payment app",
+      "e-Dinar merchant acceptance kit"
+    ]
+  },
+  "fr": {
+    "tagline": "Cartes et wallet e-Dinar de La Poste, et application de paiement mobile D17",
+    "description": "La Poste Tunisienne, nom commercial de l'Office National des Postes (ONP), entreprise publique, est l'un des plus anciens acteurs du paiement numérique en Tunisie. Elle a mis en place le système de paiement en ligne e-Dinar en 2000, lancé la carte e-Dinar Smart fin 2008, puis la carte e-DINARPOST pour les titulaires de comptes postaux. Rechargeables et utilisables en ligne, les cartes e-Dinar sont prisées des personnes sans carte bancaire ; la plupart des passerelles fintech les acceptent. D17 est l'application mobile de La Poste, utilisée pour les transferts et le paiement chez les commerçants affiliés. En juillet 2025, La Poste a rendu le wallet e-Dinar gratuit pour les citoyens, valable dix ans, avec transferts, mandats, paiement marchand, paiement de factures et règlement en ligne des frais scolaires et universitaires. La Poste exploite aussi son propre service d'acceptation e-commerce, distinct de la plateforme ClicToPay des banques ; la CNUCED recensait 652 sites affiliés fin 2020. Selon la circulaire BCT 2026-10, la monnaie électronique prépayée distribuée par les établissements de paiement doit être émise par une banque ou par l'ONP, ce qui donne à La Poste un rôle structurel. La Poste ne publie pas de chiffres d'utilisateurs ou de transactions pour D17, ce qui empêche d'évaluer sa part de marché.",
+    "products": [
+      "Cartes prépayées e-Dinar",
+      "Wallet e-Dinar gratuit",
+      "Application de paiement mobile D17",
+      "Kit d'acceptation marchand e-Dinar"
+    ]
+  },
+  "related_articles": [
+    "la-poste-tunisienne-e-dinar-d17",
+    "mobile-payments-tunisia",
+    "ecommerce-payments-tunisia",
+    "payment-institutions-tunisia",
+    "financial-inclusion-tunisia",
+    "tunisia-fintech-ecosystem-map"
+  ],
+  "sources": [
+    {
+      "title": "La Poste tunisienne",
+      "publisher": "Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/La_Poste_tunisienne"
+    },
+    {
+      "title": "Tunisie: La Poste Tunisienne met à la disposition de chaque citoyen un portefeuille numérique gratuit",
+      "publisher": "AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202507160221.html"
+    },
+    {
+      "title": "Les Tunisiens peuvent désormais bénéficier gratuitement d'une wallet e-Dinar auprès de La Poste",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2025/07/16/les-tunisiens-peuvent-desormais-beneficier-gratuitement-dune-wallet-e-dinar-aupres-de-la-poste/"
+    },
+    {
+      "title": "Paiement en ligne en Tunisie : accepter la carte sur son site",
+      "publisher": "Novahoster",
+      "url": "https://www.novahoster.tn/blog/paiement-en-ligne-tunisie-site-web/"
+    },
+    {
+      "title": "BCT : de nouvelles règles pour les établissements de paiement",
+      "publisher": "La Presse de Tunisie",
+      "url": "https://www.lapresse.tn/2026/09/27/bct-de-nouvelles-regles-pour-les-etablissements-de-paiement/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

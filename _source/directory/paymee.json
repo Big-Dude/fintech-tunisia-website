@@ -1,0 +1,85 @@
+{
+  "slug": "paymee",
+  "name": "Paymee",
+  "also_known_as": [],
+  "category": "gateway",
+  "website": "https://www.paymee.tn",
+  "founded": null,
+  "hq": "Tunis",
+  "status": "unclear",
+  "status_note": "Funds frozen in February 2023 after a suspicious activity report; in February 2024 the company said it faced imminent risk of closure. Website still online, but we found no public confirmation that the case was resolved. Founding year is reported as 2017 or 2018 depending on the source.",
+  "licences": [],
+  "funding": [
+    {
+      "date": "2022-07",
+      "round": "Seed",
+      "amount": null,
+      "investors": [
+        "P1 Ventures"
+      ],
+      "source_url": "https://www.wamda.com/2022/07/tunisia-paymee-raises-figure-round-led-p1-ventures"
+    }
+  ],
+  "people": [
+    {
+      "name": "Marwen Amamou",
+      "role": "Founder & CEO",
+      "source_url": "https://www.wamda.com/2022/07/tunisia-paymee-raises-figure-round-led-p1-ventures"
+    }
+  ],
+  "en": {
+    "tagline": "Online payment gateway, payment links and card payment at delivery for merchants",
+    "description": "Paymee is a Tunisian payments company founded by Marwen Amamou; sources date its creation to 2017 or 2018. It began with a mobile app for paying merchants and sending money, then focused on businesses. Its payment gateway accepts Tunisian and international cards and La Poste's e-Dinar cards through plugins or an API, with payments processed via the platform of the Société Monétique Tunisie. It also offers Paylink payment links, fixed QR codes and Paymee On Delivery, where couriers generate a QR code so customers can pay by card at the door. In July 2022 Wamda reported a six-figure round led by P1 Ventures; the amount was not disclosed. In February 2023 a suspicious activity report to the CTAF, Tunisia's financial intelligence unit, led to a freeze of the company's funds. According to Paymee and press reports, a BCT inspection in October 2023 concluded that it acted as a payment facilitator rather than an unlicensed payment institution. In February 2024 the company said the case was still open, that more than 750 clients were affected and that it risked closing. We found no public announcement that the case has been resolved, so its current operating status is unclear.",
+    "products": [
+      "Online payment gateway (plugins and API)",
+      "Paylink payment links",
+      "QR code payments",
+      "Paymee On Delivery (card payment at the door)"
+    ]
+  },
+  "fr": {
+    "tagline": "Passerelle de paiement en ligne, liens de paiement et paiement par carte à la livraison",
+    "description": "Paymee est une entreprise tunisienne de paiement fondée par Marwen Amamou ; selon les sources, sa création remonte à 2017 ou 2018. Après une application mobile grand public, elle s'est concentrée sur les entreprises. Sa passerelle de paiement accepte les cartes tunisiennes et internationales ainsi que les cartes e-Dinar de La Poste, via des plugins ou une API, les paiements transitant par la plateforme de la Société Monétique Tunisie. Elle propose aussi des liens de paiement Paylink, des QR codes fixes et Paymee On Delivery, qui permet au livreur de générer un QR code pour un paiement par carte à la porte. En juillet 2022, Wamda a fait état d'un tour de table à six chiffres mené par P1 Ventures, sans montant précis. En février 2023, une déclaration de soupçon adressée à la CTAF, la cellule de renseignement financier tunisienne, a entraîné le gel des fonds de l'entreprise. Selon Paymee et la presse, une inspection de la BCT a conclu en octobre 2023 qu'elle agissait comme facilitateur de paiement et non comme établissement de paiement non agréé. En février 2024, l'entreprise indiquait que l'affaire restait ouverte, que plus de 750 clients étaient touchés et qu'elle risquait la fermeture. Nous n'avons trouvé aucune annonce publique de règlement de l'affaire : sa situation actuelle reste incertaine.",
+    "products": [
+      "Passerelle de paiement en ligne (plugins et API)",
+      "Liens de paiement Paylink",
+      "Paiement par QR code",
+      "Paymee On Delivery (paiement par carte à la livraison)"
+    ]
+  },
+  "related_articles": [
+    "paymee-profile",
+    "ecommerce-payments-tunisia",
+    "tunisia-fintech-ecosystem-map",
+    "la-poste-tunisienne-e-dinar-d17",
+    "flutterwave-paystack-payment-rails"
+  ],
+  "sources": [
+    {
+      "title": "Tunisia's Paymee raises six-figure round led by P1 Ventures",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/2022/07/tunisia-paymee-raises-figure-round-led-p1-ventures"
+    },
+    {
+      "title": "En Tunisie, Paymee fournit des passerelles de paiement en ligne pour les entreprises",
+      "publisher": "We Are Tech Africa",
+      "url": "https://www.wearetech.africa/fr/fils/solutions/en-tunisie-paymee-fournit-des-passerelles-de-paiement-en-ligne-pour-les-entreprises"
+    },
+    {
+      "title": "Pionnier des solutions de paiement en ligne en Tunisie face aux défis",
+      "publisher": "Paymee",
+      "url": "https://www.paymee.tn/pionnier-des-solutions-de-paiement-en-ligne-en-tunisie-face-aux-defis/"
+    },
+    {
+      "title": "Tunisie : Enquête, gel de fonds, la startup Paymee en péril !",
+      "publisher": "Webdo",
+      "url": "https://www.webdo.tn/fr/actualite/national/tunisie-enquete-gel-de-fonds-la-startup-paymee-en-peril/212483/"
+    },
+    {
+      "title": "Paymee On Delivery",
+      "publisher": "Paymee",
+      "url": "https://www.paymee.tn/paymee-on-delivery/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "easybank",
+  "name": "EasyBank",
+  "also_known_as": [
+    "Easy Bank"
+  ],
+  "category": "lending",
+  "website": null,
+  "founded": 2023,
+  "hq": "Tunis",
+  "status": "active",
+  "status_note": null,
+  "licences": [
+    {
+      "type": "partner-bank",
+      "label_en": "Banking and financial intermediary working with partner banks (not a bank)",
+      "label_fr": "Intermédiaire bancaire et financier travaillant avec des banques partenaires (pas une banque)",
+      "date": null,
+      "source_url": "https://www.wearetech.africa/fr/fils/tech-stars/avec-easy-bank-mohamed-khelifi-simplifie-l-acces-au-financement-en-tunisie"
+    }
+  ],
+  "funding": [
+    {
+      "date": "2025-01",
+      "round": null,
+      "amount": "$370K (TND 1.2M)",
+      "investors": [],
+      "source_url": "https://www.wamda.com/en/2025/01/tunisian-fintech-easybank-secures-370000-investment"
+    }
+  ],
+  "people": [
+    {
+      "name": "Mohamed Khelifi",
+      "role": "Co-founder & CEO",
+      "source_url": "https://www.wearetech.africa/fr/fils/tech-stars/avec-easy-bank-mohamed-khelifi-simplifie-l-acces-au-financement-en-tunisie"
+    }
+  ],
+  "en": {
+    "tagline": "Digital platform connecting borrowers with financing offers from partner banks",
+    "description": "EasyBank is a Tunisian fintech founded in 2023 that helps individuals and businesses access loans and other banking products. Despite its name, it is not a licensed bank. It describes itself as a banking and financial intermediary: applicants submit a single request, and the platform connects them with a network of partner banks so they can see several financing offers without approaching each bank separately. According to a March 2026 profile by We Are Tech Africa, the company also steers users towards products that match their profile and repayment capacity, sometimes negotiates better terms, and offers identity verification, profile analysis and simplified access to some bancassurance products through agreements with banks and insurers. The company says it uses AI to give personalised recommendations and speed up loan eligibility checks. In early 2025 EasyBank raised TND 1.2 million (about $370,000) from undisclosed investors, according to Wamda and Launch Base Africa, to improve its platform and expand to underserved markets in the Middle East and North Africa and to France. The partner banks have not been named publicly, and the company has not published user numbers.",
+    "products": [
+      "Loan request and matching with partner banks",
+      "Eligibility pre-checks and personalised guidance",
+      "Access to selected bancassurance products"
+    ]
+  },
+  "fr": {
+    "tagline": "Plateforme qui met en relation emprunteurs et offres de crédit de banques partenaires",
+    "description": "EasyBank est une fintech tunisienne fondée en 2023 qui facilite l'accès des particuliers et des entreprises au crédit et aux autres produits bancaires. Malgré son nom, ce n'est pas une banque agréée. Elle se présente comme une société d'intermédiation bancaire et financière : le demandeur dépose une seule demande, et la plateforme le met en relation avec un réseau de banques partenaires afin de comparer plusieurs offres de financement sans démarcher chaque établissement. Selon un portrait publié par We Are Tech Africa en mars 2026, l'entreprise oriente aussi les utilisateurs vers les produits adaptés à leur profil et à leur capacité de remboursement, négocie parfois de meilleures conditions et propose la vérification d'identité, l'analyse de profil et un accès simplifié à certains produits de bancassurance grâce à des accords avec des banques et des assureurs. La société dit utiliser l'IA pour personnaliser ses recommandations et accélérer l'étude d'éligibilité. Début 2025, EasyBank a levé 1,2 million de dinars (environ 370 000 dollars) auprès d'investisseurs non divulgués, selon Wamda et Launch Base Africa, pour améliorer sa plateforme et se développer dans la région MENA et en France. Les banques partenaires n'ont pas été nommées publiquement et aucun chiffre d'utilisateurs n'a été publié.",
+    "products": [
+      "Demande de crédit et mise en relation avec des banques partenaires",
+      "Pré-étude d'éligibilité et orientation personnalisée",
+      "Accès à certains produits de bancassurance"
+    ]
+  },
+  "related_articles": [
+    "ai-in-tunisian-banking",
+    "easybank-funding",
+    "neobanks-tunisia",
+    "tunisia-startup-funding-trends",
+    "tunisia-zero-equity-deals-h1-2026"
+  ],
+  "sources": [
+    {
+      "title": "Avec Easy Bank, Mohamed Khelifi simplifie l'accès au financement en Tunisie",
+      "publisher": "We Are Tech Africa",
+      "url": "https://www.wearetech.africa/fr/fils/tech-stars/avec-easy-bank-mohamed-khelifi-simplifie-l-acces-au-financement-en-tunisie"
+    },
+    {
+      "title": "Tunisian fintech EasyBank secures $370,000 investment",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/2025/01/tunisian-fintech-easybank-secures-370000-investment"
+    },
+    {
+      "title": "Tunisia's EasyBank secures funding to expand digital financial services across MENA and France",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/02/04/tunisias-easybank-secures-funding-to-expand-digital-financial-services-across-mena-and-france"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

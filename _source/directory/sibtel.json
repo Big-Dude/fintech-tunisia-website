@@ -1,0 +1,61 @@
+{
+  "slug": "sibtel",
+  "name": "SIBTEL",
+  "also_known_as": [
+    "Société Interbancaire de Télécompensation"
+  ],
+  "category": "infrastructure",
+  "website": null,
+  "founded": 1999,
+  "hq": "Tunis",
+  "status": "active",
+  "status_note": null,
+  "licences": [],
+  "funding": [],
+  "people": [],
+  "en": {
+    "tagline": "Operator of Tunisia's interbank clearing system, now open to payment institutions",
+    "description": "SIBTEL (Société Interbancaire de Télécompensation) manages Tunisia's interbank clearing system. It was established on 1 November 1999, after the Central Bank of Tunisia (BCT) introduced electronic interbank clearing as part of modernising the banking system. The system exchanges payment instruments electronically at fixed intervals; a central centre calculates clearing balances and net positions for each participant, which are then settled. SIBTEL processes credit transfers, direct debits, cheques and bills of exchange in batches, while large-value payments settle in real time on the BCT's RTGS system. In the first half of 2026, SIBTEL handled 30.1 million operations worth about 109.6 billion dinars, according to the BCT's Payments Bulletin No. 17. Participation was historically limited to banking institutions registered with the BCT clearing house. In May 2024 the BCT admitted two payment institutions, Zitouna Pay and Payvago, as participants, allowing non-banks to clear transactions with banks directly. SIBTEL is not a retail payment brand, but its access rules shape what Tunisian fintechs can build, notably the absence so far of a national instant account-to-account payment scheme.",
+    "products": [
+      "Interbank clearing (transfers, direct debits, cheques, bills of exchange)",
+      "Net position calculation for participants",
+      "Direct participation for payment institutions"
+    ]
+  },
+  "fr": {
+    "tagline": "Gestionnaire de la télécompensation interbancaire, ouverte aux établissements de paiement",
+    "description": "La SIBTEL (Société Interbancaire de Télécompensation) gère le système tunisien de télécompensation interbancaire. Elle a été créée le 1er novembre 1999, après la mise en place par la Banque centrale de Tunisie (BCT) de la compensation électronique dans le cadre de la modernisation du système bancaire. Le système échange les valeurs par voie électronique à intervalles fixes ; un centre calcule les soldes de compensation et les positions nettes de chaque participant, qui sont ensuite réglées. La SIBTEL traite par lots les virements, prélèvements, chèques et lettres de change, tandis que les paiements de gros montants sont réglés en temps réel sur le système RTGS de la BCT. Au premier semestre 2026, la SIBTEL a traité 30,1 millions d'opérations pour environ 109,6 milliards de dinars, selon le Bulletin des paiements n° 17 de la BCT. La participation était historiquement réservée aux établissements bancaires inscrits auprès de la chambre de compensation de la BCT. En mai 2024, la BCT a admis deux établissements de paiement, Zitouna Pay et Payvago, comme participants, permettant à des acteurs non bancaires de compenser directement avec les banques. La SIBTEL n'est pas une marque grand public, mais ses règles d'accès déterminent ce que les fintechs tunisiennes peuvent construire, notamment en l'absence, à ce jour, de système national de paiement instantané de compte à compte.",
+    "products": [
+      "Télécompensation interbancaire (virements, prélèvements, chèques, lettres de change)",
+      "Calcul des positions nettes des participants",
+      "Participation directe des établissements de paiement"
+    ]
+  },
+  "related_articles": [
+    "instant-payments-tunisia",
+    "tunisia-fintech-ecosystem-map"
+  ],
+  "sources": [
+    {
+      "title": "Zitouna Pay and Payvago join Tunisian interbank clearing system",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2024/05/02/zitouna-pay-and-payvago-join-tunisian-interbank-clearing-system/"
+    },
+    {
+      "title": "Zitouna Pay et Payvago intègrent le système tunisien de télécompensation interbancaire",
+      "publisher": "Kapitalis",
+      "url": "https://kapitalis.com/tunisie/?p=12671441"
+    },
+    {
+      "title": "Paiement instantané : la Tunisie s'inspire du modèle brésilien Pix",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2026/09/18/paiement-instantane-la-tunisie-sinspire-du-modele-bresilien-pix/"
+    },
+    {
+      "title": "Tunisie : la SIBTEL se dote d'un nouveau data center",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2018/02/02/415602/tunisie-la-sibtel-se-dote-dun-nouveau-data-center/"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}

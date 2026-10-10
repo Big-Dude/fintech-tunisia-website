@@ -1,0 +1,99 @@
+{
+  "slug": "expensya",
+  "name": "Expensya",
+  "also_known_as": [
+    "Medius Expense"
+  ],
+  "category": "b2b-finance",
+  "website": "https://www.expensya.com",
+  "founded": 2014,
+  "hq": "Paris (engineering in Tunis)",
+  "status": "acquired",
+  "status_note": "Acquired by Swedish software group Medius in July 2023; Medius has since rebranded the product as Medius Expense.",
+  "licences": [],
+  "funding": [
+    {
+      "date": "2021-04",
+      "round": "Series B",
+      "amount": "$20M",
+      "investors": [
+        "MAIF Avenir",
+        "Silicon Badia",
+        "ISAI",
+        "Seventure Partners"
+      ],
+      "source_url": "https://www.wamda.com/2021/04/expensya-raises-20-million"
+    }
+  ],
+  "people": [
+    {
+      "name": "Karim Jouini",
+      "role": "Co-founder (former CEO)",
+      "source_url": "https://techcrunch.com/2025/06/03/one-of-africas-most-successful-founders-is-back-with-a-new-ai-startup-and-already-raised-9m"
+    },
+    {
+      "name": "Jihed Othmani",
+      "role": "Co-founder",
+      "source_url": "https://techcrunch.com/2025/06/03/one-of-africas-most-successful-founders-is-back-with-a-new-ai-startup-and-already-raised-9m"
+    }
+  ],
+  "en": {
+    "tagline": "Expense and employee spend management software, acquired by Medius in 2023",
+    "description": "Expensya is an expense-management software company founded in Tunisia in 2014 by Karim Jouini and Jihed Othmani, two former Microsoft engineers. It started with automated expense reports, in which employees photograph receipts and AI extracts the data, and grew into broader employee spend management with web and mobile apps, payment cards and integrations with ERPs such as SAP, Oracle and Microsoft Dynamics. The company sold mainly to European customers, with France as its main market, while most engineering stayed in Tunis; its legal base was in Paris. In April 2021 it announced a $20 million Series B with MAIF Avenir, Silicon Badia, ISAI and Seventure Partners, and TechCabal put its total funding at $25.6 million. Swedish accounts-payable automation group Medius announced its intent to acquire Expensya on 7 June 2023 and completed the deal on 25 July 2023. The price was not disclosed; press reports put it above $100 million. At closing, Expensya reported more than 6,000 client companies and about 200 employees. The founders left in January 2025, when Medius was rebranding the product as Medius Expense, and went on to start Thunder Code.",
+    "products": [
+      "Automated expense reports with receipt scanning",
+      "Employee spend management and payment cards",
+      "ERP integrations (SAP, Oracle, Microsoft Dynamics)"
+    ]
+  },
+  "fr": {
+    "tagline": "Logiciel de gestion des notes de frais et des dépenses, racheté par Medius en 2023",
+    "description": "Expensya est un éditeur de logiciels de gestion des notes de frais fondé en Tunisie en 2014 par Karim Jouini et Jihed Othmani, deux anciens ingénieurs de Microsoft. Parti de la note de frais automatisée, où le salarié photographie son justificatif et l'IA en extrait les données, le produit s'est étendu à la gestion des dépenses des collaborateurs, avec applications web et mobile, cartes de paiement et connecteurs vers des ERP comme SAP, Oracle ou Microsoft Dynamics. L'entreprise vendait surtout à des clients européens, la France étant son principal marché, tandis que l'essentiel de l'ingénierie restait à Tunis ; sa structure juridique était basée à Paris. En avril 2021, elle a annoncé une série B de 20 millions de dollars avec MAIF Avenir, Silicon Badia, ISAI et Seventure Partners, et TechCabal évaluait son financement total à 25,6 millions de dollars. Le suédois Medius, spécialiste de l'automatisation des comptes fournisseurs, a annoncé son intention de racheter Expensya le 7 juin 2023 et a finalisé l'opération le 25 juillet 2023. Le prix n'a pas été communiqué ; la presse l'a situé au-delà de 100 millions de dollars. À la clôture, Expensya revendiquait plus de 6 000 entreprises clientes et environ 200 salariés. Les fondateurs sont partis en janvier 2025, au moment où Medius renommait le produit Medius Expense, pour lancer Thunder Code.",
+    "products": [
+      "Notes de frais automatisées avec lecture des justificatifs",
+      "Gestion des dépenses des collaborateurs et cartes de paiement",
+      "Connecteurs ERP (SAP, Oracle, Microsoft Dynamics)"
+    ]
+  },
+  "related_articles": [
+    "anava-fund-of-funds",
+    "expensya-medius-acquisition",
+    "how-to-raise-funding-tunisian-fintech",
+    "instadeep-biontech-lessons",
+    "tunisia-startup-funding-trends",
+    "venture-capital-tunisia"
+  ],
+  "sources": [
+    {
+      "title": "Medius announces intent to acquire Expensya",
+      "publisher": "Expensya",
+      "url": "https://www.expensya.com/en/news/medius-announces-intent-to-acquire-expensya/"
+    },
+    {
+      "title": "Media Alert: Medius completes acquisition of expense management firm Expensya",
+      "publisher": "Medius",
+      "url": "https://www.medius.com/news/cid-B5994B54FD438614/media-alert-medius-completes-acquisition-of-expense-management-firm-expensya/"
+    },
+    {
+      "title": "Expensya raises $20 million",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/2021/04/expensya-raises-20-million"
+    },
+    {
+      "title": "Expensya acquisition",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2023/06/08/expensya-acquisition/"
+    },
+    {
+      "title": "Expensya founders exit two years post-Medius deal, launch AI venture",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/01/13/expensya-founders-exit-two-years-post-medius-deal-launch-ai-venture/"
+    },
+    {
+      "title": "One of Africa's most successful founders is back with a new AI startup and already raised $9M",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/03/one-of-africas-most-successful-founders-is-back-with-a-new-ai-startup-and-already-raised-9m"
+    }
+  ],
+  "last_verified": "2026-10-10"
+}
