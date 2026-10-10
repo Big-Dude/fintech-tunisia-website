@@ -1,0 +1,142 @@
+{
+  "slug": "enaira-cbdc-lessons",
+  "category": "africa",
+  "cover_motif": "chip-ai",
+  "stats": [
+    {
+      "value": "98.5%",
+      "label_en": "of eNaira wallets inactive in a given week (IMF, 2023)",
+      "label_fr": "des portefeuilles eNaira inactifs sur une semaine donnée (FMI, 2023)",
+      "source": "IMF working paper via Cointelegraph, 2023"
+    },
+    {
+      "value": "~13M",
+      "label_en": "eNaira wallets created by 2024, mostly dormant",
+      "label_fr": "portefeuilles eNaira créés en 2024, pour la plupart inactifs",
+      "source": "BusinessDay, 2024"
+    },
+    {
+      "value": "N29.3bn",
+      "label_en": "cumulative eNaira transactions from launch to May 2024",
+      "label_fr": "de transactions eNaira cumulées du lancement à mai 2024",
+      "source": "BusinessDay, 2024"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "The eNaira's Struggles: CBDC Lessons for North Africa",
+    "meta_description": "Nigeria's eNaira, Africa's first CBDC, failed to win users and is being repositioned in 2026. What went wrong, and what Tunisia, Morocco and Egypt can learn.",
+    "excerpt": "Africa's first central bank digital currency attracted millions of wallets but almost no use. Nigeria is now repositioning it, and North African central banks should take note.",
+    "keywords": [
+      "eNaira",
+      "eNaira adoption",
+      "CBDC Africa",
+      "central bank digital currency Nigeria",
+      "CBDC Tunisia",
+      "e-dirham Morocco",
+      "CBDC lessons North Africa"
+    ],
+    "tags": [
+      "eNaira",
+      "CBDC",
+      "Nigeria",
+      "Central banks",
+      "Payments"
+    ],
+    "key_takeaways": [
+      "The eNaira, launched in October 2021, was Africa's first CBDC, but the IMF found 98.5% of wallets inactive in a given week.",
+      "By May 2024, cumulative eNaira transactions were worth N29.3 billion, against N611 trillion in Nigerian e-payments in 2023 alone.",
+      "In June 2026, the CBN's Payments System Vision 2028 repositioned the eNaira towards government and cross-border payments.",
+      "Morocco is exploring an e-dirham; Tunisia's central bank has said it is only at a reflection stage on CBDCs."
+    ],
+    "body": "In October 2021, Nigeria launched the **eNaira**, Africa's first central bank digital currency (CBDC). Five years later, the Central Bank of Nigeria (CBN) has acknowledged that adoption was slow and is repositioning it as back-end infrastructure rather than a consumer wallet. For central banks in Tunisia, Morocco and Egypt, which are studying CBDCs of their own, the eNaira is one of the few real-world case studies available.\n\n## What the eNaira was meant to do\n\nThe eNaira is a digital form of the naira issued directly by the CBN. It is one of only three retail CBDCs operating worldwide, according to [Central Banking](https://www.centralbanking.com/central-banks/payments/7976086/nigeria-to-reposition-its-struggling-cbdc). Like other retail CBDCs, it was meant to give the public a digital payment option backed directly by the central bank, with financial inclusion and cheaper remittances among the hoped-for benefits discussed by the IMF.\n\nOn paper, Nigeria was a logical place to try. It has a large, young population and a big informal cash economy.\n\n## The adoption problem in numbers\n\nThe early data were weak. An [IMF working paper](https://www.imf.org/en/publications/wp/issues/2023/05/16/nigerias-enaira-one-year-after-533487) published in May 2023 found that the system had run without disruption, but that adoption had not moved beyond a limited first wave. According to [Cointelegraph's summary](https://cointelegraph.com/news/imf-sees-room-for-enaira-improvement-in-first-year-assessment) of the paper:\n\n- only about 1.5% of wallets were used in any given week, meaning about 98.5% were inactive;\n- the eNaira had not reached 1% of Nigeria's population;\n- fewer than 1% of bank accounts had an eNaira wallet linked to them;\n- about 802,000 transactions had been made over the period studied, fewer than one per wallet.\n\nWallet numbers then rose, notably during the cash shortage caused by Nigeria's banknote redesign in early 2023, when people looked for any alternative to cash, and through welfare payments. By May 2024, about 13 million wallets had been created, most of them inactive, and cumulative transactions since launch were worth only N29.3 billion across 854,512 transactions, according to [BusinessDay](https://businessday.ng/news/article/three-years-in-enaira-struggles-as-transactions-crawl-to-n29bn/). For comparison, Nigeria's electronic payments totalled N611 trillion in 2023 alone.\n\n## Why it struggled\n\nThe CBN's own diagnosis is candid. Its Payments System Vision 2028, published in early June 2026, acknowledges that uptake was slow and points to limited stakeholder engagement and buy-in during design and rollout, according to [WeeTracker](https://weetracker.com/2026/06/09/nigeria-enaira-cbn-reposition/). The same report says the central bank conceded that the eNaira offered little that bank apps, fintech wallets and mobile money did not already provide more conveniently.\n\nThree problems stand out:\n\n- **No clear advantage for users.** Nigeria already had fast bank transfers and popular fintech apps. A new wallet that did the same thing had little pull.\n- **Weak incentives for intermediaries.** The IMF noted weak network effects. Banks and fintechs arguably had little reason to promote a product that could compete with their own deposits and payment flows.\n- **Adoption by pressure rather than choice.** The cash crunch increased sign-ups but did not create lasting habits.\n\n## The 2026 pivot: from wallet to infrastructure\n\nUnder Payments System Vision 2028, the CBN plans to reposition the eNaira from a consumer tool into back-end infrastructure for:\n\n- **government-to-person payments**, such as welfare and subsidy disbursements;\n- **cross-border settlement**, including trade under the African Continental Free Trade Area.\n\nThe eNaira would sit alongside open banking, digital identity and cross-border payment frameworks. This is close to what the IMF suggested in 2023, when it recommended a clear strategy towards mobile money and pilots in remittance corridors.\n\n## Where North Africa stands on CBDCs\n\nNorth African central banks are still in the study phase:\n\n- **Morocco.** Bank Al-Maghrib is working on an e-dirham project and has explored its use for peer-to-peer and cross-border payments with support from the IMF and World Bank, according to [The Paypers](https://thepaypers.com/crypto-web3-and-cbdc/news/moroccos-central-bank-advances-digital-currency). It is also exploring cross-border CBDC transfers with the Central Bank of Egypt and the World Bank. Morocco's draft crypto-asset bill explicitly excludes CBDCs.\n- **Egypt.** The Central Bank of Egypt is part of that cross-border exploration. In practice, its most visible domestic project has been the InstaPay instant payment network, covered in our article on [Egypt's fintech boom](post:egypt-fintech-instapay).\n- **Tunisia.** In November 2019, Russian agency TASS reported that Tunisia had launched a blockchain-based \"e-dinar\" CBDC with a Russian startup. The Central Bank of Tunisia (BCT) denied this, saying no CBDC had been created and that it was only studying alternatives, including a CBDC, at a reflection stage, as reported by [Cryptoast](https://cryptoast.fr/e-dinar-tunisie-premier-pays-au-monde-a-lancer-monnaie-numerique-banque-centrale/). This should not be confused with La Poste Tunisienne's e-Dinar, an existing electronic payment product covered in our article on [e-Dinar and D17](post:la-poste-tunisienne-e-dinar-d17).\n\n## Lessons for Tunisia and the region\n\n1. **Solve a problem existing tools do not.** Nigeria's experience shows that a CBDC must offer something bank apps and wallets cannot. In Tunisia, faster gains may come from [instant payments and interoperability](post:instant-payments-tunisia) between banks, La Poste and payment institutions.\n2. **Bring banks and fintechs in from the start.** The CBN itself names weak stakeholder buy-in as a cause of failure. Intermediaries need a business model.\n3. **Start with government and cross-border flows.** The eNaira is ending up where it might have started: social payments and settlement. For a cash-heavy economy like Tunisia's, government payments are a natural first use case, as discussed in our piece on [cash and informality](post:cash-economy-tunisia).\n4. **Measure active use, not sign-ups.** Thirteen million wallets meant little when almost all were dormant.\n\nA CBDC is not a shortcut to digital payments. It works best as part of a wider payments strategy, not as a replacement for one.",
+    "faq": [
+      {
+        "q": "Why did the eNaira fail?",
+        "a": "The eNaira offered little that Nigerian bank apps, fintech wallets and mobile money did not already provide, and banks had weak incentives to promote it. The CBN itself cited limited stakeholder engagement and buy-in in its 2026 Payments System Vision."
+      },
+      {
+        "q": "Is the eNaira still in use?",
+        "a": "Yes, but the CBN is repositioning it. Under Payments System Vision 2028, published in June 2026, it is meant to serve mainly as infrastructure for government payments and cross-border settlement rather than as a consumer wallet."
+      },
+      {
+        "q": "Does Tunisia have a CBDC?",
+        "a": "No. In 2019, the Central Bank of Tunisia denied reports that it had launched an e-dinar CBDC and said it was only studying options. La Poste Tunisienne's e-Dinar is a separate payment product, not a central bank currency."
+      }
+    ]
+  },
+  "fr": {
+    "title": "L'échec de l'eNaira : leçons de MNBC pour l'Afrique du Nord",
+    "meta_description": "L'eNaira, première monnaie numérique de banque centrale d'Afrique, n'a pas séduit et change de cap en 2026. Les leçons pour la Tunisie, le Maroc et l'Égypte.",
+    "excerpt": "La première monnaie numérique de banque centrale d'Afrique a attiré des millions de portefeuilles, mais presque aucun usage. Le Nigeria la repositionne, une leçon pour l'Afrique du Nord.",
+    "keywords": [
+      "eNaira",
+      "adoption eNaira",
+      "MNBC Afrique",
+      "monnaie numérique banque centrale Nigeria",
+      "MNBC Tunisie",
+      "e-dirham Maroc",
+      "CBDC Afrique du Nord"
+    ],
+    "tags": [
+      "eNaira",
+      "MNBC",
+      "Nigeria",
+      "Banques centrales",
+      "Paiements"
+    ],
+    "key_takeaways": [
+      "L'eNaira, lancée en octobre 2021, fut la première MNBC d'Afrique, mais le FMI a constaté que 98,5 % des portefeuilles étaient inactifs sur une semaine donnée.",
+      "En mai 2024, les transactions eNaira cumulées atteignaient 29,3 milliards de nairas, contre 611 000 milliards de paiements électroniques au Nigeria en 2023.",
+      "En juin 2026, la stratégie Payments System Vision 2028 de la CBN a réorienté l'eNaira vers les paiements publics et transfrontaliers.",
+      "Le Maroc explore un e-dirham ; la Banque centrale de Tunisie s'est dite au stade de la réflexion sur les MNBC."
+    ],
+    "body": "En octobre 2021, le Nigeria lançait l'**eNaira**, première monnaie numérique de banque centrale (MNBC) d'Afrique. Cinq ans plus tard, la Banque centrale du Nigeria (CBN) reconnaît une adoption lente et repositionne l'eNaira comme infrastructure plutôt que comme portefeuille grand public. Pour les banques centrales de Tunisie, du Maroc et d'Égypte, qui étudient leurs propres projets, l'eNaira est l'un des rares cas concrets dont elles disposent.\n\n## Ce que l'eNaira devait apporter\n\nL'eNaira est une forme numérique du naira émise directement par la CBN. C'est l'une des trois seules MNBC de détail en fonctionnement dans le monde, selon [Central Banking](https://www.centralbanking.com/central-banks/payments/7976086/nigeria-to-reposition-its-struggling-cbdc). Comme les autres MNBC de détail, elle devait offrir au public un moyen de paiement numérique garanti directement par la banque centrale, avec l'inclusion financière et des transferts de fonds moins chers parmi les bénéfices attendus évoqués par le FMI.\n\nSur le papier, le Nigeria était un terrain logique : une population nombreuse et jeune, et une vaste économie informelle fondée sur les espèces.\n\n## L'échec de l'adoption, en chiffres\n\nLes premiers résultats ont été décevants. Un [document de travail du FMI](https://www.imf.org/en/publications/wp/issues/2023/05/16/nigerias-enaira-one-year-after-533487) publié en mai 2023 constatait que le système fonctionnait sans incident, mais que l'adoption n'avait pas dépassé une première vague limitée. Selon la [synthèse de Cointelegraph](https://cointelegraph.com/news/imf-sees-room-for-enaira-improvement-in-first-year-assessment) :\n\n- environ 1,5 % seulement des portefeuilles étaient utilisés au cours d'une semaine donnée, soit près de 98,5 % de comptes inactifs ;\n- l'eNaira n'atteignait pas 1 % de la population ;\n- moins de 1 % des comptes bancaires étaient reliés à un portefeuille eNaira ;\n- environ 802 000 transactions avaient été réalisées sur la période étudiée, soit moins d'une par portefeuille.\n\nLe nombre de portefeuilles a ensuite augmenté, notamment pendant la pénurie de billets provoquée par le changement de coupures début 2023, quand les Nigérians cherchaient toute alternative au cash, et via le versement d'aides sociales. En mai 2024, environ 13 millions de portefeuilles avaient été créés, pour la plupart inactifs, et les transactions cumulées depuis le lancement ne dépassaient pas 29,3 milliards de nairas pour 854 512 opérations, selon [BusinessDay](https://businessday.ng/news/article/three-years-in-enaira-struggles-as-transactions-crawl-to-n29bn/). À titre de comparaison, les paiements électroniques au Nigeria ont atteint 611 000 milliards de nairas sur la seule année 2023.\n\n## Pourquoi l'eNaira a peiné\n\nLe diagnostic de la CBN elle-même est sans détour. Sa stratégie Payments System Vision 2028, publiée début juin 2026, reconnaît une adoption lente et pointe un engagement et une adhésion limités des acteurs lors de la conception et du déploiement, selon [WeeTracker](https://weetracker.com/2026/06/09/nigeria-enaira-cbn-reposition/). La banque centrale y admet aussi que l'eNaira n'apportait guère plus que les applications bancaires, les portefeuilles des fintechs et le mobile money, plus pratiques.\n\nTrois problèmes se dégagent :\n\n- **Aucun avantage clair pour l'utilisateur.** Le Nigeria disposait déjà de virements bancaires rapides et d'applications fintech populaires. Un portefeuille de plus, aux mêmes fonctions, n'avait guère d'attrait.\n- **Peu d'incitations pour les intermédiaires.** Le FMI relevait des effets de réseau faibles. Banques et fintechs avaient sans doute peu de raisons de promouvoir un produit susceptible de concurrencer leurs propres dépôts et flux.\n- **Une adoption contrainte plutôt que choisie.** La pénurie de billets a gonflé les inscriptions sans créer d'habitudes durables.\n\n## Le virage de 2026 : du portefeuille à l'infrastructure\n\nAvec Payments System Vision 2028, la CBN veut faire de l'eNaira une infrastructure en arrière-plan pour :\n\n- les **paiements de l'État aux particuliers**, comme les aides sociales et les subventions ;\n- le **règlement transfrontalier**, notamment pour le commerce dans le cadre de la Zone de libre-échange continentale africaine.\n\nL'eNaira s'inscrirait aux côtés de l'open banking, de l'identité numérique et des dispositifs de paiement transfrontalier. C'est proche de ce que recommandait le FMI en 2023 : une stratégie claire vis-à-vis du mobile money et des projets pilotes sur les corridors de transferts de fonds.\n\n## Où en est l'Afrique du Nord ?\n\nLes banques centrales d'Afrique du Nord en sont encore au stade de l'étude :\n\n- **Maroc.** Bank Al-Maghrib travaille sur un projet d'e-dirham et en a exploré l'usage pour les paiements entre particuliers et transfrontaliers, avec l'appui du FMI et de la Banque mondiale, selon [The Paypers](https://thepaypers.com/crypto-web3-and-cbdc/news/moroccos-central-bank-advances-digital-currency). Elle étudie aussi des transferts transfrontaliers en MNBC avec la Banque centrale d'Égypte et la Banque mondiale. Le projet de loi marocain sur les crypto-actifs exclut explicitement les MNBC.\n- **Égypte.** La Banque centrale d'Égypte participe à cette exploration transfrontalière. Dans les faits, son projet national le plus visible est le réseau de paiement instantané InstaPay, présenté dans notre article sur [l'essor de la fintech égyptienne](post:egypt-fintech-instapay).\n- **Tunisie.** En novembre 2019, l'agence russe TASS affirmait que la Tunisie avait lancé un « e-dinar », MNBC sur blockchain, avec une startup russe. La Banque centrale de Tunisie (BCT) a démenti : aucune MNBC n'avait été créée, et elle se limitait à étudier des alternatives, dont une MNBC, au stade de la réflexion, selon [Cryptoast](https://cryptoast.fr/e-dinar-tunisie-premier-pays-au-monde-a-lancer-monnaie-numerique-banque-centrale/). Il ne faut pas confondre cet épisode avec l'e-Dinar de La Poste Tunisienne, un moyen de paiement électronique existant, présenté dans notre article sur [e-Dinar et D17](post:la-poste-tunisienne-e-dinar-d17).\n\n## Les leçons pour la Tunisie et la région\n\n1. **Résoudre un problème que les outils existants ne règlent pas.** L'expérience nigériane montre qu'une MNBC doit offrir ce que les applications bancaires et les portefeuilles ne savent pas faire. En Tunisie, les gains les plus rapides viendront peut-être du [paiement instantané et de l'interopérabilité](post:instant-payments-tunisia) entre banques, La Poste et établissements de paiement.\n2. **Associer banques et fintechs dès le départ.** La CBN cite elle-même le manque d'adhésion des acteurs parmi les causes de l'échec. Les intermédiaires ont besoin d'un modèle économique.\n3. **Commencer par les flux publics et transfrontaliers.** L'eNaira finit là où elle aurait pu commencer : paiements sociaux et règlement. Pour une économie aussi dépendante du cash que la Tunisie, les paiements de l'État sont un premier cas d'usage naturel, comme l'explique notre article sur [le cash et l'informel](post:cash-economy-tunisia).\n4. **Mesurer l'usage réel, pas les inscriptions.** Treize millions de portefeuilles ne signifiaient pas grand-chose quand presque tous dormaient.\n\nUne MNBC n'est pas un raccourci vers le paiement numérique. Elle fonctionne mieux comme élément d'une stratégie de paiement plus large que comme substitut à celle-ci.",
+    "faq": [
+      {
+        "q": "Pourquoi l'eNaira a-t-elle échoué ?",
+        "a": "L'eNaira n'apportait guère plus que les applications bancaires, les portefeuilles fintech et le mobile money déjà disponibles, et les banques avaient peu d'intérêt à la promouvoir. La CBN a elle-même reconnu, en 2026, un engagement et une adhésion insuffisants des acteurs."
+      },
+      {
+        "q": "L'eNaira existe-t-elle encore ?",
+        "a": "Oui, mais la CBN la repositionne. Selon la stratégie Payments System Vision 2028, publiée en juin 2026, elle doit surtout servir d'infrastructure pour les paiements publics et le règlement transfrontalier, plutôt que de portefeuille grand public."
+      },
+      {
+        "q": "La Tunisie a-t-elle une monnaie numérique de banque centrale ?",
+        "a": "Non. En 2019, la Banque centrale de Tunisie a démenti avoir lancé un e-dinar et indiqué qu'elle ne faisait qu'étudier des options. L'e-Dinar de La Poste Tunisienne est un produit de paiement distinct, pas une monnaie de banque centrale."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nigeria's eNaira, One Year After (Working Paper No. 2023/104)",
+      "publisher": "International Monetary Fund",
+      "url": "https://www.imf.org/en/publications/wp/issues/2023/05/16/nigerias-enaira-one-year-after-533487"
+    },
+    {
+      "title": "IMF sees room for eNaira improvement in first-year assessment",
+      "publisher": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/imf-sees-room-for-enaira-improvement-in-first-year-assessment"
+    },
+    {
+      "title": "Three years in, eNaira struggles as transactions crawl to N29bn",
+      "publisher": "BusinessDay",
+      "url": "https://businessday.ng/news/article/three-years-in-enaira-struggles-as-transactions-crawl-to-n29bn/"
+    },
+    {
+      "title": "Nigeria plans salvage job for its eNaira digital currency flop",
+      "publisher": "WeeTracker",
+      "url": "https://weetracker.com/2026/06/09/nigeria-enaira-cbn-reposition/"
+    },
+    {
+      "title": "Morocco's central bank advances digital currency",
+      "publisher": "The Paypers",
+      "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/moroccos-central-bank-advances-digital-currency"
+    },
+    {
+      "title": "E-dinar : la Tunisie devient le premier pays au monde à lancer une monnaie numérique de banque centrale",
+      "publisher": "Cryptoast",
+      "url": "https://cryptoast.fr/e-dinar-tunisie-premier-pays-au-monde-a-lancer-monnaie-numerique-banque-centrale/"
+    }
+  ]
+}

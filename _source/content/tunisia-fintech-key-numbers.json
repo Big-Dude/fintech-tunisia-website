@@ -1,0 +1,178 @@
+{
+  "slug": "tunisia-fintech-key-numbers",
+  "category": "ecosystem",
+  "cover_motif": "chart-up",
+  "stats": [
+    {
+      "value": "37.8%",
+      "label_en": "adults with an account (2024)",
+      "label_fr": "adultes détenant un compte (2024)",
+      "source": "World Bank Global Findex 2025"
+    },
+    {
+      "value": "84.3%",
+      "label_en": "of the population online (Oct 2025)",
+      "label_fr": "de la population en ligne (oct. 2025)",
+      "source": "DataReportal, Digital 2026"
+    },
+    {
+      "value": "1,375 MD",
+      "label_en": "online card payments in 2025 (+31%)",
+      "label_fr": "de paiements en ligne par carte en 2025 (+31 %)",
+      "source": "BCT annual report 2025"
+    }
+  ],
+  "chart": {
+    "title_en": "Growth of payment channels in Tunisia, 2025 vs 2024",
+    "title_fr": "Croissance des canaux de paiement en Tunisie, 2025 vs 2024",
+    "unit": "%",
+    "bars": [
+      {
+        "label_en": "Mobile payments (number)",
+        "label_fr": "Paiement mobile (nombre)",
+        "value": 80.5
+      },
+      {
+        "label_en": "Mobile payments (value)",
+        "label_fr": "Paiement mobile (valeur)",
+        "value": 58.6
+      },
+      {
+        "label_en": "Online card payments (value)",
+        "label_fr": "Paiement en ligne par carte (valeur)",
+        "value": 31.0
+      },
+      {
+        "label_en": "Mobile wallets (number)",
+        "label_fr": "Portefeuilles mobiles (nombre)",
+        "value": 26.8
+      },
+      {
+        "label_en": "Card payments (value)",
+        "label_fr": "Paiements par carte (valeur)",
+        "value": 12.3
+      },
+      {
+        "label_en": "Transfers (number)",
+        "label_fr": "Virements (nombre)",
+        "value": 11.1
+      }
+    ],
+    "source_name": "BCT annual report 2025, via Webmanagercenter and La Presse",
+    "source_url": "https://www.webmanagercenter.com/2026/07/08/569808/bct-le-cheque-seffondre-en-tunisie-les-virements-et-la-lettre-de-change-prennent-le-relais-en-2025/"
+  },
+  "en": {
+    "title": "Tunisia Fintech Key Numbers: Accounts, Cards, Mobile, Cash",
+    "meta_description": "Tunisia fintech key numbers for 2026: account ownership, bank cards, mobile wallets, e-commerce, internet use and cash in circulation, each sourced and dated.",
+    "excerpt": "Fewer than four in ten adults have an account, mobile payments grew 80% in 2025, and cash keeps rising. The essential, sourced figures on Tunisian fintech.",
+    "keywords": [
+      "Tunisia fintech key numbers",
+      "Tunisia financial inclusion statistics",
+      "bank cards Tunisia 2025",
+      "mobile payments Tunisia statistics",
+      "Tunisia internet penetration",
+      "cash in circulation Tunisia",
+      "Findex Tunisia"
+    ],
+    "tags": [
+      "Data",
+      "Payments",
+      "Financial inclusion",
+      "BCT"
+    ],
+    "key_takeaways": [
+      "37.8% of Tunisian adults had an account in 2024 (Findex), with a 23-point gap between men (49.6%) and women (26.6%).",
+      "Mobile payments grew 80.5% in number in 2025, but there were only 469,000 mobile wallets.",
+      "Online card payments reached 1,375 million dinars in 2025 (+31%), while cards overall handled 29.5 billion dinars.",
+      "Cash in circulation passed 30 billion dinars in August 2026 even as cheque use collapsed by two-thirds in 2025."
+    ],
+    "body": "These are the key numbers behind Tunisian fintech: who has an account, how people pay, how connected they are and how much cash still circulates. Each figure comes from the Central Bank of Tunisia (BCT), the World Bank or DataReportal and is dated. Together they describe a country with near-universal mobile access but limited formal account use, where electronic payments are growing fast from a low base.\n\n## Accounts: fewer than four in ten adults\n\nAccording to the World Bank's Global Findex 2025, based on 2024 survey data, **37.8% of Tunisian adults** had an account at a financial institution or a mobile-money provider. That is almost unchanged from 36.9% in both 2017 and 2021. The World Bank estimates that about **5.7 million** of Tunisia's 9.2 million adults are unbanked.\n\nThe gender gap is wide:\n\n- **49.6%** of men had an account in 2024;\n- **26.6%** of women did.\n\nA 23-point gap is large even by regional standards. It suggests that products designed for women, and distribution beyond bank branches, are a real opportunity. We look at this in more detail in [financial inclusion in Tunisia](post:financial-inclusion-tunisia).\n\nA word of caution: Tunisian sources sometimes quote other rates, such as the 36% from 2021 or the \"four in ten\" figure. Always check which survey year and definition is behind a number.\n\n## Cards and terminals\n\nCards are still the main electronic payment instrument. The BCT's 2025 annual report, as reported by Tuniscope and Webmanagercenter, shows:\n\n- **5.85 million** domestic bank cards in circulation, 362,000 more than in 2024;\n- **164.9 million** card transactions (+8.9%) worth **29.5 billion dinars** (+12.3%);\n- **43,116** payment terminals (TPE), up 10%;\n- about **3,300** ATMs, a number that has barely moved.\n\nFor about 12.3 million people, 43,000 terminals is thin coverage. Many small merchants still accept only cash.\n\n## Mobile payments and wallets\n\nMobile payments are the fastest-growing channel, but they remain small. In 2025, according to the BCT:\n\n- **8.4 million** mobile payment transactions (+80.5%);\n- worth **1,769 million dinars** (+58.6%);\n- through **469,000** mobile wallets (+26.8%).\n\nThere are fewer than half a million wallets in a country of 15.5 million mobile connections. That gap is why new entrants such as Ooredoo's payment subsidiary, approved in March 2026, are watched closely. See our overview of [mobile payments in Tunisia](post:mobile-payments-tunisia).\n\n## E-commerce and online payments\n\nOnline card payments reached **1,375 million dinars** in 2025, up 31%, according to the BCT annual report. In the first quarter of 2025, the BCT's payments bulletin counted **1,342** active e-commerce merchant sites. Much online shopping is still paid in cash on delivery, so these figures measure only the part of e-commerce that is paid digitally. More in [e-commerce payments in Tunisia](post:ecommerce-payments-tunisia).\n\n## Internet and mobile connectivity\n\nThe infrastructure is not the bottleneck. DataReportal's *Digital 2026: Tunisia* report, using data from October 2025, counts:\n\n- **10.4 million internet users**, or **84.3%** of the population;\n- **15.5 million cellular connections**, equal to **125%** of the population (GSMA Intelligence);\n- **7.83 million** social media user identities;\n- a median mobile download speed of **67.12 Mbps**, against **16.99 Mbps** on fixed connections (Ookla).\n\nMobile internet is now faster than fixed broadband. For fintech, that makes the smartphone the main channel.\n\n## Cash and cheques: the other side of the ledger\n\nDespite the growth in digital payments, cash keeps rising. Banknotes and coins in circulation reached **28.5 billion dinars** on 24 March 2026, up 21.8% in a year, and **30.2 billion dinars** at the end of August 2026, according to BCT data reported by La Presse.\n\nCheques, meanwhile, collapsed in 2025 after the cheque law reform: their number fell **67.5%** and their value 58.8%. Bills of exchange (+161% in number) and transfers (38.5 million operations, +11.1%) took over part of that role. Whether the money that left cheques moved to digital channels or to cash is a question we explore in [cash and the cashless push](post:cash-economy-tunisia).\n\n## What the numbers mean for founders\n\n- **The market is under-served, not under-connected.** With about 84% of people online and 125% mobile penetration, but fewer than 40% of adults holding an account, distribution and trust matter more than technology.\n- **Women are the biggest gap.** Twenty-three percentage points separate men and women in account ownership.\n- **Digital is growing fast, but so is cash.** Growth rates of 30–80% in online and mobile payments sit next to a cash stock that rose by more than a fifth in a year.\n- **Check the date on every number.** Findex is updated every three years. BCT figures come out yearly or quarterly and are sometimes revised.",
+    "faq": [
+      {
+        "q": "What percentage of Tunisians have a bank account?",
+        "a": "According to the World Bank Global Findex 2025, 37.8% of adults in Tunisia had an account at a financial institution or mobile-money provider in 2024. The rate was 49.6% for men and 26.6% for women."
+      },
+      {
+        "q": "How many bank cards are there in Tunisia?",
+        "a": "The Central Bank of Tunisia counted about 5.85 million domestic bank cards in circulation at the end of 2025, up by about 362,000 over the year. They were used for 164.9 million transactions worth 29.5 billion dinars."
+      },
+      {
+        "q": "How many people use the internet in Tunisia?",
+        "a": "DataReportal's Digital 2026 report counts 10.4 million internet users in Tunisia as of October 2025, or 84.3% of the population, and 15.5 million cellular connections."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Fintech en Tunisie : les chiffres clés à connaître en 2026",
+    "meta_description": "Les chiffres clés de la fintech en Tunisie : bancarisation, cartes, portefeuilles mobiles, e-commerce, internet et espèces en circulation, sourcés et datés.",
+    "excerpt": "Moins de quatre adultes sur dix ont un compte, le paiement mobile a bondi de 80 % en 2025 et le cash continue de grimper. Les chiffres essentiels, sourcés.",
+    "keywords": [
+      "chiffres clés fintech Tunisie",
+      "taux de bancarisation Tunisie",
+      "cartes bancaires Tunisie 2025",
+      "paiement mobile Tunisie chiffres",
+      "internet Tunisie 2026",
+      "billets en circulation Tunisie",
+      "Findex Tunisie"
+    ],
+    "tags": [
+      "Données",
+      "Paiements",
+      "Inclusion financière",
+      "BCT"
+    ],
+    "key_takeaways": [
+      "37,8 % des adultes tunisiens avaient un compte en 2024 (Findex), avec 23 points d'écart entre hommes (49,6 %) et femmes (26,6 %).",
+      "Le paiement mobile a progressé de 80,5 % en nombre en 2025, mais le pays ne comptait que 469 000 portefeuilles mobiles.",
+      "Les paiements en ligne par carte ont atteint 1 375 millions de dinars en 2025 (+31 %), pour 29,5 milliards de dinars de paiements par carte au total.",
+      "Les espèces en circulation ont dépassé 30 milliards de dinars en août 2026, alors que l'usage du chèque a chuté des deux tiers en 2025."
+    ],
+    "body": "Voici les chiffres clés de la fintech tunisienne : qui possède un compte, comment on paie, quel est le niveau de connexion et combien d'espèces circulent encore. Chaque donnée provient de la Banque centrale de Tunisie (BCT), de la Banque mondiale ou de DataReportal, et elle est datée. Ensemble, elles décrivent un pays où l'accès au mobile est quasi universel mais l'usage des comptes formels limité, et où les paiements électroniques progressent vite à partir d'une base étroite.\n\n## Comptes : moins de quatre adultes sur dix\n\nSelon le Global Findex 2025 de la Banque mondiale, fondé sur l'enquête de 2024, **37,8 % des adultes tunisiens** détenaient un compte auprès d'une institution financière ou d'un prestataire de mobile money. Le niveau est presque inchangé par rapport aux 36,9 % de 2017 et de 2021. La Banque mondiale estime qu'environ **5,7 millions** des 9,2 millions d'adultes du pays n'ont pas de compte.\n\nL'écart entre les sexes est important :\n\n- **49,6 %** des hommes avaient un compte en 2024 ;\n- **26,6 %** des femmes seulement.\n\nUn écart de 23 points est élevé, même à l'échelle régionale. Il signale une vraie opportunité pour des produits pensés pour les femmes et pour une distribution qui ne passe pas uniquement par les agences. Nous y revenons dans [l'inclusion financière en Tunisie](post:financial-inclusion-tunisia).\n\nAttention : les sources tunisiennes citent parfois d'autres taux, comme les 36 % de 2021 ou la formule « quatre Tunisiens sur dix ». Il faut toujours vérifier l'année d'enquête et la définition retenue.\n\n## Cartes et terminaux\n\nLa carte reste le premier instrument de paiement électronique. Le rapport annuel 2025 de la BCT, repris par Tuniscope et Webmanagercenter, indique :\n\n- **5,85 millions** de cartes bancaires locales en circulation, soit 362 000 de plus qu'en 2024 ;\n- **164,9 millions** d'opérations par carte (+8,9 %) pour **29,5 milliards de dinars** (+12,3 %) ;\n- **43 116** terminaux de paiement électronique (TPE), en hausse de 10 % ;\n- environ **3 300** distributeurs automatiques, un parc quasi stable.\n\nPour environ 12,3 millions d'habitants, 43 000 terminaux, c'est peu. Beaucoup de petits commerçants n'acceptent encore que les espèces.\n\n## Paiement mobile et wallets\n\nLe paiement mobile est le canal qui progresse le plus vite, mais il reste modeste. En 2025, selon la BCT :\n\n- **8,4 millions** d'opérations de paiement mobile (+80,5 %) ;\n- pour **1 769 millions de dinars** (+58,6 %) ;\n- via **469 000** portefeuilles mobiles (+26,8 %).\n\nOn compte moins d'un demi-million de wallets pour 15,5 millions de connexions mobiles. C'est pourquoi l'arrivée de nouveaux acteurs, comme la filiale de paiement d'Ooredoo agréée en mars 2026, est suivie de près. Voir notre panorama du [paiement mobile en Tunisie](post:mobile-payments-tunisia).\n\n## E-commerce et paiement en ligne\n\nLes paiements en ligne par carte ont atteint **1 375 millions de dinars** en 2025, en hausse de 31 %, selon le rapport annuel de la BCT. Au premier trimestre 2025, le bulletin des paiements de la BCT recensait **1 342** sites marchands actifs. Une grande partie des achats en ligne est encore réglée en espèces à la livraison : ces chiffres ne mesurent donc que la part de l'e-commerce payée par voie numérique. Plus de détails dans [les paiements e-commerce en Tunisie](post:ecommerce-payments-tunisia).\n\n## Internet et connectivité mobile\n\nL'infrastructure n'est pas le facteur limitant. Le rapport *Digital 2026: Tunisia* de DataReportal, sur des données d'octobre 2025, recense :\n\n- **10,4 millions d'internautes**, soit **84,3 %** de la population ;\n- **15,5 millions de connexions mobiles**, soit **125 %** de la population (GSMA Intelligence) ;\n- **7,83 millions** d'identités d'utilisateurs de réseaux sociaux ;\n- un débit mobile médian de **67,12 Mbit/s**, contre **16,99 Mbit/s** pour le fixe (Ookla).\n\nL'internet mobile est désormais plus rapide que le fixe. Pour une fintech, le smartphone est donc le canal principal.\n\n## Espèces et chèques : l'autre face du bilan\n\nMalgré l'essor du numérique, les espèces continuent d'augmenter. Les billets et monnaies en circulation atteignaient **28,5 milliards de dinars** au 24 mars 2026, en hausse de 21,8 % sur un an, puis **30,2 milliards de dinars** fin août 2026, selon les données de la BCT reprises par La Presse.\n\nLe chèque, lui, s'est effondré en 2025 après la réforme de la loi sur les chèques : **-67,5 %** en nombre et -58,8 % en valeur. La lettre de change (+161 % en nombre) et le virement (38,5 millions d'opérations, +11,1 %) ont pris une partie du relais. Reste à savoir si les montants qui transitaient par chèque se sont reportés sur le numérique ou sur les espèces, une question que nous abordons dans [cash et paiements numériques](post:cash-economy-tunisia).\n\n## Ce que ces chiffres signifient pour les fondateurs\n\n- **Le marché est mal servi, pas mal connecté.** Environ 84 % de la population est en ligne et le taux de pénétration mobile atteint 125 %, mais moins de 40 % des adultes ont un compte. La distribution et la confiance comptent davantage que la technologie.\n- **Les femmes constituent le principal écart.** Vingt-trois points séparent hommes et femmes pour la détention d'un compte.\n- **Le numérique progresse vite, le cash aussi.** Des croissances de 30 à 80 % pour le paiement en ligne et mobile coexistent avec un stock d'espèces en hausse de plus d'un cinquième en un an.\n- **Vérifier la date de chaque chiffre.** Le Findex est mis à jour tous les trois ans. Les données de la BCT sont annuelles ou trimestrielles, et parfois révisées.",
+    "faq": [
+      {
+        "q": "Quel est le taux de bancarisation en Tunisie ?",
+        "a": "Selon le Global Findex 2025 de la Banque mondiale, 37,8 % des adultes tunisiens détenaient en 2024 un compte auprès d'une institution financière ou d'un prestataire de mobile money : 49,6 % des hommes et 26,6 % des femmes."
+      },
+      {
+        "q": "Combien de cartes bancaires circulent en Tunisie ?",
+        "a": "La BCT recensait environ 5,85 millions de cartes bancaires locales fin 2025, soit environ 362 000 de plus en un an. Elles ont servi à 164,9 millions d'opérations pour 29,5 milliards de dinars."
+      },
+      {
+        "q": "Combien de Tunisiens utilisent internet ?",
+        "a": "Selon le rapport Digital 2026 de DataReportal, la Tunisie comptait 10,4 millions d'internautes en octobre 2025, soit 84,3 % de la population, et 15,5 millions de connexions mobiles."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Account ownership at a financial institution or with a mobile-money-service provider (FX.OWN.TOTL.ZS)",
+      "publisher": "World Bank (Global Findex)",
+      "url": "https://api.worldbank.org/v2/country/TUN;MAR;EGY;DZA/indicator/FX.OWN.TOTL.ZS?format=json&date=2011:2024"
+    },
+    {
+      "title": "Tunisia: Global snapshot of indicators and enabling regulations",
+      "publisher": "World Bank",
+      "url": "https://digitalfinance.worldbank.org/country/tunisia"
+    },
+    {
+      "title": "BCT : le chèque s'effondre en Tunisie, les virements et la lettre de change prennent le relais en 2025",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2026/07/08/569808/bct-le-cheque-seffondre-en-tunisie-les-virements-et-la-lettre-de-change-prennent-le-relais-en-2025/"
+    },
+    {
+      "title": "Paiement : les chiffres de 2025 (rapport annuel de la BCT)",
+      "publisher": "Tuniscope",
+      "url": "https://www.tuniscope.com/article/436288/actu-arabe/arabe/paiement-104710"
+    },
+    {
+      "title": "Digital 2026: Tunisia",
+      "publisher": "DataReportal",
+      "url": "https://datareportal.com/reports/digital-2026-tunisia"
+    },
+    {
+      "title": "Les chiffres clés du bilan de la BCT à fin août 2026",
+      "publisher": "La Presse via AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202609160562.html"
+    }
+  ]
+}

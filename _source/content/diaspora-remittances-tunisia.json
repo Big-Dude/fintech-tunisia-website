@@ -1,0 +1,188 @@
+{
+  "slug": "diaspora-remittances-tunisia",
+  "category": "inclusion",
+  "cover_motif": "globe-links",
+  "stats": [
+    {
+      "value": "TND 8.76bn",
+      "label_en": "labour income transfers in 2025",
+      "label_fr": "revenus du travail transférés en 2025",
+      "source": "BCT via Business News, 2026"
+    },
+    {
+      "value": "5.50%",
+      "label_en": "average cost of sending $200 from France, Q3 2025",
+      "label_fr": "coût moyen d'un envoi de 200 $ depuis la France, T3 2025",
+      "source": "World Bank Remittance Prices Worldwide, 2025"
+    },
+    {
+      "value": "TND 5.87bn",
+      "label_en": "labour income received by 20 August 2026 (+5.4%)",
+      "label_fr": "revenus du travail au 20 août 2026 (+5,4 %)",
+      "source": "BCT via La Presse, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Total cost of sending $200 from France to Tunisia, by provider and channel (Q3 2025)",
+    "title_fr": "Coût total d'un envoi de 200 $ de la France vers la Tunisie, par opérateur et canal (T3 2025)",
+    "unit": "%",
+    "bars": [
+      {
+        "label_en": "Attijariwafa Bank, online to account",
+        "label_fr": "Attijariwafa Bank, en ligne vers compte",
+        "value": 0.61
+      },
+      {
+        "label_en": "MoneyGram, online (cheapest option)",
+        "label_fr": "MoneyGram, en ligne (option la moins chère)",
+        "value": 2.49
+      },
+      {
+        "label_en": "WorldRemit, online",
+        "label_fr": "WorldRemit, en ligne",
+        "value": 3.58
+      },
+      {
+        "label_en": "Remitly, online (under 1 hour)",
+        "label_fr": "Remitly, en ligne (moins d'une heure)",
+        "value": 4.08
+      },
+      {
+        "label_en": "Western Union, online",
+        "label_fr": "Western Union, en ligne",
+        "value": 5.47
+      },
+      {
+        "label_en": "Ria, cash at agent",
+        "label_fr": "Ria, espèces en agence",
+        "value": 6.89
+      },
+      {
+        "label_en": "Western Union, cash at agent",
+        "label_fr": "Western Union, espèces en agence",
+        "value": 9.81
+      },
+      {
+        "label_en": "Société Générale, bank branch",
+        "label_fr": "Société Générale, en agence bancaire",
+        "value": 28.24
+      }
+    ],
+    "source_name": "World Bank, Remittance Prices Worldwide (France to Tunisia, data collected August 2025)",
+    "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  "en": {
+    "title": "Diaspora Remittances to Tunisia: Volumes, Costs, Digital Channels",
+    "meta_description": "Diaspora remittances to Tunisia reached TND 8.76 billion in 2025. What transfers cost, which digital channels compete, and where fintechs fit in.",
+    "excerpt": "Tunisians abroad sent home TND 8.76 billion through formal channels in 2025, more than tourism brought in. Sending money is getting cheaper online, but cash and informal channels still dominate.",
+    "keywords": [
+      "diaspora remittances Tunisia",
+      "send money to Tunisia",
+      "Tunisians abroad transfers",
+      "TRE remittances 2025",
+      "remittance cost France Tunisia",
+      "digital money transfer Tunisia",
+      "Taptap Send Tunisia"
+    ],
+    "tags": [
+      "Remittances",
+      "Diaspora",
+      "Cross-border payments",
+      "Inclusion"
+    ],
+    "key_takeaways": [
+      "Labour income transfers, mostly from Tunisians abroad, reached TND 8,761.6 million in 2025, up from TND 8,262.6 million in 2024, according to BCT data.",
+      "By 20 August 2026, transfers were up 5.4% year on year and exceeded tourism receipts by about TND 741 million.",
+      "Sending $200 from France cost 5.50% on average in Q3 2025, but prices ranged from under 1% online to over 28% at a bank branch.",
+      "A large but unmeasured share of money still travels as cash or through informal channels, which is the core opportunity for digital players."
+    ],
+    "body": "Diaspora remittances are one of Tunisia's largest sources of foreign currency. According to Central Bank of Tunisia (BCT) data, transfers recorded as labour income reached TND 8,761.6 million in 2025, more than the country earned from tourism. How that money travels, and what it costs, is slowly changing as app-based transfer services compete with agents, banks and the suitcase of cash.\n\n## How big are diaspora remittances in Tunisia?\n\nThe BCT publishes \"revenus du travail\" (labour income) in its daily monetary and financial indicators. This line is made up mainly of transfers by Tunisians residing abroad, known locally as TRE. The latest annual figures:\n\n- **2024:** TND 8,262.6 million;\n- **2025:** TND 8,761.6 million, an increase of about 6%.\n\nThe trend continued in 2026. By 20 August 2026, cumulative labour income stood at TND 5,868.7 million, up 5.4% on the same date in 2025, according to BCT figures reported by La Presse. Tourism receipts over the same period were TND 5,127.5 million, so the diaspora brought in about TND 741 million more than tourists did.\n\nThese flows matter for the country's external position: together with tourism, they are among the main sources of hard currency that support the BCT's reserves, which stood at 98 days of imports on 24 August 2026.\n\nThe diaspora behind those numbers is large. Business News puts the number of Tunisians living abroad at close to two million, mainly in Europe.\n\n## What official figures miss\n\nBCT data only captures money that passes through formal channels. A large share of support to families travels differently: cash carried home during summer visits, goods, or informal exchange networks. A 2022 Inkyfada investigation cited World Bank estimates that informal flows can equal 50% or more of a country's recorded remittances, and an estimate that only around 5% of Tunisian remittances pass through banks. Neither figure is an official Tunisian measurement, and we could not find a recent one.\n\nThe gap is partly a question of price. Formal transfers are converted through the official foreign exchange market, while informal channels can offer a better rate or simply more convenience. In 2021, then BCT governor Marouane El Abassi said publicly that transfer costs to Tunisia were significantly higher than in other countries and that the goal was to move Tunisians abroad from informal transfers to formal finance. He mentioned easing account-opening rules for recent emigrants and using new technologies to cut costs. The ongoing [foreign exchange code reform](post:tunisia-foreign-exchange-code-reform) is the main lever that could change these incentives.\n\n## What it costs to send money to Tunisia\n\nThe World Bank's Remittance Prices Worldwide database tracks the France to Tunisia corridor, the country's largest. In the third quarter of 2025 (data collected in August 2025), the average total cost of sending the equivalent of $200 was **5.50%**: an average fee of EUR 4.52 plus a 2.27% exchange rate margin. That is well above the United Nations Sustainable Development Goal target of 3%.\n\nThe average hides a huge spread:\n\n- **Online transfers to a bank account** were the cheapest. Attijariwafa Bank's online service cost 0.61%, and MoneyGram's cheapest online option 2.49%.\n- **App-based money transfer operators** such as WorldRemit (3.58%) and Remitly (4.08% for delivery in under an hour) sat in the middle.\n- **Cash at an agent** cost more: 6.89% with Ria and 9.81% with Western Union, mostly because of the exchange rate margin.\n- **A traditional bank branch** was the most expensive option surveyed, at 28.24% for Société Générale.\n\nThe lesson for senders is that the channel matters more than the brand, and that the exchange rate margin often weighs more than the visible fee.\n\n## Digital channels are gaining ground\n\nSending money to Tunisia used to mean queuing at an agency, a bank or a post office. A growing share now starts on a smartphone, even if the money often ends up as cash.\n\n### App-based senders\n\nTaptap Send launched its Tunisia service in April 2022 with no sending fees, from countries including France, Belgium, Italy, Germany, the UK, Canada and the US. At launch, recipients collected cash from around 300 points of the Swared network run by Viamobile, one of the first payment institutions licensed by the BCT. In March 2026, Business News described the shift to smartphone-based sending, citing Taptap Send's presence in more than 80 countries. Global operators such as Remitly, WorldRemit, Western Union and MoneyGram also offer online transfers to Tunisian bank accounts or cash pick-up.\n\n### The receiving side\n\nThe weak link is often the last mile. Many recipients still want cash. Payment institutions and wallets, covered in our guides to [payment institutions](post:payment-institutions-tunisia) and [mobile payments in Tunisia](post:mobile-payments-tunisia), could let families receive and spend transfers digitally, but crediting a Tunisian wallet directly from abroad depends on BCT foreign exchange rules and on partnerships with licensed intermediaries.\n\n## Why it matters for fintechs\n\nRemittances combine a large, recurring flow with a customer base that already uses digital tools abroad. For Tunisian fintechs, the openings are concrete:\n\n- **Receiving wallets** that turn an incoming transfer into bill payments, savings or merchant payments instead of an immediate cash withdrawal;\n- **Diaspora products**, such as savings, investment or housing finance for TRE, which banks have long promised but rarely digitised;\n- **Price transparency**, given how much costs vary between channels;\n- **Data**: a documented history of incoming transfers could support credit scoring for households with thin files, a theme of our [financial inclusion](post:financial-inclusion-tunisia) coverage.\n\nThe constraints are regulatory rather than technical. Any player handling cross-border flows needs a licensed partner and must follow foreign exchange and AML/CFT and e-KYC rules. How fast digital channels win share from cash will depend largely on how far the foreign exchange reform goes.",
+    "faq": [
+      {
+        "q": "How much money do Tunisians abroad send home?",
+        "a": "According to Central Bank of Tunisia data, labour income transfers, mostly from Tunisians residing abroad, reached TND 8,761.6 million in 2025, up from TND 8,262.6 million in 2024. These figures only count formal channels; cash carried home and informal transfers are not included."
+      },
+      {
+        "q": "What is the cheapest way to send money to Tunisia?",
+        "a": "In the World Bank's survey of the France to Tunisia corridor for Q3 2025, online transfers to a bank account were the cheapest, with some options below 3%. Cash pick-up at an agent cost more, and a transfer from a bank branch was the most expensive option surveyed. Prices change often, so compare the total cost including the exchange rate margin."
+      },
+      {
+        "q": "Can I send money to a mobile wallet in Tunisia?",
+        "a": "Some international apps pay out through Tunisian partners, including cash pick-up networks run by licensed payment institutions. Direct crediting of a Tunisian wallet from abroad depends on the provider's local partnerships and on BCT foreign exchange rules, so availability varies by service."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Transferts de la diaspora en Tunisie : coûts et canaux digitaux",
+    "meta_description": "Les transferts de la diaspora tunisienne ont atteint 8,76 milliards de dinars en 2025. Coût d'un envoi, canaux numériques et place des fintechs.",
+    "excerpt": "Les Tunisiens à l'étranger ont transféré 8,76 milliards de dinars par les canaux formels en 2025, plus que les recettes du tourisme. Les envois en ligne coûtent moins cher, mais le cash et l'informel restent massifs.",
+    "keywords": [
+      "transferts diaspora Tunisie",
+      "envoyer de l'argent en Tunisie",
+      "transferts TRE 2025",
+      "revenus du travail BCT",
+      "coût transfert France Tunisie",
+      "transfert d'argent digital Tunisie",
+      "Taptap Send Tunisie"
+    ],
+    "tags": [
+      "Transferts",
+      "Diaspora",
+      "Paiements transfrontaliers",
+      "Inclusion"
+    ],
+    "key_takeaways": [
+      "Les revenus du travail, issus surtout des TRE, ont atteint 8 761,6 millions de dinars en 2025, contre 8 262,6 millions en 2024, selon la BCT.",
+      "Au 20 août 2026, ils progressaient de 5,4 % sur un an et dépassaient les recettes touristiques d'environ 741 millions de dinars.",
+      "Envoyer 200 dollars depuis la France coûtait en moyenne 5,50 % au troisième trimestre 2025, avec des écarts allant de moins de 1 % en ligne à plus de 28 % en agence bancaire.",
+      "Une part importante mais non mesurée des fonds circule encore en espèces ou par des canaux informels : c'est là que se trouve l'opportunité pour les acteurs numériques."
+    ],
+    "body": "Les transferts de la diaspora comptent parmi les premières sources de devises de la Tunisie. Selon les données de la Banque centrale de Tunisie (BCT), les revenus du travail ont atteint 8 761,6 millions de dinars en 2025, davantage que les recettes touristiques. La manière dont cet argent circule, et son coût, évoluent lentement : les applications de transfert concurrencent désormais les agences, les banques et la valise d'espèces.\n\n## Quel poids pour les transferts de la diaspora tunisienne ?\n\nLa BCT publie les « revenus du travail » dans ses indicateurs monétaires et financiers quotidiens. Cette ligne correspond essentiellement aux transferts des Tunisiens résidant à l'étranger (TRE). Derniers chiffres annuels :\n\n- **2024 :** 8 262,6 millions de dinars ;\n- **2025 :** 8 761,6 millions de dinars, soit une hausse d'environ 6 %.\n\nLa tendance se poursuit en 2026. Au 20 août, les revenus du travail cumulés atteignaient 5 868,7 millions de dinars, en hausse de 5,4 % sur un an, selon les chiffres de la BCT repris par La Presse. Sur la même période, les recettes touristiques s'élevaient à 5 127,5 millions de dinars : la diaspora a donc apporté environ 741 millions de dinars de plus que les touristes.\n\nCes flux pèsent lourd dans l'équilibre extérieur : avec le tourisme, ils figurent parmi les principales sources de devises qui soutiennent les avoirs de la BCT, équivalents à 98 jours d'importation au 24 août 2026.\n\nLa communauté concernée est importante : Business News évalue à près de deux millions le nombre de Tunisiens vivant à l'étranger, principalement en Europe.\n\n## Ce que les chiffres officiels ne voient pas\n\nLes données de la BCT ne couvrent que les canaux formels. Une part importante de l'aide aux familles emprunte d'autres voies : espèces rapportées lors des vacances d'été, biens, réseaux de change informels. Une enquête d'Inkyfada publiée en 2022 citait des estimations de la Banque mondiale selon lesquelles les flux informels peuvent représenter 50 % ou plus des transferts enregistrés d'un pays, ainsi qu'une estimation selon laquelle environ 5 % seulement des transferts tunisiens transitent par les banques. Aucun de ces chiffres n'est une mesure officielle tunisienne, et nous n'en avons pas trouvé de plus récente.\n\nL'écart tient en partie au prix. Les transferts formels sont convertis sur le marché officiel des changes, alors que les circuits informels peuvent offrir un meilleur taux ou simplement plus de commodité. En 2021, le gouverneur de la BCT de l'époque, Marouane El Abassi, reconnaissait publiquement que les coûts de transfert vers la Tunisie étaient nettement plus élevés qu'ailleurs, et fixait l'objectif de faire passer les TRE de l'informel à la finance formelle. Il évoquait l'assouplissement des règles d'ouverture de comptes pour les nouveaux émigrés et le recours aux nouvelles technologies. La [réforme du code des changes](post:tunisia-foreign-exchange-code-reform) reste le principal levier pour modifier ces incitations.\n\n## Combien coûte un envoi vers la Tunisie ?\n\nLa base de données Remittance Prices Worldwide de la Banque mondiale suit le corridor France-Tunisie, le plus important du pays. Au troisième trimestre 2025 (données collectées en août 2025), le coût total moyen d'un envoi équivalent à 200 dollars était de **5,50 %** : 4,52 euros de frais en moyenne plus une marge de change de 2,27 %. C'est nettement au-dessus de la cible de 3 % fixée par les Objectifs de développement durable des Nations unies.\n\nLa moyenne masque des écarts considérables :\n\n- **les virements en ligne vers un compte bancaire** sont les moins chers : 0,61 % avec le service en ligne d'Attijariwafa Bank, 2,49 % pour l'option en ligne la moins chère de MoneyGram ;\n- **les applications de transfert** comme WorldRemit (3,58 %) et Remitly (4,08 % pour une livraison en moins d'une heure) se situent dans la moyenne ;\n- **le retrait d'espèces chez un agent** coûte davantage : 6,89 % avec Ria et 9,81 % avec Western Union, surtout à cause de la marge de change ;\n- **le guichet bancaire classique** est l'option la plus chère relevée, à 28,24 % pour la Société Générale.\n\nPour l'expéditeur, le canal compte plus que la marque, et la marge de change pèse souvent davantage que les frais affichés.\n\n## Le digital gagne du terrain\n\nEnvoyer de l'argent en Tunisie supposait autrefois de faire la queue dans une agence, une banque ou un bureau de poste. Une part croissante des envois démarre désormais sur un smartphone, même si l'argent finit souvent retiré en espèces.\n\n### Côté expéditeur\n\nTaptap Send a lancé son service vers la Tunisie en avril 2022, sans frais d'envoi, depuis la France, la Belgique, l'Italie, l'Allemagne, le Royaume-Uni, le Canada ou les États-Unis notamment. Au lancement, les bénéficiaires retiraient les fonds en espèces dans quelque 300 points du réseau Swared de Viamobile, l'un des premiers établissements de paiement agréés par la BCT. En mars 2026, Business News décrivait ce basculement vers l'envoi depuis le smartphone, en citant la présence de Taptap Send dans plus de 80 pays. Des opérateurs internationaux comme Remitly, WorldRemit, Western Union ou MoneyGram proposent aussi des envois en ligne vers un compte bancaire tunisien ou un retrait en espèces.\n\n### Côté bénéficiaire\n\nLe maillon faible reste souvent le dernier kilomètre : beaucoup de bénéficiaires veulent des espèces. Les établissements de paiement et les portefeuilles électroniques, présentés dans nos articles sur les [établissements de paiement](post:payment-institutions-tunisia) et le [paiement mobile en Tunisie](post:mobile-payments-tunisia), pourraient permettre de recevoir et de dépenser ces fonds sous forme numérique. Mais créditer directement un portefeuille tunisien depuis l'étranger dépend de la réglementation des changes et de partenariats avec des intermédiaires agréés.\n\n## Pourquoi c'est important pour les fintechs\n\nLes transferts combinent un flux important et récurrent avec une clientèle déjà habituée aux outils numériques dans son pays de résidence. Pour les fintechs tunisiennes, les pistes sont concrètes :\n\n- **des portefeuilles de réception** qui transforment un transfert entrant en paiement de factures, en épargne ou en achats chez les commerçants, plutôt qu'en retrait immédiat ;\n- **des produits pour la diaspora** (épargne, placement, financement immobilier), promis de longue date par les banques mais rarement numérisés ;\n- **la transparence des prix**, tant les coûts varient d'un canal à l'autre ;\n- **la donnée** : un historique documenté de transferts reçus pourrait nourrir le scoring de ménages peu connus du système bancaire, un enjeu central de [l'inclusion financière](post:financial-inclusion-tunisia).\n\nLes contraintes sont réglementaires plus que techniques. Tout acteur qui touche aux flux transfrontaliers doit s'appuyer sur un partenaire agréé et respecter la réglementation des changes ainsi que les règles LBA/FT et d'e-KYC. La vitesse à laquelle le numérique prendra des parts au cash dépendra largement de l'ampleur de la réforme des changes.",
+    "faq": [
+      {
+        "q": "Combien les Tunisiens à l'étranger transfèrent-ils chaque année ?",
+        "a": "Selon la Banque centrale de Tunisie, les revenus du travail, issus surtout des TRE, ont atteint 8 761,6 millions de dinars en 2025, contre 8 262,6 millions en 2024. Ces chiffres ne comptent que les canaux formels : les espèces rapportées et les transferts informels n'y figurent pas."
+      },
+      {
+        "q": "Quel est le moyen le moins cher d'envoyer de l'argent en Tunisie ?",
+        "a": "Dans l'enquête de la Banque mondiale sur le corridor France-Tunisie au troisième trimestre 2025, les virements en ligne vers un compte bancaire étaient les moins chers, certaines options passant sous 3 %. Le retrait en espèces chez un agent coûtait plus cher, et le virement depuis un guichet bancaire était l'option la plus onéreuse. Les prix changent souvent : comparez le coût total, marge de change comprise."
+      },
+      {
+        "q": "Peut-on envoyer de l'argent sur un portefeuille mobile en Tunisie ?",
+        "a": "Certaines applications internationales passent par des partenaires tunisiens, notamment des réseaux de retrait en espèces gérés par des établissements de paiement agréés. Le crédit direct d'un portefeuille tunisien depuis l'étranger dépend des partenariats locaux de chaque service et de la réglementation des changes de la BCT ; l'offre varie donc selon les opérateurs."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Diaspora tunisienne : près de 9 milliards de dinars envoyés en 2025, le digital transforme les habitudes",
+      "publisher": "Business News",
+      "url": "https://businessnews.com.tn/2026/03/13/diaspora-tunisienne-pres-de-9-millions-de-dinars-envoyes-en-2025-le-digital-transforme-les-habitudes/1391957/"
+    },
+    {
+      "title": "Tunisie : Près de 11 milliards de dinars grâce au tourisme et aux transferts des TRE",
+      "publisher": "La Presse via AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202608260157.html"
+    },
+    {
+      "title": "Remittance Prices Worldwide: France to Tunisia corridor",
+      "publisher": "World Bank",
+      "url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+    },
+    {
+      "title": "Sending money home: How Tunisians abroad impact their home country",
+      "publisher": "Inkyfada",
+      "url": "https://inkyfada.com/en/2022/11/30/money-tunisians-abroad-home-country/"
+    },
+    {
+      "title": "Pour Marouane El Abassi, la bi-bancarisation peut réduire les coûts de transfert",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2021/03/11/pour-marouane-el-abassi-la-bi-bancarisation-peut-reduire-les-couts-de-transfert/"
+    },
+    {
+      "title": "TaptapSend : des envois d'argent faciles, rapides et sans frais de l'étranger vers la Tunisie",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2022/04/08/taptapsend-des-envois-dargent-faciles-rapides-et-sans-frais-de-letranger-vers-la-tunisie"
+    }
+  ]
+}

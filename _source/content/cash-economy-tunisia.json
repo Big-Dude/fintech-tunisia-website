@@ -1,0 +1,173 @@
+{
+  "slug": "cash-economy-tunisia",
+  "category": "inclusion",
+  "cover_motif": "coins",
+  "stats": [
+    {
+      "value": "TND 30bn",
+      "label_en": "banknotes and coins in circulation, 21 August 2026 (+16% in a year)",
+      "label_fr": "billets et pièces en circulation au 21 août 2026 (+16 % sur un an)",
+      "source": "BCT via La Presse, 2026"
+    },
+    {
+      "value": "-67.5%",
+      "label_en": "number of cheques cleared in 2025",
+      "label_fr": "nombre de chèques compensés en 2025",
+      "source": "BCT annual report 2025"
+    },
+    {
+      "value": "35.2%",
+      "label_en": "estimated informal share of GDP, 2020",
+      "label_fr": "part estimée de l'informel dans le PIB, 2020",
+      "source": "UNDP / ILO, 2022"
+    }
+  ],
+  "chart": {
+    "title_en": "Banknotes and coins in circulation in Tunisia (TND billion)",
+    "title_fr": "Billets et pièces en circulation en Tunisie (milliards de dinars)",
+    "unit": "bn TND",
+    "bars": [
+      {
+        "label_en": "Early Dec. 2024",
+        "label_fr": "Début déc. 2024",
+        "value": 22.0
+      },
+      {
+        "label_en": "21 Aug. 2025",
+        "label_fr": "21 août 2025",
+        "value": 25.9
+      },
+      {
+        "label_en": "Early Dec. 2025",
+        "label_fr": "Début déc. 2025",
+        "value": 26.1
+      },
+      {
+        "label_en": "26 May 2026",
+        "label_fr": "26 mai 2026",
+        "value": 29.7
+      },
+      {
+        "label_en": "21 Aug. 2026",
+        "label_fr": "21 août 2026",
+        "value": 30.0
+      }
+    ],
+    "source_name": "Central Bank of Tunisia data, as reported by Webdo, La Presse and Le Courrier de l'Atlas",
+    "source_url": "https://fr.allafrica.com/stories/202608260157.html"
+  },
+  "en": {
+    "title": "Tunisia's Cash Economy: Record Banknotes, Fading Cheques",
+    "meta_description": "Tunisia's cash economy hit a record TND 30 billion in circulation in 2026 as cheques collapsed. Why cash keeps growing and what it means for digital payments.",
+    "excerpt": "More than TND 30 billion in banknotes and coins now circulate in Tunisia, a record. The cheque reform, informality and low bank account ownership explain why the cashless push is struggling.",
+    "keywords": [
+      "cash economy Tunisia",
+      "currency in circulation Tunisia",
+      "Tunisia cheque law 2025",
+      "informal economy Tunisia",
+      "cashless Tunisia",
+      "cash payments limit Tunisia",
+      "digital payments Tunisia"
+    ],
+    "tags": [
+      "Cash",
+      "Informal economy",
+      "Payments",
+      "Inclusion"
+    ],
+    "key_takeaways": [
+      "Banknotes and coins in circulation reached TND 30.04 billion on 21 August 2026, up nearly 16% in a year, according to BCT data.",
+      "After the cheque law took effect in February 2025, the number of cheques cleared fell 67.5% in 2025, and part of that activity moved to cash.",
+      "The 2026 Finance Law repealed the rule that penalised cash payments above TND 5,000 for property, business and vehicle sales.",
+      "Digital payments are growing fast, but from a small base: mobile payments totalled TND 1,769 million in 2025."
+    ],
+    "body": "Tunisia's cash economy keeps growing while the rest of the world moves to digital payments. According to Central Bank of Tunisia (BCT) data, banknotes and coins in circulation passed TND 30 billion in August 2026, an all-time high. The reasons range from a cheque reform that pushed buyers back to cash, to a large informal sector and low bank account ownership.\n\n## Record cash in circulation\n\nThe BCT publishes the amount of currency in circulation in its daily indicators. The trend over the past two years is steep:\n\n- **TND 22 billion** in early December 2024;\n- **TND 26.1 billion** in early December 2025, up 18.2% in a year;\n- **TND 29.7 billion** on 26 May 2026, a record at the time, according to Le Courrier de l'Atlas;\n- **TND 30.04 billion** on 21 August 2026, compared with TND 25.9 billion a year earlier, an increase of nearly 16%.\n\nCash demand peaks around Ramadan, the two Eids, summer and the school year. But the seasonal pattern does not explain why each peak is higher than the last. Le Courrier de l'Atlas reported that some banks had to put older banknotes back into circulation to meet demand.\n\n## The cheque reform pushed buyers back to cash\n\nThe single biggest change in Tunisian payments in recent years is [Law No. 2024-41 of 2 August 2024](https://fr.allafrica.com/stories/202502040528.html), which reformed the cheque regime. Its main provisions came into force on 2 February 2025. The law sought to turn the cheque back into a means of immediate payment rather than a form of informal credit. It introduced a new cheque format, limits on chequebooks and the TuniChèque platform, which lets a payee check in real time whether funds are available.\n\nThe effect was immediate. As [Al-Monitor reported](https://www.al-monitor.com/originals/2025/03/got-cash-tunisians-grapple-new-restrictions-cheques) in March 2025, many merchants stopped accepting cheques, and households that bought goods in instalments with post-dated cheques lost that option. According to the BCT's 2025 annual report:\n\n- the **number of cheques fell by 67.5%** and their value by 58.8%;\n- **bills of exchange** (lettres de change) rose 161% in number, as businesses looked for another credit instrument;\n- **transfers** rose 42.3% in value, to TND 79.6 billion.\n\nPart of the activity the cheque used to carry went to transfers and bills. Another part went to cash.\n\n## A cash-payment rule was lifted\n\nSince the 2019 Finance Law, settling the sale of real estate, a business or a vehicle in cash for more than TND 5,000 had consequences: notaries could not draw up the deed, registration was blocked and a penalty of 20% of the cash amount applied. Article 54 of the 2026 Finance Law repealed that provision from 1 January 2026, citing simpler administrative procedures, Managers reported. The tax administration said other cash-related rules remain in force.\n\nThe repeal has been criticised. In February 2026, economist Ridha Chkandali, writing on his Facebook page as reported by La Presse, called the cheque law, electronic invoicing rules and the end of the TND 5,000 rule poorly designed and the main causes of the surge in cash. Tax expert Mohamed Salah Ayari, quoted by [Tuniscope](https://www.tuniscope.com/article/440698/business/economie/especes-315410), also linked the repeal to higher cash use.\n\n## Informality and the unbanked\n\nCash is also the natural currency of informal activity. A UNDP and ILO study published in 2022 estimated that all informal activities, including agriculture, accounted for about **35.2% of GDP in 2020**, and that informal employment covered 26.8% of workers, more than 910,000 jobs. Those figures are dated, but there is no sign the informal sector has shrunk since.\n\nMany Tunisians simply have no alternative. Le Courrier de l'Atlas estimated that only 36% to 40% of adults are banked. Our article on [financial inclusion in Tunisia](post:financial-inclusion-tunisia) looks at the World Bank's Findex data in detail.\n\nThe costs of so much cash are well known:\n\n- **Less traceability**, which makes tax evasion and smuggling easier and hides real economic activity from statistics;\n- **Lower bank deposits**, which reduces the liquidity banks can lend to businesses;\n- **Handling costs** for merchants, banks and the central bank, which must print and distribute more notes.\n\n## The cashless push: progress from a small base\n\nDigital payments are growing quickly. The BCT's 2025 annual report counted:\n\n- **8.4 million mobile payment transactions** (+80.5%), worth TND 1,769 million (+58.6%), and 469,000 wallets (+26.8%);\n- **TND 1,375 million** in online card payments (+31%);\n- **164.9 million card payments** (+8.9%), worth TND 29.5 billion.\n\nThese are strong growth rates, but mobile payments remain tiny next to the TND 30 billion in notes and coins. Wallet providers and payment institutions are covered in our guide to [mobile payments in Tunisia](post:mobile-payments-tunisia), and online commerce, still dominated by cash on delivery, in [e-commerce payments](post:ecommerce-payments-tunisia).\n\n## What would make Tunisians leave cash?\n\nFor fintech founders, the lesson from the cheque reform is that users do not move to digital payments just because an older instrument becomes harder to use. They move when the alternative is as convenient, accepted everywhere and cheap. In practice, that means:\n\n- **Acceptance**: QR codes and wallet payments in small shops, not only in large retailers;\n- **Interoperability**: instant transfers between banks, La Poste and wallets, the subject of our article on [instant payments](post:instant-payments-tunisia);\n- **Credit**: a digital replacement for the post-dated cheque, such as buy-now-pay-later or instalment products, would answer a real need left by the reform;\n- **Trust and cost**: low or zero fees for small payments and simple onboarding for people without a bank account.\n\nUntil those pieces fall into place, the BCT's daily figures suggest cash will keep its grip.",
+    "faq": [
+      {
+        "q": "How much cash is in circulation in Tunisia?",
+        "a": "According to Central Bank of Tunisia data, banknotes and coins in circulation reached TND 30.04 billion on 21 August 2026, up from TND 25.9 billion a year earlier. The figure has hit successive records since 2025."
+      },
+      {
+        "q": "Why is cash increasing in Tunisia?",
+        "a": "Analysts cite several factors: the 2024 cheque law, which led many merchants to stop accepting cheques from February 2025, a large informal sector, low bank account ownership and seasonal spending around religious holidays. Some economists also blame the 2026 repeal of the rule that penalised cash payments above TND 5,000 in property, business and vehicle sales."
+      },
+      {
+        "q": "Is there a limit on cash payments in Tunisia?",
+        "a": "From 2019 to the end of 2025, paying more than TND 5,000 in cash for real estate, a business or a vehicle blocked registration of the deed and triggered a 20% penalty. Article 54 of the 2026 Finance Law repealed that rule from 1 January 2026. The tax administration says other cash-related rules still apply, so check with a professional before a large transaction."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Économie du cash en Tunisie : billets record, chèques en chute",
+    "meta_description": "Le cash en Tunisie atteint un record de 30 milliards de dinars en 2026 tandis que le chèque s'effondre. Pourquoi les espèces progressent, et quels enjeux.",
+    "excerpt": "Plus de 30 milliards de dinars de billets et pièces circulent en Tunisie, un record. Réforme des chèques, informel et faible bancarisation expliquent pourquoi le passage au numérique patine.",
+    "keywords": [
+      "cash Tunisie",
+      "monnaie fiduciaire en circulation Tunisie",
+      "loi sur les chèques Tunisie 2025",
+      "économie informelle Tunisie",
+      "paiement en espèces 5000 dinars",
+      "Tunisie sans cash",
+      "paiement digital Tunisie"
+    ],
+    "tags": [
+      "Cash",
+      "Économie informelle",
+      "Paiements",
+      "Inclusion"
+    ],
+    "key_takeaways": [
+      "Les billets et pièces en circulation ont atteint 30,04 milliards de dinars au 21 août 2026, en hausse de près de 16 % sur un an, selon la BCT.",
+      "Après l'entrée en vigueur de la loi sur les chèques en février 2025, le nombre de chèques compensés a chuté de 67,5 % en 2025, et une partie de cette activité s'est reportée sur le cash.",
+      "La loi de finances 2026 a abrogé la règle qui sanctionnait les paiements en espèces de plus de 5 000 dinars pour les ventes d'immeubles, de fonds de commerce et de véhicules.",
+      "Les paiements numériques progressent vite, mais partent de loin : le paiement mobile a représenté 1 769 millions de dinars en 2025."
+    ],
+    "body": "L'économie du cash en Tunisie continue de grossir alors que le reste du monde passe au paiement numérique. Selon les données de la Banque centrale de Tunisie (BCT), les billets et pièces en circulation ont dépassé 30 milliards de dinars en août 2026, un niveau jamais atteint. En cause : une réforme des chèques qui a renvoyé les acheteurs vers les espèces, un secteur informel important et une faible bancarisation.\n\n## Un record de monnaie en circulation\n\nLa BCT publie le montant des billets et monnaies en circulation dans ses indicateurs quotidiens. La courbe des deux dernières années est raide :\n\n- **22 milliards de dinars** début décembre 2024 ;\n- **26,1 milliards** début décembre 2025, soit +18,2 % en un an ;\n- **29,7 milliards** au 26 mai 2026, record à cette date selon Le Courrier de l'Atlas ;\n- **30,04 milliards** au 21 août 2026, contre 25,9 milliards un an plus tôt, soit une hausse de près de 16 %.\n\nLa demande d'espèces culmine autour du ramadan, des deux Aïds, de l'été et de la rentrée scolaire. Mais la saisonnalité n'explique pas pourquoi chaque pic dépasse le précédent. Le Courrier de l'Atlas rapporte que certaines banques ont dû remettre en circulation d'anciens billets pour répondre à la demande.\n\n## La réforme des chèques a renvoyé vers le cash\n\nLe changement le plus marquant de ces dernières années est la [loi n° 2024-41 du 2 août 2024](https://fr.allafrica.com/stories/202502040528.html), qui a réformé le régime du chèque. Ses principales dispositions sont entrées en vigueur le 2 février 2025. L'objectif : refaire du chèque un instrument de paiement immédiat, et non un crédit informel. La loi a introduit un nouveau modèle de chèque, des limites sur les chéquiers et la plateforme TuniChèque, qui permet au bénéficiaire de vérifier en temps réel la disponibilité des fonds.\n\nL'effet a été immédiat. Comme le rapportait [Al-Monitor](https://www.al-monitor.com/originals/2025/03/got-cash-tunisians-grapple-new-restrictions-cheques) en mars 2025, de nombreux commerçants ont cessé d'accepter les chèques, et les ménages qui achetaient à tempérament avec des chèques postdatés ont perdu cette possibilité. Selon le rapport annuel 2025 de la BCT :\n\n- le **nombre de chèques a reculé de 67,5 %** et leur montant de 58,8 % ;\n- les **lettres de change** ont progressé de 161 % en nombre, les entreprises cherchant un autre instrument de crédit ;\n- les **virements** ont augmenté de 42,3 % en valeur, à 79,6 milliards de dinars.\n\nUne partie de l'activité portée par le chèque est passée aux virements et aux effets de commerce. Une autre partie est passée au cash.\n\n## La fin de la règle des 5 000 dinars\n\nDepuis la loi de finances 2019, régler en espèces plus de 5 000 dinars lors de la vente d'un immeuble, d'un fonds de commerce ou d'un véhicule avait des conséquences : les notaires ne pouvaient pas rédiger l'acte, l'enregistrement était bloqué et une pénalité de 20 % du montant payé en espèces s'appliquait. L'article 54 de la loi de finances 2026 a abrogé cette disposition à compter du 1er janvier 2026, au nom de la simplification des procédures, selon Managers. L'administration fiscale précise que les autres règles encadrant le cash restent applicables.\n\nCette abrogation est contestée. En février 2026, l'économiste Ridha Chkandali, dans une note publiée sur sa page Facebook et reprise par La Presse, a qualifié la loi sur les chèques, la facturation électronique et la suppression de la règle des 5 000 dinars de mesures « mal étudiées », principales causes selon lui de l'envolée du cash. L'expert fiscal Mohamed Salah Ayari, cité par [Tuniscope](https://www.tuniscope.com/article/440698/business/economie/especes-315410), relie lui aussi cette abrogation à la hausse des paiements en espèces.\n\n## Informel et non-bancarisés\n\nLe cash est aussi la monnaie naturelle de l'informel. Une étude du PNUD et de l'OIT publiée en 2022 estimait que l'ensemble des activités informelles, agriculture comprise, représentait environ **35,2 % du PIB en 2020**, et que l'emploi informel concernait 26,8 % des actifs occupés, soit plus de 910 000 emplois. Ces chiffres datent, mais rien n'indique que l'informel ait reculé depuis.\n\nBeaucoup de Tunisiens n'ont tout simplement pas d'alternative. Le Courrier de l'Atlas estime que seuls 36 à 40 % des adultes sont bancarisés. Notre article sur [l'inclusion financière en Tunisie](post:financial-inclusion-tunisia) détaille les données Findex de la Banque mondiale.\n\nLes coûts d'une telle masse d'espèces sont connus :\n\n- **moins de traçabilité**, ce qui facilite l'évasion fiscale et la contrebande et masque l'activité réelle aux statistiques ;\n- **moins de dépôts bancaires**, donc moins de liquidités que les banques peuvent prêter aux entreprises ;\n- **des coûts de manipulation** pour les commerçants, les banques et la banque centrale, qui doit imprimer et distribuer davantage de billets.\n\n## Le virage numérique progresse, mais part de loin\n\nLes paiements numériques progressent rapidement. Le rapport annuel 2025 de la BCT recense :\n\n- **8,4 millions d'opérations de paiement mobile** (+80,5 %), pour 1 769 millions de dinars (+58,6 %), et 469 000 portefeuilles (+26,8 %) ;\n- **1 375 millions de dinars** de paiements en ligne par carte (+31 %) ;\n- **164,9 millions de paiements par carte** (+8,9 %), pour 29,5 milliards de dinars.\n\nCes taux de croissance sont élevés, mais le paiement mobile reste minuscule face aux 30 milliards de dinars de billets et pièces. Les portefeuilles et établissements de paiement sont présentés dans notre dossier sur [le paiement mobile en Tunisie](post:mobile-payments-tunisia), et le commerce en ligne, encore dominé par le paiement à la livraison, dans notre article sur [les paiements e-commerce](post:ecommerce-payments-tunisia).\n\n## Qu'est-ce qui ferait renoncer les Tunisiens au cash ?\n\nPour les fondateurs de fintechs, la leçon de la réforme des chèques est claire : les utilisateurs ne passent pas au numérique parce qu'un ancien instrument devient plus contraignant. Ils y passent quand l'alternative est aussi pratique, acceptée partout et bon marché. Concrètement :\n\n- **l'acceptation** : QR codes et paiement par portefeuille dans les petits commerces, pas seulement dans la grande distribution ;\n- **l'interopérabilité** : des virements instantanés entre banques, La Poste et portefeuilles, sujet de notre article sur [les paiements instantanés](post:instant-payments-tunisia) ;\n- **le crédit** : un substitut numérique au chèque postdaté, comme le paiement fractionné ou l'achat à tempérament, répondrait à un vrai besoin laissé par la réforme ;\n- **la confiance et le coût** : des frais faibles ou nuls sur les petits montants et une ouverture de compte simple pour les non-bancarisés.\n\nTant que ces conditions ne sont pas réunies, les chiffres quotidiens de la BCT laissent penser que le cash gardera la main.",
+    "faq": [
+      {
+        "q": "Combien d'argent liquide circule en Tunisie ?",
+        "a": "Selon les données de la Banque centrale de Tunisie, les billets et pièces en circulation atteignaient 30,04 milliards de dinars au 21 août 2026, contre 25,9 milliards un an plus tôt. Les records se succèdent depuis 2025."
+      },
+      {
+        "q": "Pourquoi le cash augmente-t-il en Tunisie ?",
+        "a": "Plusieurs facteurs sont avancés : la loi de 2024 sur les chèques, qui a conduit de nombreux commerçants à refuser les chèques à partir de février 2025, l'importance de l'informel, la faible bancarisation et les dépenses saisonnières liées aux fêtes. Certains économistes mettent aussi en cause l'abrogation en 2026 de la règle qui sanctionnait les paiements en espèces de plus de 5 000 dinars."
+      },
+      {
+        "q": "Existe-t-il un plafond pour les paiements en espèces en Tunisie ?",
+        "a": "De 2019 à fin 2025, payer plus de 5 000 dinars en espèces pour un immeuble, un fonds de commerce ou un véhicule bloquait l'enregistrement de l'acte et entraînait une pénalité de 20 %. L'article 54 de la loi de finances 2026 a abrogé cette règle à partir du 1er janvier 2026. L'administration fiscale indique que d'autres règles restent en vigueur : mieux vaut consulter un professionnel avant une transaction importante."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tunisie. 30 milliards de dinars en circulation, record historique : le règne du cash inquiète",
+      "publisher": "Le Courrier de l'Atlas",
+      "url": "https://www.lecourrierdelatlas.com/?p=212699"
+    },
+    {
+      "title": "Tunisie : Près de 11 milliards de dinars grâce au tourisme et aux transferts des TRE",
+      "publisher": "La Presse via AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202608260157.html"
+    },
+    {
+      "title": "Tunisie : revenus du travail et recettes touristiques en hausse",
+      "publisher": "Webdo (BCT data)",
+      "url": "https://www.webdo.tn/fr/actualite/national/tunisie-revenus-du-travail-et-recettes-touristiques-en-hausse/389049/"
+    },
+    {
+      "title": "BCT : le chèque s'effondre en Tunisie, les virements et la lettre de change prennent le relais en 2025",
+      "publisher": "Webmanagercenter (TAP)",
+      "url": "https://www.webmanagercenter.com/2026/07/08/569808/bct-le-cheque-seffondre-en-tunisie-les-virements-et-la-lettre-de-change-prennent-le-relais-en-2025/"
+    },
+    {
+      "title": "Tunisie : la restriction sur le cash pour les transactions est levée",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/03/23/tunisie-la-restriction-sur-le-cash-pour-les-transactions-est-levee/"
+    },
+    {
+      "title": "L'économie informelle en Tunisie : définitions, analyse exploratoire et esquisse d'une stratégie intégrée",
+      "publisher": "UNDP",
+      "url": "https://www.undp.org/fr/node/373696"
+    }
+  ]
+}

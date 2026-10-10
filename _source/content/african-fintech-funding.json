@@ -1,0 +1,188 @@
+{
+ "slug": "african-fintech-funding",
+ "category": "africa",
+ "cover_motif": "chart-up",
+ "stats": [
+  {
+   "value": "$769M",
+   "label_en": "equity raised by African fintechs in 2025, about a quarter of the total",
+   "label_fr": "levés en fonds propres par les fintechs africaines en 2025, environ un quart du total",
+   "source": "Partech Africa, 2026"
+  },
+  {
+   "value": "41%",
+   "label_en": "debt's share of African tech funding in 2025, up from 31% in 2024",
+   "label_fr": "part de la dette dans le financement tech africain en 2025, contre 31 % en 2024",
+   "source": "Partech Africa, 2026"
+  },
+  {
+   "value": "$556M",
+   "label_en": "raised by fintechs in H1 2026, 41% of all African startup funding",
+   "label_fr": "levés par les fintechs au 1er semestre 2026, soit 41 % du total africain",
+   "source": "Max Cuvellier Giacomelli / NTU-SBF CAS, 2026"
+  }
+ ],
+ "chart": {
+  "title_en": "Venture capital raised by country in 2025 (US$ million)",
+  "title_fr": "Capital-risque levé par pays en 2025 (millions de dollars)",
+  "unit": "US$M",
+  "bars": [
+   {
+    "label_en": "Egypt",
+    "label_fr": "Égypte",
+    "value": 604.0
+   },
+   {
+    "label_en": "South Africa",
+    "label_fr": "Afrique du Sud",
+    "value": 524.0
+   },
+   {
+    "label_en": "Kenya",
+    "label_fr": "Kenya",
+    "value": 335.0
+   },
+   {
+    "label_en": "Nigeria",
+    "label_fr": "Nigeria",
+    "value": 287.0
+   },
+   {
+    "label_en": "Morocco",
+    "label_fr": "Maroc",
+    "value": 114.0
+   },
+   {
+    "label_en": "Tunisia",
+    "label_fr": "Tunisie",
+    "value": 39.0
+   }
+  ],
+  "source_name": "AVCA via African Manager, 2026",
+  "source_url": "https://en.africanmanager.com/tunisia-africas-7th-largest-venture-capital-destination-in-2025/"
+ },
+ "en": {
+  "title": "African Fintech Funding 2025–2026: Debt, Megadeals, Fewer Deals",
+  "meta_description": "African fintech funding explained: what Partech, AVCA and others show for 2025 and H1 2026, why debt is rising, and what it means for Tunisian founders.",
+  "excerpt": "African tech funding recovered in 2025, but fintech's share is shrinking, debt is rising and deal counts hit new lows in H1 2026. Here is what the numbers say.",
+  "keywords": [
+   "African fintech funding",
+   "African startup funding 2025",
+   "Africa fintech investment 2026",
+   "Partech Africa report 2025",
+   "venture debt Africa",
+   "Tunisia startup funding",
+   "North Africa fintech investment"
+  ],
+  "tags": [
+   "Funding",
+   "Africa",
+   "Venture capital",
+   "Fintech",
+   "Debt"
+  ],
+  "key_takeaways": [
+   "Partech counted US$4.1 billion of African tech funding in 2025, up 25%, with a record US$1.6 billion of debt.",
+   "Fintech still raised the most equity in 2025 (US$769 million), but its share fell to about a quarter as cleantech and healthtech grew.",
+   "In H1 2026, fintech took about 41% of a roughly US$1.36 billion market, while the number of funded startups fell to a multi-year low.",
+   "Tunisia ranked 7th in Africa in 2025 with US$39 million across 17 deals, far behind Egypt and Morocco."
+  ],
+  "body": "**African fintech funding** came back in 2025 after two difficult years, but it did not return to the 2021–2022 boom. More money is now flowing as debt, a handful of large companies capture most of the capital, and fintech is losing its share to energy, mobility and health. For Tunisian founders, who compete for the same investors, the shift changes what a fundable fintech looks like.\n\n## Three trackers, three totals\n\nThere is no single official figure for African startup funding. The main trackers use different methods, so their totals differ:\n\n- **Partech Africa** counted US$4.1 billion of tech funding in 2025, up 25% from 2024 and the strongest year since 2022. That includes US$2.4 billion of equity across 462 deals and a record US$1.6 billion of debt.\n- **Africa: The Big Deal** recorded US$3.2 billion in 2025 for deals of at least US$100,000, a 40% rise after falls of 35% in 2023 and 25% in 2024.\n- **AVCA**, the African private capital association, put the total at US$2.9 billion, up 4%.\n\nThe gaps come from what each counts: whether debt and grants are included, the minimum deal size and how undisclosed rounds are treated. When you read a headline number, check which tracker it comes from before comparing it with another.\n\n## Fintech still leads, but its share is falling\n\nFintech remains Africa's largest startup sector. According to [Partech's 2025 report](https://partechpartners.com/news/2025-partech-africa-tech-vc-report-african-tech-funding-rebounds-to-us41b-driven-by-record-debt-activity-and-disciplined-equity-growth), fintechs raised US$769 million in equity in 2025, about a quarter of the equity total. Partech described that share as declining. Other sectors grew much faster:\n\n- cleantech: US$550 million in equity, up 186%;\n- enterprise software: US$238 million, up 55%;\n- healthtech: US$215 million, up 232%.\n\nThe largest fintech rounds of 2025 went to established players. Africa: The Big Deal listed Wave, MNT-Halan and Moniepoint among the companies that raised nine-figure sums. Several of these were partly or wholly debt: Wave's US$137 million in June 2025, for example, was a debt facility. The profiles behind these deals are covered in our piece on [Africa's fintech unicorns](post:african-fintech-unicorns).\n\n## Debt is now a core part of the market\n\nThe clearest trend is the rise of debt. Partech found that debt reached 41% of all tech capital in 2025, against 31% in 2024 and 17% in 2019. The number of debt deals rose from 77 to 107.\n\nDebt suits fintechs that lend, because they need capital to fund loan books rather than to cover operating losses. It also suits companies that finance assets such as solar kits or electric motorbikes. But it is only available to companies with predictable cash flows and audited numbers. For an early-stage startup, venture debt is rarely an option.\n\n## H1 2026: money holds up, deal counts fall\n\nThe first half of 2026 showed a market split in two. Analyst Max Cuvellier Giacomelli, who co-founded Africa: The Big Deal, estimated in a [July 2026 analysis for NTU's Centre for African Studies](https://www.ntu.edu.sg/cas/news-events/news/detail/african-start-up-funding-holds-steady-yoy-in-h1-2026) that African startups raised about US$1.36 billion in H1 2026, down about 6% from H1 2025. Key points:\n\n- fintech raised about US$556 million, or 41% of the total, with Flutterwave, MNT-Halan and ValU among the main contributors;\n- only 190 ventures raised US$100,000 or more, the lowest half-year count since he began tracking in 2021;\n- Egypt led with about US$327 million, ahead of Nigeria (US$254 million), Kenya (US$126 million) and South Africa (US$83 million);\n- Morocco passed US$25 million, with at least ten startups raising US$100,000 or more.\n\n[Launch Base Africa](https://launchbaseafrica.com/2026/07/01/seven-brutal-truths-about-african-tech-startup-funding-in-h1-2026/), using its own tally, counted at least US$1.21 billion across 151 deals, a 17% fall in value. It found that the median deal fell from US$4.65 million to US$2.65 million and that debt rose to 36.7% of disclosed capital. Both sources agree on the main point: money is concentrated in fewer, larger deals, while the typical founder is raising less.\n\n## Where North Africa stands\n\nEgypt is now one of Africa's top funding destinations, helped by fintechs such as MNT-Halan and ValU (see our piece on [Egypt's fintech boom](post:egypt-fintech-instapay)). Morocco is smaller but growing. Tunisia trails well behind. AVCA data reported by [African Manager](https://en.africanmanager.com/tunisia-africas-7th-largest-venture-capital-destination-in-2025/) ranked Tunisia 7th in Africa in 2025 by deal count, with US$39 million raised across 17 deals, against US$604 million for Egypt and US$114 million for Morocco.\n\nThe first half of 2026 was weaker for Tunisia. Launch Base Africa reported that it could find almost no disclosed equity rounds in the country, and pointed to the 2025 labour law restricting subcontracting, foreign exchange rules and the wider economic slowdown. Our analysis of [Tunisian startup funding trends](post:tunisia-startup-funding-trends) looks at these figures in detail.\n\n## What it means for Tunisian fintech founders\n\nThe continental data points to a few practical lessons:\n\n- **Investors want revenue, not just users.** With fewer deals and smaller medians, early rounds go to startups that show unit economics.\n- **Lending models need debt partners.** A Tunisian lending or BNPL startup should plan early for credit lines from banks or development finance institutions, not only equity.\n- **Licences are part of the pitch.** Many of the largest African fintech rounds went to licensed companies. In Tunisia that means engaging early with the Central Bank's framework for payment institutions.\n- **Regional ambition matters.** Pan-African and Gulf investors look for markets larger than Tunisia alone. A credible plan for Morocco, francophone West Africa or Europe can widen the investor pool.\n\nLocal funds backed by ANAVA remain the main source of first cheques. Our guide to [venture capital in Tunisia](post:venture-capital-tunisia) covers the local options in more detail.",
+  "faq": [
+   {
+    "q": "How much did African startups raise in 2025?",
+    "a": "It depends on the tracker. Partech counted US$4.1 billion including US$1.6 billion of debt, Africa: The Big Deal recorded US$3.2 billion for deals of at least US$100,000, and AVCA reported US$2.9 billion. All three showed growth compared with 2024."
+   },
+   {
+    "q": "What share of African startup funding goes to fintech?",
+    "a": "According to Partech, fintech raised US$769 million of equity in 2025, about a quarter of the equity total, and its share was declining. In H1 2026, Max Cuvellier Giacomelli estimated fintech at about 41% of all funding, including debt, driven by a few large rounds."
+   },
+   {
+    "q": "How much did Tunisian startups raise in 2025?",
+    "a": "AVCA data reported by African Manager show Tunisian startups raised US$39 million across 17 deals in 2025, ranking Tunisia 7th in Africa by deal count. Launch Base Africa found almost no disclosed equity rounds in Tunisia in H1 2026."
+   },
+   {
+    "q": "Why is venture debt growing in Africa?",
+    "a": "Lending fintechs and asset-financing companies need capital to fund loans and equipment, and debt is cheaper than giving up equity. Partech found that debt made up 41% of African tech funding in 2025, against 17% in 2019."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Financement des fintechs africaines : dette, méga-tours, sélectivité",
+  "meta_description": "Financement des fintechs africaines : les chiffres 2025 et S1 2026 de Partech, de l'AVCA et d'autres, la montée de la dette et l'enjeu pour la Tunisie.",
+  "excerpt": "Le financement tech africain a rebondi en 2025, mais la part de la fintech recule, la dette progresse et le nombre d'opérations a chuté au 1er semestre 2026.",
+  "keywords": [
+   "financement fintech Afrique",
+   "levées de fonds startups africaines 2025",
+   "investissement fintech Afrique 2026",
+   "rapport Partech Africa 2025",
+   "dette venture Afrique",
+   "financement startups Tunisie",
+   "fintech Afrique du Nord"
+  ],
+  "tags": [
+   "Financement",
+   "Afrique",
+   "Capital-risque",
+   "Fintech",
+   "Dette"
+  ],
+  "key_takeaways": [
+   "Partech a recensé 4,1 milliards de dollars de financement tech africain en 2025, en hausse de 25 %, dont un record de 1,6 milliard en dette.",
+   "La fintech reste le premier secteur en fonds propres en 2025 (769 millions de dollars), mais sa part tombe à environ un quart face à la cleantech et à la santé.",
+   "Au 1er semestre 2026, la fintech a capté environ 41 % d'un marché d'environ 1,36 milliard de dollars, alors que le nombre de startups financées a atteint un plancher.",
+   "La Tunisie se classe 7e en Afrique en 2025 avec 39 millions de dollars en 17 opérations, loin derrière l'Égypte et le Maroc."
+  ],
+  "body": "Le **financement des fintechs africaines** a repris des couleurs en 2025 après deux années difficiles, sans pour autant retrouver l'euphorie de 2021-2022. L'argent arrive de plus en plus sous forme de dette, une poignée de grandes entreprises captent l'essentiel des montants et la fintech cède du terrain à l'énergie, à la mobilité et à la santé. Pour les fondateurs tunisiens, qui sollicitent les mêmes investisseurs, cela change le profil d'une fintech « finançable ».\n\n## Trois baromètres, trois totaux\n\nIl n'existe pas de chiffre officiel unique. Les principaux observatoires appliquent des méthodes différentes et aboutissent donc à des totaux différents :\n\n- **Partech Africa** a comptabilisé 4,1 milliards de dollars levés par la tech africaine en 2025, soit +25 % sur un an et la meilleure année depuis 2022. Ce montant comprend 2,4 milliards de fonds propres répartis sur 462 opérations et un record de 1,6 milliard de dette.\n- **Africa: The Big Deal** a recensé 3,2 milliards de dollars pour les opérations d'au moins 100 000 dollars, une hausse de 40 % après des reculs de 35 % en 2023 et de 25 % en 2024.\n- **L'AVCA**, l'association africaine du capital-investissement, retient 2,9 milliards de dollars, en hausse de 4 %.\n\nLes écarts tiennent au périmètre : inclusion ou non de la dette et des subventions, seuil minimal par opération, traitement des tours non divulgués. Avant de comparer deux chiffres, il faut donc vérifier leur source.\n\n## La fintech reste en tête, mais sa part recule\n\nLa fintech demeure le premier secteur des startups africaines. Selon le [rapport 2025 de Partech](https://partechpartners.com/news/2025-partech-africa-tech-vc-report-african-tech-funding-rebounds-to-us41b-driven-by-record-debt-activity-and-disciplined-equity-growth), les fintechs ont levé 769 millions de dollars en fonds propres en 2025, environ un quart du total, une part que Partech décrit comme en baisse. D'autres secteurs progressent bien plus vite :\n\n- cleantech : 550 millions de dollars en fonds propres, +186 % ;\n- logiciels d'entreprise : 238 millions, +55 % ;\n- santé : 215 millions, +232 %.\n\nLes plus gros tickets fintech de 2025 sont allés à des acteurs établis. Africa: The Big Deal cite Wave, MNT-Halan et Moniepoint parmi les entreprises ayant levé plus de 100 millions de dollars. Une partie de ces montants était de la dette : les 137 millions de dollars obtenus par Wave en juin 2025, par exemple, prenaient la forme d'une facilité de crédit. Nous détaillons ces entreprises dans notre article sur [les licornes fintech africaines](post:african-fintech-unicorns).\n\n## La dette devient un pilier du marché\n\nLa tendance la plus nette est la montée de la dette. D'après Partech, elle représentait 41 % des capitaux levés par la tech africaine en 2025, contre 31 % en 2024 et 17 % en 2019. Le nombre d'opérations de dette est passé de 77 à 107.\n\nLa dette convient aux fintechs de crédit, qui ont besoin de capitaux pour alimenter leur portefeuille de prêts plutôt que pour couvrir des pertes. Elle convient aussi aux entreprises qui financent des actifs, comme des kits solaires ou des motos électriques. Mais elle suppose des flux de trésorerie prévisibles et des comptes audités : pour une startup en amorçage, elle reste rarement accessible.\n\n## Premier semestre 2026 : les montants tiennent, le nombre d'opérations chute\n\nLe premier semestre 2026 a révélé un marché à deux vitesses. L'analyste Max Cuvellier Giacomelli, cofondateur d'Africa: The Big Deal, estime dans une [analyse publiée en juillet 2026 par le Centre d'études africaines de NTU](https://www.ntu.edu.sg/cas/news-events/news/detail/african-start-up-funding-holds-steady-yoy-in-h1-2026) que les startups africaines ont levé environ 1,36 milliard de dollars, soit environ 6 % de moins qu'au premier semestre 2025. À retenir :\n\n- la fintech a levé environ 556 millions de dollars, soit 41 % du total, portée notamment par Flutterwave, MNT-Halan et ValU ;\n- seules 190 entreprises ont levé au moins 100 000 dollars, le plus bas niveau semestriel depuis le début de son suivi en 2021 ;\n- l'Égypte arrive en tête avec environ 327 millions de dollars, devant le Nigeria (254 millions), le Kenya (126 millions) et l'Afrique du Sud (83 millions) ;\n- le Maroc dépasse 25 millions de dollars, avec au moins dix startups ayant levé 100 000 dollars ou plus.\n\n[Launch Base Africa](https://launchbaseafrica.com/2026/07/01/seven-brutal-truths-about-african-tech-startup-funding-in-h1-2026/), avec son propre décompte, recense au moins 1,21 milliard de dollars sur 151 opérations, soit une baisse de 17 % en valeur. Le média note que le ticket médian est passé de 4,65 à 2,65 millions de dollars et que la dette atteint 36,7 % des montants divulgués. Les deux sources s'accordent sur l'essentiel : l'argent se concentre sur moins d'opérations, plus grosses, tandis que le fondateur « moyen » lève moins.\n\n## Où se situe l'Afrique du Nord ?\n\nL'Égypte figure désormais parmi les premières destinations du continent, grâce notamment à MNT-Halan et ValU (voir notre article sur [l'essor de la fintech égyptienne](post:egypt-fintech-instapay)). Le Maroc est plus modeste mais progresse. La Tunisie reste loin derrière : selon les données de l'AVCA relayées par [African Manager](https://en.africanmanager.com/tunisia-africas-7th-largest-venture-capital-destination-in-2025/), elle se classe 7e en Afrique en 2025 par nombre d'opérations, avec 39 millions de dollars levés en 17 opérations, contre 604 millions pour l'Égypte et 114 millions pour le Maroc.\n\nLe premier semestre 2026 a été plus difficile encore. Launch Base Africa n'a trouvé quasiment aucune levée en fonds propres divulguée dans le pays et pointe la loi de 2025 restreignant la sous-traitance, la réglementation des changes et le ralentissement économique. Notre analyse des [tendances du financement des startups tunisiennes](post:tunisia-startup-funding-trends) revient sur ces chiffres.\n\n## Ce que cela implique pour les fintechs tunisiennes\n\nLes données continentales suggèrent quelques leçons concrètes :\n\n- **Les investisseurs veulent du chiffre d'affaires, pas seulement des utilisateurs.** Avec moins d'opérations et des médianes en baisse, les premiers tours vont aux startups qui démontrent leur rentabilité unitaire.\n- **Les modèles de crédit ont besoin de partenaires de dette.** Une startup tunisienne de prêt ou de paiement fractionné doit prévoir tôt des lignes de crédit auprès de banques ou d'institutions de financement du développement, et pas seulement des fonds propres.\n- **La licence fait partie du pitch.** Beaucoup des plus gros tours africains sont allés à des fintechs agréées. En Tunisie, cela suppose de dialoguer tôt avec la Banque centrale sur le cadre des établissements de paiement.\n- **L'ambition régionale compte.** Les investisseurs panafricains et du Golfe cherchent des marchés plus vastes que la seule Tunisie. Un plan crédible vers le Maroc, l'Afrique de l'Ouest francophone ou l'Europe élargit le cercle des financeurs.\n\nLes fonds locaux adossés au fonds de fonds ANAVA restent la principale source de premiers tickets. Notre guide sur [le capital-risque en Tunisie](post:venture-capital-tunisia) détaille les options locales.",
+  "faq": [
+   {
+    "q": "Combien les startups africaines ont-elles levé en 2025 ?",
+    "a": "Tout dépend de l'observatoire. Partech compte 4,1 milliards de dollars, dont 1,6 milliard de dette, Africa: The Big Deal 3,2 milliards pour les opérations d'au moins 100 000 dollars, et l'AVCA 2,9 milliards. Les trois sources affichent une hausse par rapport à 2024."
+   },
+   {
+    "q": "Quelle part du financement des startups africaines va à la fintech ?",
+    "a": "Selon Partech, la fintech a levé 769 millions de dollars en fonds propres en 2025, environ un quart du total, une part en baisse. Au premier semestre 2026, Max Cuvellier Giacomelli l'estime à environ 41 % de l'ensemble des financements, dette comprise, grâce à quelques gros tours."
+   },
+   {
+    "q": "Combien les startups tunisiennes ont-elles levé en 2025 ?",
+    "a": "D'après les données de l'AVCA relayées par African Manager, les startups tunisiennes ont levé 39 millions de dollars en 17 opérations en 2025, ce qui place la Tunisie au 7e rang africain par nombre d'opérations. Launch Base Africa n'a trouvé quasiment aucune levée en fonds propres divulguée au premier semestre 2026."
+   },
+   {
+    "q": "Pourquoi la dette progresse-t-elle autant en Afrique ?",
+    "a": "Les fintechs de crédit et les entreprises de financement d'actifs ont besoin de capitaux pour financer prêts et équipements, et la dette coûte moins cher qu'une dilution. Selon Partech, la dette a représenté 41 % du financement tech africain en 2025, contre 17 % en 2019."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "title": "2025 Partech Africa Tech VC Report: African tech funding rebounds to US$4.1B",
+   "publisher": "Partech",
+   "url": "https://partechpartners.com/news/2025-partech-africa-tech-vc-report-african-tech-funding-rebounds-to-us41b-driven-by-record-debt-activity-and-disciplined-equity-growth"
+  },
+  {
+   "title": "African start-up funding holds steady YoY in H1 2026",
+   "publisher": "NTU-SBF Centre for African Studies",
+   "url": "https://www.ntu.edu.sg/cas/news-events/news/detail/african-start-up-funding-holds-steady-yoy-in-h1-2026"
+  },
+  {
+   "title": "Seven brutal truths about African tech startup funding in H1 2026",
+   "publisher": "Launch Base Africa",
+   "url": "https://launchbaseafrica.com/2026/07/01/seven-brutal-truths-about-african-tech-startup-funding-in-h1-2026/"
+  },
+  {
+   "title": "Tunisia, Africa's 7th largest venture capital destination in 2025",
+   "publisher": "African Manager",
+   "url": "https://en.africanmanager.com/tunisia-africas-7th-largest-venture-capital-destination-in-2025/"
+  },
+  {
+   "title": "Energy and Fintech Drive African Startup Funding to $3.2 Billion in 2025",
+   "publisher": "MEA Tech Watch",
+   "url": "https://meatechwatch.com/?p=43437"
+  },
+  {
+   "title": "Near-zero equity deals in H1: what happened to Tunisia's startup ecosystem?",
+   "publisher": "Launch Base Africa",
+   "url": "https://launchbaseafrica.com/2026/07/29/near-zero-equity-deals-in-h1-what-happened-to-tunisias-startup-ecosystem/"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "tunisia-fintech-ecosystem-map",
+  "category": "ecosystem",
+  "cover_motif": "network-nodes",
+  "stats": [
+    {
+      "value": "22",
+      "label_en": "resident banks at end-2025",
+      "label_fr": "banques résidentes fin 2025",
+      "source": "BCT annual report 2025 via Tuniscope"
+    },
+    {
+      "value": "6",
+      "label_en": "payment institutions at end-2025",
+      "label_fr": "établissements de paiement fin 2025",
+      "source": "BCT annual report 2025 via Tuniscope"
+    },
+    {
+      "value": "469,000",
+      "label_en": "mobile wallets in 2025 (+26.8%)",
+      "label_fr": "portefeuilles mobiles en 2025 (+26,8 %)",
+      "source": "BCT annual report 2025 via WMC"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Tunisia Fintech Ecosystem Map: Who's Who in 2026",
+    "meta_description": "Tunisia fintech ecosystem map 2026: regulators, 22 resident banks, payment institutions, wallets, startups and investors, and where new founders fit in.",
+    "excerpt": "From the BCT to Ooredoo's new payment institution, Konnect and the ANAVA fund of funds: a practical map of who does what in Tunisian fintech.",
+    "keywords": [
+      "Tunisia fintech ecosystem",
+      "Tunisian fintech companies",
+      "payment institutions Tunisia",
+      "BCT fintech regulation",
+      "Tunisia fintech map 2026",
+      "fintech investors Tunisia"
+    ],
+    "tags": [
+      "Ecosystem",
+      "BCT",
+      "Payment institutions",
+      "Investors"
+    ],
+    "key_takeaways": [
+      "The BCT is the gatekeeper for any product that holds customer funds; the Startup Act label is not a financial licence.",
+      "The BCT counted 22 resident banks and 6 payment institutions at end-2025, and Ooredoo's OFT Tunisie was approved in March 2026.",
+      "Circular 2026-10 updates payment-institution rules and confirms they operate in dinars and inside Tunisia only.",
+      "The $60 million ANAVA fund of funds, managed by Smart Capital, is the backbone of early-stage venture funding."
+    ],
+    "body": "Tunisia's fintech ecosystem is small but crowded. A central bank tightly controls who may hold customer money. About twenty banks dominate distribution. The national postal operator runs its own payment rails, and a growing group of licensed payment institutions and startups fights for space between them. This map sets out who does what, as of autumn 2026, and where a new founder fits.\n\n## The regulators: who licenses what\n\nFour authorities matter most for a Tunisian fintech:\n\n- **Banque Centrale de Tunisie (BCT).** It supervises banks, financial institutions and payment institutions, sets foreign-exchange rules and runs the fintech [regulatory sandbox](post:bct-regulatory-sandbox). It is the gatekeeper for any product that touches deposits, payment accounts or cross-border flows.\n- **Conseil du marché financier (CMF).** It regulates the capital markets, including the framework for crowdfunding platforms.\n- **The microfinance supervisor (ACM)** for microcredit institutions, and the **insurance regulator** for insurtech.\n- **The Ministry of Communication Technologies and Smart Capital**, which run the [Startup Act label](post:startup-act-tunisia-explained). The label brings tax and social-security benefits. It does not give a licence to provide financial services.\n\nThe rules for payment institutions are changing. On 25 September 2026 the BCT published **circular no. 2026-10**, which replaces circular 2018-16 and takes effect three months after publication. According to La Presse, it confirms what these institutions may do: dinar payment accounts, cash-in and cash-out, transfers, payment instruments, receiving funds from abroad and manual currency exchange. It also imposes audit, risk and compliance functions. All of this applies only in dinars and only inside Tunisia.\n\n## Banks and La Poste: the incumbents\n\nThe BCT's annual report for 2025, as summarised by Tuniscope, counts **47 licensed banks and financial institutions**. They include **22 resident banks**, 7 non-resident banks and 8 leasing companies, with **2,081 bank branches** at the end of 2025. Banks still issue almost all payment cards and hold most customer relationships. Several have opened their own innovation programmes. BIAT runs the BIATLABS incubator, and Attijari Bank announced a fintech pilot programme with Beta-i and Betacube in late 2021.\n\nThe Office National des Postes is the other incumbent. With its e-Dinar cards and the D17 app, it reaches customers that banks often miss.\n\n## Payment rails and switches\n\nBehind every transaction sits shared infrastructure:\n\n- **Sibtel** runs the interbank clearing system, created in 1999. In May 2024 the BCT admitted two payment institutions, **Zitouna Pay** and **Payvago**, as members. This lets non-banks clear transactions with banks directly.\n- **The national card switch and e-commerce gateway**, which handle domestic card interoperability and online card acceptance.\n\nCard payments still dominate electronic retail payments. The BCT recorded 164.9 million card transactions worth 29.5 billion dinars in 2025, compared with 8.4 million mobile payment transactions.\n\n## Payment institutions, wallets and PSPs\n\nThis is where most fintech activity happens. At the end of 2025, the BCT's annual report counted **6 payment institutions**. Other names have since been licensed or are in the pipeline:\n\n- **OFT Tunisie**, a subsidiary of Ooredoo FinTech International, received final approval as a payment institution. It was published in the Official Journal on 14 March 2026 and must start operating within six months. African Manager reported that this brought the number of approved payment service providers to 16, counting payment institutions and financial institutions that offer digital payments.\n- **Zitouna Pay**, **Payvago** and **First Pay**, which Managers reported was approved as a resident payment institution in August 2024.\n- **Konnect Networks**, the first holder of the BCT's payment facilitator licence. In May 2025 it raised an undisclosed round from investors including Attijariwafa Ventures and Visa.\n- **Flouci** and **Paymee**, two of the best-known wallet and merchant-payment brands. Flouci has worked with banks such as BTE.\n\nWallet use is growing from a low base. The BCT counted **469,000 mobile wallets** in 2025, up 26.8%. Mobile payments rose 58.6% in value to 1,769 million dinars.\n\n## Investors and support structures\n\nPublic money is the backbone of early-stage finance. The **ANAVA fund of funds** is a $60 million vehicle managed by Smart Capital, with money from CDC Tunisie (World Bank-supported) and KfW. As of February 2025 it had committed about €45 million across 10 venture funds, according to Launch Base Africa. Those funds include 216 Capital, Flat6Labs, MEDIN's Titan Seed Fund, Silicon Badia, Janngo Capital and LoftyInc.\n\nAccelerators such as Flat6Labs Tunis, Orange Fab, BIATLABS and The Dot sit alongside these funds (see [incubators and accelerators](post:tunisia-incubators-accelerators)).\n\n## What the map means for founders\n\n- **Pick your licence path early.** A product that holds funds needs a payment institution licence or a partner bank. The sandbox can be a first step.\n- **Banks are both competitors and distribution.** Most fintechs that scale in Tunisia partner with a bank, La Poste or a licensed institution rather than going around them.\n- **The cross-border limit is real.** Circular 2026-10 confirms that payment institutions operate in dinars and inside Tunisia only, which shapes any regional plan.\n- **Watch the new entrants.** A telecom-backed payment institution such as OFT Tunisie, with an agent network, could change the economics of [mobile payments](post:mobile-payments-tunisia) for everyone.",
+    "faq": [
+      {
+        "q": "Who regulates fintech in Tunisia?",
+        "a": "The Central Bank of Tunisia (BCT) licenses and supervises banks, financial institutions and payment institutions and runs the fintech sandbox. The CMF regulates capital markets and crowdfunding. Microfinance and insurance have their own supervisors."
+      },
+      {
+        "q": "How many payment institutions are there in Tunisia?",
+        "a": "The BCT's 2025 annual report counted 6 payment institutions at end-2025. In March 2026 Ooredoo's OFT Tunisie received final approval, and African Manager put the total of approved payment service providers, including financial institutions, at 16."
+      },
+      {
+        "q": "Does the Startup Act label allow a fintech to offer payments?",
+        "a": "No. The label gives tax, social-security and foreign-currency account benefits, but any activity involving customer funds needs a BCT licence or a partnership with a licensed institution."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Cartographie de la fintech en Tunisie : qui fait quoi en 2026",
+    "meta_description": "Cartographie de la fintech en Tunisie en 2026 : régulateurs, 22 banques résidentes, établissements de paiement, wallets, startups et investisseurs.",
+    "excerpt": "De la BCT au nouvel établissement de paiement d'Ooredoo, en passant par Konnect et le fonds de fonds ANAVA : la carte des acteurs de la fintech tunisienne.",
+    "keywords": [
+      "fintech Tunisie",
+      "écosystème fintech tunisien",
+      "établissements de paiement Tunisie",
+      "BCT fintech",
+      "cartographie fintech Tunisie 2026",
+      "investisseurs fintech Tunisie"
+    ],
+    "tags": [
+      "Écosystème",
+      "BCT",
+      "Établissements de paiement",
+      "Investisseurs"
+    ],
+    "key_takeaways": [
+      "La BCT contrôle l'accès à toute activité impliquant des fonds de clients ; le label Startup Act n'est pas un agrément financier.",
+      "Fin 2025, la BCT comptait 22 banques résidentes et 6 établissements de paiement ; OFT Tunisie (Ooredoo) a été agréé en mars 2026.",
+      "La circulaire 2026-10 actualise le cadre des établissements de paiement et confirme qu'ils opèrent en dinar et en Tunisie uniquement.",
+      "Le fonds de fonds ANAVA, doté de 60 millions de dollars et géré par Smart Capital, structure le capital-risque d'amorçage."
+    ],
+    "body": "L'écosystème fintech tunisien est petit, mais encombré. Une banque centrale contrôle étroitement qui peut détenir l'argent des clients. Une vingtaine de banques tiennent la distribution. La Poste dispose de ses propres circuits de paiement, et un groupe croissant d'établissements de paiement agréés et de startups se dispute l'espace qui reste. Voici qui fait quoi à l'automne 2026, et la place qu'un nouveau fondateur peut y trouver.\n\n## Les régulateurs : qui agrée quoi ?\n\nQuatre autorités comptent pour une fintech tunisienne :\n\n- **La Banque centrale de Tunisie (BCT).** Elle supervise les banques, les établissements financiers et les établissements de paiement, fixe la réglementation des changes et pilote le [bac à sable réglementaire](post:bct-regulatory-sandbox). Tout produit qui touche aux dépôts, aux comptes de paiement ou aux flux transfrontaliers passe par elle.\n- **Le Conseil du marché financier (CMF).** Il régule le marché des capitaux, y compris le cadre des plateformes de crowdfunding.\n- **L'autorité de contrôle de la microfinance (ACM)** pour les institutions de microcrédit, et **le régulateur des assurances** pour l'insurtech.\n- **Le ministère des Technologies de la communication et Smart Capital**, qui gèrent le [label Startup Act](post:startup-act-tunisia-explained). Ce label ouvre des avantages fiscaux et sociaux, mais il ne vaut pas agrément pour exercer une activité financière.\n\nLes règles applicables aux établissements de paiement évoluent. Le 25 septembre 2026, la BCT a publié la **circulaire n° 2026-10**. Elle remplace la circulaire 2018-16 et entre en vigueur trois mois après sa publication. Selon La Presse, elle précise le périmètre de ces établissements : comptes de paiement en dinars, dépôts et retraits d'espèces, virements, instruments de paiement, réception de fonds de l'étranger et change manuel. Elle impose aussi des fonctions d'audit, de gestion des risques et de conformité. Le tout s'exerce exclusivement en dinar et sur le territoire tunisien.\n\n## Banques et Poste : les acteurs historiques\n\nLe rapport annuel 2025 de la BCT, résumé par Tuniscope, recense **47 banques et établissements financiers agréés**. Parmi eux figurent **22 banques résidentes**, 7 banques non résidentes et 8 sociétés de leasing, pour **2 081 agences bancaires** fin 2025. Les banques émettent la quasi-totalité des cartes et détiennent l'essentiel de la relation client. Plusieurs ont lancé leurs propres dispositifs d'innovation. La BIAT a son incubateur BIATLABS, et Attijari Bank a annoncé fin 2021 un programme pilote avec des fintechs, mené avec Beta-i et Betacube.\n\nL'Office national des postes est l'autre acteur historique. Avec la carte e-Dinar et l'application D17, il touche une clientèle que les banques servent mal.\n\n## Rails de paiement et commutation\n\nDerrière chaque transaction, il y a une infrastructure partagée :\n\n- **Sibtel** gère le système de télécompensation interbancaire, créé en 1999. En mai 2024, la BCT y a admis deux établissements de paiement, **Zitouna Pay** et **Payvago**. Des acteurs non bancaires peuvent ainsi compenser directement avec les banques.\n- **La commutation monétique nationale et la passerelle e-commerce**, qui assurent l'interopérabilité des cartes et l'acceptation des paiements en ligne.\n\nLa carte reste dominante dans les paiements électroniques. La BCT a enregistré en 2025 164,9 millions d'opérations par carte pour 29,5 milliards de dinars, contre 8,4 millions d'opérations de paiement mobile.\n\n## Établissements de paiement, wallets et PSP\n\nC'est ici que se concentre l'essentiel de l'activité fintech. Fin 2025, le rapport annuel de la BCT comptait **6 établissements de paiement**. D'autres acteurs ont été agréés depuis ou sont en cours :\n\n- **OFT Tunisie**, filiale d'Ooredoo FinTech International, a obtenu l'agrément définitif d'établissement de paiement. Il a été publié au JORT du 14 mars 2026, et la société dispose de six mois pour démarrer. Selon African Manager, la Tunisie compte désormais 16 prestataires de services de paiement agréés, établissements de paiement et établissements financiers proposant des paiements numériques confondus.\n- **Zitouna Pay**, **Payvago** et **First Pay**, dont Managers a annoncé en août 2024 l'agrément comme établissement de paiement résident.\n- **Konnect Networks**, premier titulaire de la licence de *payment facilitator* délivrée par la BCT. En mai 2025, la société a levé un tour au montant non divulgué auprès d'investisseurs dont Attijariwafa Ventures et Visa.\n- **Flouci** et **Paymee**, deux des marques de wallet et de paiement marchand les plus connues. Flouci a notamment noué un partenariat avec la BTE.\n\nLes wallets progressent, mais partent de bas. La BCT a recensé **469 000 portefeuilles mobiles** en 2025, en hausse de 26,8 %. Le paiement mobile a progressé de 58,6 % en valeur, à 1 769 millions de dinars.\n\n## Investisseurs et structures d'accompagnement\n\nL'argent public structure le financement en amorçage. Le **fonds de fonds ANAVA**, doté de 60 millions de dollars, est géré par Smart Capital et financé par la CDC Tunisie (avec l'appui de la Banque mondiale) et par la KfW. Selon Launch Base Africa, il avait engagé en février 2025 environ 45 millions d'euros dans 10 fonds de capital-risque, dont 216 Capital, Flat6Labs, Titan Seed Fund (MEDIN), Silicon Badia, Janngo Capital et LoftyInc.\n\nÀ côté de ces fonds, des accélérateurs comme Flat6Labs Tunis, Orange Fab, BIATLABS ou The Dot accompagnent les fondateurs (voir [incubateurs et accélérateurs](post:tunisia-incubators-accelerators)).\n\n## Ce que cette carte implique pour les fondateurs\n\n- **Choisir tôt sa voie réglementaire.** Un produit qui détient des fonds exige un agrément d'établissement de paiement ou une banque partenaire. Le bac à sable peut servir de première étape.\n- **Les banques sont à la fois concurrentes et canaux de distribution.** La plupart des fintechs qui grandissent en Tunisie s'appuient sur une banque, La Poste ou un établissement agréé, plutôt que de les contourner.\n- **La limite transfrontalière est bien réelle.** La circulaire 2026-10 confirme que les établissements de paiement opèrent en dinar et en Tunisie uniquement, ce qui conditionne toute ambition régionale.\n- **Surveiller les nouveaux entrants.** Un établissement de paiement adossé à un opérateur télécom, comme OFT Tunisie, avec un réseau d'agents, peut changer l'économie du [paiement mobile](post:mobile-payments-tunisia) pour tout le marché.",
+    "faq": [
+      {
+        "q": "Qui régule la fintech en Tunisie ?",
+        "a": "La Banque centrale de Tunisie agrée et supervise les banques, les établissements financiers et les établissements de paiement, et pilote le bac à sable fintech. Le CMF régule le marché des capitaux et le crowdfunding. La microfinance et l'assurance ont leurs propres autorités."
+      },
+      {
+        "q": "Combien d'établissements de paiement compte la Tunisie ?",
+        "a": "Le rapport annuel 2025 de la BCT en recensait 6 fin 2025. En mars 2026, OFT Tunisie (Ooredoo) a obtenu son agrément définitif, et African Manager évalue à 16 le nombre de prestataires de services de paiement agréés, établissements financiers compris."
+      },
+      {
+        "q": "Le label Startup Act permet-il de proposer des services de paiement ?",
+        "a": "Non. Le label ouvre des avantages fiscaux, sociaux et un compte en devises, mais toute activité portant sur des fonds de clients exige un agrément de la BCT ou un partenariat avec un établissement agréé."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Le secteur bancaire tunisien gagne du terrain avec plus de 2.000 agences",
+      "publisher": "Tuniscope",
+      "url": "https://www.tuniscope.com/article/435590/business/economie/tunisie-les-banque-471413"
+    },
+    {
+      "title": "OFT Tunisie obtient l'agrément définitif de la BCT",
+      "publisher": "African Manager",
+      "url": "https://africanmanager.com/?p=566910"
+    },
+    {
+      "title": "BCT : circulaire n° 2026-10 relative aux établissements de paiement",
+      "publisher": "La Presse",
+      "url": "https://www.lapresse.tn/?p=4361730"
+    },
+    {
+      "title": "Zitouna Pay et Payvago intègrent le système tunisien de télécompensation interbancaire",
+      "publisher": "Kapitalis",
+      "url": "https://kapitalis.com/tunisie/?p=12671441"
+    },
+    {
+      "title": "Meet the VC funds deploying Tunisia's $60m ANAVA fund of funds",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/02/10/meet-the-vc-funds-deploying-tunisias-60m-anava-fund-of-funds/"
+    },
+    {
+      "title": "BCT : le chèque s'effondre en Tunisie, les virements et la lettre de change prennent le relais en 2025",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2026/07/08/569808/bct-le-cheque-seffondre-en-tunisie-les-virements-et-la-lettre-de-change-prennent-le-relais-en-2025/"
+    }
+  ]
+}

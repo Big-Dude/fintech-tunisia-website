@@ -1,0 +1,134 @@
+{
+  "slug": "crypto-regulation-tunisia",
+  "category": "regulation",
+  "cover_motif": "scales-law",
+  "stats": [
+    {
+      "value": "3 years",
+      "label_en": "maximum prison term for serious FX violations in the draft code",
+      "label_fr": "peine maximale de prison pour infractions de change graves dans le projet",
+      "source": "African Manager, 2026"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Crypto Regulation in Tunisia: Is Bitcoin Legal in 2026?",
+    "meta_description": "Is crypto legal in Tunisia? There is no dedicated law, the 1976 FX code applies and draft reforms would regulate crypto-assets. What you need to know.",
+    "excerpt": "Tunisia has no crypto law, but the foreign exchange code makes holding and trading crypto legally risky. Draft reforms would change that, if adopted.",
+    "keywords": [
+      "crypto regulation Tunisia",
+      "is crypto legal in Tunisia",
+      "bitcoin Tunisia legal",
+      "Tunisia cryptocurrency law",
+      "BCT crypto-assets",
+      "Tunisia FX code crypto"
+    ],
+    "tags": [
+      "Crypto",
+      "Regulation",
+      "BCT",
+      "Foreign exchange"
+    ],
+    "key_takeaways": [
+      "Tunisia has no dedicated law on crypto-assets, and they are not recognised as currency.",
+      "The main legal constraint is the 1976 foreign exchange code, under which buying or holding crypto abroad can amount to an FX offence.",
+      "A former BCT governor said in 2022 that some young Tunisians had been jailed over crypto because of the legal gap.",
+      "Draft FX codes from 2024 and 2025 would allow crypto holdings under BCT authorisation, declaration and repatriation rules, but none had been adopted by October 2026."
+    ],
+    "body": "Is crypto legal in Tunisia? The honest answer, as of October 2026, is that Tunisia has no dedicated law on crypto-assets: they are neither recognised as money nor governed by a specific licensing regime. What exists instead is a strict foreign exchange framework, official warnings about legal risk, and draft laws that would regulate crypto for the first time but have not been adopted. This article explains what that grey zone means in practice.\n\n## No crypto law, but not a free zone\n\nMany websites describe Tunisia as having a \"total ban\" on cryptocurrency. We could not trace that claim to a specific statute or published central bank circular. The more accurate picture comes from the Central Bank of Tunisia (BCT) itself.\n\nIn March 2022, then-governor Marouane El Abassi told Managers that young Tunisians were already using crypto-assets even though **no regulatory framework existed**, and that some had been jailed because of that legal gap. He said the central bank considered regulation necessary to clear up the uncertainty, but that crypto policy was not the BCT's decision alone and had to be agreed with the government.\n\nThat is the core of the issue: crypto is not specifically banned, but it collides with other laws, above all the foreign exchange code.\n\n## Why the FX code is the real constraint\n\nTunisia's foreign exchange regime still rests on **Law No. 76-18 of 21 January 1976**. It is built on prior authorisation: residents need BCT approval for many operations involving foreign currency or assets held abroad. Read our full explainer on the [FX code reform](post:tunisia-foreign-exchange-code-reform).\n\nCrypto runs into this framework in several ways:\n\n- buying crypto on a foreign exchange platform usually means paying in foreign currency or with a card, which falls under FX rules;\n- crypto held on a foreign platform can be treated as an asset held abroad;\n- buying through informal peer-to-peer channels can amount to an unauthorised currency operation. As early as 2017, an analyst quoted by Ilboursa warned that buyers on the parallel market would be breaching FX regulation.\n\nThe 1976 code was not written with crypto in mind, which is precisely why its application is uncertain and why the governor spoke of a legal gap.\n\n## What the BCT has said about crypto's status\n\nThe clearest signal of the authorities' thinking came from draft texts rather than enacted law. In February 2023, Managers reported that a preliminary version of the new FX code it had consulted stated that crypto-assets **\"do not have the legal status of a currency\"**, while defining them as digital representations of value accepted by some people as a means of exchange.\n\nIn practice, this means:\n\n- crypto is not legal tender in Tunisia, and the dinar remains the only legal currency;\n- crypto-assets would be treated as a category of asset, not money;\n- any future regime would come through the FX code, with the BCT in charge.\n\n## The drafts that would regulate crypto\n\nThree successive texts have addressed crypto, none of them yet in force.\n\n### The 2024 government draft\n\nIn March 2024, a ministerial council adopted a draft FX code. The Prime Ministry listed the authorisation of crypto-asset transactions among its main measures. The then finance minister, Sihem Boughdiri Nemsia, explained on Express FM that the draft would let Tunisian citizens hold and trade cryptocurrencies, subject to **prior BCT authorisation** and a significant financial threshold to be set later by regulation. The draft was never put to a vote.\n\n### The 2025 parliamentary bill\n\nOn 21 October 2025, MP Maher Ktari filed a full FX code bill. According to Webdo, it addresses digital assets, remote payment systems and virtual currencies, and would let residents use international platforms such as PayPal or crypto-asset-based solutions, especially freelancers paid in foreign currency.\n\n### The committee text (2026)\n\nAfrican Manager's April 2026 reading of the text before the Finance Committee describes a definition of crypto-assets as digital representations of value or rights that can be transferred electronically, an obligation for residents to **declare** crypto-assets above a threshold and to **repatriate** earnings from digital assets, and penalties for serious violations of up to three years in prison. As of July 2026 the bill was still in committee, waiting for the central bank's input, and the Ministry of Finance had suggested pushing its examination to 2027.\n\n## Crypto and blockchain inside the system\n\nTunisia's institutions have experimented with the underlying technology even without a crypto law:\n\n- the first cohort of the [BCT regulatory sandbox](post:bct-regulatory-sandbox), announced in late 2020, included projects on crypto-assets and central bank digital currency;\n- according to The Fintech Times, in July 2021 the BCT and the Banque de France completed a joint wholesale central bank digital currency experiment for transfers between French and Tunisian commercial banks.\n\nThese tests concern central bank money and supervised pilots, not open public trading of crypto.\n\n## What it means for Tunisian users and founders\n\nFor individuals, the practical message is caution. There is no licensed Tunisian crypto exchange, no investor protection regime and, according to the central bank's own former governor, a real risk of prosecution under existing laws. Anyone holding or trading crypto should take legal advice rather than rely on online claims either way.\n\nFor founders, the consequences are clearer still:\n\n- **No licence exists** for a crypto exchange, custodian or stablecoin issuer in Tunisia today.\n- **Tokens cannot replace payment rails.** Licensed payment services must run in dinars through [payment institutions](post:payment-institutions-tunisia) or banks.\n- **The sandbox is the only supervised entry point** for blockchain-based financial experiments.\n- **Watch the FX code.** If adopted, it would create the first legal basis for holding crypto, but under BCT authorisation, declaration and repatriation rules. The detailed thresholds would come only with implementing texts.\n\nFor how crypto and [stablecoins](post:stablecoins-africa) are being used elsewhere on the continent, see our Africa coverage. In Tunisia, adoption will depend less on demand than on whether and when parliament finally adopts a new FX code.",
+    "faq": [
+      {
+        "q": "Is cryptocurrency legal in Tunisia?",
+        "a": "There is no specific law that legalises or explicitly bans crypto-assets in Tunisia. However, the 1976 foreign exchange code restricts operations involving foreign currency and assets abroad, so buying or holding crypto can expose users to FX offences. Take legal advice before trading."
+      },
+      {
+        "q": "Can I use Binance or other exchanges from Tunisia?",
+        "a": "No Tunisian crypto exchange is licensed, and paying a foreign platform generally involves foreign currency, which is governed by the FX code and BCT authorisation rules. The legal risk is real, as the central bank's former governor acknowledged in 2022."
+      },
+      {
+        "q": "Will the new FX code legalise crypto in Tunisia?",
+        "a": "The drafts would create the first legal basis for holding crypto-assets, subject to BCT authorisation, declaration above a threshold and repatriation of earnings. As of October 2026 the code was still in parliamentary committee."
+      },
+      {
+        "q": "Is bitcoin legal tender in Tunisia?",
+        "a": "No. The Tunisian dinar is the only legal currency. A preliminary draft of the new FX code stated that crypto-assets do not have the legal status of a currency."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Cryptomonnaies en Tunisie : quel cadre légal en 2026 ?",
+    "meta_description": "Les cryptos sont-elles légales en Tunisie ? Pas de loi dédiée, un code des changes de 1976 et des projets de réforme : l'essentiel pour usagers et fondateurs.",
+    "excerpt": "La Tunisie n'a pas de loi crypto, mais le code des changes rend leur détention juridiquement risquée. Les projets de réforme changeraient la donne, s'ils sont adoptés.",
+    "keywords": [
+      "cryptomonnaie Tunisie légal",
+      "régulation crypto Tunisie",
+      "bitcoin Tunisie",
+      "crypto-actifs BCT",
+      "code des changes crypto",
+      "loi cryptomonnaie Tunisie"
+    ],
+    "tags": [
+      "Crypto",
+      "Régulation",
+      "BCT",
+      "Change"
+    ],
+    "key_takeaways": [
+      "La Tunisie n'a pas de loi spécifique sur les crypto-actifs, qui ne sont pas reconnus comme monnaie.",
+      "La principale contrainte juridique est le code des changes de 1976 : acheter ou détenir des cryptos à l'étranger peut constituer une infraction de change.",
+      "Un ancien gouverneur de la BCT a reconnu en 2022 que des jeunes avaient été emprisonnés pour usage de cryptos en raison du vide juridique.",
+      "Les projets de code des changes de 2024 et 2025 autoriseraient la détention de cryptos sous autorisation de la BCT, avec déclaration et rapatriement, mais aucun n'était adopté en octobre 2026."
+    ],
+    "body": "Les cryptomonnaies sont-elles légales en Tunisie ? La réponse honnête, en octobre 2026 : la Tunisie n'a pas de loi spécifique sur les crypto-actifs. Ils ne sont ni reconnus comme monnaie ni soumis à un régime d'agrément dédié. Il existe en revanche un cadre de change très strict, des mises en garde officielles sur le risque juridique et des projets de loi qui encadreraient les cryptos pour la première fois, mais qui n'ont pas été adoptés. Décryptage de cette zone grise.\n\n## Pas de loi crypto, mais pas de zone libre\n\nDe nombreux sites affirment que la Tunisie applique une « interdiction totale » des cryptomonnaies. Nous n'avons pas pu rattacher cette affirmation à une loi ou à une circulaire publiée de la Banque centrale. Le tableau le plus fiable vient de la Banque centrale de Tunisie (BCT) elle-même.\n\nEn mars 2022, le gouverneur de l'époque, Marouane El Abassi, expliquait à Managers que des jeunes Tunisiens utilisaient déjà des crypto-actifs alors qu'**aucun cadre réglementaire n'existait**, et que certains avaient été emprisonnés en raison de ce vide juridique. Il jugeait une régulation nécessaire pour lever l'incertitude, tout en précisant que la politique en matière de crypto-actifs ne relevait pas de la seule BCT et devait être décidée en concertation avec le gouvernement.\n\nTout est là : les cryptos ne sont pas expressément interdites, mais elles se heurtent à d'autres textes, à commencer par le code des changes.\n\n## Le code des changes, véritable contrainte\n\nLe régime de change tunisien repose toujours sur la **loi n° 76-18 du 21 janvier 1976**, fondée sur l'autorisation préalable : de nombreuses opérations en devises ou portant sur des avoirs détenus à l'étranger exigent l'accord de la BCT. Voir notre dossier complet sur la [réforme du code des changes](post:tunisia-foreign-exchange-code-reform).\n\nLes cryptos entrent en collision avec ce cadre de plusieurs façons :\n\n- acheter des cryptos sur une plateforme étrangère suppose généralement de payer en devises ou par carte, ce qui relève de la réglementation des changes ;\n- des cryptos détenues sur une plateforme étrangère peuvent être assimilées à un avoir à l'étranger ;\n- passer par des circuits informels de gré à gré peut constituer une opération de change non autorisée. Dès 2017, un analyste cité par Ilboursa prévenait que les acheteurs sur le marché parallèle seraient en infraction à la réglementation des changes.\n\nLe code de 1976 n'a pas été pensé pour les cryptos : c'est précisément ce qui rend son application incertaine et explique que le gouverneur ait parlé de vide juridique.\n\n## Ce que la BCT dit du statut des cryptos\n\nLe signal le plus clair est venu de textes en préparation plutôt que de lois adoptées. En février 2023, Managers rapportait qu'une version préliminaire du nouveau code des changes indiquait que les crypto-actifs **« ne possèdent pas le statut juridique d'une monnaie »**, tout en les définissant comme des représentations numériques de valeur acceptées par certaines personnes comme moyen d'échange.\n\nConcrètement :\n\n- les cryptos n'ont pas cours légal en Tunisie, le dinar restant la seule monnaie légale ;\n- les crypto-actifs seraient traités comme une catégorie d'actifs, non comme une monnaie ;\n- tout futur régime passerait par le code des changes, sous l'autorité de la BCT.\n\n## Les projets qui encadreraient les cryptos\n\nTrois textes successifs ont abordé la question. Aucun n'est en vigueur.\n\n### Le projet gouvernemental de 2024\n\nEn mars 2024, un conseil ministériel a adopté un projet de code des changes. La Présidence du gouvernement citait l'autorisation des opérations sur crypto-actifs parmi les principales mesures. La ministre des Finances de l'époque, Sihem Boughdiri Nemsia, expliquait sur Express FM que le texte permettrait aux citoyens de détenir et d'échanger des cryptomonnaies, sous réserve d'une **autorisation préalable de la BCT** et d'un seuil financier significatif à fixer ultérieurement par voie réglementaire. Ce projet n'a jamais été soumis au vote.\n\n### La proposition parlementaire de 2025\n\nLe 21 octobre 2025, le député Maher Ktari a déposé une proposition complète de code des changes. Selon Webdo, elle traite des actifs numériques, des systèmes de paiement à distance et des monnaies virtuelles, et permettrait aux résidents d'utiliser des plateformes internationales comme PayPal ou des solutions basées sur les crypto-actifs, en particulier pour les freelances payés en devises.\n\n### Le texte en commission (2026)\n\nLa lecture publiée par African Manager en avril 2026 du texte examiné par la commission des finances fait état d'une définition des crypto-actifs comme représentations numériques de valeur ou de droits transférables électroniquement, d'une obligation pour les résidents de **déclarer** leurs crypto-actifs au-delà d'un seuil et de **rapatrier** les revenus tirés d'actifs numériques, et de peines pouvant aller jusqu'à trois ans de prison pour les infractions graves. En juillet 2026, le texte était toujours en commission dans l'attente de l'avis de la Banque centrale, et le ministère des Finances suggérait d'en reporter l'examen à 2027.\n\n## Cryptos et blockchain au sein du système\n\nLes institutions tunisiennes ont expérimenté la technologie sous-jacente, même sans loi crypto :\n\n- la première cohorte de la [sandbox réglementaire de la BCT](post:bct-regulatory-sandbox), annoncée fin 2020, comprenait des projets portant sur les crypto-actifs et la monnaie digitale de banque centrale ;\n- selon The Fintech Times, la BCT et la Banque de France ont mené à bien en juillet 2021 une expérimentation conjointe de monnaie digitale de banque centrale « de gros » pour des virements entre banques commerciales françaises et tunisiennes.\n\nCes tests portent sur la monnaie de banque centrale et des pilotes supervisés, pas sur le négoce public de cryptos.\n\n## Ce que cela implique pour les utilisateurs et les fondateurs\n\nPour les particuliers, le message est la prudence. Il n'existe ni plateforme d'échange tunisienne agréée, ni régime de protection des investisseurs, et, selon l'ancien gouverneur de la Banque centrale lui-même, un risque réel de poursuites au titre des lois existantes. Mieux vaut consulter un juriste que se fier aux affirmations en ligne, dans un sens comme dans l'autre.\n\nPour les fondateurs, les conséquences sont encore plus nettes :\n\n- **aucun agrément n'existe** aujourd'hui pour une plateforme d'échange, un dépositaire ou un émetteur de stablecoins en Tunisie ;\n- **les jetons ne remplacent pas les rails de paiement** : les services de paiement agréés fonctionnent en dinars, via des [établissements de paiement](post:payment-institutions-tunisia) ou des banques ;\n- **la sandbox est la seule porte d'entrée supervisée** pour les expérimentations financières fondées sur la blockchain ;\n- **le code des changes est à surveiller** : s'il est adopté, il créera la première base légale pour détenir des cryptos, mais sous autorisation de la BCT et avec des obligations de déclaration et de rapatriement. Les seuils précis ne viendront qu'avec les textes d'application.\n\nPour l'usage des cryptos et des [stablecoins](post:stablecoins-africa) ailleurs sur le continent, voir notre rubrique Afrique. En Tunisie, leur essor dépendra moins de la demande que de l'adoption, et du calendrier, d'un nouveau code des changes.",
+    "faq": [
+      {
+        "q": "Les cryptomonnaies sont-elles légales en Tunisie ?",
+        "a": "Aucune loi ne les légalise ni ne les interdit expressément. Mais le code des changes de 1976 encadre strictement les opérations en devises et les avoirs à l'étranger : acheter ou détenir des cryptos peut donc exposer à des infractions de change. Consultez un juriste avant toute opération."
+      },
+      {
+        "q": "Peut-on utiliser Binance ou une autre plateforme depuis la Tunisie ?",
+        "a": "Aucune plateforme crypto n'est agréée en Tunisie, et payer une plateforme étrangère implique généralement des devises, soumises au code des changes et à l'autorisation de la BCT. Le risque juridique est réel, comme l'a reconnu l'ancien gouverneur de la Banque centrale en 2022."
+      },
+      {
+        "q": "Le nouveau code des changes va-t-il légaliser les cryptos ?",
+        "a": "Les projets créeraient la première base légale pour détenir des crypto-actifs, sous autorisation de la BCT, avec déclaration au-delà d'un seuil et rapatriement des revenus. En octobre 2026, le texte était toujours en commission parlementaire."
+      },
+      {
+        "q": "Le bitcoin a-t-il cours légal en Tunisie ?",
+        "a": "Non. Le dinar est la seule monnaie légale. Une version préliminaire du nouveau code des changes précisait que les crypto-actifs ne possèdent pas le statut juridique d'une monnaie."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Exclusif ― Abassi : les crypto-actifs feront partie de la prochaine loi de change",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2022/03/01/exclusif-%e2%80%95-abassi-les-crypto-actifs-feront-partie-de-la-prochaine-loi-de-change/"
+    },
+    {
+      "title": "Les crypto-actifs ne possèdent pas le statut juridique d'une monnaie, tranche enfin la BCT",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2023/02/25/les-crypto-actifs-ne-possedent-pas-le-statut-juridique-dune-monnaie-tranche-enfin-la-bct/"
+    },
+    {
+      "title": "Code des changes : les Tunisiens peuvent désormais détenir et échanger des cryptomonnaies",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2024/03/18/code-des-changes-les-tunisiens-peuvent-desormais-detenir-et-echanger-des-cryptomonnaies/"
+    },
+    {
+      "title": "Tunisie : Une proposition de réforme complète du Code des changes déposée à l'ARP",
+      "publisher": "Webdo",
+      "url": "https://www.webdo.tn/fr/actualite/national/tunisie-une-proposition-de-reforme-complete-du-code-des-changes-deposee-a-larp/386013/"
+    },
+    {
+      "title": "New Foreign Exchange Code: What parliament proposes to government",
+      "publisher": "African Manager",
+      "url": "https://en.africanmanager.com/new-foreign-exchange-code-what-parliament-proposes-to-government/"
+    },
+    {
+      "title": "Fintech Overview of Tunisia in 2024",
+      "publisher": "The Fintech Times",
+      "url": "https://thefintechtimes.com/fintech-overview-of-tunisia-in-2024/"
+    }
+  ]
+}

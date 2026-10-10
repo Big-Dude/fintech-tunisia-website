@@ -1,0 +1,162 @@
+{
+  "slug": "tunisia-startups-h1-2026-funding",
+  "category": "funding",
+  "cover_motif": "coins",
+  "date": "2026-07-17",
+  "stats": [
+    {
+      "value": "$300K",
+      "label_en": "raised by Tunisian startups in three deals, H1 2026",
+      "label_fr": "levés par les startups tunisiennes en trois opérations, S1 2026",
+      "source": "African Manager (Wamda data), 2026"
+    },
+    {
+      "value": "$1.7B",
+      "label_en": "raised by MENA startups in 242 rounds, H1 2026",
+      "label_fr": "levés par les startups MENA en 242 tours, S1 2026",
+      "source": "Wamda, 2026"
+    },
+    {
+      "value": "-18%",
+      "label_en": "fall in MENA startup funding vs H1 2025",
+      "label_fr": "baisse du financement des startups MENA vs S1 2025",
+      "source": "Wamda, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Startup funding by country, H1 2026 ($ million)",
+    "title_fr": "Financement des startups par pays, S1 2026 (millions $)",
+    "unit": "$M",
+    "bars": [
+      {
+        "label_en": "UAE",
+        "label_fr": "Émirats arabes unis",
+        "value": 1200.0
+      },
+      {
+        "label_en": "Saudi Arabia",
+        "label_fr": "Arabie saoudite",
+        "value": 259.0
+      },
+      {
+        "label_en": "Egypt",
+        "label_fr": "Égypte",
+        "value": 158.9
+      }
+    ],
+    "source_name": "Wamda, H1 2026",
+    "source_url": "https://www.wamda.com/en/2026/07/mena-startups-raise-1-7-billion-h1-2026-despite-regional-uncertainty"
+  },
+  "en": {
+    "title": "Tunisian Startups Raised Just $300,000 in H1 2026",
+    "meta_description": "Tunisian startups raised about $300,000 in H1 2026 while MENA startups raised $1.7 billion. What the numbers show and what it means for fintech founders.",
+    "excerpt": "Tunisian startups raised about $300,000 in the first half of 2026, while the MENA region raised $1.7 billion. What the gap means for founders.",
+    "keywords": [
+      "Tunisian startup funding 2026",
+      "Tunisia startups H1 2026",
+      "MENA startup funding H1 2026",
+      "Wamda H1 2026 report",
+      "Tunisia vs Morocco startup funding",
+      "Tunisia fintech investment"
+    ],
+    "tags": [
+      "Funding",
+      "MENA",
+      "Venture capital",
+      "Fintech"
+    ],
+    "key_takeaways": [
+      "African Manager, citing Wamda data, reported that Tunisian startups raised about $300,000 in three deals in H1 2026, against $29.4 million for Morocco.",
+      "MENA startups raised $1.7 billion across 242 rounds in H1 2026, down 18% year on year, with the UAE taking about 70%.",
+      "Fintech was the region's top sector with $708 million, but very little of it reached Tunisia.",
+      "FX rules, the 2025 labour law and thin domestic capital explain much of Tunisia's gap."
+    ],
+    "body": "Tunisian startups raised about **$300,000 across three transactions** in the first half of 2026, according to African Manager, which based its report on Wamda data. Over the same period, startups across the Middle East and North Africa raised $1.7 billion. The gap shows how far Tunisia has fallen behind in regional startup funding.\n\n## Tunisian startup funding in H1 2026: the headline number\n\nThe $300,000 figure is very small. It is less than 0.02% of the MENA total for the half-year, and roughly a hundredth of the $29.4 million African Manager reports for Moroccan startups.\n\nThere is a caveat. The UAE, Saudi and Egyptian figures that African Manager lists alongside Tunisia's ($591 million, $102 million and $72.6 million) match the **second-quarter** numbers in Wamda's report, not the half-year totals. It is therefore possible that the Tunisia and Morocco figures also cover Q2 only. Wamda's public summary of its H1 report does not mention Tunisia, so we could not check the number directly.\n\nA second tracker comes to a similar conclusion. Launch Base Africa found near-zero disclosed equity deals in Tunisia in H1 2026, against six deals worth about $5.4 million in H1 2025 (see [our analysis of the near-zero equity deals](post:tunisia-zero-equity-deals-h1-2026)). Whatever the exact figure, Tunisian startups raised almost nothing in the first half of 2026.\n\n## The MENA picture: a slower region, concentrated in the Gulf\n\nAccording to Wamda, MENA startups raised **$1.7 billion across 242 rounds** in H1 2026:\n\n- Total capital fell **18%** from $2.1 billion in H1 2025, and the number of deals fell 28%.\n- Debt made up **29%** of capital raised, down from 44% a year earlier, so equity took a larger share.\n- The **UAE** raised $1.2 billion across 83 deals, about 70% of regional capital. **Saudi Arabia** raised $259 million across 80 deals, and **Egypt** $158.9 million across 29 deals.\n\nMoney became more concentrated as well. The UAE's total rose 125% year on year, while Saudi Arabia's fell 81%. Investors put money where they saw the clearest exits and the deepest local markets.\n\n## Fintech led, but not in Tunisia\n\nFintech remained the region's top sector, with **$708 million across 51 rounds** in H1 2026 according to Wamda. Logistics followed with $315 million and proptech with $241 million.\n\nThis matters for Tunisia because fintech is one of its most active startup sectors. The country has had a central bank regulatory sandbox since 2020 and a growing number of payment and lending startups. Regional investors were clearly still backing fintech in 2026, but very little of that money reached Tunisia. The sector was not the problem. Tunisia's market conditions were.\n\n## Why Tunisia is falling behind\n\nThe reasons are mostly familiar:\n\n- **Foreign-exchange rules.** Tunisia's FX regime still rests on a 1976 law. A December 2025 amendment allows residents to hold foreign-currency accounts, but it depends on central bank circulars that had not been issued by mid-2026, according to Launch Base Africa. See [FX code reform](post:tunisia-foreign-exchange-code-reform).\n- **Hiring rules.** Law No. 2025-9 of May 2025 banned labour subcontracting and made permanent contracts the default, which reduced the flexibility early-stage companies relied on. See [the labour reform and startups](post:tunisia-labor-law-reform-startups).\n- **Thin domestic capital.** Morocco's rounds were backed by local banks, holding companies and funds. Tunisia relies more on foreign investors who must structure around local constraints.\n- **Talent leaving.** Launch Base Africa notes that graduate unemployment keeps pushing young Tunisians, engineers included, to Europe and the Gulf.\n\n## What it means for Tunisian fintech founders\n\nA good product and a real market gap are not enough to raise money in this environment. In practice, founders are turning to:\n\n- **ANAVA-backed funds.** The fund of funds has committed €45 million across ten funds, seven focused on Tunisia, according to Launch Base Africa.\n- **Diaspora and angel investors** who know the market and can invest through foreign structures.\n- **Regional funds** willing to invest through a holding company abroad.\n- **Revenue first.** With little equity available, companies that can grow from customer revenue are in a stronger position.\n\nFor a longer view of the numbers, see [startup funding trends in Tunisia](post:tunisia-startup-funding-trends): Tunisian startups raised $39 million across 17 deals in 2025, according to AVCA data reported by African Manager, which makes the 2026 slowdown sharper.\n\n## Why it matters\n\nWhether the true H1 figure is $300,000 or a single six-figure deal, the message is the same. Tunisia is close to dropping off the regional funding map, while its neighbours and the Gulf keep attracting capital. Implementing the FX reform and restoring investor confidence are now the most urgent issues for the ecosystem.",
+    "faq": [
+      {
+        "q": "How much did Tunisian startups raise in the first half of 2026?",
+        "a": "About $300,000 across three transactions, according to African Manager citing Wamda data. Launch Base Africa, using a different method, recorded near-zero disclosed equity deals over the same period."
+      },
+      {
+        "q": "How much did MENA startups raise in H1 2026?",
+        "a": "According to Wamda, MENA startups raised $1.7 billion across 242 rounds in H1 2026, down 18% from $2.1 billion a year earlier. The UAE took about 70% of the total."
+      },
+      {
+        "q": "Why do Tunisian startups raise so little compared with Morocco?",
+        "a": "Foreign-exchange rules, the 2025 ban on labour subcontracting, a weak economy and limited local capital all weigh on Tunisia. Morocco's rounds were backed largely by domestic banks, holding companies and funds."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Startups tunisiennes : à peine 300 000 $ levés au S1 2026",
+    "meta_description": "Les startups tunisiennes ont levé environ 300 000 $ au S1 2026, contre 1,7 milliard pour la région MENA. Ce que disent les chiffres pour les fondateurs.",
+    "excerpt": "Les startups tunisiennes ont levé environ 300 000 dollars au premier semestre 2026, quand la région MENA en levait 1,7 milliard. Ce que révèle cet écart.",
+    "keywords": [
+      "levées de fonds startups tunisiennes 2026",
+      "startups Tunisie S1 2026",
+      "financement startups MENA 2026",
+      "rapport Wamda S1 2026",
+      "Tunisie Maroc financement startups",
+      "investissement fintech Tunisie"
+    ],
+    "tags": [
+      "Financement",
+      "MENA",
+      "Capital-risque",
+      "Fintech"
+    ],
+    "key_takeaways": [
+      "Selon African Manager, qui cite des données de Wamda, les startups tunisiennes ont levé environ 300 000 dollars en trois opérations au S1 2026, contre 29,4 millions pour le Maroc.",
+      "Les startups MENA ont levé 1,7 milliard de dollars en 242 tours au S1 2026, en baisse de 18 % sur un an, dont environ 70 % aux Émirats.",
+      "La fintech a été le premier secteur de la région avec 708 millions de dollars, mais presque rien n'est arrivé en Tunisie.",
+      "La réglementation des changes, la loi du travail de 2025 et le manque de capitaux locaux expliquent l'essentiel du décrochage tunisien."
+    ],
+    "body": "Les startups tunisiennes ont levé environ **300 000 dollars en trois opérations** au premier semestre 2026, selon African Manager, qui s'appuie sur des données de Wamda. Sur la même période, les startups du Moyen-Orient et d'Afrique du Nord ont levé 1,7 milliard de dollars. L'écart montre à quel point la Tunisie a décroché sur la carte régionale du financement.\n\n## Financement des startups tunisiennes au S1 2026 : le chiffre clé\n\nLe montant de 300 000 dollars est infime. Il représente moins de 0,02 % du total régional du semestre, et environ un centième des 29,4 millions de dollars qu'African Manager attribue aux startups marocaines.\n\nUne réserve s'impose toutefois. Les chiffres des Émirats, de l'Arabie saoudite et de l'Égypte cités par African Manager à côté de celui de la Tunisie (591, 102 et 72,6 millions de dollars) correspondent aux données du **deuxième trimestre** du rapport de Wamda, et non aux totaux semestriels. Il est donc possible que les chiffres tunisien et marocain ne couvrent eux aussi que le T2. La synthèse publique du rapport semestriel de Wamda ne mentionne pas la Tunisie : nous n'avons pas pu vérifier ce chiffre directement.\n\nUn autre observatoire arrive à la même conclusion. Launch Base Africa n'a relevé quasiment aucune levée en fonds propres publique en Tunisie au S1 2026, contre six opérations pour environ 5,4 millions de dollars au S1 2025 (voir [notre analyse de ce quasi-désert](post:tunisia-zero-equity-deals-h1-2026)). Quel que soit le chiffre exact, les startups tunisiennes n'ont presque rien levé au premier semestre 2026.\n\n## Le panorama régional : un marché qui ralentit et se concentre dans le Golfe\n\nSelon Wamda, les startups de la région MENA ont levé **1,7 milliard de dollars en 242 tours** au S1 2026 :\n\n- Les montants ont reculé de **18 %** par rapport aux 2,1 milliards du S1 2025, et le nombre d'opérations de 28 %.\n- La dette a représenté **29 %** des capitaux levés, contre 44 % un an plus tôt : les fonds propres ont donc pesé davantage.\n- Les **Émirats arabes unis** ont levé 1,2 milliard de dollars en 83 opérations, soit environ 70 % du total régional. L'**Arabie saoudite** a levé 259 millions en 80 opérations, et l'**Égypte** 158,9 millions en 29 opérations.\n\nLa concentration s'est aussi accentuée : le total émirien a progressé de 125 % sur un an, tandis que celui de l'Arabie saoudite a chuté de 81 %. Les investisseurs sont allés là où les sorties semblaient les plus claires et les marchés locaux les plus profonds.\n\n## La fintech en tête, mais pas en Tunisie\n\nLa fintech est restée le premier secteur de la région, avec **708 millions de dollars en 51 tours** au S1 2026 selon Wamda, devant la logistique (315 millions) et la proptech (241 millions).\n\nC'est un point important pour la Tunisie, car la fintech compte parmi ses secteurs les plus dynamiques. Le pays dispose depuis 2020 d'un bac à sable réglementaire à la Banque centrale et d'un nombre croissant de startups de paiement et de crédit. Les investisseurs régionaux ont continué de financer la fintech en 2026, mais très peu de cet argent est arrivé en Tunisie. Le problème ne vient pas du secteur, mais des conditions de marché tunisiennes.\n\n## Pourquoi la Tunisie décroche\n\nLes raisons sont pour la plupart connues :\n\n- **La réglementation des changes.** Le régime tunisien repose toujours sur une loi de 1976. Un amendement de décembre 2025 autorise les résidents à détenir des comptes en devises, mais il dépend de circulaires de la Banque centrale qui n'étaient pas publiées à la mi-2026, selon Launch Base Africa. Voir [la réforme du code des changes](post:tunisia-foreign-exchange-code-reform).\n- **Les règles d'embauche.** La loi n° 2025-9 de mai 2025 a interdit la sous-traitance de main-d'œuvre et généralisé le CDI, ce qui a réduit la souplesse dont dépendaient les jeunes entreprises. Voir [la réforme du travail et les startups](post:tunisia-labor-law-reform-startups).\n- **Peu de capitaux locaux.** Au Maroc, les tours de table sont portés par des banques, des holdings et des fonds locaux. La Tunisie dépend davantage d'investisseurs étrangers qui doivent contourner les contraintes locales.\n- **La fuite des talents.** Launch Base Africa relève que le chômage des diplômés continue de pousser les jeunes Tunisiens, ingénieurs compris, vers l'Europe et le Golfe.\n\n## Ce que cela signifie pour les fondateurs fintech tunisiens\n\nDans ce contexte, un bon produit et un vrai besoin de marché ne suffisent pas pour lever des fonds. Concrètement, les fondateurs se tournent vers :\n\n- **Les fonds soutenus par ANAVA.** Le fonds de fonds a engagé 45 millions d'euros dans dix fonds, dont sept centrés sur la Tunisie, selon Launch Base Africa.\n- **Les investisseurs de la diaspora et les business angels**, qui connaissent le marché et peuvent investir via des structures étrangères.\n- **Les fonds régionaux** prêts à investir via une holding à l'étranger.\n- **Le chiffre d'affaires d'abord.** Quand les fonds propres se raréfient, les entreprises capables de croître grâce à leurs clients sont mieux armées.\n\nPour une vision plus longue, voir [les tendances du financement des startups en Tunisie](post:tunisia-startup-funding-trends) : selon les données de l'AVCA relayées par African Manager, les startups tunisiennes avaient levé 39 millions de dollars en 17 opérations en 2025, ce qui rend le ralentissement de 2026 d'autant plus marqué.\n\n## Pourquoi c'est important\n\nQue le vrai chiffre du semestre soit de 300 000 dollars ou d'une seule opération à six chiffres, le message est le même : la Tunisie est en train de sortir de la carte régionale du financement, pendant que ses voisins et le Golfe continuent d'attirer les capitaux. La mise en œuvre de la réforme des changes et le retour de la confiance des investisseurs sont désormais les priorités de l'écosystème.",
+    "faq": [
+      {
+        "q": "Combien les startups tunisiennes ont-elles levé au premier semestre 2026 ?",
+        "a": "Environ 300 000 dollars en trois opérations, selon African Manager qui cite des données de Wamda. Launch Base Africa, avec une autre méthode, n'a relevé quasiment aucune levée en fonds propres publique sur la même période."
+      },
+      {
+        "q": "Combien les startups de la région MENA ont-elles levé au S1 2026 ?",
+        "a": "Selon Wamda, 1,7 milliard de dollars en 242 tours, soit 18 % de moins que les 2,1 milliards du S1 2025. Les Émirats arabes unis en ont capté environ 70 %."
+      },
+      {
+        "q": "Pourquoi les startups tunisiennes lèvent-elles si peu par rapport au Maroc ?",
+        "a": "La réglementation des changes, l'interdiction de la sous-traitance de main-d'œuvre en 2025, une économie fragile et le manque de capitaux locaux pèsent sur la Tunisie. Au Maroc, les tours sont largement portés par des banques, holdings et fonds locaux."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tunisian startups raise just $300,000 in H1 2026",
+      "publisher": "African Manager",
+      "url": "https://en.africanmanager.com/tunisian-startups-raise-just-300000-in-h1-2026/"
+    },
+    {
+      "title": "MENA startups raise $1.7 billion in H1 2026 despite regional uncertainty",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/2026/07/mena-startups-raise-1-7-billion-h1-2026-despite-regional-uncertainty"
+    },
+    {
+      "title": "Startup Wrap: MENA startup funding stands at $1.7bn in H1 2026",
+      "publisher": "Arab News",
+      "url": "https://www.arabnews.com/node/2651443/amp"
+    },
+    {
+      "title": "Near Zero Equity Deals in H1: What Happened to Tunisia's Startup Ecosystem?",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2026/07/29/near-zero-equity-deals-in-h1-what-happened-to-tunisias-startup-ecosystem/"
+    },
+    {
+      "title": "Tunisia, Africa's 7th largest venture capital destination in 2025",
+      "publisher": "African Manager",
+      "url": "https://en.africanmanager.com/tunisia-africas-7th-largest-venture-capital-destination-in-2025/"
+    },
+    {
+      "title": "Tunisia scraps 50-year forex rule to retain tech talent and startups",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/12/04/tunisia-scraps-50-year-forex-rule-to-retain-tech-talent-and-startups/"
+    }
+  ]
+}

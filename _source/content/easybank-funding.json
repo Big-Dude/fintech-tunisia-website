@@ -1,0 +1,162 @@
+{
+  "slug": "easybank-funding",
+  "category": "startups",
+  "cover_motif": "phone-wallet",
+  "date": "2025-02-04",
+  "stats": [
+    {
+      "value": "TND 1.2M",
+      "label_en": "raised by EasyBank (about $370,000)",
+      "label_fr": "levés par EasyBank (environ 370 000 $)",
+      "source": "Wamda / Launch Base Africa, 2025"
+    },
+    {
+      "value": "2023",
+      "label_en": "year EasyBank was founded",
+      "label_fr": "année de création d'EasyBank",
+      "source": "Wamda, 2025"
+    },
+    {
+      "value": "37.8%",
+      "label_en": "of Tunisian adults had an account in 2024",
+      "label_fr": "des adultes tunisiens avaient un compte en 2024",
+      "source": "World Bank Global Findex, 2025"
+    }
+  ],
+  "chart": {
+    "title_en": "Account ownership in Tunisia (% of adults)",
+    "title_fr": "Détention d'un compte en Tunisie (% des adultes)",
+    "unit": "%",
+    "bars": [
+      {
+        "label_en": "2014",
+        "label_fr": "2014",
+        "value": 27.4
+      },
+      {
+        "label_en": "2017",
+        "label_fr": "2017",
+        "value": 36.9
+      },
+      {
+        "label_en": "2021",
+        "label_fr": "2021",
+        "value": 36.9
+      },
+      {
+        "label_en": "2024",
+        "label_fr": "2024",
+        "value": 37.8
+      }
+    ],
+    "source_name": "World Bank Global Findex (indicator FX.OWN.TOTL.ZS)",
+    "source_url": "https://api.worldbank.org/v2/country/TUN/indicator/FX.OWN.TOTL.ZS?format=json&per_page=20"
+  },
+  "en": {
+    "title": "EasyBank Raises $370K to Simplify Access to Credit in Tunisia",
+    "meta_description": "Tunisian fintech EasyBank raised TND 1.2 million (about $370,000) to grow its AI platform for loans and banking services and expand to MENA and France.",
+    "excerpt": "Founded in 2023, Tunisian fintech EasyBank raised 1.2 million dinars to grow its AI-driven platform for loans and banking services and expand abroad.",
+    "keywords": [
+      "EasyBank Tunisia",
+      "EasyBank funding",
+      "Tunisian fintech funding 2025",
+      "AI lending platform Tunisia",
+      "Mohamed Khelifi EasyBank",
+      "access to credit Tunisia"
+    ],
+    "tags": [
+      "Startups",
+      "Funding",
+      "Lending",
+      "AI"
+    ],
+    "key_takeaways": [
+      "EasyBank, founded in 2023, raised TND 1.2 million (about $370,000) from undisclosed investors.",
+      "It is a digital platform that uses AI to simplify banking products, give personalised advice and speed up loan eligibility checks; it is not a licensed bank.",
+      "The company plans to expand to underserved markets in MENA and to France.",
+      "Its round was one of six disclosed Tunisian deals in H1 2025, before funding nearly stopped in H1 2026."
+    ],
+    "body": "Tunisian fintech startup **EasyBank** has raised **1.2 million dinars (about $370,000)** from undisclosed investors. Founded in 2023, the company runs a digital platform that uses AI to make it easier to get loans and other banking services. It plans to use the money to improve its platform and expand into the Middle East, North Africa and France.\n\n## EasyBank's $370,000 raise: the essentials\n\n- **Amount:** TND 1.2 million, about $370,000.\n- **Investors:** not disclosed. The round type was not specified either.\n- **Announced:** Wamda first reported the deal on 31 January 2025, and EasyBank's announcement was covered on 4 February 2025.\n- **Leadership:** the company was founded by a group of entrepreneurs and fintech specialists and is led by CEO **Mohamed Khelifi**.\n- **Use of funds:** platform improvements and expansion to underserved markets in MENA and France.\n\n## What EasyBank does\n\nDespite its name, EasyBank is not a licensed bank, and none of the reports describe it as a lender. According to Wamda and Launch Base Africa, it is a **digital platform that simplifies banking products** and helps users apply for loans and access other banking services.\n\nAI is central to the product. EasyBank says its tools analyse user data to give **personalised financial recommendations** and to speed up **loan eligibility checks**, so getting credit takes less time and paperwork. The target users are individuals and businesses that find traditional banking hard to access.\n\nNone of the coverage gives user numbers, partner banks or licensing details. It is therefore not clear from public sources how the platform earns money or which banks it works with.\n\n## The market gap it is targeting\n\nEasyBank is targeting a real problem. According to the World Bank's Global Findex, only **37.8% of Tunisian adults had an account** with a financial institution or mobile money provider in 2024. That figure has barely moved since 2017 (36.9%). See [financial inclusion in Tunisia](post:financial-inclusion-tunisia) for the full data.\n\nFor many Tunisians and small businesses, the hard part is not opening an account but understanding loan products, gathering documents and knowing whether they qualify. A tool that compares offers and pre-checks eligibility could help, provided it has strong links with the banks that actually make the loans.\n\n## Expansion: MENA and France\n\nIn a statement reported by Launch Base Africa, Khelifi said: \"Our goal is to bridge the gap between traditional banking and the digital economy.\" He added: \"With this investment, we are well-positioned to scale our operations and bring our solutions to new markets.\"\n\nFrance is an obvious target for a Tunisian fintech because of its large Tunisian diaspora. But each new market brings its own licensing and data-protection rules, and $370,000 does not go far when spread across several countries. The company has not published a timeline or named the markets it will enter first.\n\n## A small round in a tightening market\n\nThe raise is modest, but it came at a useful time. Launch Base Africa listed EasyBank among the **six disclosed deals worth about $5.4 million** in Tunisia in H1 2025. A year later, in H1 2026, the same publication found almost no disclosed equity deals in the country (see [near-zero equity deals in H1 2026](post:tunisia-zero-equity-deals-h1-2026)).\n\nThe contrast shows how quickly funding conditions changed. Tunisian fintechs that raised in 2025 now have to stretch that capital in a market where follow-on rounds are hard to find. For founders preparing a raise, see [how to raise funding as a Tunisian fintech](post:how-to-raise-funding-tunisian-fintech).\n\n## Why it matters\n\nEasyBank is one of several Tunisian startups trying to use digital tools to reach people banks have not served well. The questions to watch are whether it can sign lasting partnerships with Tunisian banks, how it handles regulation as it grows, and whether a seed-sized round is enough to reach several markets. For context on where such players fit, see [can neobanks emerge in Tunisia?](post:neobanks-tunisia)",
+    "faq": [
+      {
+        "q": "How much did EasyBank raise?",
+        "a": "EasyBank raised 1.2 million Tunisian dinars, about $370,000, from undisclosed investors. The deal was reported at the end of January and the start of February 2025."
+      },
+      {
+        "q": "Is EasyBank a bank?",
+        "a": "No. Despite its name, public reports describe EasyBank as a digital platform that simplifies banking products and helps users access loans and other banking services, using AI for personalised advice and eligibility checks. None of the coverage mentions a banking licence."
+      },
+      {
+        "q": "Where does EasyBank plan to expand?",
+        "a": "The company says it will use the funding to reach underserved markets in the Middle East and North Africa and in France. It has not published a timeline or a list of target countries."
+      }
+    ]
+  },
+  "fr": {
+    "title": "EasyBank lève 1,2 million de dinars pour faciliter le crédit",
+    "meta_description": "La fintech tunisienne EasyBank lève 1,2 million de dinars (370 000 $) pour sa plateforme d'accès au crédit par IA et vise la région MENA et la France.",
+    "excerpt": "Créée en 2023, la fintech tunisienne EasyBank a levé 1,2 million de dinars pour développer sa plateforme d'accès au crédit fondée sur l'IA et s'étendre.",
+    "keywords": [
+      "EasyBank Tunisie",
+      "levée de fonds EasyBank",
+      "fintech tunisienne levée 2025",
+      "plateforme crédit IA Tunisie",
+      "Mohamed Khelifi EasyBank",
+      "accès au crédit Tunisie"
+    ],
+    "tags": [
+      "Startups",
+      "Financement",
+      "Crédit",
+      "IA"
+    ],
+    "key_takeaways": [
+      "EasyBank, créée en 2023, a levé 1,2 million de dinars (environ 370 000 dollars) auprès d'investisseurs non dévoilés.",
+      "C'est une plateforme numérique qui utilise l'IA pour simplifier les produits bancaires, conseiller les utilisateurs et accélérer l'évaluation de l'éligibilité au crédit ; ce n'est pas une banque agréée.",
+      "L'entreprise veut se développer sur des marchés mal desservis de la région MENA et en France.",
+      "Sa levée figure parmi les six opérations publiques tunisiennes du S1 2025, avant le quasi-arrêt des financements au S1 2026."
+    ],
+    "body": "La fintech tunisienne **EasyBank** a levé **1,2 million de dinars (environ 370 000 dollars)** auprès d'investisseurs non dévoilés. Créée en 2023, la startup exploite une plateforme numérique qui s'appuie sur l'IA pour faciliter l'accès au crédit et aux services bancaires. Les fonds doivent servir à améliorer la plateforme et à se développer au Moyen-Orient, en Afrique du Nord et en France.\n\n## La levée de 370 000 dollars d'EasyBank : l'essentiel\n\n- **Montant :** 1,2 million de dinars, soit environ 370 000 dollars.\n- **Investisseurs :** non communiqués, tout comme le type de tour.\n- **Annonce :** Wamda a révélé l'opération le 31 janvier 2025, et l'annonce d'EasyBank a été reprise le 4 février 2025.\n- **Direction :** fondée par un groupe d'entrepreneurs et d'experts de la fintech, l'entreprise est dirigée par **Mohamed Khelifi**.\n- **Utilisation des fonds :** amélioration de la plateforme et expansion vers des marchés mal desservis de la région MENA et en France.\n\n## Ce que fait EasyBank\n\nMalgré son nom, EasyBank n'est pas une banque agréée, et aucun article ne la présente comme un prêteur. Selon Wamda et Launch Base Africa, il s'agit d'une **plateforme numérique qui simplifie les produits bancaires** et aide les utilisateurs à demander un crédit et à accéder à d'autres services bancaires.\n\nL'IA est au cœur du produit. EasyBank affirme analyser les données des utilisateurs pour formuler des **recommandations financières personnalisées** et accélérer l'**évaluation de l'éligibilité au crédit**, afin de réduire les délais et la paperasse. La cible : les particuliers et les entreprises pour qui la banque traditionnelle reste difficile d'accès.\n\nAucun article ne mentionne de nombre d'utilisateurs, de banques partenaires ou d'agrément. Les sources publiques ne permettent donc pas de savoir comment la plateforme se rémunère ni avec quelles banques elle travaille.\n\n## Le besoin visé\n\nEasyBank s'attaque à un vrai problème. Selon le Global Findex de la Banque mondiale, seuls **37,8 % des adultes tunisiens détenaient un compte** auprès d'une institution financière ou d'un service de mobile money en 2024. Ce taux n'a presque pas bougé depuis 2017 (36,9 %). Les données complètes sont dans notre dossier sur [l'inclusion financière en Tunisie](post:financial-inclusion-tunisia).\n\nPour beaucoup de Tunisiens et de petites entreprises, la difficulté n'est pas tant d'ouvrir un compte que de comprendre les offres de crédit, réunir les justificatifs et savoir si l'on est éligible. Un outil qui compare les offres et vérifie l'éligibilité en amont peut aider, à condition d'être solidement connecté aux banques qui accordent réellement les prêts.\n\n## Cap sur la région MENA et la France\n\nDans une déclaration rapportée par Launch Base Africa, Mohamed Khelifi a affirmé vouloir « combler le fossé entre la banque traditionnelle et l'économie numérique ». Il a ajouté qu'avec cet investissement, l'entreprise était « bien placée pour développer ses activités et proposer ses solutions sur de nouveaux marchés ».\n\nLa France est une cible logique pour une fintech tunisienne, compte tenu de l'importance de la diaspora. Mais chaque nouveau marché impose ses propres règles d'agrément et de protection des données, et 370 000 dollars vont vite s'épuiser s'ils sont répartis entre plusieurs pays. L'entreprise n'a publié ni calendrier ni liste de marchés prioritaires.\n\n## Un petit tour de table dans un marché qui se resserre\n\nLa levée est modeste, mais elle est arrivée au bon moment. Launch Base Africa a classé EasyBank parmi les **six opérations publiques, pour environ 5,4 millions de dollars**, réalisées en Tunisie au premier semestre 2025. Un an plus tard, au S1 2026, le même média ne relevait presque plus aucune levée en fonds propres dans le pays (voir [le quasi-désert des levées au S1 2026](post:tunisia-zero-equity-deals-h1-2026)).\n\nLe contraste montre à quelle vitesse les conditions de financement ont changé. Les fintechs tunisiennes qui ont levé en 2025 doivent désormais faire durer ces fonds dans un marché où les tours suivants se font rares. Pour les fondateurs qui préparent une levée, voir [comment lever des fonds pour une fintech tunisienne](post:how-to-raise-funding-tunisian-fintech).\n\n## Pourquoi c'est important\n\nEasyBank fait partie des startups tunisiennes qui misent sur le numérique pour toucher les clients mal servis par les banques. Les points à suivre : sa capacité à nouer des partenariats durables avec les banques tunisiennes, sa gestion de la réglementation à mesure qu'elle grandit, et la question de savoir si un tour d'amorçage suffit pour s'implanter sur plusieurs marchés. Pour situer ce type d'acteur, voir [des néobanques peuvent-elles émerger en Tunisie ?](post:neobanks-tunisia)",
+    "faq": [
+      {
+        "q": "Combien EasyBank a-t-elle levé ?",
+        "a": "EasyBank a levé 1,2 million de dinars, soit environ 370 000 dollars, auprès d'investisseurs non dévoilés. L'opération a été rendue publique fin janvier et début février 2025."
+      },
+      {
+        "q": "EasyBank est-elle une banque ?",
+        "a": "Non. Malgré son nom, les articles la décrivent comme une plateforme numérique qui simplifie les produits bancaires et facilite l'accès au crédit et aux services bancaires, avec de l'IA pour le conseil et l'évaluation de l'éligibilité. Aucun ne mentionne d'agrément bancaire."
+      },
+      {
+        "q": "Où EasyBank veut-elle se développer ?",
+        "a": "L'entreprise prévoit de cibler des marchés mal desservis au Moyen-Orient, en Afrique du Nord et en France. Elle n'a publié ni calendrier ni liste de pays."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tunisian startup EasyBank secures $370,000",
+      "publisher": "Techpression",
+      "url": "https://techpression.com/tunisian-startup-easybank-secures-370000/"
+    },
+    {
+      "title": "Tunisia's EasyBank secures funding to expand digital financial services across MENA and France",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/02/04/tunisias-easybank-secures-funding-to-expand-digital-financial-services-across-mena-and-france"
+    },
+    {
+      "title": "Tunisian fintech EasyBank secures $370,000 investment",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/2025/01/tunisian-fintech-easybank-secures-370000-investment"
+    },
+    {
+      "title": "Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+) — Tunisia",
+      "publisher": "World Bank Global Findex",
+      "url": "https://api.worldbank.org/v2/country/TUN/indicator/FX.OWN.TOTL.ZS?format=json&per_page=20"
+    },
+    {
+      "title": "Near Zero Equity Deals in H1: What Happened to Tunisia's Startup Ecosystem?",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2026/07/29/near-zero-equity-deals-in-h1-what-happened-to-tunisias-startup-ecosystem/"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+ "slug": "flutterwave-paystack-payment-rails",
+ "category": "africa",
+ "cover_motif": "network-nodes",
+ "stats": [
+  {
+   "value": "$3.25bn",
+   "label_en": "Flutterwave's valuation after its Ripple-backed Series E, June 2026",
+   "label_fr": "valorisation de Flutterwave après sa série E soutenue par Ripple, juin 2026",
+   "source": "TechCabal, 2026"
+  },
+  {
+   "value": "66%",
+   "label_en": "share of Paystack's Nigerian volume paid by bank transfer in 2024, up from 28% two years earlier",
+   "label_fr": "part du volume nigérian de Paystack payée par virement en 2024, contre 28 % deux ans plus tôt",
+   "source": "Launch Base Africa, 2026"
+  },
+  {
+   "value": "$200M",
+   "label_en": "price Stripe paid for Paystack in 2020",
+   "label_fr": "prix payé par Stripe pour Paystack en 2020",
+   "source": "Launch Base Africa, 2026"
+  }
+ ],
+ "chart": null,
+ "en": {
+  "title": "Flutterwave, Paystack and Africa's Payment Rails",
+  "meta_description": "How Flutterwave and Paystack built Africa's payment rails, why they now chase open banking, bank licences and stablecoins, and what it means for Tunisia.",
+  "excerpt": "Africa's two best-known payment gateways are no longer just gateways. Flutterwave bought Mono and took Ripple's money; Paystack bought a bank. Here is why.",
+  "keywords": [
+   "Flutterwave Paystack",
+   "African payment rails",
+   "Flutterwave Mono acquisition",
+   "Paystack microfinance bank",
+   "Flutterwave valuation 2026",
+   "payment gateway Africa",
+   "Tunisia payment gateway"
+  ],
+  "tags": [
+   "Payments",
+   "Nigeria",
+   "Flutterwave",
+   "Paystack",
+   "Infrastructure"
+  ],
+  "key_takeaways": [
+   "Flutterwave and Paystack, both founded in Nigeria, built the APIs that let African businesses accept cards, bank transfers, USSD and mobile money.",
+   "In January 2026 Flutterwave bought open-banking startup Mono in an all-stock deal reported at $25–40 million, and in June 2026 it raised a Series E at a $3.25 billion valuation with Ripple.",
+   "Stripe-owned Paystack moved into banking in early 2026 by acquiring Ladder Microfinance Bank, after bank transfers became two-thirds of its Nigerian volume.",
+   "For Tunisia, the lesson is that gateways depend on the public rails beneath them: instant payments, open banking and FX rules decide what fintechs can build."
+  ],
+  "body": "For most of the past decade, an African online business that wanted to get paid turned to Flutterwave or Paystack. Both Nigerian companies built simple APIs on top of fragmented local systems, and both are now changing shape. Understanding how **Flutterwave, Paystack and Africa's payment rails** work explains where African payments are heading, and what Tunisian fintechs can learn from it.\n\n## Gateways on top of fragmented rails\n\nA payment gateway sits between a merchant and the underlying \"rails\": card networks, interbank transfer systems, USSD codes on basic phones and mobile money wallets. In most African markets, each rail has its own rules, partners and technical standards.\n\nFlutterwave and Paystack made their names by hiding that complexity. Paystack's website lists cards, bank accounts, bank transfers, USSD, POS terminals, Apple Pay, Google Pay, Visa QR and mobile money among its channels, and says it is trusted by more than 200,000 businesses. It names Nigeria, Ghana, Kenya, South Africa, Côte d'Ivoire, Egypt and Rwanda among its markets.\n\nFlutterwave, founded in 2016, focuses more on cross-border flows: collecting payments in one country and paying out in another. According to [IBS Intelligence](https://ibsintelligence.com/ibsi-news/flutterwave-acquires-open-banking-startup-mono/), its network spans more than 30 countries.\n\n## Paystack: from Stripe acquisition to a bank licence\n\nStripe bought Paystack in 2020 for about $200 million, one of the first large exits in African tech. The more recent story is about bank transfers. According to [Launch Base Africa](https://launchbaseafrica.com/2026/01/14/a-bank-of-its-own-will-paystacks-mfb-licence-solve-its-growth-ceiling), bank transfers made up 66% of Paystack's Nigerian transaction volume in 2024, against 28% two years earlier. Nigeria's instant interbank transfer system had become the rail customers preferred, ahead of cards.\n\nThat shift squeezes a gateway's margin, because transfers are cheap and banks control the accounts. Paystack's answer has been to move closer to the money:\n\n- **Zap**, a peer-to-peer payment app launched in March 2025, ran into trouble with the Central Bank of Nigeria, which reportedly fined Paystack ₦250 million over licensing concerns. It was relaunched in late 2025 as a checkout option.\n- In early 2026, Paystack acquired **Ladder Microfinance Bank**, now Paystack MFB, a sister company with its own licence. It can take deposits directly and plans working-capital loans for merchants based on their transaction data.\n\nLaunch Base Africa notes that Paystack is a late entrant in consumer finance, facing OPay, PalmPay and Moniepoint, which have far larger user bases and agent networks.\n\n## Flutterwave: open banking, stablecoins and an IPO goal\n\nFlutterwave has followed a similar logic. In January 2026, it acquired **Mono**, a Nigerian open-banking startup often compared to Plaid. IBS Intelligence reported an all-stock deal valued at $25 million to $40 million. Mono's APIs let companies access bank data with customer consent, verify identities and start bank payments. It claims more than 8 million linked bank accounts. Africa.com reported that Flutterwave expects the deal to cut its costs on account-to-account payments.\n\nIn June 2026, Flutterwave announced a Series E that, according to [TechCabal](https://techcabal.com/2026/06/16/flutterwave-series-e/), valued it at $3.25 billion. The amount was not disclosed. Ripple, the US blockchain payments company, became a shareholder, and Flutterwave plans to integrate Ripple's RLUSD dollar stablecoin so customers can send, hold and convert stablecoins. Flutterwave has talked about a stock market listing for years, but no date has been set.\n\nBoth moves show the same strategy: own more of the stack. Gateways that only route payments are exposed to fee pressure. Owning bank data, a licence or a settlement asset gives them more control over cost and revenue.\n\n## The public rails matter as much as the private ones\n\nThe Nigerian story is not only about two startups. Paystack's shift to bank transfers happened because Nigeria's interbank instant payment system worked well and was widely used. Flutterwave's push into stablecoins reflects how slow and expensive cross-border settlement between African currencies still is, a gap that the [Pan-African Payment and Settlement System](post:papss-pan-african-payments) is also trying to fill.\n\nIn other words, private gateways grow on top of public infrastructure. When that infrastructure improves, gateways must move up to lending, data and banking to keep their margins.\n\n## What it means for Tunisia\n\nTunisia does not appear among the markets Paystack lists, and the Tunisian dinar's convertibility limits make it hard for pan-African gateways to serve local merchants. Tunisian businesses rely on local players: banks' acquiring services such as ClicToPay, and licensed fintechs such as [Konnect Networks](post:konnect-networks-profile) and Paymee.\n\nThe Nigerian experience offers several lessons:\n\n- **Rails come first.** A fast, cheap, interoperable transfer system changes customer behaviour. Tunisia's work on [instant payments](post:instant-payments-tunisia) will shape what local gateways can offer.\n- **Open banking is a growth layer.** Mono shows the value of consent-based access to bank data for lending and onboarding. Tunisia has no comparable framework yet (see [open banking in Tunisia](post:open-banking-tunisia)).\n- **Licences become strategic.** Both Nigerian leaders sought a stronger regulatory position. Tunisian fintechs should treat a payment institution licence as an asset, not a formality.\n- **Cross-border is the hard part.** Until FX rules allow easier international settlement, Tunisian exporters and freelancers will keep using workarounds that a regional gateway could replace.",
+  "faq": [
+   {
+    "q": "What is the difference between Flutterwave and Paystack?",
+    "a": "Both are Nigerian payment companies that give businesses APIs to accept payments. Paystack, owned by Stripe since 2020, focuses on local collections and has moved into banking with a microfinance bank. Flutterwave focuses more on cross-border payments across more than 30 countries."
+   },
+   {
+    "q": "Who owns Paystack?",
+    "a": "Stripe acquired Paystack in 2020 for about $200 million. In early 2026 Paystack acquired Ladder Microfinance Bank, which now operates as Paystack MFB, a sister company with its own licence."
+   },
+   {
+    "q": "How much is Flutterwave worth?",
+    "a": "TechCabal reported that Flutterwave's June 2026 Series E, in which Ripple invested, valued the company at $3.25 billion. The amount raised was not disclosed."
+   },
+   {
+    "q": "Can Tunisian businesses use Flutterwave or Paystack?",
+    "a": "Tunisia is not among the markets Paystack lists, and currency convertibility rules make it hard for pan-African gateways to serve Tunisian merchants. Tunisian businesses mainly use local bank gateways and licensed local fintechs."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Flutterwave, Paystack et les rails de paiement africains",
+  "meta_description": "Comment Flutterwave et Paystack ont bâti les rails de paiement africains, pourquoi ils misent sur l'open banking, la licence bancaire et les stablecoins.",
+  "excerpt": "Les deux passerelles de paiement africaines les plus connues ne sont plus de simples passerelles. Flutterwave a racheté Mono et accueilli Ripple ; Paystack a acquis une banque.",
+  "keywords": [
+   "Flutterwave Paystack",
+   "rails de paiement africains",
+   "rachat de Mono par Flutterwave",
+   "Paystack banque de microfinance",
+   "valorisation Flutterwave 2026",
+   "passerelle de paiement Afrique",
+   "passerelle de paiement Tunisie"
+  ],
+  "tags": [
+   "Paiements",
+   "Nigeria",
+   "Flutterwave",
+   "Paystack",
+   "Infrastructures"
+  ],
+  "key_takeaways": [
+   "Flutterwave et Paystack, tous deux nés au Nigeria, ont construit les API qui permettent aux entreprises africaines d'encaisser cartes, virements, USSD et mobile money.",
+   "En janvier 2026, Flutterwave a racheté la startup d'open banking Mono, en actions, pour un montant estimé entre 25 et 40 millions de dollars, puis a levé en juin 2026 une série E valorisée 3,25 milliards de dollars avec Ripple.",
+   "Paystack, filiale de Stripe, est entré dans la banque début 2026 en rachetant Ladder Microfinance Bank, après que les virements ont atteint les deux tiers de son volume nigérian.",
+   "Pour la Tunisie, la leçon est que les passerelles dépendent des rails publics : paiement instantané, open banking et règles de change déterminent ce que les fintechs peuvent construire."
+  ],
+  "body": "Depuis une dizaine d'années, une entreprise africaine en ligne qui voulait se faire payer se tournait vers Flutterwave ou Paystack. Ces deux sociétés nigérianes ont posé des API simples sur des systèmes locaux morcelés, et toutes deux sont en train de changer de nature. Comprendre le fonctionnement de **Flutterwave, Paystack et des rails de paiement africains** éclaire l'avenir des paiements sur le continent, et ce que les fintechs tunisiennes peuvent en retenir.\n\n## Des passerelles posées sur des rails fragmentés\n\nUne passerelle de paiement s'intercale entre le commerçant et les « rails » sous-jacents : réseaux de cartes, systèmes de virement interbancaire, codes USSD sur les téléphones basiques et portefeuilles de mobile money. Dans la plupart des marchés africains, chaque rail a ses propres règles, partenaires et standards techniques.\n\nFlutterwave et Paystack se sont imposés en masquant cette complexité. Le site de Paystack cite parmi ses canaux la carte, le compte bancaire, le virement, l'USSD, le terminal de paiement, Apple Pay, Google Pay, Visa QR et le mobile money, et revendique plus de 200 000 entreprises clientes. Il mentionne parmi ses marchés le Nigeria, le Ghana, le Kenya, l'Afrique du Sud, la Côte d'Ivoire, l'Égypte et le Rwanda.\n\nFlutterwave, fondée en 2016, est davantage tournée vers les flux transfrontaliers : encaisser dans un pays et payer dans un autre. Selon [IBS Intelligence](https://ibsintelligence.com/ibsi-news/flutterwave-acquires-open-banking-startup-mono/), son réseau couvre plus de 30 pays.\n\n## Paystack : du rachat par Stripe à la licence bancaire\n\nStripe a racheté Paystack en 2020 pour environ 200 millions de dollars, l'une des premières grandes sorties de la tech africaine. L'histoire récente, elle, tourne autour du virement. Selon [Launch Base Africa](https://launchbaseafrica.com/2026/01/14/a-bank-of-its-own-will-paystacks-mfb-licence-solve-its-growth-ceiling), les virements bancaires représentaient 66 % du volume nigérian de Paystack en 2024, contre 28 % deux ans plus tôt. Le système nigérian de virement interbancaire instantané est devenu le rail préféré des clients, devant la carte.\n\nCe basculement rogne les marges d'une passerelle, car le virement coûte peu et les banques contrôlent les comptes. La réponse de Paystack a été de se rapprocher de l'argent :\n\n- **Zap**, application de paiement entre particuliers lancée en mars 2025, s'est heurtée à la Banque centrale du Nigeria, qui aurait infligé à Paystack une amende de 250 millions de nairas pour des questions de licence. L'application a été relancée fin 2025 comme option de paiement au checkout.\n- Début 2026, Paystack a racheté **Ladder Microfinance Bank**, devenue Paystack MFB, société sœur dotée de sa propre licence. Elle peut collecter directement des dépôts et prévoit des prêts de trésorerie aux commerçants fondés sur leurs données de transaction.\n\nLaunch Base Africa souligne que Paystack arrive tard sur la finance grand public, face à OPay, PalmPay et Moniepoint, qui disposent de bases d'utilisateurs et de réseaux d'agents bien plus larges.\n\n## Flutterwave : open banking, stablecoins et ambition boursière\n\nFlutterwave suit une logique comparable. En janvier 2026, elle a racheté **Mono**, startup nigériane d'open banking souvent comparée à Plaid. IBS Intelligence évoque une opération entièrement en actions, valorisée entre 25 et 40 millions de dollars. Les API de Mono permettent, avec le consentement du client, d'accéder aux données bancaires, de vérifier l'identité et d'initier des paiements de compte à compte. La société revendique plus de 8 millions de comptes bancaires connectés. Selon Africa.com, Flutterwave attend de l'opération une baisse de ses coûts sur les paiements de compte à compte.\n\nEn juin 2026, Flutterwave a annoncé une série E qui, selon [TechCabal](https://techcabal.com/2026/06/16/flutterwave-series-e/), la valorise à 3,25 milliards de dollars, sans que le montant soit divulgué. Ripple, société américaine de paiements sur blockchain, est entrée au capital, et Flutterwave prévoit d'intégrer le stablecoin en dollars RLUSD de Ripple pour permettre d'envoyer, de détenir et de convertir des stablecoins. L'entreprise évoque une introduction en Bourse depuis des années, sans calendrier arrêté.\n\nLes deux trajectoires obéissent à la même stratégie : maîtriser une plus grande partie de la chaîne. Une passerelle qui se contente d'acheminer des paiements subit la pression sur les commissions. Détenir les données bancaires, une licence ou un actif de règlement donne plus de prise sur les coûts et les revenus.\n\n## Les rails publics comptent autant que les privés\n\nL'histoire nigériane ne se résume pas à deux startups. Si Paystack a basculé vers le virement, c'est parce que le système national de paiement instantané fonctionnait bien et était massivement utilisé. Le pari de Flutterwave sur les stablecoins traduit, lui, la lenteur et le coût du règlement transfrontalier entre monnaies africaines, une lacune que le [système panafricain de paiement et de règlement](post:papss-pan-african-payments) tente aussi de combler.\n\nAutrement dit, les passerelles privées prospèrent sur des infrastructures publiques. Quand ces infrastructures s'améliorent, les passerelles doivent monter vers le crédit, la donnée et la banque pour préserver leurs marges.\n\n## Ce que cela signifie pour la Tunisie\n\nLa Tunisie ne figure pas parmi les marchés cités par Paystack, et la convertibilité limitée du dinar complique la tâche des passerelles panafricaines. Les commerçants tunisiens s'appuient sur des acteurs locaux : les services d'acquisition des banques, comme ClicToPay, et des fintechs agréées comme [Konnect Networks](post:konnect-networks-profile) ou Paymee.\n\nL'expérience nigériane offre plusieurs enseignements :\n\n- **Les rails d'abord.** Un système de virement rapide, bon marché et interopérable change les comportements. Les travaux tunisiens sur le [paiement instantané](post:instant-payments-tunisia) détermineront ce que les passerelles locales pourront proposer.\n- **L'open banking comme relais de croissance.** Mono montre la valeur d'un accès consenti aux données bancaires pour le crédit et l'entrée en relation. La Tunisie n'a pas encore de cadre comparable (voir [l'open banking en Tunisie](post:open-banking-tunisia)).\n- **La licence devient stratégique.** Les deux champions nigérians ont cherché à renforcer leur statut réglementaire. Les fintechs tunisiennes ont intérêt à voir l'agrément d'établissement de paiement comme un actif, pas comme une formalité.\n- **Le transfrontalier reste le plus dur.** Tant que la réglementation des changes ne facilitera pas le règlement international, exportateurs et freelances tunisiens continueront de recourir à des contournements qu'une passerelle régionale pourrait remplacer.",
+  "faq": [
+   {
+    "q": "Quelle différence entre Flutterwave et Paystack ?",
+    "a": "Ce sont deux sociétés de paiement nigérianes qui fournissent aux entreprises des API d'encaissement. Paystack, propriété de Stripe depuis 2020, se concentre sur l'encaissement local et s'est lancé dans la banque via une institution de microfinance. Flutterwave est davantage orientée vers les paiements transfrontaliers dans plus de 30 pays."
+   },
+   {
+    "q": "À qui appartient Paystack ?",
+    "a": "Stripe a racheté Paystack en 2020 pour environ 200 millions de dollars. Début 2026, Paystack a acquis Ladder Microfinance Bank, devenue Paystack MFB, une société sœur dotée de sa propre licence."
+   },
+   {
+    "q": "Combien vaut Flutterwave ?",
+    "a": "Selon TechCabal, la série E annoncée en juin 2026, à laquelle Ripple a participé, valorise Flutterwave à 3,25 milliards de dollars. Le montant levé n'a pas été divulgué."
+   },
+   {
+    "q": "Les entreprises tunisiennes peuvent-elles utiliser Flutterwave ou Paystack ?",
+    "a": "La Tunisie ne figure pas parmi les marchés cités par Paystack, et les règles de convertibilité du dinar compliquent l'offre des passerelles panafricaines. Les entreprises tunisiennes utilisent surtout les passerelles bancaires locales et les fintechs agréées du pays."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "title": "Flutterwave hits $3.25 billion valuation in Ripple-backed Series E",
+   "publisher": "TechCabal",
+   "url": "https://techcabal.com/2026/06/16/flutterwave-series-e/"
+  },
+  {
+   "title": "Flutterwave acquires open banking startup Mono",
+   "publisher": "IBS Intelligence",
+   "url": "https://ibsintelligence.com/ibsi-news/flutterwave-acquires-open-banking-startup-mono/"
+  },
+  {
+   "title": "Flutterwave buys Mono to revive IPO ambitions",
+   "publisher": "Africa.com",
+   "url": "https://africa.com/flutterwave-buys-mono-to-revive-ipo-ambitions/"
+  },
+  {
+   "title": "A bank of its own: will Paystack's MFB licence solve its growth ceiling?",
+   "publisher": "Launch Base Africa",
+   "url": "https://launchbaseafrica.com/2026/01/14/a-bank-of-its-own-will-paystacks-mfb-licence-solve-its-growth-ceiling"
+  },
+  {
+   "title": "Paystack",
+   "publisher": "Paystack",
+   "url": "https://paystack.com/"
+  }
+ ]
+}

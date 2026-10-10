@@ -1,0 +1,173 @@
+{
+  "slug": "ekyc-aml-tunisia",
+  "category": "regulation",
+  "cover_motif": "shield-lock",
+  "stats": [
+    {
+      "value": "1,236",
+      "label_en": "Suspicious transaction reports received by CTAF in 2024 (+45%)",
+      "label_fr": "Déclarations de soupçon reçues par la CTAF en 2024 (+45 %)",
+      "source": "CTAF annual report 2024, via WMC"
+    },
+    {
+      "value": "4 → 119",
+      "label_en": "STRs filed by payment institutions, 2023 to 2024",
+      "label_fr": "Déclarations des établissements de paiement, 2023 à 2024",
+      "source": "CTAF annual report 2024, via WMC"
+    },
+    {
+      "value": "2 years",
+      "label_en": "Maximum interval between e-KYC system audits for payment institutions",
+      "label_fr": "Intervalle maximal entre deux audits e-KYC des établissements de paiement",
+      "source": "BCT Circular 2026-10, via Managers"
+    }
+  ],
+  "chart": {
+    "title_en": "Payment account balance caps by KYC level (Circular 2026-10)",
+    "title_fr": "Plafonds de solde des comptes de paiement par niveau KYC (circulaire 2026-10)",
+    "unit": "TND",
+    "bars": [
+      {
+        "label_en": "Level 1 (individuals only)",
+        "label_fr": "Niveau 1 (particuliers)",
+        "value": 1500.0
+      },
+      {
+        "label_en": "Level 2",
+        "label_fr": "Niveau 2",
+        "value": 5000.0
+      },
+      {
+        "label_en": "Level 3",
+        "label_fr": "Niveau 3",
+        "value": 20000.0
+      }
+    ],
+    "source_name": "Managers, summary of BCT Circular 2026-10 (Sept. 2026)",
+    "source_url": "https://managers.tn/2026/09/26/nouvelle-circulaire-de-la-bct-voici-ce-qui-change-pour-les-etablissements-de-paiement/"
+  },
+  "en": {
+    "title": "e-KYC and AML in Tunisia: Remote Onboarding Rules",
+    "meta_description": "e-KYC and AML rules in Tunisia: BCT Circulars 2025-06 and 2026-10 on remote onboarding, tiered KYC, CTAF reporting and the MENAFATF evaluation.",
+    "excerpt": "Tunisian banks and payment institutions can now onboard customers remotely, but under strict biometric, audit and AML conditions. Here is what the BCT requires.",
+    "keywords": [
+      "e-KYC Tunisia",
+      "AML Tunisia",
+      "remote onboarding Tunisia BCT",
+      "BCT circular 2025-06",
+      "BCT circular 2026-10",
+      "CTAF suspicious transaction reports",
+      "MENAFATF Tunisia evaluation"
+    ],
+    "tags": [
+      "e-KYC",
+      "AML/CFT",
+      "BCT",
+      "CTAF",
+      "Compliance"
+    ],
+    "key_takeaways": [
+      "Tunisia's AML/CFT framework rests on Organic Law 2015-26, amended in 2019, with suspicious transactions reported to the CTAF via goAML.",
+      "BCT Circular 2025-06 lets banks onboard customers electronically if identity checks are at least equivalent to an in-person visit.",
+      "Circular 2026-10 extends remote onboarding to payment institutions, with liveness checks, two-factor authentication and ANCS-accredited audits at least every two years.",
+      "Payment institutions' suspicious transaction reports jumped from 4 in 2023 to 119 in 2024, as Tunisia faces a MENAFATF evaluation in 2025-2026."
+    ],
+    "body": "Tunisia now has written rules for e-KYC, letting customers open an account without visiting a branch: one circular for banks in February 2025 and one for payment institutions in September 2026. Both sit on top of an anti-money laundering (AML/CFT) framework that is getting stricter as the country heads into a new international evaluation. For fintechs, remote onboarding is now legal, but it comes with audit, testing and reporting requirements.\n\n## The AML/CFT foundation\n\nTunisia's anti-money laundering rules come from **Organic Law No. 2015-26 of 7 August 2015** on combating terrorism and suppressing money laundering, amended by **Organic Law No. 2019-9 of 23 January 2019**. The law requires banks, payment institutions, brokers and other obliged entities to identify customers, monitor transactions and report suspicions.\n\nReports go to the **Commission tunisienne des analyses financières (CTAF)**, Tunisia's financial intelligence unit. Since 2021, suspicious transaction reports (STRs) have been filed through the **goAML** platform. The Central Bank of Tunisia's (BCT) **Circular No. 2017-08** on customer identification remains the reference for verifying identity.\n\n### International pressure\n\n- The European Parliament added Tunisia to the EU list of high-risk countries in February 2018, according to North Africa Post.\n- The Financial Action Task Force (FATF) removed Tunisia from its list of jurisdictions under increased monitoring at its October 2019 plenary.\n- In its 2020 follow-up report, the FATF rated Tunisia compliant or largely compliant on 36 of its 40 Recommendations, with no \"non-compliant\" rating.\n- In June 2025, the CMF said Tunisia would undergo a **MENAFATF mutual evaluation during 2025-2026**.\n\nThat evaluation explains the tighter supervision of recent years. A weak result could raise the cost of correspondent banking for every Tunisian financial institution, fintechs included.\n\n## The numbers: suspicion reports rising fast\n\nAccording to the CTAF's 2024 activity report, as reported by WMC and La Presse:\n\n- The CTAF received **1,236 STRs in 2024**, up **45%** on 2023.\n- Payment institutions filed **119** STRs, up from **4** in 2023. The CTAF links this mainly to international money transfer products exposed to migrant-smuggling networks.\n- Among processed files, more than 61% concerned migrant smuggling and 15% sports betting.\n- The CTAF flags digital technologies, especially **crypto-assets**, as a growing risk (see [crypto regulation in Tunisia](post:crypto-regulation-tunisia)). Its national risk assessment update includes payment institutions for the first time.\n\nThe message for fintechs is that supervisors now see them as a real AML exposure.\n\n## Banks: Circular 2025-06 on electronic enrolment\n\nOn 28 February 2025, the BCT published **Circular No. 2025-06**, setting minimum rules for banks' electronic customer enrolment, after an opinion from the compliance control committee. Its six chapters and 18 articles require banks to:\n\n- use an automated or semi-automated process to collect, verify and store identification data;\n- reach a level of identity assurance **at least equivalent to an in-person check** under Circular 2017-08;\n- apply due diligence proportionate to each customer's risk profile;\n- rely on technologies such as **facial recognition and biometrics**, and keep the rate of wrongly accepted identities low, measured with a formula the circular defines;\n- encrypt KYC files, store identity documents securely and check their integrity regularly;\n- test the technology before deployment, keep a performance register and maintain procedures for fraud attempts.\n\n## Payment institutions: Circular 2026-10\n\nOn 25 September 2026, the BCT issued **Circular No. 2026-10** on payment institutions, replacing Circular 2018-16. According to Managers, it takes effect three months after publication. It explicitly allows remote onboarding if verification is **at least as strong as in-person identification**:\n\n- checks on the authenticity of identity documents and the customer's **actual presence** (liveness);\n- at least **two-factor authentication**;\n- **explicit consent** to personal data processing;\n- pre-production tests, intrusion tests and security audits by bodies accredited by the national cybersecurity agency (ANCS), then **audits at least every two years** and after major changes.\n\nKYC is **tiered**: the higher the account level, the more information is collected, with caps shown in the chart below. Cash withdrawals are limited to TND 3,000 a day at level 2 and TND 10,000 at level 3. A person can hold only one payment account per institution. For the wider licensing picture, see our guide to [payment institutions in Tunisia](post:payment-institutions-tunisia).\n\n## What this means for fintech founders\n\n- **Remote onboarding is a regulated product, not a feature.** Budget for ANCS-accredited audits, intrusion tests and periodic re-certification.\n- **Design for tiers.** A light level-1 account lets [mobile wallets](post:mobile-payments-tunisia) onboard users quickly. Higher limits require full due diligence.\n- **Biometrics are personal data.** Explicit consent, encryption and storage rules overlap with [data protection obligations](post:data-protection-tunisia-fintech).\n- **Monitoring matters as much as onboarding.** The jump in payment-institution STRs shows supervisors expect transaction monitoring, especially on cross-border flows.\n- **Vendors are your responsibility.** Whether you use a local or foreign e-KYC provider, testing, audits and incident handling stay with the licensed institution.\n\nWith the MENAFATF evaluation underway, expect supervisors to check how these rules are applied in practice, not just on paper.",
+    "faq": [
+      {
+        "q": "Can you open a bank account remotely in Tunisia?",
+        "a": "Yes, if the bank applies BCT Circular No. 2025-06 of 28 February 2025. It allows electronic enrolment, provided identity verification is at least equivalent to an in-person check and uses tested technologies such as biometrics."
+      },
+      {
+        "q": "What are the e-KYC requirements for payment institutions in Tunisia?",
+        "a": "Circular No. 2026-10 of September 2026 requires document authenticity checks, proof of the customer's presence, at least two-factor authentication and explicit consent to data processing. Systems must be tested and audited by ANCS-accredited bodies, then audited at least every two years."
+      },
+      {
+        "q": "Which law governs AML in Tunisia?",
+        "a": "Organic Law No. 2015-26 of 7 August 2015, amended by Organic Law No. 2019-9 of 23 January 2019. Obliged entities report suspicious transactions to the CTAF, Tunisia's financial intelligence unit, through the goAML platform."
+      },
+      {
+        "q": "Is Tunisia on the FATF grey list?",
+        "a": "No. The FATF removed Tunisia from its list of jurisdictions under increased monitoring in October 2019. Tunisia is due to undergo a MENAFATF mutual evaluation in 2025-2026, so its standing should be checked against the latest FATF publications."
+      }
+    ]
+  },
+  "fr": {
+    "title": "e-KYC et LBA/FT en Tunisie : les règles de l'onboarding",
+    "meta_description": "e-KYC et LBA/FT en Tunisie : circulaires BCT 2025-06 et 2026-10 sur l'entrée en relation à distance, KYC par niveaux, CTAF et évaluation du GAFIMOAN.",
+    "excerpt": "Banques et établissements de paiement peuvent désormais enrôler leurs clients à distance, sous de strictes conditions de biométrie, d'audit et de LBA. Ce qu'exige la BCT.",
+    "keywords": [
+      "e-KYC Tunisie",
+      "LBA/FT Tunisie",
+      "entrée en relation à distance BCT",
+      "circulaire BCT 2025-06",
+      "circulaire BCT 2026-10",
+      "CTAF déclarations de soupçon",
+      "évaluation GAFIMOAN Tunisie"
+    ],
+    "tags": [
+      "e-KYC",
+      "LBA/FT",
+      "BCT",
+      "CTAF",
+      "Conformité"
+    ],
+    "key_takeaways": [
+      "Le dispositif LBA/FT repose sur la loi organique 2015-26, modifiée en 2019, avec des déclarations de soupçon adressées à la CTAF via goAML.",
+      "La circulaire BCT 2025-06 autorise l'enrôlement électronique par les banques si la vérification équivaut au moins à une identification en présence physique.",
+      "La circulaire 2026-10 ouvre l'onboarding à distance aux établissements de paiement : preuve de vie, double authentification et audits par des organismes agréés par l'ANCS au moins tous les deux ans.",
+      "Les déclarations de soupçon des établissements de paiement sont passées de 4 en 2023 à 119 en 2024, alors que la Tunisie fait face à une évaluation du GAFIMOAN en 2025-2026."
+    ],
+    "body": "La Tunisie dispose désormais de règles écrites pour l'e-KYC, qui permet d'ouvrir un compte sans passer en agence : une circulaire pour les banques en février 2025, une autre pour les établissements de paiement en septembre 2026. Les deux s'appuient sur un dispositif de lutte contre le blanchiment et le financement du terrorisme (LBA/FT) qui se durcit à l'approche d'une nouvelle évaluation internationale. Pour les fintechs, l'entrée en relation à distance est maintenant légale, mais elle s'accompagne d'obligations d'audit, de tests et de reporting.\n\n## Le socle LBA/FT\n\nLe dispositif repose sur la **loi organique n° 2015-26 du 7 août 2015** relative à la lutte contre le terrorisme et à la répression du blanchiment d'argent, modifiée par la **loi organique n° 2019-9 du 23 janvier 2019**. Elle impose aux banques, établissements de paiement, intermédiaires en Bourse et autres assujettis d'identifier leurs clients, de surveiller les opérations et de déclarer leurs soupçons.\n\nLes déclarations sont adressées à la **Commission tunisienne des analyses financières (CTAF)**, la cellule de renseignement financier tunisienne. Depuis 2021, elles transitent par la plateforme **goAML**. La **circulaire n° 2017-08** de la Banque centrale de Tunisie (BCT) sur l'identification de la clientèle reste la référence en matière de vérification d'identité.\n\n### La pression internationale\n\n- Le Parlement européen a inscrit la Tunisie sur la liste européenne des pays à haut risque en février 2018, selon North Africa Post.\n- Le Groupe d'action financière (GAFI) l'a retirée de sa liste des juridictions sous surveillance renforcée lors de sa plénière d'octobre 2019.\n- Dans son rapport de suivi de 2020, le GAFI jugeait la Tunisie conforme ou largement conforme pour 36 de ses 40 recommandations, sans aucune note « non conforme ».\n- En juin 2025, le CMF annonçait que la Tunisie serait soumise à une **évaluation mutuelle du GAFIMOAN durant la période 2025-2026**.\n\nCette évaluation explique le resserrement de la supervision ces dernières années. Un mauvais résultat renchérirait les relations de correspondance bancaire pour l'ensemble du secteur, fintechs comprises.\n\n## Les chiffres : des déclarations de soupçon en forte hausse\n\nSelon le rapport d'activité 2024 de la CTAF, repris par WMC et La Presse :\n\n- La CTAF a reçu **1 236 déclarations de soupçon en 2024**, soit **45 %** de plus qu'en 2023.\n- Les établissements de paiement en ont transmis **119**, contre **4** en 2023. La CTAF l'explique surtout par l'exposition des mandats internationaux aux réseaux de trafic de migrants.\n- Parmi les dossiers traités, plus de 61 % concernaient le trafic de migrants et 15 % les paris sportifs.\n- La CTAF cite les technologies numériques, en particulier les **crypto-actifs**, comme un risque croissant (voir [le statut des cryptoactifs en Tunisie](post:crypto-regulation-tunisia)). La mise à jour de l'évaluation nationale des risques inclut pour la première fois les établissements de paiement.\n\nLe message est clair : les superviseurs considèrent désormais les fintechs comme une véritable zone de risque.\n\n## Banques : la circulaire 2025-06 sur l'enrôlement électronique\n\nLe 28 février 2025, la BCT a publié la **circulaire n° 2025-06**, qui fixe les règles minimales de l'enrôlement électronique des clients par les banques, après avis du comité de contrôle de la conformité. Ses six chapitres et 18 articles imposent notamment de :\n\n- recourir à un procédé automatisé ou semi-automatisé pour collecter, vérifier et conserver les données d'identification ;\n- atteindre un niveau de vérification **au moins équivalent à celui exigé en présence physique** du client, au sens de la circulaire 2017-08 ;\n- appliquer des mesures de vigilance proportionnées au profil de risque ;\n- s'appuyer sur la **reconnaissance faciale et la biométrie**, avec un faible taux d'identités acceptées à tort, calculé selon une méthode définie par le texte ;\n- chiffrer les dossiers KYC, stocker les pièces d'identité de façon sécurisée et en contrôler régulièrement l'intégrité ;\n- tester les technologies avant leur déploiement, tenir un registre de performance et prévoir des procédures en cas de tentative de fraude.\n\n## Établissements de paiement : la circulaire 2026-10\n\nLe 25 septembre 2026, la BCT a publié la **circulaire n° 2026-10** relative aux établissements de paiement, qui remplace la circulaire 2018-16. Selon Managers, elle entre en vigueur trois mois après sa publication. Elle autorise explicitement l'entrée en relation à distance si la vérification est **au moins aussi robuste qu'une identification en face à face** :\n\n- contrôle de l'authenticité des pièces et de la **présence effective** du client (preuve de vie) ;\n- authentification à **au moins deux facteurs** ;\n- **consentement explicite** au traitement des données personnelles ;\n- tests avant mise en production, tests d'intrusion et audits de sécurité par des organismes agréés par l'Agence nationale de la cybersécurité (ANCS), puis **audits au moins tous les deux ans** et après tout changement majeur.\n\nLe KYC est **graduel** : plus le niveau de compte est élevé, plus les informations exigées sont nombreuses, avec les plafonds présentés dans le graphique ci-dessous. Les retraits d'espèces sont limités à 3 000 dinars par jour au niveau 2 et à 10 000 dinars au niveau 3. Une personne ne peut détenir qu'un compte de paiement par établissement. Pour le cadre d'agrément, voir notre article sur [les établissements de paiement en Tunisie](post:payment-institutions-tunisia).\n\n## Ce que cela change pour les fondateurs\n\n- **L'onboarding à distance est un produit réglementé, pas une simple fonctionnalité.** Il faut budgéter les audits par des organismes agréés par l'ANCS, les tests d'intrusion et les recertifications.\n- **Concevoir par niveaux.** Un compte de niveau 1 permet aux [portefeuilles mobiles](post:mobile-payments-tunisia) d'enrôler vite ; les plafonds supérieurs supposent une vigilance complète.\n- **La biométrie est une donnée personnelle.** Consentement, chiffrement et conservation recoupent les [obligations de protection des données](post:data-protection-tunisia-fintech).\n- **La surveillance compte autant que l'enrôlement.** La hausse des déclarations des établissements de paiement montre que le superviseur attend un vrai suivi des opérations, notamment transfrontalières.\n- **Le prestataire ne décharge pas de la responsabilité.** Qu'il soit local ou étranger, les tests, audits et la gestion des incidents restent à la charge de l'établissement agréé.\n\nAvec l'évaluation du GAFIMOAN en cours, les superviseurs vérifieront la mise en œuvre réelle de ces règles, pas seulement leur existence sur le papier.",
+    "faq": [
+      {
+        "q": "Peut-on ouvrir un compte bancaire à distance en Tunisie ?",
+        "a": "Oui, dans le cadre de la circulaire BCT n° 2025-06 du 28 février 2025. Elle autorise l'enrôlement électronique à condition que la vérification d'identité soit au moins équivalente à une identification en présence physique et repose sur des technologies testées, comme la biométrie."
+      },
+      {
+        "q": "Quelles sont les exigences e-KYC pour les établissements de paiement ?",
+        "a": "La circulaire n° 2026-10 de septembre 2026 impose le contrôle de l'authenticité des pièces, la preuve de présence du client, une authentification à deux facteurs au minimum et le consentement explicite au traitement des données. Les systèmes doivent être testés et audités par des organismes agréés par l'ANCS, puis au moins tous les deux ans."
+      },
+      {
+        "q": "Quelle loi encadre la lutte contre le blanchiment en Tunisie ?",
+        "a": "La loi organique n° 2015-26 du 7 août 2015, modifiée par la loi organique n° 2019-9 du 23 janvier 2019. Les assujettis déclarent les opérations suspectes à la CTAF, la cellule de renseignement financier, via la plateforme goAML."
+      },
+      {
+        "q": "La Tunisie est-elle sur la liste grise du GAFI ?",
+        "a": "Non. Le GAFI l'a retirée de sa liste des juridictions sous surveillance renforcée en octobre 2019. Une évaluation mutuelle du GAFIMOAN est prévue en 2025-2026 : il convient de vérifier les dernières publications du GAFI."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "La Banque centrale de Tunisie impose des règles pour l'enrôlement électronique des clients",
+      "publisher": "Managers",
+      "url": "https://managers.tn/?p=92783"
+    },
+    {
+      "title": "Nouvelle circulaire de la BCT : voici ce qui change pour les établissements de paiement",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/09/26/nouvelle-circulaire-de-la-bct-voici-ce-qui-change-pour-les-etablissements-de-paiement/"
+    },
+    {
+      "title": "Blanchiment d'argent : 1 236 déclarations de soupçon reçues par la CTAF en 2024, en hausse de 45 %",
+      "publisher": "WMC (Webmanagercenter)",
+      "url": "https://www.webmanagercenter.com/2025/10/23/554318/blanchiment-dargent-1236-declarations-de-soupcon-recues-par-la-ctaf-en-2024-en-hausse-de-45/"
+    },
+    {
+      "title": "Tunisia's progress in strengthening measures to tackle money laundering and terrorist financing (follow-up report 2020)",
+      "publisher": "FATF",
+      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fur-tunisia-2020.html"
+    },
+    {
+      "title": "Les intermédiaires en Bourse appelés à respecter rigoureusement les réglementations AML",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2025/01/30/les-intermediaires-en-bourse-appeles-a-respecter-rigoureusement-les-reglementations-aml"
+    },
+    {
+      "title": "Lutte contre le blanchiment d'argent : la Tunisie sera soumise à une évaluation mutuelle du MENAFATF",
+      "publisher": "Tunisie Numérique",
+      "url": "https://www.tunisienumerique.com/lutte-contre-le-blanchiment-dargent-la-tunisie-sera-soumise-a-une-evaluation-mutuelle-du-menafatf/"
+    }
+  ]
+}

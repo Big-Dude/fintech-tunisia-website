@@ -1,0 +1,176 @@
+{
+  "slug": "instant-payments-tunisia",
+  "category": "payments",
+  "cover_motif": "network-nodes",
+  "stats": [
+    {
+      "value": "30.1M",
+      "label_en": "payments cleared through SIBTEL in H1 2026 (+5.3%)",
+      "label_fr": "opérations compensées via SIBTEL au S1 2026 (+5,3 %)",
+      "source": "BCT Payments Bulletin No. 17, 2026"
+    },
+    {
+      "value": "3.6M",
+      "label_en": "cheques cleared in H1 2026, up 11.4%",
+      "label_fr": "chèques compensés au S1 2026, en hausse de 11,4 %",
+      "source": "BCT Payments Bulletin No. 17, 2026"
+    },
+    {
+      "value": "5.0M",
+      "label_en": "mobile wallet transactions in H1 2026, up 31.5%",
+      "label_fr": "opérations de paiement mobile au S1 2026, en hausse de 31,5 %",
+      "source": "BCT Payments Bulletin No. 17, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Interbank clearing (SIBTEL) by instrument, H1 2026 (millions of operations)",
+    "title_fr": "Télécompensation (SIBTEL) par instrument, S1 2026 (millions d'opérations)",
+    "unit": "M",
+    "bars": [
+      {
+        "label_en": "Credit transfers",
+        "label_fr": "Virements",
+        "value": 19.5
+      },
+      {
+        "label_en": "Direct debits",
+        "label_fr": "Prélèvements",
+        "value": 4.5
+      },
+      {
+        "label_en": "Cheques",
+        "label_fr": "Chèques",
+        "value": 3.6
+      },
+      {
+        "label_en": "Bills of exchange",
+        "label_fr": "Lettres de change",
+        "value": 2.4
+      }
+    ],
+    "source_name": "Banque Centrale de Tunisie, Payments Bulletin No. 17 (via Challenges TN)",
+    "source_url": "https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/"
+  },
+  "en": {
+    "title": "Instant Payments in Tunisia: Switching and Interoperability",
+    "meta_description": "Tunisia has no Pix-style instant payment system yet. How SIBTEL, the SMT switch and mobile wallets move money today, and what the BCT is now studying.",
+    "excerpt": "Tunisians can send money instantly between some mobile wallets, but bank transfers still clear in batches and there is no national instant payment system. The BCT is studying Brazil's Pix.",
+    "keywords": [
+      "instant payments Tunisia",
+      "paiement instantané Tunisie",
+      "SMT Monétique Tunisie",
+      "SIBTEL",
+      "Tunisia payment interoperability",
+      "national switch Tunisia",
+      "Pix Tunisia BCT"
+    ],
+    "tags": [
+      "Instant payments",
+      "Interoperability",
+      "SMT",
+      "BCT"
+    ],
+    "key_takeaways": [
+      "As of October 2026, Tunisia has no national retail instant payment system like Brazil's Pix, India's UPI or Egypt's InstaPay.",
+      "Bank transfers, cheques and direct debits go through SIBTEL, the interbank clearing system, which handled 30.1 million operations in H1 2026.",
+      "Real-time transfers exist inside the mobile payment system run by the Société Monétique Tunisie, launched with seven banks in 2022.",
+      "A BCT and GIZ delegation studied Pix in Brazil in 2026, but no decision to build a similar system has been announced."
+    ],
+    "body": "Instant payments in Tunisia are a work in progress. Money can move in seconds between some mobile wallets, but most bank transfers still clear in batches, and the country has no national instant payment scheme like Brazil's Pix or Egypt's InstaPay. This article explains the current plumbing, who runs it and what the Banque Centrale de Tunisie (BCT) is studying.\n\n**A note on the premise:** this topic is sometimes framed as if Tunisia already had a national instant payment system. As of October 2026, it does not. What exists is a set of separate rails, with real-time transfers limited mostly to the mobile wallet system.\n\n## Tunisia's payment plumbing today\n\nTunisian payments run on several systems, each with its own role:\n\n- **SIBTEL**, the interbank clearing system (télécompensation), processes credit transfers, direct debits, cheques and bills of exchange in batches.\n- **RTGS Elyssa**, operated by the BCT, settles large-value payments between banks in real time.\n- **The Société Monétique Tunisie (SMT)** is the national card switch. It routes card payments between banks and runs ClicToPay, the banks' online payment platform. It also manages the national mobile payment system.\n\nIn the first half of 2026, SIBTEL handled 30.1 million operations worth about 109.6 billion dinars, according to the BCT's Payments Bulletin No. 17. RTGS Elyssa processed 218,886 transactions.\n\n## Instant payments in Tunisia: what exists\n\nThe closest thing to retail instant payment is the **national mobile payment switch**. In 2019, the SMT selected the Moroccan vendor HPS to build an interoperable mobile payment platform, with e-wallets managed in software-as-a-service mode. In June 2022, the BCT launched what it called the country's first mobile payment solution, with seven banks: BNA, BH Bank, Amen Bank, UBCI, Attijari Bank, Zitouna and BTE.\n\nThe system offered:\n\n- transfers between wallets and payments to merchants by QR code or card terminal;\n- 24/7 availability with instant movement of funds;\n- wallets funded from bank accounts, cards, postal accounts or other wallets.\n\nFintechs plugged in through banks. BTE, for instance, launched its offer through the Flouci app in June 2022 as part of the national switch, promising transfers in under five seconds.\n\nUsage has grown fast. Mobile transactions reached 8.4 million in 2025, up 81%, and 5.0 million in the first half of 2026. But that is small next to the 19.5 million credit transfers cleared through SIBTEL over the same half-year. See our overview of [mobile payments in Tunisia](post:mobile-payments-tunisia).\n\n## The interoperability gap\n\nInteroperability means a user of one wallet can pay or send money to a user of any other wallet or bank. In Tunisia it is incomplete for three reasons:\n\n1. **Not every issuer is on the same rail.** Banks, La Poste and payment institutions issue wallets, and licensed fintechs depend on partner institutions.\n2. **Cards still dominate digital payments.** In the first half of 2026, Tunisians made 85.4 million card operations, far more than mobile transactions.\n3. **Branding was fragmented.** The BCT's TUNPAY label, announced in May 2026 with the SMT, gives all mobile wallets a common identity, but it is a visual standard, not a technical one.\n\nOne banking-law expert interviewed by La Presse in May 2026 warned that if access to TUNPAY requires mandatory membership of the SMT system, it could become a barrier for independent fintechs.\n\n## Why the BCT is looking at Pix\n\nIn 2026, a delegation from the BCT, accompanied by the German development agency GIZ, visited the Banco Central do Brasil to study Pix. Over two days of technical sessions, the delegation examined Pix's architecture, governance, regulation and economic model, and met Nubank, Itaú Unibanco, PicPay and the fintech association ABFintechs.\n\nPix is shared infrastructure owned and run by Brazil's central bank. It allows account-to-account transfers 24/7 through any bank or payment app and is free for individuals. L'Economiste Maghrébin stressed that **no decision to adopt a similar system has been announced** and that nothing yet indicates Tunisia is preparing one.\n\nComparisons are close by. Egypt launched InstaPay in 2022; see our article on [Egypt's fintech boom](post:egypt-fintech-instapay).\n\n## What it means for founders\n\nFor Tunisian fintechs, the current setup has practical consequences:\n\n- **Access goes through banks or the SMT.** Without a payment institution licence, startups reach the rails only via a partner bank.\n- **Account-to-account payments are not yet a product.** Without a Pix-style system or [open banking APIs](post:open-banking-tunisia), startups cannot build cheap bank-to-bank payment flows.\n- **Cheques remain a competitor.** Cheque clearing grew 11.4% in number in H1 2026.\n\n## What to watch\n\nThe signals to follow in 2027 are a BCT announcement on an instant payment project, the rules for SMT access under TUNPAY, and any move to open the mobile switch to licensed payment institutions on equal terms. Until then, \"instant\" in Tunisia mostly means wallet-to-wallet. Figures here are as of mid-2026.",
+    "faq": [
+      {
+        "q": "Does Tunisia have an instant payment system?",
+        "a": "Not a national one for all accounts. As of October 2026, real-time transfers exist mainly within the mobile payment system run by the Société Monétique Tunisie. Bank transfers clear in batches through SIBTEL."
+      },
+      {
+        "q": "What is SIBTEL?",
+        "a": "SIBTEL is Tunisia's interbank clearing system. It processes credit transfers, direct debits, cheques and bills of exchange; in the first half of 2026 it handled 30.1 million operations."
+      },
+      {
+        "q": "What does the Société Monétique Tunisie do?",
+        "a": "The SMT is Tunisia's national card switch. It routes card transactions between banks, operates the ClicToPay online payment platform and manages the national mobile payment system."
+      },
+      {
+        "q": "Will Tunisia copy Brazil's Pix?",
+        "a": "A BCT delegation studied Pix in Brazil in 2026, with GIZ support. No decision to adopt a similar system has been announced."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Paiement instantané en Tunisie : switch et interopérabilité",
+    "meta_description": "La Tunisie n'a pas encore de paiement instantané à la Pix. Comment SIBTEL, la SMT et les wallets font circuler l'argent aujourd'hui, et ce que la BCT étudie.",
+    "excerpt": "Les Tunisiens peuvent s'envoyer de l'argent instantanément entre certains wallets, mais les virements bancaires sont toujours compensés par lots et aucun système national de paiement instantané n'existe. La BCT étudie le Pix brésilien.",
+    "keywords": [
+      "paiement instantané Tunisie",
+      "virement instantané Tunisie",
+      "Société Monétique Tunisie",
+      "SIBTEL",
+      "interopérabilité paiement Tunisie",
+      "switch national paiement mobile",
+      "Pix Tunisie BCT"
+    ],
+    "tags": [
+      "Paiement instantané",
+      "Interopérabilité",
+      "SMT",
+      "BCT"
+    ],
+    "key_takeaways": [
+      "À octobre 2026, la Tunisie ne dispose d'aucun système national de paiement instantané comparable au Pix brésilien, à l'UPI indien ou à InstaPay en Égypte.",
+      "Virements, chèques et prélèvements passent par SIBTEL, la télécompensation interbancaire, qui a traité 30,1 millions d'opérations au S1 2026.",
+      "Le temps réel existe au sein du système de paiement mobile géré par la Société Monétique Tunisie, lancé avec sept banques en 2022.",
+      "Une délégation BCT-GIZ a étudié le Pix au Brésil en 2026, sans qu'aucune décision d'adoption ne soit annoncée."
+    ],
+    "body": "Le paiement instantané en Tunisie reste un chantier. L'argent circule en quelques secondes entre certains portefeuilles mobiles, mais la plupart des virements bancaires sont encore compensés par lots, et le pays n'a pas de système national comparable au Pix brésilien ou à InstaPay en Égypte. Voici l'état de la tuyauterie, ses gestionnaires et ce qu'étudie la Banque Centrale de Tunisie (BCT).\n\n**Précision sur le point de départ :** le sujet est parfois présenté comme si la Tunisie disposait déjà d'un système national de paiement instantané. À octobre 2026, ce n'est pas le cas. Il existe plusieurs rails distincts, et le temps réel se limite pour l'essentiel aux wallets mobiles.\n\n## La tuyauterie des paiements tunisiens\n\nPlusieurs systèmes coexistent, chacun avec son rôle :\n\n- **SIBTEL**, le système interbancaire de télécompensation, traite par lots les virements, prélèvements, chèques et lettres de change.\n- **RTGS Elyssa**, opéré par la BCT, règle en temps réel les paiements de gros montants entre banques.\n- **La Société Monétique Tunisie (SMT)** est le switch monétique national. Elle achemine les paiements par carte entre banques, gère ClicToPay, la plateforme de paiement en ligne des banques, ainsi que le système national de paiement mobile.\n\nAu premier semestre 2026, SIBTEL a traité 30,1 millions d'opérations pour environ 109,6 milliards de dinars, selon le Bulletin des paiements n° 17 de la BCT. RTGS Elyssa a enregistré 218 886 transactions.\n\n## Le paiement instantané en Tunisie : ce qui existe\n\nCe qui s'en rapproche le plus est le **switch national de paiement mobile**. En 2019, la SMT a retenu l'éditeur marocain HPS pour bâtir une plateforme de paiement mobile interopérable, avec des wallets gérés en mode SaaS. En juin 2022, la BCT a lancé ce qu'elle présentait comme la première solution de paiement mobile du pays, avec sept banques : BNA, BH Bank, Amen Bank, UBCI, Attijari Bank, Zitouna et BTE.\n\nLe dispositif permet :\n\n- des transferts entre wallets et des paiements chez les commerçants par QR code ou TPE ;\n- une disponibilité 24 h/24 et 7 j/7 avec mouvement instantané des fonds ;\n- l'alimentation du wallet depuis un compte bancaire, une carte, un compte postal ou un autre wallet.\n\nLes fintechs se branchent via les banques. La BTE a ainsi lancé son offre sur l'application Flouci en juin 2022 dans le cadre du switch national, avec des transferts en moins de cinq secondes.\n\nL'usage progresse vite : 8,4 millions d'opérations mobiles en 2025 (+81 %), 5,0 millions au premier semestre 2026. C'est peu face aux 19,5 millions de virements compensés par SIBTEL sur le même semestre. Voir notre panorama du [paiement mobile en Tunisie](post:mobile-payments-tunisia).\n\n## Le déficit d'interopérabilité\n\nL'interopérabilité suppose que l'utilisateur d'un wallet puisse payer ou envoyer de l'argent à l'utilisateur de n'importe quel autre wallet ou banque. Elle reste incomplète en Tunisie, pour trois raisons :\n\n1. **Tous les émetteurs ne sont pas sur le même rail.** Banques, La Poste et établissements de paiement émettent des wallets, et les fintechs dépendent d'institutions partenaires.\n2. **La carte domine le paiement numérique.** Au premier semestre 2026, les Tunisiens ont réalisé 85,4 millions d'opérations par carte, bien plus que d'opérations mobiles.\n3. **L'identité visuelle était éclatée.** Le label TUNPAY, annoncé par la BCT en mai 2026 avec la SMT, donne une identité commune aux wallets, mais c'est un standard visuel, pas technique.\n\nUn spécialiste du droit bancaire interrogé par La Presse en mai 2026 relevait que si l'accès à TUNPAY exigeait une adhésion obligatoire au système de la SMT, cela pourrait freiner les fintechs indépendantes.\n\n## Pourquoi la BCT regarde le Pix\n\nEn 2026, une délégation de la BCT, accompagnée de la GIZ allemande, s'est rendue à la Banque centrale du Brésil pour étudier le Pix. Pendant deux jours de sessions techniques, elle a examiné son architecture, sa gouvernance, son cadre réglementaire et son modèle économique, et rencontré Nubank, Itaú Unibanco, PicPay et l'association ABFintechs.\n\nLe Pix est une infrastructure partagée, détenue et opérée par la banque centrale brésilienne. Il permet des virements de compte à compte 24 h/24 depuis n'importe quelle banque ou application, gratuitement pour les particuliers. L'Economiste Maghrébin souligne qu'**aucune décision d'adoption n'a été annoncée** et que rien n'indique pour l'instant que la Tunisie prépare un tel système.\n\nLes comparaisons sont proches : l'Égypte a lancé InstaPay en 2022. Voir notre article sur [l'essor de la fintech égyptienne](post:egypt-fintech-instapay).\n\n## Ce que cela implique pour les fondateurs\n\nPour les fintechs tunisiennes, la situation a des conséquences concrètes :\n\n- **L'accès passe par les banques ou la SMT.** Sans agrément d'établissement de paiement, une startup n'atteint les rails que via une banque partenaire.\n- **Le paiement de compte à compte n'est pas encore un produit.** Sans système de type Pix ni [API d'open banking](post:open-banking-tunisia), impossible de bâtir des flux bancaires bon marché.\n- **Le chèque reste un concurrent.** Le nombre de chèques compensés a progressé de 11,4 % au premier semestre 2026.\n\n## À surveiller\n\nLes signaux à suivre en 2027 : une annonce de la BCT sur un projet de paiement instantané, les règles d'accès à la SMT dans le cadre de TUNPAY, et une éventuelle ouverture du switch mobile aux établissements de paiement à égalité de conditions. D'ici là, « instantané » signifie surtout, en Tunisie, de wallet à wallet. Chiffres arrêtés à la mi-2026.",
+    "faq": [
+      {
+        "q": "La Tunisie a-t-elle un système de paiement instantané ?",
+        "a": "Pas de système national couvrant tous les comptes. À octobre 2026, le temps réel existe surtout au sein du système de paiement mobile géré par la Société Monétique Tunisie. Les virements bancaires sont compensés par lots via SIBTEL."
+      },
+      {
+        "q": "Qu'est-ce que SIBTEL ?",
+        "a": "SIBTEL est le système interbancaire de télécompensation tunisien. Il traite virements, prélèvements, chèques et lettres de change ; au premier semestre 2026, il a traité 30,1 millions d'opérations."
+      },
+      {
+        "q": "Quel est le rôle de la Société Monétique Tunisie ?",
+        "a": "La SMT est le switch monétique national. Elle achemine les transactions par carte entre banques, opère la plateforme de paiement en ligne ClicToPay et gère le système national de paiement mobile."
+      },
+      {
+        "q": "La Tunisie va-t-elle copier le Pix brésilien ?",
+        "a": "Une délégation de la BCT a étudié le Pix au Brésil en 2026, avec l'appui de la GIZ. Aucune décision d'adopter un système similaire n'a été annoncée."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Paiement instantané : la Tunisie s'inspire du modèle brésilien Pix",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2026/09/18/paiement-instantane-la-tunisie-sinspire-du-modele-bresilien-pix/"
+    },
+    {
+      "title": "PIX, le système de paiements instantanés brésilien qui exaspère Washington et qui inspire Tunis",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/09/17/pix-le-systeme-de-paiements-instantanes-bresilien-qui-exaspere-washington-et-qui-inspire-tunis/"
+    },
+    {
+      "title": "Paiements en Tunisie : le mobile et l'e-commerce en forte hausse au S1 2026 (BCT)",
+      "publisher": "Challenges TN",
+      "url": "https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/"
+    },
+    {
+      "title": "Mobile Payment : Monétique Tunisie choisit la solution de l'éditeur marocain HPS",
+      "publisher": "Ilboursa",
+      "url": "https://www.ilboursa.com/marches/mobile-payment-monetique-tunisie-choisit-la-solution-de-l-editeur-marocain-hps_16646"
+    },
+    {
+      "title": "La Tunisie lance sa solution de paiement mobile : explications",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2022/06/21/488419/la-tunisie-lance-sa-solution-de-paiement-mobile-explications/"
+    },
+    {
+      "title": "TunePay : la Tunisie se dote d'un label national pour unifier et crédibiliser le paiement mobile",
+      "publisher": "La Presse / AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202605090137.html"
+    }
+  ]
+}

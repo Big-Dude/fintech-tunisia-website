@@ -1,0 +1,132 @@
+{
+  "slug": "open-banking-tunisia",
+  "category": "banking",
+  "cover_motif": "network-nodes",
+  "stats": [
+    {
+      "value": "2018",
+      "label_en": "year a Tunisified PSD2 was first publicly debated",
+      "label_fr": "année du premier débat public sur une DSP2 tunisifiée",
+      "source": "CIO Mag, 2018"
+    },
+    {
+      "value": "4",
+      "label_en": "startups in the BCT sandbox's first cohort (2021)",
+      "label_fr": "startups dans la première cohorte de la sandbox BCT (2021)",
+      "source": "Managers, 2021"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Open Banking in Tunisia: Where Things Stand in 2026",
+    "meta_description": "Tunisia has no open banking law yet. What the BCT has said, what circular 2026-10 does not cover, the building blocks in place and what fintechs can do now.",
+    "excerpt": "Open banking has been debated in Tunisia since 2018, but no rule yet obliges banks to open APIs. Here is what exists, what is missing and how founders can work around it.",
+    "keywords": [
+      "open banking Tunisia",
+      "open API Tunisia banks",
+      "PSD2 Tunisia",
+      "BCT open banking",
+      "fintech bank API Tunisia",
+      "Tunisia payment regulation 2026"
+    ],
+    "tags": [
+      "Open banking",
+      "APIs",
+      "BCT",
+      "Regulation"
+    ],
+    "key_takeaways": [
+      "As of October 2026, Tunisia has no open banking regulation obliging banks to share data or payment functions via APIs.",
+      "The BCT has endorsed open banking in principle, including at the Africa Banking Forum in February 2025.",
+      "Press reports on circular 2026-10 for payment institutions do not describe any open API obligation.",
+      "The sandbox, the SMT national switch, TUNPAY and e-KYC rules are building blocks a future framework could use."
+    ],
+    "body": "Open banking in Tunisia has been talked about for eight years but has not yet been written into law. As of October 2026, the Central Bank of Tunisia (BCT) has issued no rule obliging banks to share customer data or payment functions with licensed third parties through APIs. What exists instead is a patchwork of building blocks: a sandbox, a national mobile switch, remote onboarding rules and a growing number of bank-fintech partnerships.\n\n## What open banking means, and why it matters\n\nOpen banking lets a customer authorise a third party, such as a budgeting app or a payment startup, to access their bank data or initiate payments from their account through secure, standardised application programming interfaces (APIs). In the European Union, the second Payment Services Directive (PSD2), in force since January 2018, made this mandatory for banks and created two new licensed roles: payment initiation providers and account information aggregators.\n\nFor Tunisian fintechs, the stakes are concrete. Without APIs, a startup that wants to show a user's balance, verify income for a loan or trigger a bank transfer must sign a bespoke agreement with each bank, or rely on workarounds. That raises costs and slows growth.\n\n## Open banking in Tunisia: a debate since 2018\n\nThe idea of a \"Tunisified PSD2\" was discussed as early as October 2018, at a conference held at UTICA and co-organised by the BCT, the professional banking association APTBEF and the National Digital Federation. According to CIO Mag's report, speakers called for a PSD2-inspired framework and urged Tunisia to adopt a single standard API from the start, citing the UK model, rather than letting each bank design its own.\n\nThe message from the regulator has been supportive in principle. At the Africa Banking Forum in Tunis in February 2025, BCT Vice-Governor Mourad Abdessalem described open banking as a fundamental lever for collaboration between banks and fintechs, able to deliver more personalised services and a better customer experience.\n\nYet no binding framework has followed. Independent trackers, including Open Banking Nigeria's country review (updated in mid-2026), describe Tunisia as having no open banking framework, consultation or published timeline.\n\n## What the latest payment rules do, and do not, cover\n\nOn 25 September 2026 the BCT published **circular 2026-10** on payment institutions, replacing the 2018 framework. Press coverage by Managers, Challenges and Webdo details rules on governance, remote onboarding, fund segregation, cybersecurity audits and partnerships. None of these reports describes an obligation for banks to open APIs to third parties, and the circular applies to payment institutions, not banks. At least one headline presented the circular as covering \"open APIs\", but the article's own content did not support it. Until the full text is analysed, founders should not assume the circular creates open banking rights.\n\n## The building blocks already in place\n\nEven without a formal regime, several pieces of infrastructure point in the right direction.\n\n### A national switch and interoperability\n\nSociété Monétique Tunisie (SMT) operates the national mobile payment switch on which interoperability between wallets rests. In May 2026, the BCT's Note 2026-132 created **TUNPAY**, a single label for mobile payment that all wallet issuers are asked to adopt. Interoperable payments are not open banking, but they create a shared rail that APIs could later plug into. See our guide to [instant payments and national switching](post:instant-payments-tunisia).\n\n### A regulatory sandbox\n\nThe BCT launched a fintech [regulatory sandbox](post:bct-regulatory-sandbox) and selected its first cohort in January 2021: Kaoun, Sqoin & Coinsence, Instaclear and TLedger, working on remote identification, cross-border clearing and digital currency. A sandbox is the natural place to test data-sharing models before regulating them.\n\n### Remote onboarding and digital identity\n\nA BCT circular of 28 February 2025 allows banks to onboard customers electronically, and circular 2026-10 does the same for payment institutions. The BCT has also announced plans to integrate the E-Houwiya digital identity into the Paysmart platform. Reliable digital identity is a precondition for consent-based data sharing.\n\n## The obstacles\n\n- **Data protection.** Tunisia's personal data law dates from 2004 (Organic Law 2004-63) and predates API-based data sharing. A reform has been discussed for years. Our article on [data protection for fintechs](post:data-protection-tunisia-fintech) covers the state of play.\n- **Bank readiness.** Many banks are still replacing core banking systems, and industry voices at the 2025 Africa Banking Forum said Tunisian banks lag behind several African peers on digital services.\n- **No standard.** Without a common API specification, each bilateral integration is built from scratch.\n- **Licensing gaps.** Tunisia has no licence category for account information or payment initiation services. A fintech wanting those roles must currently fit into an existing status, such as a [payment institution](post:payment-institutions-tunisia).\n\n## What founders can do now\n\nUntil regulation arrives, open banking in Tunisia happens through contracts, not rights:\n\n1. **Partner bank by bank.** Negotiate API or file-based access with one or two banks that already have modern core systems.\n2. **Use the sandbox** to test data-sharing or payment-initiation models with regulatory oversight.\n3. **Design for consent and security** from day one, so your product is ready if a framework is introduced.\n4. **Build on shared rails** such as the SMT switch and TUNPAY where possible, rather than closed integrations.\n\nThe regulator's rhetoric is supportive, and the building blocks exist. What is missing is the rulebook that would turn bilateral deals into a market.",
+    "faq": [
+      {
+        "q": "Is open banking mandatory in Tunisia?",
+        "a": "No. As of October 2026, no BCT rule requires Tunisian banks to give licensed third parties API access to customer accounts. Access depends on bilateral agreements between banks and fintechs."
+      },
+      {
+        "q": "Does BCT circular 2026-10 introduce open banking?",
+        "a": "Based on press coverage of the circular, published on 25 September 2026, it focuses on payment institutions' governance, onboarding, fund protection and cybersecurity. None of the detailed reports mentions an obligation to open APIs, so founders should check the full text before assuming any new rights."
+      },
+      {
+        "q": "How can a fintech access bank data in Tunisia today?",
+        "a": "Mainly through direct partnerships with individual banks, or by testing a model in the BCT's regulatory sandbox. Building on shared infrastructure such as the SMT national switch can also reduce integration work."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Open banking en Tunisie : où en est-on en 2026 ?",
+    "meta_description": "La Tunisie n'a pas encore de cadre d'open banking. Position de la BCT, limites de la circulaire 2026-10, briques existantes et pistes pour les fintechs.",
+    "excerpt": "L'open banking est discuté en Tunisie depuis 2018, mais aucun texte n'impose encore aux banques d'ouvrir leurs API. Ce qui existe, ce qui manque et comment avancer.",
+    "keywords": [
+      "open banking Tunisie",
+      "API bancaires Tunisie",
+      "DSP2 Tunisie",
+      "BCT open banking",
+      "fintech API banque Tunisie",
+      "réglementation paiement Tunisie 2026"
+    ],
+    "tags": [
+      "Open banking",
+      "API",
+      "BCT",
+      "Réglementation"
+    ],
+    "key_takeaways": [
+      "En octobre 2026, aucun texte n'oblige les banques tunisiennes à partager données ou fonctions de paiement via des API.",
+      "La BCT soutient l'open banking sur le principe, notamment lors de l'Africa Banking Forum de février 2025.",
+      "Les comptes rendus de la circulaire 2026-10 sur les établissements de paiement ne mentionnent aucune obligation d'API ouvertes.",
+      "Sandbox, switch national de la SMT, TUNPAY et règles d'e-KYC sont autant de briques pour un futur cadre."
+    ],
+    "body": "L'open banking en Tunisie fait débat depuis huit ans, mais n'a toujours pas de traduction juridique. En octobre 2026, la Banque centrale de Tunisie (BCT) n'a publié aucun texte obligeant les banques à partager, via des API, les données ou les fonctions de paiement de leurs clients avec des tiers agréés. Il existe plutôt une série de briques : une sandbox, un switch national de paiement mobile, des règles d'entrée en relation à distance et des partenariats banques-fintechs.\n\n## L'open banking, de quoi parle-t-on et pourquoi c'est important\n\nL'open banking permet à un client d'autoriser un tiers, comme une application de gestion budgétaire ou une startup de paiement, à consulter ses données bancaires ou à initier des paiements depuis son compte, grâce à des interfaces de programmation (API) sécurisées et standardisées. Dans l'Union européenne, la deuxième directive sur les services de paiement (DSP2), en vigueur depuis janvier 2018, l'a rendu obligatoire et a créé deux statuts : initiateur de paiement et agrégateur d'informations sur les comptes.\n\nPour les fintechs tunisiennes, l'enjeu est concret. Sans API, une startup qui veut afficher un solde, vérifier des revenus pour un crédit ou déclencher un virement doit négocier un accord spécifique avec chaque banque, ou bricoler. Les coûts montent, la croissance ralentit.\n\n## L'open banking en Tunisie : un débat ouvert depuis 2018\n\nL'idée d'une « DSP2 tunisifiée » a été discutée dès octobre 2018 lors d'une conférence au siège de l'UTICA, coorganisée par la BCT, l'APTBEF et la Fédération nationale du numérique. Selon le compte rendu de CIO Mag, les intervenants plaidaient pour un cadre inspiré de la DSP2 et pour une API standard unique dès le départ, sur le modèle britannique, plutôt qu'une API propre à chaque banque.\n\nLe régulateur se montre favorable sur le principe. Lors de l'Africa Banking Forum, à Tunis en février 2025, le vice-gouverneur de la BCT Mourad Abdessalem a qualifié l'open banking de levier fondamental de collaboration entre banques et fintechs, porteur de services plus personnalisés et d'une meilleure expérience client.\n\nAucun cadre contraignant n'a suivi. Des observatoires indépendants, dont la revue pays d'Open Banking Nigeria (mise à jour mi-2026), indiquent que la Tunisie ne dispose ni de cadre, ni de consultation, ni de calendrier publié.\n\n## Ce que couvrent les nouvelles règles de paiement, et ce qu'elles ne couvrent pas\n\nLe 25 septembre 2026, la BCT a publié la **circulaire 2026-10** sur les établissements de paiement, qui remplace le cadre de 2018. La presse (Managers, Challenges, Webdo) détaille des règles de gouvernance, d'entrée en relation à distance, de cantonnement des fonds, d'audit de cybersécurité et de partenariats. Aucun de ces comptes rendus ne mentionne d'obligation d'ouverture d'API aux tiers, et le texte vise les établissements de paiement, pas les banques. Un titre de presse évoquait des « Open APIs », sans que le contenu de l'article ne le confirme. Tant que le texte intégral n'a pas été analysé, mieux vaut ne pas y voir la naissance de l'open banking.\n\n## Les briques déjà en place\n\nMême sans régime formel, plusieurs infrastructures vont dans le bon sens.\n\n### Un switch national et l'interopérabilité\n\nLa Société Monétique Tunisie (SMT) gère le switch national de paiement mobile, socle de l'interopérabilité entre wallets. En mai 2026, la note n° 2026-132 de la BCT a créé **TUNPAY**, label unique du paiement mobile que tous les émetteurs de wallets sont appelés à adopter. L'interopérabilité n'est pas l'open banking, mais elle crée un rail commun sur lequel des API pourraient se brancher. Voir notre dossier sur [le paiement instantané et le switch national](post:instant-payments-tunisia).\n\n### Une sandbox réglementaire\n\nLa BCT a mis en place une [sandbox réglementaire](post:bct-regulatory-sandbox) et retenu en janvier 2021 sa première cohorte : Kaoun, Sqoin & Coinsence, Instaclear et TLedger, actifs dans l'identification à distance, la compensation transfrontalière et la monnaie numérique. C'est le cadre naturel pour tester des modèles de partage de données avant de les réglementer.\n\n### Enrôlement à distance et identité numérique\n\nUne circulaire de la BCT du 28 février 2025 autorise l'enrôlement électronique des clients des banques, et la circulaire 2026-10 fait de même pour les établissements de paiement. La BCT a aussi annoncé l'intégration de l'identité numérique E-Houwiya à la plateforme Paysmart. Une identité numérique fiable est un préalable au partage de données fondé sur le consentement.\n\n## Les obstacles\n\n- **La protection des données.** La loi organique 2004-63 sur les données personnelles date de 2004, bien avant le partage de données par API. Sa refonte est évoquée depuis des années ; notre article sur [la protection des données pour les fintechs](post:data-protection-tunisia-fintech) fait le point.\n- **La maturité des banques.** Beaucoup remplacent encore leur core banking, et des professionnels ont estimé lors de l'Africa Banking Forum 2025 que les banques tunisiennes accusent un retard sur plusieurs homologues africains.\n- **L'absence de standard.** Sans spécification commune, chaque intégration bilatérale repart de zéro.\n- **Les statuts manquants.** Il n'existe pas d'agrément d'agrégateur ou d'initiateur de paiement. Une fintech doit se loger dans un statut existant, comme celui d'[établissement de paiement](post:payment-institutions-tunisia).\n\n## Ce que les fondateurs peuvent faire dès maintenant\n\nEn attendant la réglementation, l'open banking tunisien passe par des contrats, pas par des droits :\n\n1. **Négocier banque par banque**, en ciblant une ou deux banques dotées d'un système central moderne.\n2. **Passer par la sandbox** pour tester le partage de données ou l'initiation de paiement sous le regard du régulateur.\n3. **Concevoir pour le consentement et la sécurité** dès le départ, afin d'être prêt le jour où un cadre sera adopté.\n4. **S'appuyer sur les rails communs**, comme le switch de la SMT et TUNPAY, plutôt que sur des intégrations fermées.\n\nLe discours du régulateur est favorable et les briques existent. Il manque le cadre qui transformerait des accords bilatéraux en véritable marché.",
+    "faq": [
+      {
+        "q": "L'open banking est-il obligatoire en Tunisie ?",
+        "a": "Non. En octobre 2026, aucune règle de la BCT n'impose aux banques d'ouvrir l'accès aux comptes clients à des tiers agréés via des API. L'accès dépend d'accords bilatéraux entre banques et fintechs."
+      },
+      {
+        "q": "La circulaire BCT 2026-10 instaure-t-elle l'open banking ?",
+        "a": "D'après la presse, la circulaire publiée le 25 septembre 2026 porte sur la gouvernance, l'enrôlement, la protection des fonds et la cybersécurité des établissements de paiement. Aucun compte rendu détaillé ne mentionne d'obligation d'API ouvertes ; il faut se reporter au texte intégral."
+      },
+      {
+        "q": "Comment une fintech peut-elle accéder aux données bancaires aujourd'hui ?",
+        "a": "Surtout par des partenariats directs avec des banques, ou en testant son modèle dans la sandbox de la BCT. S'appuyer sur des infrastructures communes comme le switch national de la SMT réduit aussi le travail d'intégration."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "FinTech et open banking : vers une DSP2 « Tunisifiée »",
+      "publisher": "CIO Mag",
+      "url": "https://cio-mag.com/fintech-et-open-banking-vers-une-dsp2-tunisifiee/"
+    },
+    {
+      "title": "Africa Banking Forum 2025 : la BCT plaide pour une digitalisation inclusive",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2025/02/21/541230/africa-banking-forum-2025-la-bct-plaide-pour-une-digitalisation-inclusive-et-la-resilience-du-secteur-bancaire-africain/"
+    },
+    {
+      "title": "Open banking in Tunisia",
+      "publisher": "Open Banking Nigeria",
+      "url": "https://openbanking.ng/open-banking-in-tunisia/"
+    },
+    {
+      "title": "Circulaire sur les établissements de paiement : la BCT publie une version rectifiée",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/09/28/circulaire-sur-les-etablissements-de-paiement-la-bct-publie-une-version-rectifiee/"
+    },
+    {
+      "title": "TUNPAY : vers un big bang du paiement mobile",
+      "publisher": "Tunisie Numérique",
+      "url": "https://www.tunisienumerique.com/tunpay-vers-un-big-bang-du-paiement-mobile/"
+    },
+    {
+      "title": "Quatre startups retenues à la première cohorte de la sandbox de la BCT",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2021/01/22/quatre-startups-retenues-a-la-premiere-cohorte-de-la-sandbox-de-la-bct/"
+    }
+  ]
+}

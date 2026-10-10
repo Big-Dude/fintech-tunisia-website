@@ -1,0 +1,163 @@
+{
+  "slug": "islamic-fintech-tunisia",
+  "category": "banking",
+  "cover_motif": "coins",
+  "stats": [
+    {
+      "value": "8%",
+      "label_en": "of banking deposits held by the three Islamic banks (2023)",
+      "label_fr": "des dépôts bancaires détenus par les trois banques islamiques (2023)",
+      "source": "Ilboursa, 2024"
+    },
+    {
+      "value": "71.5%",
+      "label_en": "of Islamic banks' financing is murabaha (2023)",
+      "label_fr": "des financements des banques islamiques en mourabaha (2023)",
+      "source": "Ilboursa, 2024"
+    },
+    {
+      "value": "TND 140M",
+      "label_en": "combined net profit of the three Islamic banks (2023)",
+      "label_fr": "de résultat net cumulé des trois banques islamiques (2023)",
+      "source": "Ilboursa, 2024"
+    }
+  ],
+  "chart": {
+    "title_en": "Market share of Tunisia's three Islamic banks, end 2023",
+    "title_fr": "Part de marché des trois banques islamiques, fin 2023",
+    "unit": "%",
+    "bars": [
+      {
+        "label_en": "Deposits",
+        "label_fr": "Dépôts",
+        "value": 8.0
+      },
+      {
+        "label_en": "Loans",
+        "label_fr": "Crédits",
+        "value": 7.4
+      },
+      {
+        "label_en": "Total assets",
+        "label_fr": "Total bilan",
+        "value": 6.9
+      }
+    ],
+    "source_name": "Ilboursa, December 2024",
+    "source_url": "https://www.ilboursa.com/marches/les-trois-banques-islamiques-en-tunisie-consolident-leur-part-de-marche_49771"
+  },
+  "en": {
+    "title": "Islamic Fintech in Tunisia: Zitouna, Al Baraka and Wifak",
+    "meta_description": "Tunisia's three Islamic banks hold about 8% of deposits. How Zitouna, Al Baraka and Wifak are going digital, and where Islamic fintech in Tunisia can grow.",
+    "excerpt": "Islamic banks hold a single-digit share of Tunisian banking, but their wallets, agent networks and microfinance platforms are where Islamic fintech is taking shape.",
+    "keywords": [
+      "Islamic fintech Tunisia",
+      "Islamic banking Tunisia",
+      "Banque Zitouna digital",
+      "Wifak Bank",
+      "Al Baraka Bank Tunisia",
+      "sharia-compliant fintech Tunisia",
+      "Zitouna Payment izi"
+    ],
+    "tags": [
+      "Islamic finance",
+      "Banks",
+      "Microfinance",
+      "Mobile wallets"
+    ],
+    "key_takeaways": [
+      "Tunisia's three Islamic banks held 8.0% of deposits, 7.4% of loans and 6.9% of assets at the end of 2023.",
+      "Law 2016-48 created the first dedicated framework for Islamic banking and allows Islamic windows in conventional banks.",
+      "Most Islamic fintech activity comes from bank subsidiaries and partners, such as Zitouna Payment's izi app and Zitouna Tamkeen's digital credit platform.",
+      "Independent Islamic fintech startups are rare and must fit within standard BCT banking and payment rules."
+    ],
+    "body": "Islamic fintech in Tunisia sits on a small but steadily growing base. Tunisia's three Islamic banks (Banque Zitouna, Al Baraka Bank and Wifak Bank) held about 8% of the banking sector's deposits at the end of 2023, and their digital offers, from mobile wallets to microfinance software, are where the most visible fintech activity is happening.\n\n## The Islamic banking base\n\nIslamic finance in Tunisia gained a full legal framework with **Law 2016-48** on banks and financial institutions. According to Oxford Business Group, it was the first dedicated regulatory framework for sharia-compliant services, and its final text allowed conventional banks to offer Islamic products through \"Islamic windows\".\n\nThree banks dominate the segment. Ilboursa's analysis of 2023 accounts shows their combined market shares:\n\n- **Deposits:** 8.0% of the sector (up 0.2 points)\n- **Loans:** 7.4% (up 0.6 points)\n- **Total assets:** 6.9% (up 0.2 points)\n\nTheir combined loan book reached TND 7,943 million in 2023, of which **murabaha** (cost-plus sale) accounted for 71.5% and **ijara** (leasing) for 15.5%. Combined net banking income was TND 564 million and net profit TND 140 million.\n\nBy size, the three are very different. African Manager's review of 2025 accounts gives total assets of about TND 8,150 million for Zitouna, TND 2,657 million for Al Baraka Tunisia and TND 2,046 million for Wifak. Wifak, the smallest, has grown fastest: Challenges reports a five-year asset growth rate of about 20% a year, and Fitch upgraded its national long-term rating to BBB-(tun) in March 2026.\n\n## Islamic fintech in Tunisia: who is building what\n\nMost Islamic fintech activity in Tunisia comes from the banks' own subsidiaries and partners rather than independent startups.\n\n### Zitouna Payment and the izi app\n\nBanque Zitouna set up **Zitouna Payment**, a payment institution approved by the BCT in November 2021. It launched the izi mobile payment app in March 2022, offering account opening, cash deposits and withdrawals, person-to-person transfers, bill payments and phone top-ups. Users without a smartphone can transact through a network of mandated agents. At launch, Banque Zitouna held 51% of the company, alongside Zitouna Takaful and Zitouna Finance, and the company said it started with 500 agents. See our overview of [payment institutions in Tunisia](post:payment-institutions-tunisia).\n\n### Al Baraka's mobile wallet\n\nIn August 2022 Al Baraka Bank announced a mobile wallet service in Tunisia with Tunisian Digital Finance for People (TDFP), a subsidiary of VYZYO. The service was designed for government and merchant payments, transfers and disbursements such as pensions and micro-insurance, and could work on basic phones through SMS, USSD and voice.\n\n### Islamic microfinance goes digital\n\n**Zitouna Tamkeen**, an Islamic microfinance institution founded with the Islamic Development Bank, Banque Zitouna, Zitouna Takaful and other sponsors, began operating in December 2016. In June 2025 it put into production a credit management platform, ICM, from Tunisian vendor Talys Solutions. The platform covers onboarding, online financing requests, scoring, AML checks, disbursement and recovery, and includes a rules engine for Islamic financing products and reporting aligned with the microfinance supervisor (ACM). More on the sector in our [microfinance in Tunisia](post:microfinance-tunisia) article.\n\n### Startups\n\nIndependent Islamic fintech startups remain rare. One example is **PAYDAY Takaful**, which says it offers interest-free salary advances backed by payroll and bundled with takaful micro-insurance. In an October 2025 press release, the company announced an undisclosed pre-seed round led by United Gulf Financial Services – North Africa, with TALYS Group and BioProtection among the investors. Its reported volumes come from the company itself and have not been independently verified.\n\n## Why digital matters more for Islamic banks\n\nIslamic banks in Tunisia face specific constraints that technology can help address:\n\n- **Product complexity.** Murabaha and ijara involve buying and reselling or leasing an asset, which creates more documents and steps than a conventional loan. Digital workflows reduce cost and errors.\n- **Scale.** With a single-digit market share, Islamic banks cannot match the branch networks of the largest conventional banks. Agent networks and apps extend their reach at lower cost.\n- **Cost efficiency.** Challenges notes that Wifak's cost-to-income ratio of 71.2% in 2025 reflects heavy technology investment to absorb new customers, and identifies digital customer journeys and industrialised credit scoring as priorities.\n- **Inclusion.** Some Tunisians avoid interest-based products for religious reasons. Sharia-compliant digital services can reach people who would otherwise stay outside formal finance. See our overview of [financial inclusion in Tunisia](post:financial-inclusion-tunisia).\n\n## Opportunities and limits for founders\n\nFor founders, the Islamic segment offers a few concrete openings:\n\n1. **B2B software** for Islamic banks, microfinance institutions and takaful insurers, as the Talys example shows.\n2. **Sharia-compliant consumer finance**, such as earned-wage access or instalment sales, provided the structure is validated by a sharia board and fits Tunisian regulation.\n3. **Agent-based distribution** in regions where Islamic banks are underrepresented.\n\nThe limits are real. The market is small, regulation does not distinguish \"Islamic fintech\" as a separate category, and any product touching deposits or credit falls under the BCT's banking and payment rules. Founders need both a sharia adviser and a regulatory adviser from the start.",
+    "faq": [
+      {
+        "q": "How many Islamic banks are there in Tunisia?",
+        "a": "Three fully Islamic banks operate in Tunisia: Banque Zitouna, Al Baraka Bank Tunisia and Wifak Bank. Since Law 2016-48, conventional banks may also offer Islamic products through dedicated windows."
+      },
+      {
+        "q": "What is Zitouna Payment?",
+        "a": "Zitouna Payment is a payment institution majority-owned by Banque Zitouna and approved by the BCT in November 2021. Its izi app, launched in March 2022, offers transfers, bill payments, top-ups and cash services, including through a network of agents."
+      },
+      {
+        "q": "Is there a specific licence for Islamic fintech in Tunisia?",
+        "a": "No. Islamic fintechs fall under the same rules as other financial services: a bank licence for deposits and credit, a payment institution licence for payment accounts, or the microfinance framework. Products also need validation from a sharia board."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Fintech islamique en Tunisie : Zitouna, Al Baraka et Wifak",
+    "meta_description": "Les trois banques islamiques détiennent environ 8 % des dépôts. Comment Zitouna, Al Baraka et Wifak se numérisent et où la fintech islamique peut grandir.",
+    "excerpt": "Les banques islamiques pèsent moins de 10 % du secteur, mais leurs wallets, réseaux d'agents et plateformes de microfinance dessinent la fintech islamique tunisienne.",
+    "keywords": [
+      "fintech islamique Tunisie",
+      "finance islamique Tunisie",
+      "Banque Zitouna digital",
+      "Wifak Bank",
+      "Al Baraka Bank Tunisie",
+      "Zitouna Payment izi",
+      "microfinance islamique Tunisie"
+    ],
+    "tags": [
+      "Finance islamique",
+      "Banques",
+      "Microfinance",
+      "Paiement mobile"
+    ],
+    "key_takeaways": [
+      "Fin 2023, les trois banques islamiques détenaient 8,0 % des dépôts, 7,4 % des crédits et 6,9 % des actifs du secteur.",
+      "La loi 2016-48 a créé le premier cadre dédié à la banque islamique et autorise les fenêtres islamiques dans les banques conventionnelles.",
+      "L'essentiel de la fintech islamique vient des filiales et partenaires des banques, comme l'application izi de Zitouna Payment ou la plateforme de crédit de Zitouna Tamkeen.",
+      "Les startups indépendantes sont rares et relèvent des règles bancaires et de paiement de droit commun."
+    ],
+    "body": "La fintech islamique en Tunisie repose sur une base modeste mais en progression régulière. Les trois banques islamiques du pays (Banque Zitouna, Al Baraka Bank et Wifak Bank) détenaient environ 8 % des dépôts du secteur fin 2023, et c'est autour de leurs offres numériques, du wallet mobile au logiciel de microfinance, que se concentre l'essentiel de l'activité.\n\n## Le socle bancaire islamique\n\nLa finance islamique dispose d'un cadre juridique complet depuis la **loi n° 2016-48** relative aux banques et aux établissements financiers. Selon Oxford Business Group, ce fut le premier cadre réglementaire dédié aux services conformes à la charia, et la version finale a permis aux banques conventionnelles de proposer des produits islamiques via des « fenêtres islamiques ».\n\nTrois banques dominent le segment. L'analyse d'Ilboursa sur les comptes 2023 donne leurs parts de marché cumulées :\n\n- **Dépôts** : 8,0 % du secteur (+0,2 point)\n- **Crédits** : 7,4 % (+0,6 point)\n- **Total bilan** : 6,9 % (+0,2 point)\n\nLeur encours de financements atteignait 7 943 millions de dinars en 2023, dont 71,5 % en **mourabaha** (vente avec marge) et 15,5 % en **ijara** (location). Le PNB cumulé s'élevait à 564 millions de dinars et le résultat net à 140 millions.\n\nLes trois établissements sont de tailles très différentes. Selon African Manager, le total bilan fin 2025 était d'environ 8 150 millions de dinars pour Zitouna, 2 657 millions pour Al Baraka Tunisie et 2 046 millions pour Wifak. Wifak, la plus petite, est aussi la plus dynamique : Challenges fait état d'une croissance annuelle moyenne de l'actif d'environ 20 % sur cinq ans, et Fitch a relevé sa note nationale à long terme à BBB-(tun) en mars 2026.\n\n## La fintech islamique en Tunisie : qui construit quoi\n\nL'essentiel de l'activité vient des filiales et partenaires des banques plutôt que de startups indépendantes.\n\n### Zitouna Payment et l'application izi\n\nBanque Zitouna a créé **Zitouna Payment**, établissement de paiement agréé par la BCT en novembre 2021. L'application de paiement mobile izi a été lancée en mars 2022 : ouverture de compte, dépôts et retraits d'espèces, transferts entre particuliers, paiement de factures et recharges téléphoniques. Les personnes sans smartphone peuvent passer par un réseau d'agents mandatés. Au lancement, Banque Zitouna détenait 51 % du capital, aux côtés de Zitouna Takaful et Zitouna Finance, et la société annonçait 500 agents. Voir notre dossier sur les [établissements de paiement en Tunisie](post:payment-institutions-tunisia).\n\n### Le wallet d'Al Baraka\n\nEn août 2022, Al Baraka Bank a annoncé un service de portefeuille mobile en Tunisie avec Tunisian Digital Finance for People (TDFP), filiale de VYZYO. Le service visait les paiements administratifs et marchands, les transferts et des versements comme les pensions ou la micro-assurance, y compris sur téléphones basiques via SMS, USSD et serveur vocal.\n\n### La microfinance islamique se numérise\n\n**Zitouna Tamkeen**, institution de microfinance islamique fondée avec la Banque islamique de développement, Banque Zitouna, Zitouna Takaful et d'autres partenaires, a démarré son activité en décembre 2016. En juin 2025, elle a mis en production la plateforme de gestion du crédit ICM, de l'éditeur tunisien Talys Solutions : enrôlement, demandes de financement en ligne, scoring, contrôles anti-blanchiment, décaissement et recouvrement, avec un moteur de règles adapté aux produits islamiques et un reporting aligné sur l'Autorité de contrôle de la microfinance (ACM). Plus de détails dans notre article sur la [microfinance en Tunisie](post:microfinance-tunisia).\n\n### Les startups\n\nLes startups indépendantes restent rares. **PAYDAY Takaful** dit proposer des avances sur salaire sans intérêt, adossées à la paie et couplées à une micro-assurance takaful. Dans un communiqué d'octobre 2025, la société a annoncé un tour de pré-amorçage d'un montant non divulgué, mené par United Gulf Financial Services – North Africa, avec TALYS Group et BioProtection parmi les investisseurs. Les volumes qu'elle avance n'ont pas été vérifiés de façon indépendante.\n\n## Pourquoi le numérique compte davantage pour les banques islamiques\n\nLes banques islamiques tunisiennes font face à des contraintes propres que la technologie peut atténuer :\n\n- **Complexité des produits.** Mourabaha et ijara supposent l'achat puis la revente ou la location d'un bien, d'où davantage de documents et d'étapes qu'un crédit classique. Le traitement numérique réduit coûts et erreurs.\n- **Taille.** Avec une part de marché à un chiffre, elles ne peuvent rivaliser avec les réseaux d'agences des grandes banques conventionnelles. Agents et applications étendent leur portée à moindre coût.\n- **Efficacité.** Challenges relève que le coefficient d'exploitation de Wifak (71,2 % en 2025) traduit une mise à niveau technologique intensive, et cite la digitalisation des parcours et l'industrialisation du scoring parmi les priorités.\n- **Inclusion.** Certains Tunisiens évitent les produits à intérêt pour des raisons religieuses. Des services numériques conformes à la charia peuvent les amener vers la finance formelle. Voir notre point sur [l'inclusion financière en Tunisie](post:financial-inclusion-tunisia).\n\n## Opportunités et limites pour les fondateurs\n\nLe segment islamique offre quelques ouvertures concrètes :\n\n1. **Le logiciel B2B** pour banques islamiques, institutions de microfinance et assureurs takaful, comme le montre l'exemple de Talys.\n2. **Le crédit à la consommation conforme à la charia**, comme l'accès anticipé au salaire ou la vente à tempérament, à condition d'une validation par un comité charia et d'une conformité à la réglementation tunisienne.\n3. **La distribution par agents** dans les régions où les banques islamiques sont peu présentes.\n\nLes limites sont réelles : le marché est étroit, la réglementation ne connaît pas de catégorie « fintech islamique » et tout produit touchant aux dépôts ou au crédit relève des règles bancaires et de paiement de la BCT. Mieux vaut s'entourer dès le départ d'un conseiller charia et d'un conseiller réglementaire.",
+    "faq": [
+      {
+        "q": "Combien y a-t-il de banques islamiques en Tunisie ?",
+        "a": "Trois banques entièrement islamiques opèrent en Tunisie : Banque Zitouna, Al Baraka Bank Tunisie et Wifak Bank. Depuis la loi 2016-48, les banques conventionnelles peuvent aussi proposer des produits islamiques via des fenêtres dédiées."
+      },
+      {
+        "q": "Qu'est-ce que Zitouna Payment ?",
+        "a": "Zitouna Payment est un établissement de paiement détenu majoritairement par Banque Zitouna et agréé par la BCT en novembre 2021. Son application izi, lancée en mars 2022, permet transferts, paiement de factures, recharges et opérations en espèces, notamment via des agents."
+      },
+      {
+        "q": "Existe-t-il un agrément spécifique pour la fintech islamique ?",
+        "a": "Non. Les fintechs islamiques relèvent des mêmes règles que les autres services financiers : agrément bancaire pour les dépôts et le crédit, agrément d'établissement de paiement ou cadre de la microfinance. Les produits doivent en outre être validés par un comité charia."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Les trois banques islamiques en Tunisie consolident leur part de marché",
+      "publisher": "Ilboursa",
+      "url": "https://www.ilboursa.com/marches/les-trois-banques-islamiques-en-tunisie-consolident-leur-part-de-marche_49771"
+    },
+    {
+      "title": "Trois banques islamiques, trois échelles",
+      "publisher": "African Manager",
+      "url": "https://africanmanager.com/trois-banques-islamiques-trois-echelles-une1/"
+    },
+    {
+      "title": "Wifak Bank : l'ascension d'un perturbateur dans la finance islamique tunisienne",
+      "publisher": "Challenges",
+      "url": "https://www.challenges.tn/entreprises/wifak-bank-lascension-dun-perturbateur-dans-la-finance-islamique-tunisienne/"
+    },
+    {
+      "title": "Zitouna Payment dévoile l'application de paiement mobile izi",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2022/03/25/zitouna-payment-devoile-application-paiement-mobile-izi/"
+    },
+    {
+      "title": "Zitouna Tamkeen lance un nouveau système d'information (plateforme ICM de Talys)",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2025/06/19/zitouna-tamkeen-lance-nouveau-systeme-dinformation-plateforme-icm-talys-digitaliser-gestion-financements-microfinance-islamique/"
+    },
+    {
+      "title": "By the book: A new banking law provides clearer guidelines",
+      "publisher": "Oxford Business Group",
+      "url": "https://oxfordbusinessgroup.com/reports/tunisia/2017-report/economy/by-the-book-a-new-banking-law-provides-clearer-guidelines-for-investors-and-financial-institutions"
+    }
+  ]
+}

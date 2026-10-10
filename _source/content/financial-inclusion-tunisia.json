@@ -1,0 +1,186 @@
+{
+  "slug": "financial-inclusion-tunisia",
+  "category": "inclusion",
+  "cover_motif": "people",
+  "stats": [
+    {
+      "value": "37.8%",
+      "label_en": "of Tunisian adults had an account in 2024",
+      "label_fr": "des adultes tunisiens avaient un compte en 2024",
+      "source": "World Bank Global Findex, 2025"
+    },
+    {
+      "value": "23 pts",
+      "label_en": "gap between men (49.6%) and women (26.6%)",
+      "label_fr": "d'écart entre hommes (49,6 %) et femmes (26,6 %)",
+      "source": "World Bank Global Findex, 2025"
+    },
+    {
+      "value": "11.7%",
+      "label_en": "of 15–24-year-olds had an account in 2024",
+      "label_fr": "des 15-24 ans avaient un compte en 2024",
+      "source": "World Bank Global Findex, 2025"
+    }
+  ],
+  "chart": {
+    "title_en": "Adults with an account, 2024 (% age 15+)",
+    "title_fr": "Adultes détenant un compte, 2024 (% des 15 ans et plus)",
+    "unit": "%",
+    "bars": [
+      {
+        "label_en": "Algeria",
+        "label_fr": "Algérie",
+        "value": 35.3
+      },
+      {
+        "label_en": "Tunisia",
+        "label_fr": "Tunisie",
+        "value": 37.8
+      },
+      {
+        "label_en": "Egypt",
+        "label_fr": "Égypte",
+        "value": 43.1
+      },
+      {
+        "label_en": "Morocco",
+        "label_fr": "Maroc",
+        "value": 44.4
+      },
+      {
+        "label_en": "Low & middle income",
+        "label_fr": "Pays à revenu faible et intermédiaire",
+        "value": 75.4
+      },
+      {
+        "label_en": "World",
+        "label_fr": "Monde",
+        "value": 78.7
+      }
+    ],
+    "source_name": "World Bank, Global Findex 2025 (indicator FX.OWN.TOTL.ZS)",
+    "source_url": "https://www.worldbank.org/en/publication/globalfindex"
+  },
+  "en": {
+    "title": "Financial Inclusion in Tunisia: What the Findex Data Says",
+    "meta_description": "Only 37.8% of Tunisian adults had an account in 2024. What the World Bank Findex reveals about gaps by gender, age and income, and what it means for fintech.",
+    "excerpt": "Tunisia's account ownership rate has barely moved since 2017. The latest Findex data shows who is left out, and why cash still dominates.",
+    "keywords": [
+      "financial inclusion Tunisia",
+      "Tunisia Global Findex 2025",
+      "Tunisia account ownership",
+      "unbanked Tunisia",
+      "Tunisia financial inclusion gender gap",
+      "digital payments Tunisia",
+      "Tunisia fintech inclusion"
+    ],
+    "tags": [
+      "Financial inclusion",
+      "Findex",
+      "World Bank",
+      "Data"
+    ],
+    "key_takeaways": [
+      "Only 37.8% of Tunisian adults had an account in 2024, up from 36.9% in 2017, according to the World Bank's Global Findex.",
+      "Tunisia trails Morocco (44.4%) and Egypt (43.1%) and is far below the global average of 78.7%.",
+      "Women (26.6%), young adults aged 15–24 (11.7%) and the poorest 40% of households (21.7%) are the most excluded.",
+      "Digital payments are growing fast from a small base, but cash still dominates everyday transactions."
+    ],
+    "body": "Financial inclusion in Tunisia has barely moved in a decade. According to the World Bank's Global Findex 2025, only 37.8% of Tunisian adults had an account in 2024, almost unchanged since 2017 and well below Morocco, Egypt and the global average. Behind that headline sit wide gaps by gender, age and income, and an economy that still runs largely on cash.\n\n## What the Findex data says about financial inclusion in Tunisia\n\nThe Global Findex survey is the standard international measure of who has an account at a bank, another financial institution or a mobile money provider. Tunisia's results across four rounds:\n\n- **2014:** 27.4% of adults had an account\n- **2017:** 36.9%\n- **2021:** 36.9%\n- **2024:** 37.8%\n\nThe jump between 2014 and 2017 was followed by seven years of near stagnation. Over the same period, Egypt rose from 14.1% (2014) to 43.1% (2024), while Morocco stood at 44.4% in 2024. Algeria, at 35.3%, is the only North African peer below Tunisia. Worldwide, 78.7% of adults now have an account, and the average for low- and middle-income economies is 75.4%.\n\n## Who is left out\n\nThe averages hide steep differences between groups. In the 2024 Findex data for Tunisia:\n\n- **Women:** 26.6% have an account, against 49.6% of men. The gap widened from about 16 points in 2021 to 23 points in 2024. We look at this in detail in [women and access to finance](post:women-financial-inclusion-tunisia).\n- **Young adults:** only 11.7% of 15–24-year-olds have an account, down from 24.3% in 2021. Among adults aged 25 and over, the figure is 45.5%.\n- **Lower-income households:** 21.7% of adults in the poorest 40% of households have an account, down from 32.0% in 2021.\n\nThese declines for young and poorer adults are large. Findex results are based on a survey sample, so year-to-year changes for sub-groups should be read with some caution, but the direction is clear: the gains of recent years have not reached the people who most need them.\n\n## The role of La Poste and microfinance\n\nTunisia's inclusion story is not only about banks. La Poste Tunisienne reported 4.713 million savers at the end of September 2026, which it says represents about a quarter of national savings. Its e-Dinar card and D17 mobile app are often the first financial product for students and low-income households (see [La Poste's e-Dinar and D17](post:la-poste-tunisienne-e-dinar-d17)).\n\nMicrofinance is the other main channel. According to the microfinance regulator ACM, more than 800,000 people had a microloan in 2024. Credit is expensive, however: the average effective rate reached 25.7% at the end of 2024. Our [microfinance explainer](post:microfinance-tunisia) covers the sector in depth.\n\n## Cash still dominates daily life\n\nAccount ownership is only half the picture. Usage matters too, and here cash remains king. A 2026 study by the Observatoire de l'inclusion financière (OIF) and UNDP, conducted in seven interior and southern governorates, found that 98% of women surveyed preferred cash and 55% of working women were still paid in cash. Among young people surveyed, 99% used cash and only 8% held an e-wallet. The study notes its samples are not nationally representative.\n\nCentral Bank of Tunisia (BCT) data shows the same pattern at national level. In the first half of 2025, 62% of bank card transactions were cash withdrawals rather than payments. Banknotes and coins in circulation also kept rising through 2025 and 2026. We explore why in [Tunisia's cash economy](post:cash-economy-tunisia).\n\n## Digital payments are growing from a low base\n\nThere are signs of progress. According to the BCT's payments bulletin for the first quarter of 2026:\n\n- online card payments reached 5.2 million transactions, up 28.4% year on year;\n- mobile payment wallets counted 477,000 active users, up 22.2%;\n- 17 payment service providers were licensed, up 34.5% on a year earlier.\n\nBut 477,000 active wallets remains small next to the millions of Tunisian adults without an account. The same bulletin shows cash-out operations from wallets growing faster than payments, a sign that many users still convert digital money back into cash. See our overview of [mobile payments in Tunisia](post:mobile-payments-tunisia).\n\n## Cost and trust are barriers\n\nThe OIF/UNDP study points to several obstacles beyond geography:\n\n- **Cost.** A 2024 BCT circular temporarily capped account fees at TND 36 per year (down from TND 68) for clients earning under TND 1,500 a month, and made bank cards free for a year.\n- **Price of credit.** Microfinance loans averaged 31% in the study's data, against 9.5% for bank loans.\n- **Trust.** 46% of young people surveyed did not trust digital services to manage their money, and 22% of women distrusted microfinance institutions.\n- **Distance.** Only 32% of rural women surveyed could reach a financial institution within 15 minutes, against 54% of urban women.\n\n## Why it matters for fintech founders\n\nFor Tunisian fintechs, the Findex numbers describe both the problem and the opportunity. More than six in ten adults have no account, and most of them are women, young people and lower-income households. Products that win here will likely be cheap or free, work with cash at the edges (agents, cash-in and cash-out points), and earn trust through simple design and clear pricing.\n\nThe regulatory side matters too. Payment institution licences and the BCT sandbox have opened the door to non-bank players (see [payment institutions in Tunisia](post:payment-institutions-tunisia)). Whether they can move the needle will show up in the next Findex round.",
+    "faq": [
+      {
+        "q": "What percentage of Tunisians have a bank account?",
+        "a": "According to the World Bank's Global Findex 2025, 37.8% of Tunisian adults (age 15+) had an account at a financial institution or mobile money provider in 2024. That figure includes postal and other non-bank accounts, and has barely changed since 2017."
+      },
+      {
+        "q": "Is Tunisia behind Morocco and Egypt on financial inclusion?",
+        "a": "Yes. In the 2024 Findex data, Morocco stood at 44.4% and Egypt at 43.1%, against 37.8% for Tunisia. Egypt in particular grew quickly, from 14.1% in 2014. Algeria (35.3%) is slightly below Tunisia."
+      },
+      {
+        "q": "Who is most excluded from financial services in Tunisia?",
+        "a": "Women, young people and lower-income households. In 2024, 26.6% of women had an account against 49.6% of men, only 11.7% of 15–24-year-olds had one, and 21.7% of adults in the poorest 40% of households did."
+      },
+      {
+        "q": "Is mobile money growing in Tunisia?",
+        "a": "Yes, but from a small base. Central Bank of Tunisia data for the first quarter of 2026 counted 477,000 active mobile payment wallets, up 22.2% on a year earlier, with 17 licensed payment service providers."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Inclusion financière en Tunisie : ce que disent les chiffres",
+    "meta_description": "Seuls 37,8 % des adultes tunisiens avaient un compte en 2024. Ce que révèle le Findex de la Banque mondiale sur les écarts de genre, d'âge et de revenu.",
+    "excerpt": "Le taux de bancarisation tunisien stagne depuis 2017. Les dernières données Findex montrent qui reste à l'écart, et pourquoi le cash domine toujours.",
+    "keywords": [
+      "inclusion financière Tunisie",
+      "Global Findex 2025 Tunisie",
+      "taux de bancarisation Tunisie",
+      "non bancarisés Tunisie",
+      "écart de genre inclusion financière",
+      "paiement numérique Tunisie",
+      "fintech inclusion Tunisie"
+    ],
+    "tags": [
+      "Inclusion financière",
+      "Findex",
+      "Banque mondiale",
+      "Données"
+    ],
+    "key_takeaways": [
+      "Seuls 37,8 % des adultes tunisiens avaient un compte en 2024, contre 36,9 % en 2017, selon le Global Findex de la Banque mondiale.",
+      "La Tunisie est derrière le Maroc (44,4 %) et l'Égypte (43,1 %), et très loin de la moyenne mondiale de 78,7 %.",
+      "Les femmes (26,6 %), les 15-24 ans (11,7 %) et les 40 % de ménages les plus pauvres (21,7 %) sont les plus exclus.",
+      "Le paiement numérique progresse vite à partir d'une base étroite, mais le cash domine encore les transactions du quotidien."
+    ],
+    "body": "L'inclusion financière en Tunisie n'a presque pas progressé en dix ans. Selon le Global Findex 2025 de la Banque mondiale, seuls 37,8 % des adultes tunisiens détenaient un compte en 2024, un taux quasi inchangé depuis 2017 et nettement inférieur à ceux du Maroc, de l'Égypte et de la moyenne mondiale. Derrière ce chiffre se cachent de forts écarts selon le genre, l'âge et le revenu, et une économie qui fonctionne encore largement en espèces.\n\n## Ce que disent les données Findex sur l'inclusion financière en Tunisie\n\nL'enquête Global Findex est la référence internationale pour mesurer qui possède un compte dans une banque, une autre institution financière ou auprès d'un fournisseur de mobile money. Les résultats de la Tunisie sur quatre éditions :\n\n- **2014 :** 27,4 % des adultes avaient un compte\n- **2017 :** 36,9 %\n- **2021 :** 36,9 %\n- **2024 :** 37,8 %\n\nLe bond de 2014 à 2017 a été suivi de sept années de quasi-stagnation. Sur la même période, l'Égypte est passée de 14,1 % (2014) à 43,1 % (2024), et le Maroc atteignait 44,4 % en 2024. Seule l'Algérie, à 35,3 %, fait moins bien que la Tunisie au Maghreb. À l'échelle mondiale, 78,7 % des adultes ont désormais un compte, et la moyenne des pays à revenu faible et intermédiaire est de 75,4 %.\n\n## Qui reste à l'écart\n\nLes moyennes masquent des différences marquées. Dans les données Findex 2024 pour la Tunisie :\n\n- **Les femmes :** 26,6 % ont un compte, contre 49,6 % des hommes. L'écart s'est creusé, d'environ 16 points en 2021 à 23 points en 2024. Nous y revenons dans notre article sur [les femmes et l'accès au financement](post:women-financial-inclusion-tunisia).\n- **Les jeunes :** seuls 11,7 % des 15-24 ans ont un compte, contre 24,3 % en 2021. Chez les 25 ans et plus, le taux est de 45,5 %.\n- **Les ménages modestes :** 21,7 % des adultes appartenant aux 40 % de ménages les plus pauvres ont un compte, contre 32,0 % en 2021.\n\nCes reculs chez les jeunes et les plus modestes sont importants. Le Findex repose sur un échantillon, et les variations d'une édition à l'autre pour les sous-groupes doivent être lues avec prudence. Mais la tendance est nette : les progrès récents n'ont pas atteint ceux qui en ont le plus besoin.\n\n## Le rôle de La Poste et de la microfinance\n\nL'inclusion ne passe pas seulement par les banques. La Poste tunisienne revendiquait 4,713 millions d'épargnants fin septembre 2026, soit environ un quart de l'épargne nationale selon elle. Sa carte e-Dinar et son application D17 sont souvent le premier produit financier des étudiants et des ménages modestes (voir [l'e-Dinar et D17 de La Poste](post:la-poste-tunisienne-e-dinar-d17)).\n\nLa microfinance est l'autre grand canal. Selon l'Autorité de contrôle de la microfinance (ACM), plus de 800 000 personnes avaient un microcrédit en 2024. Mais le crédit coûte cher : le taux effectif global moyen atteignait 25,7 % fin 2024. Notre [dossier sur la microfinance](post:microfinance-tunisia) détaille le secteur.\n\n## Le cash domine toujours le quotidien\n\nDétenir un compte ne suffit pas ; encore faut-il s'en servir. Et sur ce plan, les espèces restent reines. Une étude de 2026 de l'Observatoire de l'inclusion financière (OIF) et du PNUD, menée dans sept gouvernorats de l'intérieur et du Sud, montre que 98 % des femmes interrogées préfèrent le cash et que 55 % des femmes actives sont encore payées en espèces. Chez les jeunes interrogés, 99 % utilisent le cash et seuls 8 % possèdent un portefeuille électronique. L'étude précise que ses échantillons ne sont pas représentatifs à l'échelle nationale.\n\nLes données de la Banque centrale de Tunisie (BCT) confirment cette tendance. Au premier semestre 2025, 62 % des opérations par carte bancaire étaient des retraits, et non des paiements. Les billets et pièces en circulation ont par ailleurs continué d'augmenter en 2025 et 2026. Nous analysons ce phénomène dans notre article sur [l'économie du cash en Tunisie](post:cash-economy-tunisia).\n\n## Le paiement numérique progresse, mais part de loin\n\nLes signes de progrès existent. Selon le bulletin des paiements de la BCT pour le premier trimestre 2026 :\n\n- les paiements en ligne ont atteint 5,2 millions de transactions, en hausse de 28,4 % sur un an ;\n- les portefeuilles de paiement mobile comptaient 477 000 utilisateurs actifs, soit + 22,2 % ;\n- 17 prestataires de services de paiement étaient agréés (+ 34,5 % sur un an).\n\nMais 477 000 portefeuilles actifs, c'est encore peu au regard des millions d'adultes tunisiens sans compte. Le même bulletin montre que les retraits d'espèces depuis les portefeuilles progressent plus vite que les paiements : beaucoup d'utilisateurs reconvertissent leur argent numérique en cash. Voir notre panorama du [paiement mobile en Tunisie](post:mobile-payments-tunisia).\n\n## Coût et confiance, deux freins majeurs\n\nL'étude OIF/PNUD relève plusieurs obstacles au-delà de la géographie :\n\n- **Le coût.** Une circulaire de la BCT de 2024 a plafonné temporairement les frais de tenue de compte à 36 dinars par an (contre 68 dinars) pour les clients gagnant moins de 1 500 dinars par mois, et rendu la carte bancaire gratuite pendant un an.\n- **Le prix du crédit.** Les microcrédits affichaient un taux moyen de 31 % dans les données de l'étude, contre 9,5 % pour les prêts bancaires.\n- **La confiance.** 46 % des jeunes interrogés ne font pas confiance aux services numériques pour gérer leur argent, et 22 % des femmes se méfient des institutions de microfinance.\n- **La distance.** Seules 32 % des femmes rurales interrogées peuvent rejoindre une institution financière en moins de 15 minutes, contre 54 % des citadines.\n\n## Ce que cela signifie pour les fondateurs de fintech\n\nPour les fintechs tunisiennes, les chiffres du Findex décrivent à la fois le problème et l'opportunité. Plus de six adultes sur dix n'ont pas de compte, et ce sont surtout des femmes, des jeunes et des ménages modestes. Les produits qui réussiront seront sans doute gratuits ou très bon marché, compatibles avec le cash à la marge (agents, points de dépôt et de retrait) et capables de gagner la confiance par la simplicité et la transparence des prix.\n\nLe cadre réglementaire compte aussi. Les agréments d'établissement de paiement et le bac à sable de la BCT ont ouvert la porte aux acteurs non bancaires (voir [les établissements de paiement en Tunisie](post:payment-institutions-tunisia)). Leur capacité à faire bouger les lignes se lira dans la prochaine édition du Findex.",
+    "faq": [
+      {
+        "q": "Quel pourcentage de Tunisiens possède un compte bancaire ?",
+        "a": "Selon le Global Findex 2025 de la Banque mondiale, 37,8 % des adultes tunisiens (15 ans et plus) détenaient en 2024 un compte dans une institution financière ou auprès d'un fournisseur de mobile money. Ce chiffre inclut les comptes postaux et n'a presque pas bougé depuis 2017."
+      },
+      {
+        "q": "La Tunisie est-elle en retard sur le Maroc et l'Égypte ?",
+        "a": "Oui. Dans les données Findex 2024, le Maroc est à 44,4 % et l'Égypte à 43,1 %, contre 37,8 % pour la Tunisie. L'Égypte a notamment progressé très vite depuis 14,1 % en 2014. L'Algérie (35,3 %) est légèrement en dessous."
+      },
+      {
+        "q": "Qui est le plus exclu des services financiers en Tunisie ?",
+        "a": "Les femmes, les jeunes et les ménages modestes. En 2024, 26,6 % des femmes avaient un compte contre 49,6 % des hommes, seuls 11,7 % des 15-24 ans en possédaient un, et 21,7 % des adultes des 40 % de ménages les plus pauvres."
+      },
+      {
+        "q": "Le paiement mobile progresse-t-il en Tunisie ?",
+        "a": "Oui, mais à partir d'une base réduite. Les données de la BCT pour le premier trimestre 2026 font état de 477 000 portefeuilles mobiles actifs, en hausse de 22,2 % sur un an, et de 17 prestataires de services de paiement agréés."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "The Global Findex Database 2025",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/publication/globalfindex"
+    },
+    {
+      "title": "Account ownership (% of population ages 15+), Tunisia — API data",
+      "publisher": "World Bank",
+      "url": "https://api.worldbank.org/v2/country/TUN/indicator/FX.OWN.TOTL.ZS?format=json"
+    },
+    {
+      "title": "Femmes et jeunes tunisiens face aux services financiers : le cash reste roi",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2026/09/22/inclusion-financiere-femmes-jeunes-tunisiens-services-financiers-cash/"
+    },
+    {
+      "title": "Paiements numériques en Tunisie : la bascule s'accélère au premier trimestre 2026",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2026/06/16/paiements-numeriques-bascule/"
+    },
+    {
+      "title": "Le coût du microcrédit s'envole : le TEG atteint 25,7 % fin 2024",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2025/06/29/le-cout-du-microcredit-senvole-le-teg-atteint-257-fin-2024/"
+    },
+    {
+      "title": "La Poste tunisienne comptait 4,7 millions d'épargnants à fin septembre",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2026/10/09/la-poste-tunisienne-comptait-47-millions-depargnants-a-fin-septembre/"
+    }
+  ]
+}

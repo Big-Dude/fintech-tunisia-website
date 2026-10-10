@@ -1,0 +1,142 @@
+{
+  "slug": "stablecoins-africa",
+  "category": "africa",
+  "cover_motif": "coins",
+  "stats": [
+    {
+      "value": "$205bn",
+      "label_en": "on-chain value received by Sub-Saharan Africa, Jul 2024–Jun 2025",
+      "label_fr": "de valeur on-chain reçue par l'Afrique subsaharienne, juil. 2024–juin 2025",
+      "source": "Chainalysis, 2025"
+    },
+    {
+      "value": "$92.1bn",
+      "label_en": "received by Nigeria alone over the same period",
+      "label_fr": "reçus par le seul Nigeria sur la même période",
+      "source": "Chainalysis, 2025"
+    },
+    {
+      "value": "24th",
+      "label_en": "Morocco's global rank in crypto adoption in 2025, despite a ban",
+      "label_fr": "rang mondial du Maroc en adoption crypto en 2025, malgré l'interdiction",
+      "source": "Chainalysis via Morocco World News, 2025"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Stablecoins in Africa: Adoption, Rules and Tunisia",
+    "meta_description": "Stablecoins in Africa: why USDT and USDC spread, how Kenya, Nigeria and Morocco regulate them, and where Tunisia's crypto and FX code debate stands in 2026.",
+    "excerpt": "Sub-Saharan Africa received over $205 billion in crypto in a year, and stablecoins are now a dollar substitute. Regulators are moving from bans to licences. Tunisia has not yet.",
+    "keywords": [
+      "stablecoins in Africa",
+      "USDT Africa",
+      "crypto adoption Africa 2025",
+      "Kenya VASP Act",
+      "Morocco crypto law",
+      "crypto Tunisia legal",
+      "Chainalysis Africa"
+    ],
+    "tags": [
+      "Stablecoins",
+      "Crypto",
+      "Regulation",
+      "Nigeria",
+      "Kenya"
+    ],
+    "key_takeaways": [
+      "Sub-Saharan Africa received over $205 billion in on-chain value between July 2024 and June 2025, up about 52%, with Nigeria taking $92.1 billion.",
+      "Stablecoins such as USDT and USDC are used as a dollar substitute for savings, trade payments and business settlements.",
+      "Kenya's 2025 VASP Act puts stablecoins under its central bank, and Morocco's draft Bill 42.25 would do the same with Bank Al-Maghrib.",
+      "Tunisia has no crypto law; a new FX code bill was still in committee in June 2026."
+    ],
+    "body": "Across Africa, dollar-pegged tokens such as USDT and USDC have become a practical tool for saving, paying suppliers and moving money across borders where hard currency is scarce. **Stablecoins in Africa** are now large enough that regulators from Nairobi to Rabat are writing rules for them. Tunisia, with strict currency controls and a large diaspora, faces the same questions but has not yet answered them.\n\n## How big is crypto in Africa?\n\nBlockchain analytics firm [Chainalysis](https://www.chainalysis.com/blog/subsaharan-africa-crypto-adoption-2025/) estimates that Sub-Saharan Africa received more than $205 billion in on-chain value between July 2024 and June 2025, up about 52% on the previous year. That made it the third-fastest-growing region in the world, behind Asia-Pacific and Latin America.\n\nActivity is concentrated:\n\n- **Nigeria** received over $92.1 billion, nearly three times the next country;\n- **South Africa**, Ethiopia, Kenya and Ghana complete the regional top five;\n- monthly volume peaked at almost $25 billion in March 2025, largely driven by Nigerian exchange activity after a currency devaluation.\n\nRetail use is significant. Transfers under $10,000 made up over 8% of regional value, against 6% elsewhere. These figures cover on-chain flows and do not fully capture peer-to-peer and informal trading, so the real picture may be larger.\n\n## Why stablecoins and not just bitcoin?\n\nBitcoin still dominates purchases with local currency in the largest markets: it accounted for 89% of fiat purchases in Nigeria and 74% in South Africa, according to Chainalysis. Stablecoins serve a different purpose. They are used as a dollar substitute.\n\nA review of the data by [All Business Africa](https://allbusiness.africa/insights/africa-crypto-stablecoins-2026) highlights three main uses:\n\n- **Savings protection.** In Nigeria, stablecoins act as a dollar proxy amid inflation and restricted access to foreign currency.\n- **Trade payments.** Chainalysis describes multi-million-dollar stablecoin transfers linking Africa, the Middle East and Asia, supporting energy and merchant payments.\n- **Business on- and off-ramps.** Firms such as Yellow Card, which operates in around 20 African countries, convert local currencies into USDT and USDC for companies.\n\nUSDT and USDC dominate; euro-denominated tokens remain small.\n\n## North Africa: high use despite bans\n\nNorth African countries do not appear in Chainalysis's Sub-Saharan figures, but they show up in its global ranking. In the 2025 Global Crypto Adoption Index, **Morocco ranked 24th** and **Egypt 26th** in the world, ahead of South Africa (28th), according to [Morocco World News](https://www.moroccoworldnews.com/2025/10/265983/morocco-strengthens-its-position-among-leading-cryptocurrency-markets/). Morocco reached this position even though crypto has been officially prohibited there since 2017. The Middle East and North Africa region as a whole saw crypto transactions grow 33% over the same period.\n\nThe gap between a formal ban and real use is the central policy problem for North Africa: bans push activity to unregulated platforms and peer-to-peer markets, where consumers have no protection and authorities have little visibility.\n\n## Regulators are moving from bans to licences\n\nSeveral African countries are now bringing stablecoins into the regulated perimeter:\n\n- **Kenya** signed its Virtual Asset Service Providers Act on 15 October 2025, effective 4 November 2025. The Central Bank of Kenya oversees stablecoins and payment services, while the Capital Markets Authority oversees exchanges. Stablecoin issuers must hold full collateral with licensed Kenyan custodians and guarantee redemption, according to [Launch Base Africa](https://launchbaseafrica.com/2025/10/29/kenyas-crypto-grey-zone-ends-operators-have-12-months-to-join-annual-licensing-club/). Existing operators have 12 months to get licensed.\n- **South Africa** classified crypto assets as financial products, and Absa, one of its largest banks, has turned to Ripple for digital asset custody.\n- **Nigeria** has moved towards formalisation with licensed exchanges, although enforcement remains uneven.\n- **Morocco** published a draft law in November 2025 that would give Bank Al-Maghrib responsibility for stablecoins.\n\nStablecoins also compete with public projects. Afreximbank's Pan-African Payment and Settlement System launched an African Currency Marketplace in July 2025 for direct exchange between African currencies, as explained in our piece on [PAPSS](post:papss-pan-african-payments).\n\n## Where Tunisia stands\n\nTunisia has no dedicated crypto law. In 2023, a preliminary draft of a new foreign exchange code from the Central Bank of Tunisia (BCT) stated that crypto-assets do not have the legal status of a currency. In March 2024, the finance minister said the draft code would allow Tunisians to hold and trade crypto, subject to BCT authorisation and a financial threshold, according to [Managers](https://managers.tn/2024/03/18/code-des-changes-les-tunisiens-peuvent-desormais-detenir-et-echanger-des-cryptomonnaies).\n\nThat government draft was never adopted. Instead, a 91-article bill to replace the 1976 foreign exchange law, filed by 45 MPs in October 2025, was still under committee review in June 2026, according to [La Presse](https://fr.allafrica.com/stories/202606050261.html). Until a new code is passed, buying stablecoins with dinars sits outside any clear legal framework, and foreign exchange rules still apply. Our explainers on [the legal status of crypto in Tunisia](post:crypto-regulation-tunisia) and [FX code reform](post:tunisia-foreign-exchange-code-reform) follow the debate.\n\n## What it means for Tunisian founders\n\n- **Demand exists for the same reasons.** Freelancers paid in foreign currency, importers and diaspora families face currency constraints similar to those driving stablecoin use elsewhere.\n- **Regulation is the bottleneck.** Without a licence category, Tunisian startups cannot legally build on- and off-ramps, and users are left with offshore apps and peer-to-peer deals.\n- **Kenya and Morocco offer templates.** Split supervision, with the central bank on stablecoins and the market regulator on exchanges, plus full reserve backing, is becoming the African norm.\n- **Remittances are the obvious use case**, but only within a legal framework. See our analysis of [diaspora remittance channels](post:diaspora-remittances-tunisia).",
+    "faq": [
+      {
+        "q": "Why are stablecoins popular in Africa?",
+        "a": "In many African countries, access to dollars is restricted and local currencies lose value quickly. Stablecoins pegged to the dollar let people and businesses save, pay suppliers and move money across borders without going through scarce official FX channels."
+      },
+      {
+        "q": "Which African country uses the most crypto?",
+        "a": "Nigeria, by a wide margin. Chainalysis estimates it received over $92.1 billion in on-chain value between July 2024 and June 2025, nearly three times South Africa."
+      },
+      {
+        "q": "Is it legal to buy stablecoins in Tunisia?",
+        "a": "Tunisia has no law that authorises or licenses crypto services, and foreign exchange rules still apply. A new FX code that could address crypto was still under parliamentary review in mid-2026. Users should seek legal advice before acting."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Stablecoins en Afrique : adoption, règles et Tunisie",
+    "meta_description": "Stablecoins en Afrique : pourquoi l'USDT et l'USDC s'imposent, comment le Kenya, le Nigeria et le Maroc les encadrent, et où en est le débat tunisien en 2026.",
+    "excerpt": "L'Afrique subsaharienne a reçu plus de 205 milliards de dollars en crypto en un an, et les stablecoins y servent de dollar de substitution. Les régulateurs passent à l'agrément, pas encore la Tunisie.",
+    "keywords": [
+      "stablecoins Afrique",
+      "USDT Afrique",
+      "adoption crypto Afrique 2025",
+      "loi crypto Kenya",
+      "loi crypto Maroc",
+      "crypto Tunisie légal",
+      "Chainalysis Afrique"
+    ],
+    "tags": [
+      "Stablecoins",
+      "Crypto",
+      "Régulation",
+      "Nigeria",
+      "Kenya"
+    ],
+    "key_takeaways": [
+      "L'Afrique subsaharienne a reçu plus de 205 milliards de dollars on-chain entre juillet 2024 et juin 2025, en hausse d'environ 52 %, dont 92,1 milliards pour le Nigeria.",
+      "Les stablecoins comme l'USDT et l'USDC servent de substitut au dollar pour l'épargne, le commerce et les règlements entre entreprises.",
+      "La loi kényane de 2025 confie les stablecoins à la banque centrale ; le projet de loi marocain 42.25 ferait de même avec Bank Al-Maghrib.",
+      "La Tunisie n'a pas de loi sur la crypto ; une proposition de nouveau code des changes était encore en commission en juin 2026."
+    ],
+    "body": "Partout en Afrique, des jetons adossés au dollar comme l'USDT ou l'USDC sont devenus un outil concret pour épargner, payer des fournisseurs et envoyer de l'argent à l'étranger là où les devises manquent. Les **stablecoins en Afrique** pèsent désormais assez lourd pour que les régulateurs, de Nairobi à Rabat, les encadrent. La Tunisie, avec son contrôle des changes strict et sa large diaspora, se pose les mêmes questions sans y avoir encore répondu.\n\n## Quel poids pour la crypto en Afrique ?\n\nSelon la société d'analyse blockchain [Chainalysis](https://www.chainalysis.com/blog/subsaharan-africa-crypto-adoption-2025/), l'Afrique subsaharienne a reçu plus de 205 milliards de dollars en valeur on-chain entre juillet 2024 et juin 2025, soit environ 52 % de plus que l'année précédente. C'est la troisième région à la croissance la plus rapide au monde, derrière l'Asie-Pacifique et l'Amérique latine.\n\nL'activité est concentrée :\n\n- le **Nigeria** a reçu plus de 92,1 milliards de dollars, près de trois fois plus que le pays suivant ;\n- l'**Afrique du Sud**, l'Éthiopie, le Kenya et le Ghana complètent le top 5 régional ;\n- le volume mensuel a culminé à près de 25 milliards de dollars en mars 2025, porté par l'activité des plateformes nigérianes après une dévaluation.\n\nL'usage de détail est réel : les transferts de moins de 10 000 dollars représentent plus de 8 % de la valeur régionale, contre 6 % ailleurs. Ces données portent sur les flux on-chain et ne couvrent qu'imparfaitement les échanges de gré à gré et informels : la réalité est sans doute plus importante.\n\n## Pourquoi des stablecoins et pas seulement du bitcoin ?\n\nLe bitcoin domine encore les achats en monnaie locale sur les principaux marchés : 89 % des achats en monnaie fiduciaire au Nigeria et 74 % en Afrique du Sud, selon Chainalysis. Les stablecoins jouent un autre rôle : ils servent de substitut au dollar.\n\nUne analyse publiée par [All Business Africa](https://allbusiness.africa/insights/africa-crypto-stablecoins-2026) en distingue trois usages principaux :\n\n- **Protéger son épargne.** Au Nigeria, les stablecoins servent de dollar de substitution face à l'inflation et à l'accès restreint aux devises.\n- **Payer le commerce.** Chainalysis décrit des transferts de plusieurs millions de dollars en stablecoins entre l'Afrique, le Moyen-Orient et l'Asie, pour des paiements liés à l'énergie et au négoce.\n- **Entrer et sortir du système.** Des sociétés comme Yellow Card, présente dans une vingtaine de pays africains, convertissent les monnaies locales en USDT et USDC pour les entreprises.\n\nL'USDT et l'USDC dominent ; les jetons libellés en euros restent marginaux.\n\n## Afrique du Nord : un usage élevé malgré les interdictions\n\nLes pays d'Afrique du Nord ne figurent pas dans les chiffres subsahariens de Chainalysis, mais ils apparaissent dans son classement mondial. Dans l'indice 2025 d'adoption des cryptomonnaies, **le Maroc se classe 24e** et **l'Égypte 26e** au monde, devant l'Afrique du Sud (28e), selon [Morocco World News](https://www.moroccoworldnews.com/2025/10/265983/morocco-strengthens-its-position-among-leading-cryptocurrency-markets/). Le Maroc atteint ce rang alors que la crypto y est officiellement interdite depuis 2017. Sur la même période, les transactions crypto ont progressé de 33 % dans la région Moyen-Orient et Afrique du Nord.\n\nL'écart entre l'interdiction formelle et l'usage réel est le cœur du problème pour l'Afrique du Nord : l'interdiction renvoie l'activité vers des plateformes non régulées et des échanges de gré à gré, où les consommateurs ne sont pas protégés et où les autorités ne voient presque rien.\n\n## Les régulateurs passent de l'interdiction à l'agrément\n\nPlusieurs pays africains font entrer les stablecoins dans le périmètre régulé :\n\n- **Le Kenya** a promulgué sa loi sur les prestataires de services sur actifs virtuels le 15 octobre 2025, en vigueur depuis le 4 novembre 2025. La banque centrale supervise les stablecoins et les services de paiement, l'autorité des marchés de capitaux les plateformes d'échange. Les émetteurs doivent détenir une garantie intégrale auprès de dépositaires kényans agréés et assurer le remboursement, selon [Launch Base Africa](https://launchbaseafrica.com/2025/10/29/kenyas-crypto-grey-zone-ends-operators-have-12-months-to-join-annual-licensing-club/). Les acteurs existants disposent de 12 mois pour obtenir un agrément.\n- **L'Afrique du Sud** a classé les crypto-actifs comme produits financiers, et Absa, l'une de ses plus grandes banques, s'appuie sur Ripple pour la conservation d'actifs numériques.\n- **Le Nigeria** s'oriente vers la formalisation, avec des plateformes agréées, même si l'application des règles reste inégale.\n- **Le Maroc** a publié en novembre 2025 un projet de loi qui confierait les stablecoins à Bank Al-Maghrib.\n\nLes stablecoins concurrencent aussi des projets publics. Le Système panafricain de paiement et de règlement d'Afreximbank a lancé en juillet 2025 un marché des devises africaines permettant l'échange direct entre monnaies du continent, comme l'explique notre article sur [PAPSS](post:papss-pan-african-payments).\n\n## Où en est la Tunisie ?\n\nLa Tunisie n'a pas de loi dédiée à la crypto. En 2023, une version préliminaire du nouveau code des changes préparée par la Banque centrale de Tunisie (BCT) précisait que les crypto-actifs n'ont pas le statut juridique d'une monnaie. En mars 2024, la ministre des Finances indiquait que ce projet permettrait aux Tunisiens de détenir et d'échanger des cryptomonnaies, sous autorisation de la BCT et au-delà d'un seuil financier, selon [Managers](https://managers.tn/2024/03/18/code-des-changes-les-tunisiens-peuvent-desormais-detenir-et-echanger-des-cryptomonnaies).\n\nCe projet gouvernemental n'a pas abouti. À sa place, une proposition de loi de 91 articles visant à remplacer la loi de 1976 sur les changes, déposée par 45 députés en octobre 2025, était encore à l'examen en commission en juin 2026, selon [La Presse](https://fr.allafrica.com/stories/202606050261.html). Tant qu'un nouveau code n'est pas adopté, l'achat de stablecoins avec des dinars ne repose sur aucun cadre juridique clair, et la réglementation des changes continue de s'appliquer. Nos articles sur [le statut juridique de la crypto en Tunisie](post:crypto-regulation-tunisia) et [la réforme du code des changes](post:tunisia-foreign-exchange-code-reform) suivent le débat.\n\n## Ce que cela signifie pour les fondateurs tunisiens\n\n- **La demande existe, pour les mêmes raisons.** Freelances payés en devises, importateurs et familles de la diaspora subissent des contraintes de change comparables à celles qui expliquent l'usage des stablecoins ailleurs.\n- **La réglementation est le goulot d'étranglement.** Sans statut d'agrément, aucune startup tunisienne ne peut légalement proposer de passerelle entre dinar et stablecoins, et les utilisateurs se rabattent sur des applications étrangères et le gré à gré.\n- **Le Kenya et le Maroc offrent des modèles.** Une supervision partagée, la banque centrale pour les stablecoins et le régulateur de marché pour les plateformes, avec des réserves intégrales, devient la norme africaine.\n- **Les transferts de la diaspora sont le cas d'usage évident**, mais seulement dans un cadre légal. Voir notre analyse des [canaux de transfert de la diaspora](post:diaspora-remittances-tunisia).",
+    "faq": [
+      {
+        "q": "Pourquoi les stablecoins sont-ils populaires en Afrique ?",
+        "a": "Dans de nombreux pays africains, l'accès au dollar est limité et les monnaies locales se déprécient vite. Les stablecoins adossés au dollar permettent d'épargner, de payer des fournisseurs et d'envoyer de l'argent à l'étranger sans passer par des circuits de change officiels saturés."
+      },
+      {
+        "q": "Quel pays africain utilise le plus la crypto ?",
+        "a": "Le Nigeria, de loin. Selon Chainalysis, il a reçu plus de 92,1 milliards de dollars en valeur on-chain entre juillet 2024 et juin 2025, près de trois fois plus que l'Afrique du Sud."
+      },
+      {
+        "q": "Est-il légal d'acheter des stablecoins en Tunisie ?",
+        "a": "Aucune loi tunisienne n'autorise ni n'encadre les services sur crypto-actifs, et la réglementation des changes s'applique. Un nouveau code des changes susceptible de traiter la question était encore à l'examen au Parlement à la mi-2026. Mieux vaut consulter un juriste avant d'agir."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sub-Saharan Africa crypto adoption 2025",
+      "publisher": "Chainalysis",
+      "url": "https://www.chainalysis.com/blog/subsaharan-africa-crypto-adoption-2025/"
+    },
+    {
+      "title": "Crypto and stablecoins in Africa",
+      "publisher": "All Business Africa",
+      "url": "https://allbusiness.africa/insights/africa-crypto-stablecoins-2026"
+    },
+    {
+      "title": "Kenya's crypto grey zone ends: operators have 12 months to join annual licensing club",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/10/29/kenyas-crypto-grey-zone-ends-operators-have-12-months-to-join-annual-licensing-club/"
+    },
+    {
+      "title": "Morocco strengthens its position among leading cryptocurrency markets",
+      "publisher": "Morocco World News",
+      "url": "https://www.moroccoworldnews.com/2025/10/265983/morocco-strengthens-its-position-among-leading-cryptocurrency-markets/"
+    },
+    {
+      "title": "Code des changes : les Tunisiens peuvent désormais détenir et échanger des cryptomonnaies",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2024/03/18/code-des-changes-les-tunisiens-peuvent-desormais-detenir-et-echanger-des-cryptomonnaies"
+    },
+    {
+      "title": "Réglementation de change : un nouveau code à l'examen",
+      "publisher": "La Presse de Tunisie (via AllAfrica)",
+      "url": "https://fr.allafrica.com/stories/202606050261.html"
+    }
+  ]
+}

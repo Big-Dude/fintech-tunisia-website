@@ -1,0 +1,148 @@
+{
+  "slug": "tunisia-labor-law-reform-startups",
+  "category": "regulation",
+  "cover_motif": "scales-law",
+  "stats": [
+    {
+      "value": "121",
+      "label_en": "MPs voted for the reform (none against, 4 abstentions)",
+      "label_fr": "Députés favorables à la réforme (aucun contre, 4 abstentions)",
+      "source": "WMC / Launch Base Africa, May 2025"
+    },
+    {
+      "value": "TND 10,000",
+      "label_en": "Fine for illegal subcontracting, doubled for companies",
+      "label_fr": "Amende pour sous-traitance illégale, doublée pour les sociétés",
+      "source": "DLA Piper, 2025"
+    },
+    {
+      "value": "3",
+      "label_en": "Cases where a fixed-term contract is still allowed",
+      "label_fr": "Cas où le CDD reste autorisé",
+      "source": "Law No. 2025-9, via Managers"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Tunisia's 2025 Labour Law Reform: What It Means for Startups",
+    "meta_description": "Tunisia's 2025 labour law reform: CDI by default, three CDD cases, a ban on labour subcontracting, fines and what founders must change in their hiring.",
+    "excerpt": "Law 2025-9 made permanent contracts the norm and banned labour subcontracting. For startups that relied on short contracts and outsourced developers, the rules have changed.",
+    "keywords": [
+      "Tunisia labour law reform 2025",
+      "Law 2025-9 Tunisia",
+      "Tunisia subcontracting ban",
+      "fixed-term contract Tunisia CDD",
+      "Tunisia labor code startups",
+      "Tunisia probation period 2025"
+    ],
+    "tags": [
+      "Labour law",
+      "Startups",
+      "Hiring",
+      "Subcontracting",
+      "Regulation"
+    ],
+    "key_takeaways": [
+      "Law No. 2025-9 of 21 May 2025 makes the CDI the default and limits CDDs to temporary activity increases, replacements and seasonal work.",
+      "Labour subcontracting is banned; a service contract is lawful only for specialised work outside the client's core activity and not under its control.",
+      "Illegal subcontracting carries a TND 10,000 fine, doubled for companies, and repeat offences can bring prison terms.",
+      "Startups that used rolling CDDs or embedded outsourced developers in their product teams need to restructure how they hire."
+    ],
+    "body": "Tunisia's 2025 labour law reform made the open-ended contract the norm, limited fixed-term contracts to three cases and banned labour subcontracting. More than a year on, the law is changing how companies hire, and startups, which often relied on short contracts and outsourced developers, are among the most exposed. Here is what the law says and what it means for a young tech company.\n\n## What the 2025 labour law reform changed\n\nThe Assembly of the Representatives of the People adopted the text in May 2025 by **121 votes in favour, 4 abstentions and none against**. It was published in the Official Journal (JORT No. 61) on 23 May 2025 as **Law No. 2025-9 of 21 May 2025** on regulating employment contracts and prohibiting labour subcontracting. Some outlets, including Launch Base Africa, refer to it as \"Law No. 16-2025\"; the reference used by DLA Piper and the Tunisian press for the published law is 2025-9.\n\n## The new rules on contracts\n\n### The CDI becomes the default\n\nEvery employment contract is now presumed to be open-ended (*contrat à durée indéterminée*, CDI). A fixed-term contract (CDD) is allowed only for:\n\n- a temporary increase in activity;\n- replacing an absent employee;\n- seasonal work.\n\nA CDD signed outside these cases is automatically converted into a CDI, and the employee keeps all accrued seniority. According to WMC, this applies to contracts still running when the law took effect and to those terminated after 14 March 2025, provided there was no break of more than a year.\n\n### Probation is capped\n\nProbation can last up to **six months, renewable once**, according to DLA Piper and Managers. Ending it requires 15 days' notice. After probation, any further contract with the same person must be a CDI, with no new trial period.\n\n### Labour subcontracting is banned\n\nSupplying workers to another company for its regular activity (*sous-traitance de main-d'œuvre*) is now prohibited. A service contract remains lawful only if **all three** conditions are met:\n\n1. the work requires specialised technical or professional skills;\n2. it falls outside the client's main, permanent activity;\n3. the provider's staff are not under the client's direction or control.\n\nWorkers supplied in breach of the ban are treated as permanent employees of the client company. The client is also jointly liable if a provider fails to pay wages or social contributions, and provider staff must get the same rights as the client's permanent employees.\n\n## Penalties and deadlines\n\n- **Illegal subcontracting**: a TND 10,000 fine, doubled for legal entities; repeat offences can bring three to six months in prison.\n- **Irregular contracts**: TND 100 to 300 per employee affected, capped at TND 10,000.\n- **Other consequences**, according to Launch Base Africa: possible exclusion from public tenders and loss of tax or investment incentives.\n- **Compliance**: employers had **three months** to regularise contracts and integrate subcontracted staff.\n- **Look-back**: employees whose CDD ended between 6 March 2024 and the law's entry into force, after four years or more of service, are entitled to be reinstated. If the employer delays, they can claim two months' salary per year of seniority, within one year of the law's entry into force.\n\n## The first effects\n\nThe most visible consequence came from the staffing industry. In August 2025, Adecco announced it would leave Tunisia after 23 years, ending operations on 31 October 2025 and citing the new law, according to Launch Base Africa.\n\nIn February 2026, the Arab Institute of Business Leaders (IACE) published a survey of about 100 HR directors. Kapitalis and Tunisie Numérique reported that companies cite legal uncertainty around CDDs and subcontracting, higher costs and less flexibility, and that some have adjusted headcount. Cleaning and security services are the most exposed. The survey also calls for clearer rules on project-based contracts and on probation.\n\n## Why startups are exposed\n\nStartups combine three features the law targets: uncertain cash flow, the need for flexibility, and frequent use of outside talent. In practice:\n\n- **Short contracts to \"test\" a role are no longer possible.** A product launch or a new client may not count as a \"temporary increase in activity\", so check with counsel before using a CDD.\n- **Outsourced developers are a risk.** For a fintech, software development and operations are generally the core activity. Putting a provider's developers under your own product manager, within your sprints, looks like the \"direction and control\" the law forbids.\n- **Genuine specialist services remain possible**, such as a security audit or a legal review, when the provider delivers a defined result with its own staff and methods.\n- **Do not count on the Startup Label.** None of the reports on the reform that we reviewed mention an exemption for labelled startups. See [what the Startup Act offers](post:startup-act-tunisia-explained).\n\n## Practical checklist for founders\n\n- **Audit every contract**: list each CDD and check it against the three permitted cases.\n- **Review service agreements**: who manages the provider's staff day to day, and is the work part of your core business?\n- **Budget for permanent hires**: include social contributions and severance risk in your financial model and in [fundraising](post:how-to-raise-funding-tunisian-fintech) discussions.\n- **Use probation well**: set clear objectives and a review date before the end of each probation period.\n- **Document everything**: job descriptions, reporting lines and deliverables help show that a service contract is genuine.\n\nThe reform adds to the pressures on Tunisian startups, which already face [emigration of tech talent](post:tunisia-tech-talent-brain-drain) and [a difficult funding climate](post:tunisia-startup-funding-trends). It also gives employees more security, which can help recruitment. Either way, founders need to plan hiring with these rules in mind.",
+    "faq": [
+      {
+        "q": "When can a Tunisian company still use a fixed-term contract?",
+        "a": "Under Law No. 2025-9, a CDD is allowed only for a temporary increase in activity, the replacement of an absent employee or seasonal work. Any other CDD is automatically converted into a permanent contract, with seniority preserved."
+      },
+      {
+        "q": "Is outsourcing banned in Tunisia?",
+        "a": "Labour subcontracting, meaning supplying workers to another company for its regular activity, is banned. Service contracts remain lawful if the work is specialised, outside the client's core permanent activity, and the provider's staff are not under the client's direction or control."
+      },
+      {
+        "q": "How long can a probation period last in Tunisia?",
+        "a": "According to DLA Piper and Managers, probation is capped at six months and can be renewed once. After it ends, any new contract with the same employee must be a CDI with no new probation period."
+      },
+      {
+        "q": "Are labelled startups exempt from the labour reform?",
+        "a": "None of the summaries of Law No. 2025-9 we reviewed, from DLA Piper, Managers or the Tunisian press, mention an exemption for labelled startups. Founders should assume the law applies to them as to any employer and check with counsel."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Réforme du code du travail 2025 : ce qui change pour les startups",
+    "meta_description": "Réforme du code du travail en Tunisie : CDI par défaut, CDD limité à trois cas, fin de la sous-traitance, sanctions et ce que les startups doivent changer.",
+    "excerpt": "La loi 2025-9 a fait du CDI la norme et interdit la sous-traitance de main-d'œuvre. Pour les startups habituées aux CDD et aux développeurs externalisés, les règles ont changé.",
+    "keywords": [
+      "réforme code du travail Tunisie 2025",
+      "loi 2025-9",
+      "interdiction sous-traitance Tunisie",
+      "CDD Tunisie nouvelle loi",
+      "startups droit du travail Tunisie",
+      "période d'essai Tunisie 2025"
+    ],
+    "tags": [
+      "Droit du travail",
+      "Startups",
+      "Recrutement",
+      "Sous-traitance",
+      "Réglementation"
+    ],
+    "key_takeaways": [
+      "La loi n° 2025-9 du 21 mai 2025 fait du CDI la règle et limite le CDD à l'accroissement temporaire d'activité, au remplacement et au travail saisonnier.",
+      "La sous-traitance de main-d'œuvre est interdite ; une prestation n'est licite que pour un travail spécialisé, hors cœur de métier et sans lien de subordination avec le client.",
+      "La sous-traitance illégale est punie de 10 000 dinars d'amende, doublée pour les sociétés, et la récidive peut mener à la prison.",
+      "Les startups qui enchaînaient les CDD ou intégraient des développeurs externalisés à leurs équipes produit doivent revoir leur modèle de recrutement."
+    ],
+    "body": "La réforme du droit du travail de 2025 a fait du CDI la norme, limité le CDD à trois cas et interdit la sous-traitance de main-d'œuvre. Plus d'un an après, la loi transforme les pratiques de recrutement, et les startups, qui recouraient souvent aux contrats courts et aux développeurs externalisés, figurent parmi les plus exposées. Voici ce que dit le texte et ce qu'il implique pour une jeune entreprise technologique.\n\n## Ce que la réforme du code du travail a changé\n\nL'Assemblée des représentants du peuple a adopté le texte en mai 2025 par **121 voix pour, 4 abstentions et aucune voix contre**. Il a été publié au Journal officiel (JORT n° 61) le 23 mai 2025 sous le nom de **loi n° 2025-9 du 21 mai 2025** relative à l'organisation des contrats de travail et à l'interdiction de la sous-traitance. Certains médias, dont Launch Base Africa, parlent de « loi n° 16-2025 » ; la référence retenue par DLA Piper et la presse tunisienne pour la loi publiée est 2025-9.\n\n## Les nouvelles règles sur les contrats\n\n### Le CDI devient la règle\n\nTout contrat de travail est désormais présumé conclu pour une durée indéterminée. Le CDD n'est permis que pour :\n\n- un accroissement temporaire d'activité ;\n- le remplacement d'un salarié absent ;\n- un travail saisonnier.\n\nUn CDD conclu hors de ces cas est requalifié de plein droit en CDI, avec maintien de toute l'ancienneté. Selon WMC, la règle s'applique aux contrats en cours à l'entrée en vigueur de la loi et à ceux rompus après le 14 mars 2025, à condition qu'il n'y ait pas eu d'interruption de plus d'un an.\n\n### La période d'essai est plafonnée\n\nSelon DLA Piper et Managers, la période d'essai peut durer **six mois au plus, renouvelable une fois**. Y mettre fin suppose un préavis de 15 jours. Après l'essai, tout nouveau contrat avec la même personne doit être un CDI, sans nouvelle période d'essai.\n\n### La sous-traitance de main-d'œuvre est interdite\n\nMettre des salariés à la disposition d'une autre entreprise pour son activité habituelle est désormais prohibé. Un contrat de prestation de services reste licite seulement si **trois conditions** sont réunies :\n\n1. le travail exige des compétences techniques ou professionnelles spécialisées ;\n2. il ne relève pas de l'activité principale et permanente du client ;\n3. le personnel du prestataire n'est pas placé sous la direction ou le contrôle du client.\n\nLes travailleurs mis à disposition en violation de l'interdiction sont considérés comme salariés permanents de l'entreprise bénéficiaire. Le client devient solidairement responsable si le prestataire ne paie pas les salaires ou les cotisations sociales, et le personnel du prestataire doit bénéficier des mêmes droits que les permanents du client.\n\n## Sanctions et délais\n\n- **Sous-traitance illégale** : amende de 10 000 dinars, doublée pour les personnes morales ; en cas de récidive, trois à six mois de prison.\n- **Contrats irréguliers** : 100 à 300 dinars par salarié concerné, dans la limite de 10 000 dinars.\n- **Autres conséquences**, selon Launch Base Africa : exclusion possible des marchés publics et perte d'avantages fiscaux ou d'incitations à l'investissement.\n- **Mise en conformité** : les employeurs disposaient de **trois mois** pour régulariser les contrats et intégrer le personnel sous-traité.\n- **Effet rétroactif** : les salariés dont le CDD a pris fin entre le 6 mars 2024 et l'entrée en vigueur de la loi, après au moins quatre ans de service, ont droit à la réintégration. En cas de manœuvres dilatoires, ils peuvent réclamer deux mois de salaire par année d'ancienneté, dans un délai d'un an.\n\n## Les premiers effets\n\nLa conséquence la plus visible est venue de l'intérim. En août 2025, Adecco a annoncé quitter la Tunisie après 23 ans de présence, avec un arrêt des activités le 31 octobre 2025, en invoquant la nouvelle loi, selon Launch Base Africa.\n\nEn février 2026, l'Institut arabe des chefs d'entreprise (IACE) a publié une enquête auprès d'une centaine de DRH. D'après Kapitalis et Tunisie Numérique, les entreprises évoquent une insécurité juridique autour du CDD et de la sous-traitance, des coûts accrus et une perte de flexibilité ; certaines ont ajusté leurs effectifs. Le nettoyage et le gardiennage sont les secteurs les plus touchés. L'enquête plaide aussi pour une clarification des contrats de projet et de la période d'essai.\n\n## Pourquoi les startups sont exposées\n\nLes startups cumulent trois traits que vise la loi : une trésorerie incertaine, un besoin de flexibilité et un recours fréquent aux compétences externes. Concrètement :\n\n- **Fini le contrat court pour « tester » un poste.** Un lancement de produit ou un nouveau client ne constitue pas forcément un « accroissement temporaire d'activité » : mieux vaut consulter un avocat avant de signer un CDD.\n- **Les développeurs externalisés deviennent un risque.** Pour une fintech, le développement et l'exploitation logiciels relèvent en général de l'activité principale. Placer les développeurs d'un prestataire sous l'autorité de son propre product manager, dans ses sprints, ressemble à la « direction et au contrôle » que la loi interdit.\n- **Les vraies prestations spécialisées restent possibles**, comme un audit de sécurité ou une revue juridique, lorsque le prestataire livre un résultat défini avec ses propres équipes et méthodes.\n- **Ne pas compter sur le label Startup.** Aucun des comptes rendus de la réforme que nous avons consultés ne mentionne de dérogation pour les startups labellisées. Voir [ce qu'offre le Startup Act](post:startup-act-tunisia-explained).\n\n## La check-list des fondateurs\n\n- **Auditer chaque contrat** : recenser les CDD et les confronter aux trois cas autorisés.\n- **Revoir les contrats de prestation** : qui encadre au quotidien le personnel du prestataire, et le travail relève-t-il de votre cœur de métier ?\n- **Budgéter les embauches en CDI** : intégrer cotisations sociales et risque d'indemnités au modèle financier et aux discussions de [levée de fonds](post:how-to-raise-funding-tunisian-fintech).\n- **Bien utiliser la période d'essai** : fixer des objectifs clairs et une date d'évaluation avant son terme.\n- **Tout documenter** : fiches de poste, liens hiérarchiques et livrables aident à démontrer qu'une prestation est réelle.\n\nLa réforme s'ajoute aux difficultés des startups tunisiennes, déjà confrontées à [la fuite des talents tech](post:tunisia-tech-talent-brain-drain) et à [un financement plus rare](post:tunisia-startup-funding-trends). Elle offre aussi plus de sécurité aux salariés, ce qui peut aider à recruter. Dans tous les cas, les fondateurs doivent désormais planifier leurs embauches en fonction de ces règles.",
+    "faq": [
+      {
+        "q": "Quand peut-on encore conclure un CDD en Tunisie ?",
+        "a": "Selon la loi n° 2025-9, le CDD n'est permis qu'en cas d'accroissement temporaire d'activité, de remplacement d'un salarié absent ou de travail saisonnier. Tout autre CDD est requalifié de plein droit en CDI, avec maintien de l'ancienneté."
+      },
+      {
+        "q": "La sous-traitance est-elle interdite en Tunisie ?",
+        "a": "La sous-traitance de main-d'œuvre, c'est-à-dire la mise à disposition de salariés pour l'activité habituelle d'une autre entreprise, est interdite. Les prestations de services restent licites si le travail est spécialisé, hors activité principale et permanente du client, et si le personnel n'est pas sous sa direction ou son contrôle."
+      },
+      {
+        "q": "Quelle est la durée maximale de la période d'essai ?",
+        "a": "Selon DLA Piper et Managers, la période d'essai est plafonnée à six mois, renouvelable une fois. À son terme, tout nouveau contrat avec le même salarié doit être un CDI, sans nouvelle période d'essai."
+      },
+      {
+        "q": "Les startups labellisées échappent-elles à la réforme ?",
+        "a": "Aucune des synthèses de la loi n° 2025-9 que nous avons consultées (DLA Piper, Managers, presse tunisienne) ne mentionne de dérogation pour les startups labellisées. Mieux vaut considérer que la loi s'applique comme à tout employeur et consulter un avocat."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "New legislation overhauling Tunisia's employment framework",
+      "publisher": "DLA Piper",
+      "url": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2025/New-legislation-overhauling-Tunisias-employment-framework"
+    },
+    {
+      "title": "Tunisie : publication au JORT de la loi interdisant la sous-traitance et renforçant les CDI",
+      "publisher": "WMC (Webmanagercenter)",
+      "url": "https://www.webmanagercenter.com/2025/05/24/546668/tunisie-publication-au-jort-de-la-loi-interdisant-la-sous-traitance-et-renforcant-les-cdi/"
+    },
+    {
+      "title": "Tout contrat de travail en Tunisie est présumé à durée indéterminée, sauf si…",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2025/05/24/tout-contrat-de-travail-en-tunisie-est-presume-a-duree-indeterminee-sauf-si/"
+    },
+    {
+      "title": "Done and Dusted: Tunisia Says No to Subcontracting. What's Next for Tech Talent?",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/05/21/done-and-dusted-tunisia-says-no-to-subcontracting-whats-next-for-tech-talent"
+    },
+    {
+      "title": "Tunisia's New Labour Law Forces a €24bn IT Hiring Giant to Quit the Country After 23 Years",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/08/28/tunisias-new-labour-law-forces-a-e24bn-it-hiring-giant-to-quit-the-country-after-23-years/"
+    },
+    {
+      "title": "Tunisie | Impacts de la réforme du droit du travail sur les entreprises",
+      "publisher": "Kapitalis",
+      "url": "https://kapitalis.com/tunisie/2026/02/15/tunisie-impacts-de-la-reforme-du-droit-du-travail-sur-les-entreprises/"
+    }
+  ]
+}

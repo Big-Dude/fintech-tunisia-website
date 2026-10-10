@@ -1,0 +1,181 @@
+{
+  "slug": "tunisia-startup-funding-trends",
+  "category": "funding",
+  "cover_motif": "chart-down",
+  "stats": [
+    {
+      "value": "$39M",
+      "label_en": "raised by Tunisian startups in 2025 (17 deals)",
+      "label_fr": "levés par les startups tunisiennes en 2025 (17 opérations)",
+      "source": "AVCA via African Manager, 2026"
+    },
+    {
+      "value": "$24M+",
+      "label_en": "raised in 2024 across 11 deals",
+      "label_fr": "levés en 2024 en 11 opérations",
+      "source": "Startup Genome 2025 via La Presse"
+    },
+    {
+      "value": "7th",
+      "label_en": "Tunisia's rank in Africa for VC value and deals, 2025",
+      "label_fr": "rang de la Tunisie en Afrique en valeur et en nombre d'opérations, 2025",
+      "source": "AVCA via African Manager, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Venture funding by country in Africa, 2025 (US$ million)",
+    "title_fr": "Capital-risque par pays en Afrique, 2025 (millions de dollars)",
+    "unit": "$M",
+    "bars": [
+      {
+        "label_en": "Egypt",
+        "label_fr": "Égypte",
+        "value": 604.0
+      },
+      {
+        "label_en": "South Africa",
+        "label_fr": "Afrique du Sud",
+        "value": 524.0
+      },
+      {
+        "label_en": "Kenya",
+        "label_fr": "Kenya",
+        "value": 335.0
+      },
+      {
+        "label_en": "Uganda",
+        "label_fr": "Ouganda",
+        "value": 302.0
+      },
+      {
+        "label_en": "Nigeria",
+        "label_fr": "Nigeria",
+        "value": 287.0
+      },
+      {
+        "label_en": "Morocco",
+        "label_fr": "Maroc",
+        "value": 114.0
+      },
+      {
+        "label_en": "Ghana",
+        "label_fr": "Ghana",
+        "value": 49.0
+      },
+      {
+        "label_en": "Tunisia",
+        "label_fr": "Tunisie",
+        "value": 39.0
+      }
+    ],
+    "source_name": "AVCA 2025 data, reported by African Manager",
+    "source_url": "https://en.africanmanager.com/tunisia-africas-7th-largest-venture-capital-destination-in-2025/"
+  },
+  "en": {
+    "title": "Tunisia Startup Funding Trends 2024–2026: Boom, Then Freeze",
+    "meta_description": "Tunisian startups raised about $24M in 2024 and $39M in 2025, then disclosed deals nearly stopped in H1 2026. The data and what it means for fintech founders.",
+    "excerpt": "After $39 million in 2025, Tunisian startups recorded almost no disclosed equity deals in the first half of 2026. Here is what the numbers show.",
+    "keywords": [
+      "Tunisia startup funding",
+      "Tunisian startups raised 2025",
+      "Tunisia venture capital 2026",
+      "Tunisia fintech investment",
+      "startup funding North Africa",
+      "ANAVA Tunisia"
+    ],
+    "tags": [
+      "Funding",
+      "Venture capital",
+      "Tunisia",
+      "Data"
+    ],
+    "key_takeaways": [
+      "Tunisian startups raised over $24 million in 11 deals in 2024 (Startup Genome) and $39 million in 17 deals in 2025 (AVCA).",
+      "Tunisia ranked 7th in Africa in 2025, far behind Egypt ($604M) and Morocco ($114M).",
+      "Launch Base Africa found almost no disclosed equity deals in H1 2026 and pointed to the labour law, FX limits and the economy.",
+      "ANAVA-backed seed funds such as 216 Capital are now the main local source of capital."
+    ],
+    "body": "Tunisian startup funding has risen from a very low base, but it has not been stable. Industry counts show about $24 million raised in 2024 and $39 million in 2025. Then disclosed equity deals almost stopped in the first half of 2026. For fintech founders, the numbers show both how small the market is and where the money still comes from.\n\n## Tunisia startup funding trends in numbers\n\nTrackers use different methods, so treat each figure as an order of magnitude, not an exact total.\n\n- **2022:** Tunisian startups raised about **$17 million**, not counting InstaDeep, according to Partech figures quoted by [TechCrunch](https://techcrunch.com/2023/01/31/instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global/).\n- **2024:** more than **$24 million across 11 deals**, according to the Startup Genome 2025 report cited by [La Presse](https://www.lapresse.tn/2025/09/06/start-up-tunisiennes-plus-de-24-millions-de-dollars-leves-en-2024/). The same report found 56% more active investors than in 2023.\n- **2025:** **$39 million across 17 venture deals**, which put Tunisia 7th in Africa by both value and deal count in AVCA data reported by [African Manager](https://en.africanmanager.com/tunisia-africas-7th-largest-venture-capital-destination-in-2025/).\n- **H1 2026:** Launch Base Africa found almost no disclosed equity rounds (more below).\n\nFor comparison, AVCA's 2025 figures give Egypt $604 million, Kenya $335 million and Morocco $114 million. Across the continent, Partech counted $4.1 billion in African tech funding in 2025: $2.4 billion in equity and a record $1.6 billion in debt. Fintech took $769 million of the equity (see [African fintech funding](post:african-fintech-funding)). Tunisia gets a very small share of that.\n\n## What 2025 looked like: small tickets, foreign co-investors\n\nMost Tunisian deals are seed or pre-seed rounds, and many amounts are not disclosed. Launch Base Africa counted six disclosed deals worth about **$5.4 million** in the first half of 2025. Rounds reported during the year included:\n\n- **Kumulus Water** (climate tech): a $3.5 million seed round led by Plus VC.\n- **EasyBank** (fintech): $370,000, announced in January 2025.\n- **Konnect Networks** (payments): an undisclosed round in May 2025 with Attijariwafa Ventures, the corporate venture arm of the Moroccan banking group, among the investors.\n- **Dabchy** (marketplace): a pre-Series A led by Janngo Capital.\n- **PAYDAY** (fintech/insurtech): a pre-seed round led by UGFS North Africa in October 2025.\n\nFintech appears often in this list, but the largest single round went to climate tech. The amounts are also small. One $3.5 million round made up about two-thirds of the disclosed first-half total.\n\n## The ANAVA effect\n\nMost local capital now comes through funds backed by **ANAVA**, the fund of funds managed by Smart Capital. Its first close was €60 million, with €40 million from the Caisse des Dépôts et Consignations (financed by a World Bank loan) and €20 million from Germany's KfW. ANAVA has committed about €45 million to ten venture funds, including 216 Capital, Go Big Partners' Go Live Fund, Medin's Titan Seed Fund, Flat6Labs and UGFS's New Era Fund (details in [our ANAVA explainer](post:anava-fund-of-funds)).\n\nIn practice, the most active cheque-writers in 2025–2026 were these ANAVA-backed seed funds. 216 Capital alone invested in Juridoc.tn, Addvocate.AI, EYST and RoboCare between March 2025 and June 2026, as reported by Wamda. Several of the regional funds ANAVA backed only have to put part of their capital into Tunisia, so the effect on Tunisia itself is smaller than the headline amount.\n\n## The first half of 2026: a near-freeze\n\nIn July 2026, Launch Base Africa reported that Tunisia had **almost no disclosed equity deals** in the first half of the year. It named one six-figure investment, by 216 Capital in agritech startup RoboCare. Wamda also reported a six-figure investment by 216 Capital in insurtech EYST in May 2026. Over the same period, Morocco recorded more than $30 million across eight disclosed rounds.\n\nLaunch Base Africa gave several reasons for the slowdown:\n\n- **The May 2025 labour law**, which ended most fixed-term contracts and banned labour subcontracting. That raised fixed costs for startups that used outsourced developers or support staff (see [labour reform and startups](post:tunisia-labor-law-reform-startups)).\n- **Foreign-exchange restrictions.** A December 2025 amendment allowing residents to hold foreign-currency accounts still depended on central bank circulars that had not yet been issued when the article was published.\n- **The wider economy:** investment had fallen to about 8% of GDP in 2023, along with high food inflation and graduate emigration.\n- **Development finance institutions pausing:** Proparco and Bpifrance made no new Tunisian investments in the first half of 2026.\n\nMany small deals are never announced, so \"almost zero disclosed\" does not mean no money changed hands. Still, the slowdown is clear when you compare it with 2025.\n\n## Why it matters for fintech founders\n\n- **Expect seed-sized rounds.** With roughly $25–40 million a year for the whole ecosystem, few local investors can lead a Series A. Founders often bring in regional or European co-investors from an early stage.\n- **Regulation shapes your fundraising.** Investors look closely at licensing risk, so being in the BCT regulatory sandbox or having a clear route to a payment institution licence affects how much a fintech can raise.\n- **Corporate and strategic investors matter.** Konnect's round, backed by a bank-owned investment arm and Visa's accelerator, shows one route that does not depend on Tunisian VC alone.\n- **Exits are rare.** InstaDeep (2023) and Expensya (2023) are still the reference exits, and both companies built most of their business outside Tunisia.\n\n## What to watch in 2026–2027\n\nThe key signals are whether the central bank issues the circulars that put the FX reform into effect, whether ANAVA's remaining commitments reach new funds, and whether second-half 2026 data shows a recovery. Our [practical fundraising guide](post:how-to-raise-funding-tunisian-fintech) covers what founders can do in the meantime.",
+    "faq": [
+      {
+        "q": "How much did Tunisian startups raise in 2025?",
+        "a": "According to AVCA data reported by African Manager, Tunisian startups raised $39 million across 17 venture deals in 2025, ranking 7th in Africa. Other trackers use different methods, so totals may differ."
+      },
+      {
+        "q": "Why did startup funding in Tunisia drop in 2026?",
+        "a": "Launch Base Africa reported almost no disclosed equity rounds in H1 2026. It cited the 2025 labour law, foreign-exchange restrictions, a weak economy and a pause in new investments by development finance institutions such as Proparco and Bpifrance."
+      },
+      {
+        "q": "Who invests in Tunisian startups today?",
+        "a": "Mostly seed funds backed by the ANAVA fund of funds, such as 216 Capital, Go Big Partners, Medin, Flat6Labs and UGFS, plus regional investors such as Janngo Capital and corporate investors such as Attijariwafa Ventures."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Financement des startups en Tunisie : l'embellie, puis le gel",
+    "meta_description": "Les startups tunisiennes ont levé environ 24 M$ en 2024 et 39 M$ en 2025, avant un quasi-gel au 1er semestre 2026. Les chiffres et leur sens pour les fintech.",
+    "excerpt": "Après 39 millions de dollars levés en 2025, les startups tunisiennes n'ont annoncé presque aucune levée en capital au premier semestre 2026. Ce que montrent les chiffres.",
+    "keywords": [
+      "financement startups Tunisie",
+      "levée de fonds Tunisie 2025",
+      "capital-risque Tunisie 2026",
+      "investissement fintech Tunisie",
+      "startups tunisiennes levées",
+      "ANAVA Tunisie"
+    ],
+    "tags": [
+      "Financement",
+      "Capital-risque",
+      "Tunisie",
+      "Données"
+    ],
+    "key_takeaways": [
+      "Les startups tunisiennes ont levé plus de 24 millions de dollars en 11 opérations en 2024 (Startup Genome) et 39 millions en 17 opérations en 2025 (AVCA).",
+      "La Tunisie se classe 7e en Afrique en 2025, loin derrière l'Égypte (604 M$) et le Maroc (114 M$).",
+      "Launch Base Africa n'a recensé presque aucune levée en capital annoncée au 1er semestre 2026 et invoque la loi sur le travail, le change et la conjoncture.",
+      "Les fonds d'amorçage soutenus par ANAVA, comme 216 Capital, sont désormais la principale source de capital local."
+    ],
+    "body": "Les levées de fonds des startups tunisiennes ont progressé, mais à partir d'un niveau très bas et de façon irrégulière. Les données du secteur font état d'environ 24 millions de dollars levés en 2024 et de 39 millions en 2025. Les opérations en capital annoncées se sont ensuite presque arrêtées au premier semestre 2026. Pour les fondateurs de fintech, ces chiffres montrent à la fois la petite taille du marché et l'origine de l'argent encore disponible.\n\n## Le financement des startups en Tunisie en chiffres\n\nLes méthodes varient d'un observatoire à l'autre. Mieux vaut donc lire ces montants comme des ordres de grandeur que comme des totaux exacts.\n\n- **2022 :** environ **17 millions de dollars** levés, hors InstaDeep, selon des données de Partech citées par [TechCrunch](https://techcrunch.com/2023/01/31/instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global/).\n- **2024 :** plus de **24 millions de dollars en 11 opérations**, selon le rapport Startup Genome 2025 cité par [La Presse](https://www.lapresse.tn/2025/09/06/start-up-tunisiennes-plus-de-24-millions-de-dollars-leves-en-2024/). Le même rapport relève une hausse de 56 % du nombre d'investisseurs actifs par rapport à 2023.\n- **2025 :** **39 millions de dollars en 17 opérations** de capital-risque. La Tunisie se classe ainsi 7e en Afrique, en valeur comme en nombre d'opérations, selon les données de l'AVCA reprises par [African Manager](https://en.africanmanager.com/tunisia-africas-7th-largest-venture-capital-destination-in-2025/).\n- **1er semestre 2026 :** Launch Base Africa n'a recensé presque aucune levée en capital annoncée (voir plus bas).\n\nÀ titre de comparaison, l'AVCA attribue pour 2025 604 millions de dollars à l'Égypte, 335 millions au Kenya et 114 millions au Maroc. Sur l'ensemble du continent, Partech a compté 4,1 milliards de dollars de financements tech en 2025 : 2,4 milliards en capital et un record de 1,6 milliard en dette. La fintech a capté 769 millions de dollars de ces fonds propres (voir [le financement des fintech africaines](post:african-fintech-funding)). La part de la Tunisie reste infime.\n\n## 2025 : de petits tickets et des co-investisseurs étrangers\n\nLa plupart des opérations tunisiennes sont des tours d'amorçage ou de pré-amorçage, souvent sans montant communiqué. Launch Base Africa a recensé six opérations annoncées, pour environ **5,4 millions de dollars**, au premier semestre 2025. Parmi les levées rendues publiques dans l'année :\n\n- **Kumulus Water** (climat) : 3,5 millions de dollars en amorçage, menés par Plus VC.\n- **EasyBank** (fintech) : 370 000 dollars, annoncés en janvier 2025.\n- **Konnect Networks** (paiement) : un tour au montant non communiqué en mai 2025. Parmi les investisseurs figure Attijariwafa Ventures, la branche de capital-risque du groupe bancaire marocain.\n- **Dabchy** (place de marché) : un tour pré-série A mené par Janngo Capital.\n- **PAYDAY** (fintech/assurtech) : un pré-amorçage mené par UGFS North Africa en octobre 2025.\n\nLa fintech revient souvent dans cette liste, mais le plus gros tour est allé à une entreprise du climat. Les montants restent modestes : une seule levée de 3,5 millions de dollars représente environ les deux tiers du total annoncé au premier semestre.\n\n## L'effet ANAVA\n\nL'essentiel du capital local passe aujourd'hui par des fonds soutenus par **ANAVA**, le fonds de fonds géré par Smart Capital. Son premier closing s'élève à 60 millions d'euros : 40 millions apportés par la Caisse des Dépôts et Consignations (financés par un prêt de la Banque mondiale) et 20 millions par la banque allemande KfW. ANAVA s'est engagé à hauteur d'environ 45 millions d'euros dans dix fonds de capital-risque, dont 216 Capital, le Go Live Fund de Go Big Partners, le Titan Seed Fund de Medin, Flat6Labs et le New Era Fund d'UGFS (détails dans [notre décryptage d'ANAVA](post:anava-fund-of-funds)).\n\nDans les faits, ce sont ces fonds d'amorçage soutenus par ANAVA qui ont réalisé le plus d'investissements en 2025-2026. 216 Capital a investi à lui seul dans Juridoc.tn, Addvocate.AI, EYST et RoboCare entre mars 2025 et juin 2026, selon Wamda. Plusieurs fonds régionaux soutenus par ANAVA ne doivent investir qu'une partie de leur capital en Tunisie, si bien que l'effet sur le pays est inférieur à ce que suggèrent les montants affichés.\n\n## Premier semestre 2026 : un quasi-gel\n\nEn juillet 2026, Launch Base Africa a constaté que la Tunisie n'avait connu **presque aucune levée en capital annoncée** au premier semestre. Le média cite un seul investissement à six chiffres, celui de 216 Capital dans la startup agritech RoboCare. Wamda a aussi rapporté un investissement à six chiffres de 216 Capital dans l'assurtech EYST en mai 2026. Sur la même période, le Maroc a enregistré plus de 30 millions de dollars en huit opérations annoncées.\n\nLaunch Base Africa avance plusieurs causes :\n\n- **La loi sur le travail de mai 2025**, qui a supprimé la plupart des contrats à durée déterminée et interdit la sous-traitance de main-d'œuvre. Les startups qui recouraient à des développeurs ou à du support externalisés ont vu leurs coûts fixes augmenter (voir [la réforme du travail et les startups](post:tunisia-labor-law-reform-startups)).\n- **Les restrictions de change.** Un amendement de décembre 2025 autorise les résidents à détenir des comptes en devises, mais il dépendait encore de circulaires de la BCT non publiées à la date de l'article.\n- **L'économie dans son ensemble :** l'investissement était tombé à environ 8 % du PIB en 2023, avec une inflation alimentaire élevée et l'émigration des diplômés.\n- **La pause des bailleurs de développement :** Proparco et Bpifrance n'ont fait aucun nouvel investissement en Tunisie au premier semestre 2026.\n\nBeaucoup de petites opérations ne sont jamais rendues publiques : « presque aucune levée annoncée » ne veut donc pas dire qu'aucun argent n'a circulé. Le ralentissement par rapport à 2025 est néanmoins net.\n\n## Ce que cela change pour les fondateurs de fintech\n\n- **Attendez-vous à des tours d'amorçage.** Avec 25 à 40 millions de dollars par an pour tout l'écosystème, rares sont les investisseurs locaux capables de mener une série A. Les fondateurs font souvent entrer des co-investisseurs régionaux ou européens dès les premiers tours.\n- **La réglementation pèse sur la levée.** Les investisseurs examinent de près le risque d'agrément : être admis dans le bac à sable de la BCT ou avoir un chemin clair vers un agrément d'établissement de paiement change le montant qu'une fintech peut lever.\n- **Les investisseurs corporate et stratégiques comptent.** Le tour de Konnect, soutenu par la branche d'investissement d'un groupe bancaire et par l'accélérateur de Visa, montre une voie qui ne dépend pas du seul capital-risque tunisien.\n- **Les sorties sont rares.** InstaDeep (2023) et Expensya (2023) restent les deux références, et ces deux entreprises ont réalisé l'essentiel de leur activité hors de Tunisie.\n\n## Ce qu'il faut surveiller en 2026-2027\n\nLes signaux clés : la publication par la BCT des circulaires qui mettront la réforme des changes en application, l'arrivée des engagements restants d'ANAVA dans de nouveaux fonds, et une éventuelle reprise dans les données du second semestre 2026. En attendant, notre [guide pratique de la levée de fonds](post:how-to-raise-funding-tunisian-fintech) détaille ce que les fondateurs peuvent faire.",
+    "faq": [
+      {
+        "q": "Combien les startups tunisiennes ont-elles levé en 2025 ?",
+        "a": "Selon les données de l'AVCA reprises par African Manager, elles ont levé 39 millions de dollars en 17 opérations de capital-risque en 2025, ce qui place la Tunisie au 7e rang africain. Les méthodes variant d'un observatoire à l'autre, les totaux peuvent différer."
+      },
+      {
+        "q": "Pourquoi les levées de fonds ont-elles chuté en Tunisie en 2026 ?",
+        "a": "Launch Base Africa n'a recensé presque aucune levée en capital annoncée au 1er semestre 2026. Le média cite la loi sur le travail de 2025, les restrictions de change, une économie fragile et la pause des nouveaux investissements de bailleurs comme Proparco et Bpifrance."
+      },
+      {
+        "q": "Qui investit dans les startups tunisiennes aujourd'hui ?",
+        "a": "Surtout des fonds d'amorçage soutenus par le fonds de fonds ANAVA, comme 216 Capital, Go Big Partners, Medin, Flat6Labs et UGFS, ainsi que des investisseurs régionaux comme Janngo Capital et des investisseurs corporate comme Attijariwafa Ventures."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tunisia, Africa's 7th-largest venture capital destination in 2025",
+      "publisher": "African Manager",
+      "url": "https://en.africanmanager.com/tunisia-africas-7th-largest-venture-capital-destination-in-2025/"
+    },
+    {
+      "title": "Start-up tunisiennes : plus de 24 millions de dollars levés en 2024",
+      "publisher": "La Presse",
+      "url": "https://www.lapresse.tn/2025/09/06/start-up-tunisiennes-plus-de-24-millions-de-dollars-leves-en-2024/"
+    },
+    {
+      "title": "Near Zero Equity Deals in H1: What Happened to Tunisia's Startup Ecosystem?",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2026/07/29/near-zero-equity-deals-in-h1-what-happened-to-tunisias-startup-ecosystem/"
+    },
+    {
+      "title": "2025 Partech Africa Tech VC Report",
+      "publisher": "Partech",
+      "url": "https://partechpartners.com/news/2025-partech-africa-tech-vc-report-african-tech-funding-rebounds-to-us41b-driven-by-record-debt-activity-and-disciplined-equity-growth"
+    },
+    {
+      "title": "Tunisia country news",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/country/tunisia"
+    }
+  ]
+}

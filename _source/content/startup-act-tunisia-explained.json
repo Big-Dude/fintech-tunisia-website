@@ -1,0 +1,176 @@
+{
+  "slug": "startup-act-tunisia-explained",
+  "category": "ecosystem",
+  "cover_motif": "document",
+  "stats": [
+    {
+      "value": "1,352",
+      "label_en": "startups labelled since 2018 (July 2026)",
+      "label_fr": "startups labellisées depuis 2018 (juillet 2026)",
+      "source": "Mosaïque FM via MENA Startup Digest, 2026"
+    },
+    {
+      "value": "8 years",
+      "label_en": "maximum label validity, from incorporation",
+      "label_fr": "durée maximale du label, depuis la création",
+      "source": "Law No. 2018-20, art. 3"
+    },
+    {
+      "value": "2 years",
+      "label_en": "maximum startup leave (1 year, renewable once)",
+      "label_fr": "congé startup maximal (1 an renouvelable une fois)",
+      "source": "Law No. 2018-20, art. 8"
+    }
+  ],
+  "chart": {
+    "title_en": "Cumulative Startup Labels awarded in Tunisia",
+    "title_fr": "Nombre cumulé de labels Startup attribués en Tunisie",
+    "unit": "labels",
+    "bars": [
+      {
+        "label_en": "Aug 2020",
+        "label_fr": "Août 2020",
+        "value": 327
+      },
+      {
+        "label_en": "Mar 2024",
+        "label_fr": "Mars 2024",
+        "value": 1018
+      },
+      {
+        "label_en": "Feb 2025",
+        "label_fr": "Févr. 2025",
+        "value": 1146
+      },
+      {
+        "label_en": "Jul 2026",
+        "label_fr": "Juil. 2026",
+        "value": 1352
+      }
+    ],
+    "source_name": "Smart Capital via GSMA (2020); Kapitalis (2024); Managers (2025); MENA Startup Digest (2026)",
+    "source_url": "https://managers.tn/2025/02/22/startup-act-69-nouveaux-labels-attribues-portant-le-total-a-1-146"
+  },
+  "en": {
+    "title": "Tunisia's Startup Act Explained: What Fintech Founders Get",
+    "meta_description": "Tunisia's Startup Act explained: label criteria, founder leave and grant, tax exemptions, FX account, and what the label cannot do for fintechs.",
+    "excerpt": "The 2018 Startup Act brings real tax, social-security and foreign-currency benefits. Here is who qualifies, what you get and why the label is not a fintech licence.",
+    "keywords": [
+      "Startup Act Tunisia",
+      "Startup Label Tunisia",
+      "loi 2018-20",
+      "Tunisia startup tax exemption",
+      "startup leave Tunisia",
+      "Startup Act 2.0",
+      "Tunisian fintech founders"
+    ],
+    "tags": [
+      "Startup Act",
+      "Regulation",
+      "Founders",
+      "Tax"
+    ],
+    "key_takeaways": [
+      "Law 2018-20 offers a startup label valid up to eight years from incorporation, for companies under 100 staff and below 15 million dinars in turnover or balance sheet.",
+      "Founders can get a one-year leave renewable once and a one-year grant; the company gets corporate tax and social-security exemptions plus a foreign-currency account.",
+      "The label is not a financial licence: payments, wallets and lending still need BCT approval or a licensed partner.",
+      "1,352 startups had been labelled by July 2026, and a Startup Act 2.0 focused on finance is being prepared without a public timetable."
+    ],
+    "body": "Tunisia's Startup Act, Law No. 2018-20 of 17 April 2018, was one of the first laws in Africa written specifically for tech startups. Eight years later, more than 1,300 companies have received the Startup Label. For fintech founders the label is useful, but it is often misunderstood. It brings tax, social-security and foreign-currency benefits. It does not give anyone permission to handle other people's money.\n\n## What the Startup Act is\n\nThe law creates a \"Startup Label\" that the Ministry of Communication Technologies awards to qualifying companies. Smart Capital, the public company that runs the Startup Tunisia programme, manages applications through the startup.gov.tn portal, and the label is granted by decision of the minister. The law also creates:\n\n- a **pre-label** for individuals who have not yet incorporated, valid for six months (article 4);\n- incentives for founders, for the company itself and for its investors;\n- a **startup guarantee fund** that partly covers investors' stakes if a startup is wound up amicably (article 18).\n\n## Who qualifies for the Startup Label\n\nUnder article 3 of the law and the criteria published on the Startup Tunisia portal, a company must:\n\n- be **less than eight years old**;\n- have **fewer than 100 employees**, and a balance sheet or annual turnover **below 15 million dinars**;\n- be more than **two-thirds owned** by individuals, regulated investment vehicles such as venture funds, or foreign startups;\n- have an **innovative business model**, notably technological, with strong growth potential.\n\nThe label lasts at most **eight years from incorporation**. It can be withdrawn if the company stops meeting the conditions or its obligations. Labelled companies must file their financial statements by 31 March each year.\n\n## What founders get\n\nThe benefits for individuals are the most distinctive part of the law:\n\n- **Startup leave (congé pour création de startup).** Up to three founder-shareholders working full time on the startup can take one year of leave from their job, renewable once, and get their post back afterwards (articles 8–9). In private companies with fewer than 100 employees, the employer must agree in writing.\n- **Startup grant (bourse).** Up to three full-time founder-shareholders can receive a grant for one year (article 10). A founder can receive only one grant at a time, even if they run several startups.\n- **Graduate programmes.** Recent graduates keep their rights under public employment programmes for up to three years after the label is granted (article 11).\n\n## What the company and its investors get\n\n- **Corporate income tax exemption** for as long as the label is valid, i.e. up to eight years from incorporation (article 19).\n- **Social-security contributions**, both employer and employee shares, are paid by the State during the label period (article 19).\n- **A foreign-currency account.** Startups may open a special account in foreign currency (article 17). The BCT set the rules in circular 2019-01. The account can receive export revenue and capital from non-residents. It can pay for goods and services linked to the business, staff travel abroad and investments in companies outside Tunisia.\n- **Patents.** The state covers national filing fees and, within available budgets, part of international filing costs (article 12).\n- **Investor incentives.** Capital gains on the sale of startup shares are tax-exempt (article 14), and income reinvested in startups can be deducted (article 13).\n\n## What it means for fintech founders\n\nFor fintechs, the foreign-currency account has long been the most practical benefit. It lets a company pay for cloud services, software licences and foreign contractors without going through the general foreign-exchange rules. That system is itself under review (see our article on [the foreign exchange code reform](post:tunisia-foreign-exchange-code-reform)).\n\nBut three limits matter:\n\n1. **The label is not a financial licence.** A wallet, payment service or lending product still needs approval from the Central Bank of Tunisia, or a partnership with a licensed bank or [payment institution](post:payment-institutions-tunisia). Many fintechs start in the [BCT regulatory sandbox](post:bct-regulatory-sandbox).\n2. **Capital requirements are not adjusted.** Founders cited in a 2026 Mosaïque FM report said fintechs face financial requirements designed for large companies.\n3. **The eight-year clock runs from incorporation.** A company that waits years before applying loses part of the benefit period.\n\n## Results so far and the \"Startup Act 2.0\"\n\nThe number of labelled startups has grown steadily. The figures below come from Smart Capital, the Ministry and press reports:\n\n- about **327** in August 2020 (Smart Capital, cited by GSMA);\n- **1,018** at the end of March 2024 (Kapitalis);\n- **1,146** in February 2025, after 69 new labels (Managers);\n- **1,352** by July 2026 (Mosaïque FM, cited by MENA Startup Digest).\n\nAccording to that 2026 report, business software (14%) and e-commerce (11%) are the largest groups of labelled startups, ahead of healthtech and edtech (9% each). Founders also listed recurring problems: complex procedures, poor coordination between government bodies, a small domestic market, competition from the informal economy and late payment on public contracts.\n\nMinister of Communication Technologies Sofiene Hemissi has said that a **\"Startup Act 2.0\"** is being prepared with several ministries, with access to finance as the main focus. No draft or timetable had been made public as of October 2026, so founders should plan on the current law for now. For funding options beyond the label, see our guide to [raising money as a Tunisian fintech](post:how-to-raise-funding-tunisian-fintech).",
+    "faq": [
+      {
+        "q": "How do I get the Startup Label in Tunisia?",
+        "a": "Apply online through the Startup Tunisia portal (startup.gov.tn), run by Smart Capital. The application is assessed on whether the company is under eight years old, has fewer than 100 employees, stays below 15 million dinars in turnover or balance sheet, is majority-owned by individuals or eligible investors, and has an innovative, scalable model."
+      },
+      {
+        "q": "How long does the Tunisian startup tax exemption last?",
+        "a": "The corporate income tax exemption lasts as long as the label is valid, which is at most eight years from the company's incorporation. Applying late shortens the benefit period."
+      },
+      {
+        "q": "Can a labelled startup offer payment services?",
+        "a": "Only with the right licence. The Startup Label does not authorise financial activities; a fintech needs BCT approval as a payment institution, a sandbox authorisation or a partnership with a licensed bank or institution."
+      },
+      {
+        "q": "What is the Startup Act 2.0?",
+        "a": "It is a successor law announced by the Ministry of Communication Technologies, focused on improving access to finance. As of October 2026 no draft text or timetable had been published."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Le Startup Act tunisien expliqué aux fondateurs de fintech",
+    "meta_description": "Le Startup Act tunisien expliqué : critères du label, congé et bourse, exonérations, compte en devises, et ce que le label ne permet pas aux fintechs.",
+    "excerpt": "Le Startup Act de 2018 apporte de vrais avantages fiscaux, sociaux et en devises. Qui est éligible, ce que l'on obtient, et pourquoi le label n'est pas un agrément fintech.",
+    "keywords": [
+      "Startup Act Tunisie",
+      "label Startup Tunisie",
+      "loi 2018-20",
+      "exonération fiscale startup Tunisie",
+      "congé startup",
+      "Startup Act 2.0",
+      "fintech tunisienne"
+    ],
+    "tags": [
+      "Startup Act",
+      "Réglementation",
+      "Fondateurs",
+      "Fiscalité"
+    ],
+    "key_takeaways": [
+      "La loi 2018-20 crée un label valable jusqu'à huit ans après la création, pour les sociétés de moins de 100 salariés et de moins de 15 millions de dinars de chiffre d'affaires ou de bilan.",
+      "Les fondateurs ont droit à un congé d'un an renouvelable une fois et à une bourse d'un an ; la société bénéficie d'exonérations fiscales et sociales et d'un compte en devises.",
+      "Le label n'est pas un agrément financier : paiement, wallet et crédit exigent toujours l'aval de la BCT ou un partenaire agréé.",
+      "1 352 startups étaient labellisées en juillet 2026, et un Startup Act 2.0 axé sur le financement est en préparation, sans calendrier public."
+    ],
+    "body": "Le Startup Act tunisien, loi n° 2018-20 du 17 avril 2018, a été l'une des premières lois du continent consacrées aux startups technologiques. Huit ans plus tard, plus de 1 300 entreprises ont obtenu le label Startup. Pour une fintech, ce label est utile, mais on se méprend souvent sur sa portée. Il ouvre des avantages fiscaux, sociaux et en devises. Il n'autorise personne à manier l'argent d'autrui.\n\n## Ce que prévoit le Startup Act\n\nLa loi crée un « label Startup » attribué par le ministère des Technologies de la communication aux sociétés éligibles. Smart Capital, la société publique qui pilote le programme Startup Tunisia, gère les candidatures via le portail startup.gov.tn, et le label est accordé par décision du ministre. La loi instaure aussi :\n\n- un **pré-label** pour les porteurs de projet non encore constitués en société, valable six mois (article 4) ;\n- des avantages pour les fondateurs, pour l'entreprise et pour ses investisseurs ;\n- un **fonds de garantie des startups**, qui couvre en partie les participations des investisseurs en cas de liquidation amiable (article 18).\n\n## Qui peut obtenir le label Startup ?\n\nSelon l'article 3 de la loi et les critères publiés sur le portail Startup Tunisia, l'entreprise doit :\n\n- avoir **moins de huit ans** d'existence ;\n- compter **moins de 100 salariés**, avec un total de bilan ou un chiffre d'affaires annuel **inférieur à 15 millions de dinars** ;\n- être détenue à **plus des deux tiers** par des personnes physiques, des organismes d'investissement réglementés (fonds de capital-risque, par exemple) ou des startups étrangères ;\n- reposer sur un **modèle d'affaires innovant**, notamment technologique, à fort potentiel de croissance.\n\nLe label est valable au plus **huit ans à compter de la création** de la société. Il peut être retiré si l'entreprise ne remplit plus les conditions ou manque à ses obligations. Les sociétés labellisées doivent déposer leurs états financiers avant le 31 mars de chaque année.\n\n## Ce que gagnent les fondateurs\n\nLes avantages accordés aux personnes sont l'aspect le plus original de la loi :\n\n- **Le congé pour création de startup.** Jusqu'à trois associés fondateurs, à plein temps sur le projet, peuvent prendre un an de congé, renouvelable une fois, et retrouver ensuite leur poste (articles 8 et 9). Dans une entreprise privée de moins de 100 salariés, l'accord écrit de l'employeur est requis.\n- **La bourse startup.** Jusqu'à trois associés fondateurs à plein temps peuvent percevoir une bourse pendant un an (article 10). Un fondateur ne peut cumuler qu'une seule bourse à la fois, même s'il dirige plusieurs startups.\n- **Les programmes d'emploi.** Les jeunes diplômés conservent leurs droits aux programmes publics d'emploi pendant trois ans au plus après l'obtention du label (article 11).\n\n## Ce que gagnent l'entreprise et ses investisseurs\n\n- **Une exonération de l'impôt sur les sociétés** pendant toute la durée de validité du label, soit jusqu'à huit ans après la création (article 19).\n- **La prise en charge par l'État des cotisations sociales**, parts patronale et salariale, pendant la période du label (article 19).\n- **Un compte en devises.** Les startups peuvent ouvrir un compte spécial en devises (article 17), dont la BCT a fixé les règles par la circulaire 2019-01. Il peut être crédité des recettes d'exportation et des apports de non-résidents, et débité des achats de biens et services liés à l'activité, des frais de mission à l'étranger et des prises de participation hors de Tunisie.\n- **Les brevets.** L'État prend en charge les frais de dépôt nationaux et, dans la limite des budgets, une partie des frais de dépôt à l'international (article 12).\n- **Des incitations pour les investisseurs.** Les plus-values de cession d'actions de startups sont exonérées (article 14), et les revenus réinvestis dans des startups sont déductibles (article 13).\n\n## Ce que cela change pour une fintech\n\nPour une fintech, le compte en devises est depuis longtemps l'avantage le plus concret. Il permet de payer des services cloud, des licences logicielles ou des prestataires étrangers sans passer par le régime de change général. Ce régime est lui-même en cours de réforme (voir notre article sur [la réforme du code des changes](post:tunisia-foreign-exchange-code-reform)).\n\nTrois limites comptent toutefois :\n\n1. **Le label n'est pas un agrément financier.** Un wallet, un service de paiement ou une activité de crédit exige toujours l'aval de la Banque centrale de Tunisie, ou un partenariat avec une banque ou un [établissement de paiement](post:payment-institutions-tunisia) agréé. Beaucoup de fintechs commencent par le [bac à sable réglementaire de la BCT](post:bct-regulatory-sandbox).\n2. **Les exigences en capital ne sont pas adaptées.** Des fondateurs cités dans un reportage de Mosaïque FM en 2026 estiment que les fintechs se heurtent à des exigences financières pensées pour les grandes entreprises.\n3. **Le compteur des huit ans part de la création.** Une société qui tarde à candidater perd une partie de la période d'avantages.\n\n## Bilan et « Startup Act 2.0 »\n\nLe nombre de startups labellisées a progressé régulièrement. Ces chiffres proviennent de Smart Capital, du ministère et de la presse :\n\n- environ **327** en août 2020 (Smart Capital, cité par la GSMA) ;\n- **1 018** fin mars 2024 (Kapitalis) ;\n- **1 146** en février 2025, après 69 nouveaux labels (Managers) ;\n- **1 352** en juillet 2026 (Mosaïque FM, cité par MENA Startup Digest).\n\nSelon ce bilan de 2026, les logiciels d'entreprise (14 %) et l'e-commerce (11 %) sont les premiers secteurs des startups labellisées, devant la healthtech et l'edtech (9 % chacune). Les fondateurs y pointent aussi des difficultés récurrentes : procédures complexes, mauvaise coordination entre administrations, marché intérieur étroit, concurrence de l'informel et retards de paiement des marchés publics.\n\nLe ministre des Technologies de la communication, Sofiene Hemissi, a indiqué qu'un **« Startup Act 2.0 »** est en préparation avec plusieurs ministères, centré sur l'accès au financement. Aucun projet de texte ni calendrier n'avait été rendu public en octobre 2026 : mieux vaut donc raisonner avec la loi actuelle. Pour les pistes de financement au-delà du label, voir notre guide pour [lever des fonds en tant que fintech tunisienne](post:how-to-raise-funding-tunisian-fintech).",
+    "faq": [
+      {
+        "q": "Comment obtenir le label Startup en Tunisie ?",
+        "a": "La candidature se fait en ligne sur le portail Startup Tunisia (startup.gov.tn), géré par Smart Capital. Le dossier est évalué selon plusieurs critères : la société doit avoir moins de huit ans, moins de 100 salariés, moins de 15 millions de dinars de chiffre d'affaires ou de bilan, être détenue majoritairement par des personnes physiques ou des investisseurs éligibles, et présenter un modèle innovant et à fort potentiel."
+      },
+      {
+        "q": "Combien de temps dure l'exonération fiscale des startups ?",
+        "a": "L'exonération de l'impôt sur les sociétés vaut pendant toute la durée du label, soit au maximum huit ans à compter de la création de la société. Candidater tard réduit donc la période d'avantages."
+      },
+      {
+        "q": "Une startup labellisée peut-elle proposer des services de paiement ?",
+        "a": "Pas sans agrément. Le label n'autorise aucune activité financière : une fintech doit obtenir l'agrément de la BCT comme établissement de paiement, passer par le bac à sable ou s'adosser à une banque ou un établissement agréé."
+      },
+      {
+        "q": "Qu'est-ce que le Startup Act 2.0 ?",
+        "a": "C'est une nouvelle loi annoncée par le ministère des Technologies de la communication, centrée sur l'accès au financement. En octobre 2026, aucun projet de texte ni calendrier n'avait été publié."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Loi n° 2018-20 du 17 avril 2018 relative aux startups",
+      "publisher": "CMF (texte de la loi)",
+      "url": "https://cmf.tn/sites/default/files/pdfs/reglementation/textes-reference/Loi2018_20%20%20sur%20les%20start%20up.pdf"
+    },
+    {
+      "title": "What are the labelling criterias?",
+      "publisher": "Startup Tunisia",
+      "url": "https://startup.gov.tn/en/node/20"
+    },
+    {
+      "title": "Tunisia's Startup Act Hits 1,352 Certified Companies, But Funding and Red Tape Challenges Remain",
+      "publisher": "MENA Startup Digest",
+      "url": "https://menastartupdigest.com/tunisias-startup-act-hits-1352-certified-companies-but-funding-and-red-tape-challenges-remain/"
+    },
+    {
+      "title": "Startup Act : 69 nouveaux labels attribués, portant le total à 1 146",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2025/02/22/startup-act-69-nouveaux-labels-attribues-portant-le-total-a-1-146"
+    },
+    {
+      "title": "BCT : conditions d'ouverture de comptes startup en devises",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2019/02/01/430519/bct-conditions-douverture-de-comptes-startup-en-devises/"
+    },
+    {
+      "title": "Exploring the Rising Tunisian Start-up Ecosystem",
+      "publisher": "GSMA",
+      "url": "https://www.gsma.com/mobilefordevelopment/blog/exploring-the-rising-tunisian-start-up-ecosystem/"
+    }
+  ]
+}

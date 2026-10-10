@@ -1,0 +1,166 @@
+{
+  "slug": "ecommerce-payments-tunisia",
+  "category": "payments",
+  "cover_motif": "coins",
+  "stats": [
+    {
+      "value": "1,456",
+      "label_en": "active merchant websites, H1 2026 (+19.7%)",
+      "label_fr": "sites marchands actifs au S1 2026 (+19,7 %)",
+      "source": "BCT Payments Bulletin No. 17, 2026"
+    },
+    {
+      "value": "771.4M TND",
+      "label_en": "paid online (e-payment) in H1 2026 (+28.1%)",
+      "label_fr": "payés en ligne (e-paiement) au S1 2026 (+28,1 %)",
+      "source": "BCT Payments Bulletin No. 17, 2026"
+    },
+    {
+      "value": "83.1%",
+      "label_en": "of surveyed online shoppers use cash on delivery",
+      "label_fr": "des cyberacheteurs interrogés paient à la livraison",
+      "source": "UNCTAD survey, 2021"
+    }
+  ],
+  "chart": {
+    "title_en": "Card and wallet transactions by channel, H1 2026 (millions)",
+    "title_fr": "Opérations par carte et wallet selon le canal, S1 2026 (millions)",
+    "unit": "M",
+    "bars": [
+      {
+        "label_en": "Card payments in shops (POS)",
+        "label_fr": "Paiements par carte en magasin (TPE)",
+        "value": 25.3
+      },
+      {
+        "label_en": "Online payments (e-payment)",
+        "label_fr": "Paiements en ligne (e-paiement)",
+        "value": 10.3
+      },
+      {
+        "label_en": "Mobile wallet transactions",
+        "label_fr": "Opérations de paiement mobile",
+        "value": 5.0
+      }
+    ],
+    "source_name": "Banque Centrale de Tunisie, Payments Bulletin No. 17 (via Challenges TN)",
+    "source_url": "https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/"
+  },
+  "en": {
+    "title": "E-commerce Payments in Tunisia: ClicToPay to Cash on Delivery",
+    "meta_description": "How online payments work in Tunisia: ClicToPay, e-Dinar, fintech gateways and why cash on delivery still dominates. Data, fees and options for merchants.",
+    "excerpt": "Online payments in Tunisia are growing fast, but most shoppers still pay cash at the door. Here is how merchants can accept payments online and what each option involves.",
+    "keywords": [
+      "e-commerce payments Tunisia",
+      "online payment Tunisia",
+      "ClicToPay",
+      "cash on delivery Tunisia",
+      "paiement en ligne Tunisie",
+      "payment gateway Tunisia",
+      "accept card payments Tunisia"
+    ],
+    "tags": [
+      "E-commerce",
+      "ClicToPay",
+      "Cash on delivery",
+      "Gateways"
+    ],
+    "key_takeaways": [
+      "BCT data shows 1,456 active merchant websites and 10.3 million online payments worth 771.4 million dinars in H1 2026.",
+      "Merchants can accept cards through their bank (ClicToPay, run by the Société Monétique Tunisie), through La Poste's e-Dinar service, or through BCT-authorised payment facilitators.",
+      "Cash on delivery remains dominant: 83.1% of shoppers in a 2021 UNCTAD survey used it, mainly out of distrust of websites and online payment.",
+      "Fintech gateways promise faster onboarding and plugins, but only some publish their fees, and one, Paymee, had its funds frozen in 2023."
+    ],
+    "body": "E-commerce payments in Tunisia are growing quickly from a small base. Online payment transactions rose by more than a fifth in the first half of 2026, yet most online shoppers still pay cash to the courier. For merchants, choosing how to get paid means choosing between bank platforms, the postal system and fintech gateways, each with different paperwork, fees and risks.\n\n## The market in numbers\n\nAccording to the Banque Centrale de Tunisie (BCT) Payments Bulletin No. 17, covering the first half of 2026:\n\n- **1,456 active merchant websites** (at least one transaction in the past 12 months), up 19.7% from the end of 2025;\n- **10.3 million online payment (e-payment) transactions**, up 22.1%;\n- **771.4 million dinars** paid online, up 28.1%.\n\nBy comparison, Tunisians made 25.3 million card payments in shops and 5.0 million mobile wallet transactions in the same period. Online payments are the second-largest digital channel, but small in absolute terms. See our [key numbers on Tunisian fintech](post:tunisia-fintech-key-numbers).\n\n## Option 1: ClicToPay through your bank\n\nClicToPay is the online payment platform that the Société Monétique Tunisie (SMT), the national card switch, operates for banks. It is the oldest and most widespread option. According to a 2026 guide by the Tunisian host Novahoster, which analysed a public bank contract:\n\n- the merchant applies **through its bank**, not the SMT; the bank forwards the file, and the SMT provides a test environment before production credentials;\n- it accepts Tunisian CIB cards and local and foreign Visa and Mastercard;\n- fees are not public and are set by each bank: typically an adhesion fee plus a commission per transaction;\n- contracts forbid surcharging card payers, keep card data away from the merchant and allow the bank to suspend merchants with abnormal levels of disputed payments.\n\nUNCTAD counted about 1,800 ClicToPay merchant sites at the end of 2020, processing 4.8 million transactions worth about 275 million dinars.\n\n## Option 2: La Poste's e-Dinar\n\nLa Poste Tunisienne runs its own online acceptance service. Merchants need a postal current account, an affiliation contract and a TunTrust electronic certificate. The kit accepts e-Dinar cards, popular with people without a bank card, and international Visa and Mastercard. At the end of 2020, 652 sites were affiliated, per UNCTAD. Details in our guide to [e-Dinar and D17](post:la-poste-tunisienne-e-dinar-d17).\n\n## Option 3: fintech payment facilitators\n\nFintechs offer faster onboarding, plugins for Shopify, WooCommerce or PrestaShop, payment links and QR codes. Under BCT guidelines published in January 2024, these **payment facilitators** must work in partnership with a licensed bank or institution, which settles the funds, and report quarterly to the central bank.\n\nMain names:\n\n- **[Flouci](post:flouci-profile)** says it is a BCT-authorised facilitator. It launched a native Shopify plugin in June 2026 and publishes its fees: 1.3% excluding tax for Tunisian cards and wallets and 3% for foreign cards, with no set-up or monthly fee, according to the Novahoster guide.\n- **Konnect Networks** started as a merchant gateway and now presents itself mainly as infrastructure for banks and payment institutions.\n- **[Paymee](post:paymee-profile)** pioneered payment links and card payment at delivery but had its funds frozen in 2023 during an anti-money laundering investigation; its current status is unclear.\n\nCheck a provider's regulatory status and settlement terms before signing. A frozen facilitator account stops your payouts too.\n\n## Why cash on delivery still dominates\n\nCash on delivery (COD) is the default for Tunisian e-commerce. In a 2021 UNCTAD survey of 558 consumers, **83.1% used cash on delivery** and only 16.9% paid only at the time of ordering. La Poste's 2019 annual report estimated COD at 75% of e-commerce volume. The main reasons given were distrust of merchant websites (61.5%) and of online payment systems (38.7%).\n\nCOD has real costs for merchants: refused parcels, return shipping, cash handling and delayed revenue. Several products target it directly:\n\n- **Card payment at the door**, such as Paymee On Delivery, where the courier generates a QR code and the customer pays by card.\n- **Plugins that make card payment easy to add**, as Flouci argues for its Shopify integration.\n- **Wallet payments**, which skip card details entirely.\n\nThe deeper issue is trust and cash habits, covered in our article on [cash and the cashless push](post:cash-economy-tunisia).\n\n## Practical checklist for merchants\n\n1. **Start with your customers.** If they mostly hold e-Dinar cards or wallets, make sure your provider accepts them.\n2. **Compare total cost.** Include commissions, set-up and monthly fees, refund handling and settlement delays, not just the headline rate.\n3. **Check regulatory status.** Ask for proof of BCT authorisation and the name of the partner bank.\n4. **Keep COD, but nudge.** Many merchants offer online payment alongside COD and test incentives for prepaying.\n5. **Plan for disputes.** Bank contracts allow suspension if chargebacks are abnormally high.\n\nFigures here are from the BCT's mid-2026 data and UNCTAD's 2020–2021 work; fee levels can change, so check current terms with each provider.",
+    "faq": [
+      {
+        "q": "How can a Tunisian website accept card payments?",
+        "a": "Three main routes: ClicToPay via your bank, La Poste's e-Dinar merchant service with a postal account, or a BCT-authorised payment facilitator such as Flouci that offers plugins and payment links."
+      },
+      {
+        "q": "What is ClicToPay?",
+        "a": "ClicToPay is the online payment platform run by the Société Monétique Tunisie for Tunisian banks. Merchants apply through their bank, and fees are set by each bank."
+      },
+      {
+        "q": "Why is cash on delivery so common in Tunisia?",
+        "a": "Mainly trust. In a 2021 UNCTAD survey, 83.1% of shoppers used cash on delivery, citing distrust of merchant websites (61.5%) and of online payment systems (38.7%)."
+      },
+      {
+        "q": "How much do payment gateways charge in Tunisia?",
+        "a": "It varies and many providers do not publish fees. Flouci lists 1.3% excluding tax for Tunisian cards and wallets and 3% for foreign cards; ClicToPay fees are set by each bank."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Paiement e-commerce en Tunisie : de ClicToPay au cash",
+    "meta_description": "Paiement en ligne en Tunisie : ClicToPay, e-Dinar, passerelles fintech et poids du paiement à la livraison. Chiffres, frais et options pour les e-commerçants.",
+    "excerpt": "Le paiement en ligne progresse vite en Tunisie, mais la plupart des clients paient toujours en espèces au livreur. Tour d'horizon des options pour encaisser en ligne.",
+    "keywords": [
+      "paiement e-commerce Tunisie",
+      "paiement en ligne Tunisie",
+      "ClicToPay",
+      "paiement à la livraison Tunisie",
+      "passerelle de paiement Tunisie",
+      "accepter carte bancaire site Tunisie",
+      "e-commerce Tunisie"
+    ],
+    "tags": [
+      "E-commerce",
+      "ClicToPay",
+      "Paiement à la livraison",
+      "Passerelles"
+    ],
+    "key_takeaways": [
+      "Selon la BCT, la Tunisie comptait 1 456 sites marchands actifs et 10,3 millions de paiements en ligne, pour 771,4 millions de dinars, au S1 2026.",
+      "Un commerçant peut encaisser via sa banque (ClicToPay, opéré par la Société Monétique Tunisie), via le service e-Dinar de La Poste ou via un facilitateur de paiement autorisé par la BCT.",
+      "Le paiement à la livraison domine : 83,1 % des acheteurs interrogés par la CNUCED en 2021 y recouraient, surtout par méfiance envers les sites et le paiement en ligne.",
+      "Les passerelles fintech promettent rapidité et modules, mais peu publient leurs frais, et l'une d'elles, Paymee, a vu ses fonds gelés en 2023."
+    ],
+    "body": "Le paiement e-commerce en Tunisie progresse vite, mais part de loin. Les opérations de paiement en ligne ont crû de plus de 20 % au premier semestre 2026, et pourtant la plupart des cyberacheteurs continuent de payer le livreur en espèces. Pour un commerçant, choisir son mode d'encaissement revient à arbitrer entre plateformes bancaires, système postal et passerelles fintech, avec des démarches, des frais et des risques différents.\n\n## Le marché en chiffres\n\nSelon le Bulletin des paiements n° 17 de la Banque Centrale de Tunisie (BCT), qui couvre le premier semestre 2026 :\n\n- **1 456 sites marchands actifs** (au moins une transaction sur douze mois glissants), +19,7 % par rapport à fin 2025 ;\n- **10,3 millions d'opérations de paiement en ligne (e-paiement)**, +22,1 % ;\n- **771,4 millions de dinars** payés en ligne, +28,1 %.\n\nSur la même période, les Tunisiens ont réalisé 25,3 millions de paiements par carte en magasin et 5,0 millions d'opérations de paiement mobile. Le e-paiement est le deuxième canal numérique, mais il reste modeste en valeur absolue. Voir nos [chiffres clés de la fintech tunisienne](post:tunisia-fintech-key-numbers).\n\n## Option 1 : ClicToPay via sa banque\n\nClicToPay est la plateforme de paiement en ligne que la Société Monétique Tunisie (SMT), switch monétique national, opère pour le compte des banques. C'est l'option historique et la plus répandue. Selon un guide publié en 2026 par l'hébergeur tunisien Novahoster, qui a analysé un contrat bancaire public :\n\n- le commerçant fait sa demande **auprès de sa banque**, pas de la SMT ; la banque transmet le dossier et la SMT ouvre un environnement de test avant les accès de production ;\n- la plateforme accepte les cartes CIB tunisiennes et les cartes Visa et Mastercard locales et étrangères ;\n- les frais ne sont pas publics et varient selon la banque : en général des frais d'adhésion et une commission par transaction ;\n- le contrat interdit de surfacturer le paiement par carte, tient les données de carte à l'écart du commerçant et permet à la banque de suspendre un marchand en cas de contestations anormalement élevées.\n\nLa CNUCED recensait environ 1 800 sites affiliés à ClicToPay fin 2020, pour 4,8 millions de transactions et environ 275 millions de dinars.\n\n## Option 2 : l'e-Dinar de La Poste\n\nLa Poste Tunisienne gère son propre service d'acceptation en ligne. Il faut un compte courant postal, un contrat d'affiliation et un certificat électronique TunTrust. Le kit accepte les cartes e-Dinar, prisées par ceux qui n'ont pas de carte bancaire, ainsi que les Visa et Mastercard internationales. Fin 2020, 652 sites y étaient affiliés selon la CNUCED. Détails dans notre guide [e-Dinar et D17](post:la-poste-tunisienne-e-dinar-d17).\n\n## Option 3 : les facilitateurs de paiement fintech\n\nLes fintechs proposent une intégration plus rapide, des modules Shopify, WooCommerce ou PrestaShop, des liens de paiement et des QR codes. Selon les lignes directrices publiées par la BCT en janvier 2024, ces **facilitateurs de paiement** doivent travailler avec une banque ou un établissement agréé, qui règle les fonds, et rendre compte chaque trimestre à la Banque centrale.\n\nPrincipaux acteurs :\n\n- **[Flouci](post:flouci-profile)** se présente comme facilitateur autorisé par la BCT. Elle a lancé un plugin Shopify natif en juin 2026 et publie ses tarifs : 1,3 % HT pour les cartes et wallets tunisiens, 3 % HT pour les cartes étrangères, sans frais d'installation ni abonnement, selon le guide de Novahoster.\n- **Konnect Networks** a démarré comme passerelle marchande et se présente aujourd'hui surtout comme fournisseur d'infrastructure pour banques et établissements de paiement.\n- **[Paymee](post:paymee-profile)** a été pionnière des liens de paiement et du paiement par carte à la livraison, mais ses fonds ont été gelés en 2023 dans le cadre d'une enquête pour blanchiment ; sa situation actuelle reste incertaine.\n\nVérifiez le statut réglementaire et les conditions de reversement d'un prestataire avant de signer : un compte de facilitateur gelé bloque aussi vos encaissements.\n\n## Pourquoi le paiement à la livraison résiste\n\nLe paiement à la livraison reste la norme. Dans une enquête de la CNUCED menée en 2021 auprès de 558 consommateurs, **83,1 % y recouraient** et 16,9 % seulement payaient exclusivement à la commande. Le rapport annuel 2019 de La Poste l'estimait à 75 % du volume de l'e-commerce. Les raisons avancées : la méfiance envers les sites marchands (61,5 %) et envers les systèmes de paiement en ligne (38,7 %).\n\nCe mode coûte cher aux commerçants : colis refusés, retours, manipulation d'espèces, encaissement différé. Plusieurs produits s'y attaquent :\n\n- **le paiement par carte à la porte**, comme Paymee On Delivery : le livreur génère un QR code et le client paie par carte ;\n- **des modules simples à installer**, argument avancé par Flouci pour son intégration Shopify ;\n- **le paiement par wallet**, qui évite de saisir une carte.\n\nLe fond du problème tient à la confiance et aux habitudes, sujet de notre article sur [le cash et la politique de décashing](post:cash-economy-tunisia).\n\n## Check-list pour les e-commerçants\n\n1. **Partir de ses clients.** S'ils ont surtout des cartes e-Dinar ou des wallets, vérifiez que votre prestataire les accepte.\n2. **Comparer le coût total.** Commissions, frais d'installation et mensuels, remboursements et délais de reversement, pas seulement le taux affiché.\n3. **Vérifier le statut réglementaire.** Demandez la preuve de l'autorisation BCT et le nom de la banque partenaire.\n4. **Garder le paiement à la livraison, mais inciter.** Proposez le paiement en ligne en parallèle et testez des incitations au prépaiement.\n5. **Anticiper les litiges.** Les contrats bancaires prévoient une suspension en cas d'impayés anormalement élevés.\n\nChiffres issus des données BCT de mi-2026 et des travaux de la CNUCED de 2020-2021 ; les tarifs évoluent, vérifiez les conditions en vigueur auprès de chaque prestataire.",
+    "faq": [
+      {
+        "q": "Comment un site tunisien peut-il accepter la carte bancaire ?",
+        "a": "Trois voies principales : ClicToPay via sa banque, le service marchand e-Dinar de La Poste avec un compte postal, ou un facilitateur de paiement autorisé par la BCT, comme Flouci, qui propose modules et liens de paiement."
+      },
+      {
+        "q": "Qu'est-ce que ClicToPay ?",
+        "a": "ClicToPay est la plateforme de paiement en ligne opérée par la Société Monétique Tunisie pour les banques tunisiennes. Le commerçant passe par sa banque, qui fixe les frais."
+      },
+      {
+        "q": "Pourquoi le paiement à la livraison est-il si répandu en Tunisie ?",
+        "a": "Surtout par manque de confiance. Selon une enquête de la CNUCED de 2021, 83,1 % des acheteurs payaient à la livraison, invoquant leur méfiance envers les sites (61,5 %) et le paiement en ligne (38,7 %)."
+      },
+      {
+        "q": "Combien coûte une passerelle de paiement en Tunisie ?",
+        "a": "Cela varie, et beaucoup de prestataires ne publient pas leurs tarifs. Flouci affiche 1,3 % HT pour les cartes et wallets tunisiens et 3 % HT pour les cartes étrangères ; pour ClicToPay, chaque banque fixe ses frais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Paiements en Tunisie : le mobile et l'e-commerce en forte hausse au S1 2026 (BCT)",
+      "publisher": "Challenges TN",
+      "url": "https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/"
+    },
+    {
+      "title": "Paiement en ligne en Tunisie : accepter la carte sur son site",
+      "publisher": "Novahoster",
+      "url": "https://www.novahoster.tn/blog/paiement-en-ligne-tunisie-site-web/"
+    },
+    {
+      "title": "Tunisie : Flouci lance un plugin de paiement natif pour Shopify",
+      "publisher": "Entreprises Magazine",
+      "url": "https://www.entreprises-magazine.com/tunisie-flouci-lance-un-plugin-de-paiement-natif-pour-shopify-une-premiere-sur-le-marche/"
+    },
+    {
+      "title": "La BCT publie les directives pour l'exercice de l'activité de facilitateur de paiement",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2024/01/12/la-bct-publie-les-directives-pour-lexercice-de-lactivite-de-facilitateur-de-paiement/"
+    },
+    {
+      "title": "Paymee On Delivery",
+      "publisher": "Paymee",
+      "url": "https://www.paymee.tn/paymee-on-delivery/"
+    }
+  ]
+}

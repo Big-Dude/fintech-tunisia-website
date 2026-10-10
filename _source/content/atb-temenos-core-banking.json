@@ -1,0 +1,129 @@
+{
+  "slug": "atb-temenos-core-banking",
+  "category": "banking",
+  "cover_motif": "bank-building",
+  "date": "2022-06-22",
+  "stats": [
+    {
+      "value": "134",
+      "label_en": "ATB branches at the time of the go-live",
+      "label_fr": "agences de l'ATB au moment de la mise en production",
+      "source": "Temenos, 2022"
+    },
+    {
+      "value": "1,300",
+      "label_en": "ATB staff in 2022",
+      "label_fr": "salariés de l'ATB en 2022",
+      "source": "Temenos, 2022"
+    },
+    {
+      "value": "10",
+      "label_en": "Tunisian banks Temenos said it worked with",
+      "label_fr": "banques tunisiennes clientes de Temenos selon l'éditeur",
+      "source": "Temenos, 2022"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Arab Tunisian Bank Goes Live on Temenos Core Banking",
+    "meta_description": "Arab Tunisian Bank moved its retail and corporate accounts to Temenos core banking in 2022. What went live, what phase two covers and why it matters.",
+    "excerpt": "In 2022, Arab Tunisian Bank moved its retail and corporate core banking to Temenos, with digital banking and payments planned next. What changed and why.",
+    "keywords": [
+      "Arab Tunisian Bank Temenos",
+      "ATB core banking",
+      "core banking Tunisia",
+      "Temenos Tunisia",
+      "Tunisian bank digital transformation",
+      "composable banking"
+    ],
+    "tags": [
+      "Banking",
+      "Core banking",
+      "Temenos",
+      "ATB"
+    ],
+    "key_takeaways": [
+      "Temenos announced on 21 June 2022 that ATB had gone live on its core banking platform for retail and corporate business lines.",
+      "Phase one covered accounts, lending, deposits and financial crime mitigation, implemented by partner ITSS; the project began in 2019.",
+      "Phase two was to add digital banking, payments and enterprise risk management; no public update on its completion was found.",
+      "Modern core systems make it easier for banks to launch products quickly and connect with fintechs through APIs."
+    ],
+    "body": "In June 2022, **Arab Tunisian Bank (ATB)** completed the first phase of moving its core banking onto Temenos, the Swiss banking software vendor. Retail and corporate customer accounts were migrated to the new system, with digital banking and payments planned for a second phase. It is one of the clearest examples of a Tunisian bank replacing the old systems at the centre of its operations.\n\n## ATB's Temenos core banking go-live: what was announced\n\nTemenos announced the go-live on **21 June 2022**. According to its press release:\n\n- The project covers the **core banking systems for ATB's retail and corporate business lines**.\n- Phase one went live on Temenos banking capabilities for **Accounts, Lending, Deposits and Financial Crime Mitigation**.\n- **Retail and corporate customer accounts** were migrated to the new platform.\n- The work was carried out by implementation partner **Information Technology Solutions and Services (ITSS)**.\n\nFinTech Futures, which reported the news on 22 June 2022, added that the project had **started in 2019**, when ATB signed with Temenos for a broad range of front-to-back-office software.\n\nTemenos describes the system as its \"open platform for composable banking\", built on microservices and APIs. In practice, the bank can add or replace individual modules, such as lending or payments, without rebuilding the whole system. Neither Temenos nor ATB said publicly whether ATB runs the platform in the cloud or in its own data centres.\n\n## Phase two: digital banking, payments and risk\n\nA second phase was planned to add Temenos capabilities and pre-built services for:\n\n- **Digital banking**\n- **Payments**\n- **Enterprise risk management**\n\nFinTech Futures reported that Temenos software would eventually underpin the bank's entire operations. We could not find a public update on whether phase two has been completed since 2022.\n\n## Who is ATB?\n\nATB is a mid-sized universal bank serving **retail, SME and corporate** customers. At the time of the announcement it had about **1,300 staff and 134 branches** across Tunisia. It is part of **Arab Bank Group**, which Temenos describes as one of the largest financial institutions in the Middle East. According to Temenos, ATB was founded in 1982 and ranks among Tunisia's top five banks.\n\n## What the executives said\n\nATB chief executive **Ahmed Rjiba** called the go-live \"a major step forward\" in the bank's strategic roadmap. \"A modern, agile banking platform is vital for developing distinctive products and services,\" he said, adding that Temenos gave the bank the agility it needed.\n\n**William Moroney**, Temenos' managing director for the Middle East and Africa, said ATB could now use the \"unmatched breadth of the Temenos platform's composable banking capabilities\". He also said Temenos had experience working with **ten banks in Tunisia**.\n\n## Why core banking matters for Tunisian fintech\n\nCore banking is the system that holds customer accounts, records every transaction and calculates interest. Many banks still run decades-old systems that make launching a new product, or connecting to an outside partner, slow and expensive.\n\nA modern core matters for the wider ecosystem in three ways:\n\n- **Faster products.** Banks can launch digital accounts, instant loans and new payment features more quickly. See [digital banking in Tunisia](post:digital-banking-tunisia).\n- **APIs for partners.** A system built on APIs makes it technically easier to connect fintechs, a precondition for [open banking](post:open-banking-tunisia).\n- **Better data.** Clean, centralised data is the basis for credit scoring, fraud detection and other [AI uses in banking](post:ai-in-tunisian-banking).\n\n## Part of a wider shift\n\nATB's migration came at a time when Tunisia was also building its fintech framework. The Central Bank of Tunisia launched its [regulatory sandbox](post:bct-regulatory-sandbox) in 2020. As banks modernise their core systems, the technical gap between incumbent banks and fintech startups narrows. That gives banks more room to compete, and also more room to partner with fintechs.\n\nNote that this go-live dates from 2022. Tunisia's banking technology has continued to evolve since then, and ATB's current setup may differ from what was announced at the time.",
+    "faq": [
+      {
+        "q": "What core banking system does Arab Tunisian Bank use?",
+        "a": "ATB went live on Temenos' core banking platform in June 2022 for its retail and corporate business lines, after a project that started in 2019. The first phase covered accounts, lending, deposits and financial crime mitigation."
+      },
+      {
+        "q": "Who implemented ATB's Temenos migration?",
+        "a": "The first phase was completed by Information Technology Solutions and Services (ITSS), Temenos' implementation partner, according to Temenos and FinTech Futures."
+      },
+      {
+        "q": "Why does core banking modernisation matter for fintechs?",
+        "a": "A modern, API-based core makes it faster for banks to launch digital products and technically easier to connect with outside partners. That is a precondition for open banking and bank-fintech partnerships."
+      }
+    ]
+  },
+  "fr": {
+    "title": "L'Arab Tunisian Bank bascule sur le core banking Temenos",
+    "meta_description": "En 2022, l'Arab Tunisian Bank a migré ses comptes particuliers et entreprises vers le core banking Temenos. Ce qui a changé, la phase 2 et les enjeux.",
+    "excerpt": "En 2022, l'Arab Tunisian Bank a migré son core banking vers Temenos, la banque digitale et les paiements étant prévus ensuite. Ce qui a changé et pourquoi.",
+    "keywords": [
+      "Arab Tunisian Bank Temenos",
+      "ATB core banking",
+      "core banking Tunisie",
+      "Temenos Tunisie",
+      "transformation digitale banque tunisienne",
+      "banque composable"
+    ],
+    "tags": [
+      "Banque",
+      "Core banking",
+      "Temenos",
+      "ATB"
+    ],
+    "key_takeaways": [
+      "Temenos a annoncé le 21 juin 2022 la mise en production de sa plateforme de core banking à l'ATB, pour la banque de détail et la banque d'entreprise.",
+      "La première phase couvrait comptes, crédits, dépôts et lutte contre la criminalité financière, avec l'intégrateur ITSS ; le projet avait démarré en 2019.",
+      "La seconde phase devait ajouter banque digitale, paiements et gestion des risques ; aucune information publique sur son achèvement n'a été trouvée.",
+      "Un système central moderne permet aux banques de lancer plus vite des produits et de se connecter aux fintechs via des API."
+    ],
+    "body": "En juin 2022, l'**Arab Tunisian Bank (ATB)** a achevé la première phase de la migration de son système d'information bancaire central vers Temenos, l'éditeur suisse de logiciels bancaires. Les comptes des particuliers et des entreprises ont basculé sur le nouveau système, la banque digitale et les paiements étant prévus pour une seconde phase. C'est l'un des exemples les plus nets d'une banque tunisienne qui remplace les vieux systèmes au cœur de son activité.\n\n## Le passage de l'ATB au core banking Temenos : ce qui a été annoncé\n\nTemenos a annoncé la mise en production le **21 juin 2022**. Selon son communiqué :\n\n- Le projet couvre les **systèmes centraux des activités de banque de détail et de banque d'entreprise** de l'ATB.\n- La première phase a porté sur les modules Temenos **comptes, crédits, dépôts et lutte contre la criminalité financière**.\n- Les **comptes des clients particuliers et entreprises** ont été migrés vers la nouvelle plateforme.\n- L'intégration a été réalisée par **Information Technology Solutions and Services (ITSS)**.\n\nFinTech Futures, qui a relayé l'information le 22 juin 2022, précise que le projet avait **démarré en 2019**, lorsque l'ATB a signé avec Temenos pour un large éventail de solutions, du front au back-office.\n\nTemenos présente son système comme une « plateforme ouverte de banque composable », fondée sur des microservices et des API. Concrètement, la banque peut ajouter ou remplacer un module, comme le crédit ou les paiements, sans reconstruire tout le système. Ni Temenos ni l'ATB n'ont précisé publiquement si la plateforme est hébergée dans le cloud ou dans les centres de données de la banque.\n\n## Seconde phase : banque digitale, paiements et risques\n\nUne seconde phase devait ajouter des modules et des services préconfigurés de Temenos pour :\n\n- **la banque digitale** ;\n- **les paiements** ;\n- **la gestion des risques de l'entreprise**.\n\nSelon FinTech Futures, les solutions Temenos devaient à terme soutenir l'ensemble des activités de la banque. Nous n'avons pas trouvé d'information publique indiquant si cette seconde phase a été achevée depuis 2022.\n\n## Qui est l'ATB ?\n\nL'ATB est une banque universelle de taille moyenne qui sert des **particuliers, des PME et des grandes entreprises**. Au moment de l'annonce, elle comptait environ **1 300 salariés et 134 agences** dans le pays. Elle appartient au **groupe Arab Bank**, que Temenos présente comme l'une des plus grandes institutions financières du Moyen-Orient. Selon Temenos, l'ATB a été fondée en 1982 et figure parmi les cinq premières banques tunisiennes.\n\n## Ce qu'ont dit les dirigeants\n\nLe directeur général de l'ATB, **Ahmed Rjiba**, a qualifié cette mise en production d'« étape majeure » dans la feuille de route stratégique de la banque. Il a souligné qu'une plateforme bancaire moderne et agile était essentielle pour développer des produits et services distinctifs, et que Temenos donnait à la banque « l'agilité dont elle a besoin ».\n\n**William Moroney**, directeur général de Temenos pour le Moyen-Orient et l'Afrique, a mis en avant l'étendue des fonctionnalités de banque composable dont l'ATB peut désormais disposer. Il a aussi rappelé que Temenos travaillait avec **dix banques en Tunisie**.\n\n## Pourquoi le core banking compte pour la fintech tunisienne\n\nLe core banking est le système qui tient les comptes des clients, enregistre chaque opération et calcule les intérêts. Beaucoup de banques fonctionnent encore avec des systèmes vieux de plusieurs décennies, qui rendent lents et coûteux le lancement d'un produit ou la connexion avec un partenaire extérieur.\n\nUn système central moderne compte pour tout l'écosystème, de trois façons :\n\n- **Des produits plus rapides.** Les banques peuvent lancer plus vite comptes en ligne, crédits instantanés et nouveaux services de paiement. Voir [la transformation digitale des banques tunisiennes](post:digital-banking-tunisia).\n- **Des API pour les partenaires.** Un système conçu autour d'API facilite techniquement la connexion avec les fintechs, condition préalable à [l'open banking](post:open-banking-tunisia).\n- **De meilleures données.** Des données propres et centralisées sont la base du scoring de crédit, de la détection de fraude et des autres [usages de l'IA dans la banque](post:ai-in-tunisian-banking).\n\n## Un mouvement plus large\n\nLa migration de l'ATB est intervenue alors que la Tunisie construisait aussi son cadre fintech : la Banque centrale de Tunisie a lancé son [bac à sable réglementaire](post:bct-regulatory-sandbox) en 2020. À mesure que les banques modernisent leurs systèmes centraux, l'écart technique entre banques établies et startups fintech se réduit. Les banques ont alors plus de moyens pour rivaliser avec les fintechs, mais aussi pour s'associer avec elles.\n\nÀ noter : cette mise en production date de 2022. La technologie bancaire tunisienne a continué d'évoluer depuis, et le dispositif actuel de l'ATB peut différer de ce qui avait été annoncé à l'époque.",
+    "faq": [
+      {
+        "q": "Quel core banking utilise l'Arab Tunisian Bank ?",
+        "a": "L'ATB est passée en juin 2022 sur la plateforme de core banking de Temenos pour ses activités de détail et d'entreprise, au terme d'un projet lancé en 2019. La première phase couvrait les comptes, les crédits, les dépôts et la lutte contre la criminalité financière."
+      },
+      {
+        "q": "Qui a réalisé la migration de l'ATB vers Temenos ?",
+        "a": "La première phase a été menée par Information Technology Solutions and Services (ITSS), intégrateur partenaire de Temenos, selon Temenos et FinTech Futures."
+      },
+      {
+        "q": "Pourquoi la modernisation du core banking compte-t-elle pour les fintechs ?",
+        "a": "Un système central moderne, fondé sur des API, permet aux banques de lancer plus vite des produits numériques et facilite techniquement la connexion avec des partenaires extérieurs. C'est une condition préalable à l'open banking et aux partenariats entre banques et fintechs."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Arab Tunisian Bank Goes Live on Temenos to Power Sustainable Growth",
+      "publisher": "Temenos",
+      "url": "https://www.temenos.com/press_release/arab-tunisian-bank-goes-live-on-temenos-to-power-sustainable-growth/"
+    },
+    {
+      "title": "Arab Tunisian Bank live with Temenos' core banking tech",
+      "publisher": "FinTech Futures",
+      "url": "https://www.fintechfutures.com/core-banking-technology/arab-tunisian-bank-live-with-temenos-core-banking-tech"
+    },
+    {
+      "title": "Arab Tunisian Bank success story",
+      "publisher": "Temenos",
+      "url": "https://www.temenos.com/community/success-stories/arab-tunisian-bank-success-story/"
+    },
+    {
+      "title": "Arab Tunisian Bank met en œuvre la plateforme core banking Temenos",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2022/06/23/arab-tunisian-bank-met-en-oeuvre-la-plateforme-core-banking-temenos"
+    }
+  ]
+}

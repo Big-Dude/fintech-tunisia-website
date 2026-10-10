@@ -1,0 +1,171 @@
+{
+  "slug": "tunisia-tech-talent-brain-drain",
+  "category": "ecosystem",
+  "cover_motif": "people",
+  "stats": [
+    {
+      "value": "45,000+",
+      "label_en": "engineers who have left, of ~110,000 registered",
+      "label_fr": "ingénieurs partis, sur ~110 000 inscrits",
+      "source": "Ordre des ingénieurs tunisiens, Oct 2025"
+    },
+    {
+      "value": "7,000+",
+      "label_en": "engineers left in 2025",
+      "label_fr": "ingénieurs partis en 2025",
+      "source": "Ordre des ingénieurs via Managers, 2026"
+    },
+    {
+      "value": "67%",
+      "label_en": "of under-30s consider emigrating (2025)",
+      "label_fr": "des moins de 30 ans envisagent d'émigrer (2025)",
+      "source": "Arab Barometer wave 9, via La Presse"
+    }
+  ],
+  "chart": {
+    "title_en": "Share of Tunisians considering emigration",
+    "title_fr": "Part des Tunisiens qui envisagent d'émigrer",
+    "unit": "%",
+    "bars": [
+      {
+        "label_en": "All adults, 2011",
+        "label_fr": "Ensemble, 2011",
+        "value": 22
+      },
+      {
+        "label_en": "All adults, 2023–24",
+        "label_fr": "Ensemble, 2023-2024",
+        "value": 46
+      },
+      {
+        "label_en": "All adults, 2025",
+        "label_fr": "Ensemble, 2025",
+        "value": 41
+      },
+      {
+        "label_en": "Under 30, 2025",
+        "label_fr": "Moins de 30 ans, 2025",
+        "value": 67
+      },
+      {
+        "label_en": "30 and over, 2025",
+        "label_fr": "30 ans et plus, 2025",
+        "value": 34
+      }
+    ],
+    "source_name": "Arab Barometer (waves 8 and 9), via Arab Barometer and La Presse",
+    "source_url": "https://www.lapresse.tn/2026/09/24/jeunesse-tunisienne-lespoir-de-2011-cede-t-il-a-lenvie-de-partir/"
+  },
+  "en": {
+    "title": "Tunisia's Tech Brain Drain: What It Means for Fintech",
+    "meta_description": "Tunisia's tech brain drain in numbers: 45,000+ engineers gone, two-thirds of under-30s eyeing emigration, and practical ways fintech founders can keep talent.",
+    "excerpt": "More than 7,000 engineers left Tunisia in 2025, according to their professional order. What the emigration wave means for fintech teams, and what founders can do.",
+    "keywords": [
+      "Tunisia brain drain",
+      "Tunisian engineers emigration",
+      "tech talent Tunisia",
+      "fuite des cerveaux Tunisie",
+      "hiring developers Tunisia",
+      "fintech talent North Africa"
+    ],
+    "tags": [
+      "Talent",
+      "Emigration",
+      "Startups",
+      "Labour"
+    ],
+    "key_takeaways": [
+      "The Order of Engineers says more than 45,000 of about 110,000 registered engineers have left, with over 7,000 departures in 2025.",
+      "41% of Tunisians and 67% of under-30s said they were considering emigration in the 2025 Arab Barometer.",
+      "Fintech is especially exposed because regulated products need senior engineers, risk and compliance staff.",
+      "Startup Act benefits, equity, diaspora hiring and planned knowledge-sharing help founders retain and replace talent."
+    ],
+    "body": "Tunisia trains engineers that companies in Europe, Canada and elsewhere want to hire, and more of them are leaving each year. For fintech startups, the brain drain shows up as missing senior developers, rising salaries and teams that need rebuilding every couple of years. This article looks at the numbers and at what founders can realistically do about them.\n\n## How many engineers leave Tunisia?\n\nThe most cited figures come from the **Ordre des ingénieurs tunisiens**, the professional body for engineers:\n\n- In October 2025, the Order's dean, Mohsen Gharssi (also spelled Ghrissi), said **more than 45,000** Tunisian engineers had left the country, out of about **110,000** registered engineers (La Presse, Webdo).\n- In March 2025, former dean Kamel Sahnoun had given a figure of 39,000 departures out of 90,000 registered engineers, a rate of nearly 20 a day.\n- Figures attributed to the Order and published by Managers in May 2026 put annual departures at about **6,500 in 2024** and **more than 7,000 in 2025**. On current trends they would pass 8,000 in 2026, but that is a projection.\n\nThese numbers have limits. They cover engineers registered with the Order, not all software developers, many of whom are not registered. The Order has also not published a detailed method, and the totals differ between statements. They should be read as orders of magnitude.\n\n## The wider picture: a generation that wants to leave\n\nEngineers are part of a broader trend. Arab Barometer surveys show that the share of Tunisians who say they are considering emigration has risen sharply since 2011:\n\n- **22%** in 2011;\n- **46%** in the 2023–2024 wave, the highest level the survey has recorded in Tunisia;\n- **41%** in the 2025 wave, including **67% of people under 30**, compared with 34% of those aged 30 and over (as reported by La Presse).\n\nIn the 2023–2024 wave, 89% of potential migrants cited economic reasons. Wanting to leave is not the same as leaving, but the figures show how strong the pull is for exactly the age group startups hire.\n\n## Why engineers go\n\nThe reasons are mostly economic:\n\n- **Pay.** Speaking in October 2025, Gharssi criticised starting salaries of 600 to 700 dinars a month for young engineers. He also criticised pay of about 1,500 dinars for engineers who manage projects worth millions.\n- **Demand abroad.** Gharssi said Tunisian engineering skills are in high demand in Europe, Canada and parts of Asia.\n- **Career paths.** Engineers who want to work on products that compete internationally often see more options abroad than at home.\n\n## What the tech sector still has\n\nTunisia still has a substantial pool of tech workers. In July 2026, Fakher Zaïbi, director general of the national employment and skills observatory, said the digital sector employs **120,000 people**, 104,000 of them in the private sector. The sector accounts for more than 3% of GDP, or over 11% including telecoms. He called for more graduates and better pay and working conditions to retain talent. For fintech, the problem is less a lack of developers than a shortage of experienced ones: senior engineers, security specialists, data engineers, and people who have built regulated financial systems.\n\n## What it means for fintech startups\n\nFintech is more exposed than most sectors, for three reasons:\n\n1. **Regulated products need senior people.** Payment systems, AML controls and security audits cannot be left to junior teams. The BCT expects payment institutions to have proper risk, compliance and IT functions.\n2. **Startups compete with foreign salaries.** A local startup often competes for the same developer with a European company hiring remotely, and pays in dinars.\n3. **Employment rules have changed.** Since the 2025 labour reform, fixed-term contracts are limited and labour subcontracting is banned (see [the labour law reform and startups](post:tunisia-labor-law-reform-startups)). In August 2025, the staffing group Adecco announced it would leave Tunisia, citing the law. Startups now hire core staff directly on permanent contracts. This increases commitment on both sides.\n\n## What founders can do\n\nThere is no single fix, but some approaches recur:\n\n- **Use the Startup Act tools.** The [Startup Act](post:startup-act-tunisia-explained) lets employees take up to two years of leave to found a startup and covers social contributions during the label period. That lowers the real cost of each hire.\n- **Offer equity, not just salary.** Exits such as [InstaDeep's acquisition by BioNTech](post:instadeep-biontech-lessons) show that Tunisian tech equity can be worth a great deal. Few employees hold stock options today.\n- **Hire from the diaspora.** Engineers who left are a network, not just a loss. Some work remotely for Tunisian companies, invest, or come back as senior hires. The diaspora also matters as a market (see [remittances](post:diaspora-remittances-tunisia)).\n- **Train juniors and plan for turnover.** Documentation, code reviews and shared knowledge reduce the damage when someone leaves.\n\n## The bottom line\n\nEmigration of engineers is a structural fact in Tunisia, not a passing crisis. The Order's figures suggest thousands leave every year, and survey data show that most young Tunisians would consider leaving. Fintech founders who build on that assumption, with competitive equity, real responsibility and remote-friendly teams, will keep more of their people than those who hope the trend will reverse.",
+    "faq": [
+      {
+        "q": "How many engineers leave Tunisia each year?",
+        "a": "Figures attributed to the Ordre des ingénieurs tunisiens put departures at about 6,500 in 2024 and more than 7,000 in 2025. In October 2025 the Order's dean said more than 45,000 engineers had left in total. These figures cover registered engineers and are best read as orders of magnitude."
+      },
+      {
+        "q": "Why are Tunisian engineers emigrating?",
+        "a": "Mainly for economic reasons: low starting salaries, and strong demand for their skills in Europe, Canada and parts of Asia. In the 2023–2024 Arab Barometer, 89% of Tunisians considering emigration cited economic factors."
+      },
+      {
+        "q": "How can Tunisian startups retain developers?",
+        "a": "Common approaches include offering equity, using Startup Act benefits that lower employment costs, giving engineers real responsibility on product, hiring remotely from the diaspora and planning for turnover through documentation and training."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Fuite des cerveaux en Tunisie : quel impact sur la fintech ?",
+    "meta_description": "Fuite des cerveaux en Tunisie : plus de 45 000 ingénieurs partis, deux tiers des moins de 30 ans tentés par le départ, et des pistes pour les fintechs.",
+    "excerpt": "Plus de 7 000 ingénieurs ont quitté la Tunisie en 2025, selon leur Ordre. Ce que cette vague d'émigration change pour les équipes fintech, et comment réagir.",
+    "keywords": [
+      "fuite des cerveaux Tunisie",
+      "émigration ingénieurs tunisiens",
+      "talents tech Tunisie",
+      "recrutement développeurs Tunisie",
+      "fintech talents",
+      "Ordre des ingénieurs tunisiens"
+    ],
+    "tags": [
+      "Talents",
+      "Émigration",
+      "Startups",
+      "Emploi"
+    ],
+    "key_takeaways": [
+      "Selon l'Ordre des ingénieurs, plus de 45 000 des quelque 110 000 inscrits sont partis, dont plus de 7 000 en 2025.",
+      "41 % des Tunisiens et 67 % des moins de 30 ans envisageaient d'émigrer selon l'Arab Barometer 2025.",
+      "La fintech est particulièrement exposée, car un produit réglementé exige des ingénieurs seniors et des profils risque et conformité.",
+      "Avantages du Startup Act, participation au capital, recrutement dans la diaspora et partage des connaissances aident à retenir et remplacer les talents."
+    ],
+    "body": "La Tunisie forme des ingénieurs que les entreprises d'Europe, du Canada et d'ailleurs veulent recruter, et ils sont chaque année plus nombreux à partir. Pour une fintech, la fuite des cerveaux se traduit par des postes de développeurs seniors vacants, des salaires en hausse et des équipes à reconstruire tous les deux ans. Voici ce que disent les chiffres, et ce que les fondateurs peuvent raisonnablement faire.\n\n## Combien d'ingénieurs quittent la Tunisie ?\n\nLes chiffres les plus cités viennent de l'**Ordre des ingénieurs tunisiens** :\n\n- En octobre 2025, le doyen de l'Ordre, Mohsen Gharssi (parfois orthographié Ghrissi), a indiqué que **plus de 45 000** ingénieurs tunisiens avaient quitté le pays, sur environ **110 000** inscrits (La Presse, Webdo).\n- En mars 2025, l'ancien doyen Kamel Sahnoun avançait 39 000 départs sur 90 000 inscrits, soit près de 20 par jour.\n- Des chiffres attribués à l'Ordre et publiés par Managers en mai 2026 font état d'environ **6 500 départs en 2024** et de **plus de 7 000 en 2025**. Au rythme actuel, le cap des 8 000 serait franchi en 2026, mais il s'agit d'une projection.\n\nCes données ont leurs limites. Elles portent sur les ingénieurs inscrits à l'Ordre, pas sur l'ensemble des développeurs, dont beaucoup ne le sont pas. L'Ordre n'a pas non plus publié de méthodologie détaillée, et les totaux varient d'une déclaration à l'autre. Il faut les lire comme des ordres de grandeur.\n\n## Une génération tentée par le départ\n\nLes ingénieurs s'inscrivent dans une tendance plus large. Selon les enquêtes de l'Arab Barometer, la part des Tunisiens qui envisagent d'émigrer a fortement augmenté depuis 2011 :\n\n- **22 %** en 2011 ;\n- **46 %** lors de la vague 2023-2024, le niveau le plus élevé jamais mesuré en Tunisie ;\n- **41 %** lors de la vague 2025, dont **67 % des moins de 30 ans**, contre 34 % des 30 ans et plus (selon La Presse).\n\nLors de la vague 2023-2024, 89 % des candidats potentiels au départ invoquaient des raisons économiques. Vouloir partir n'est pas partir, mais ces chiffres montrent la force de l'attraction pour la tranche d'âge que recrutent justement les startups.\n\n## Pourquoi les ingénieurs partent\n\nLes motifs sont surtout économiques :\n\n- **Les salaires.** En octobre 2025, Mohsen Gharssi a dénoncé des salaires d'embauche de 600 à 700 dinars par mois pour de jeunes ingénieurs. Il a aussi critiqué une rémunération d'environ 1 500 dinars pour des ingénieurs qui pilotent des projets de plusieurs millions.\n- **La demande étrangère.** Selon Mohsen Gharssi, les compétences des ingénieurs tunisiens sont très recherchées en Europe, au Canada et dans certains pays d'Asie.\n- **Les perspectives de carrière.** Les ingénieurs qui veulent travailler sur des produits compétitifs à l'international voient souvent plus d'options à l'étranger qu'en Tunisie.\n\n## Ce que le secteur conserve\n\nLe vivier reste conséquent. En juillet 2026, Fakher Zaïbi, directeur général de l'Observatoire national de l'emploi et des compétences, indiquait que le secteur numérique emploie **120 000 personnes**, dont 104 000 dans le privé. Il pèse plus de 3 % du PIB, et plus de 11 % en incluant les télécommunications. Il a plaidé pour davantage de diplômés et de meilleures conditions de rémunération et de travail afin de retenir les talents. Pour la fintech, le problème tient moins au nombre de développeurs qu'au manque de profils expérimentés : ingénieurs seniors, spécialistes de la sécurité, data engineers, personnes ayant déjà bâti des systèmes financiers réglementés.\n\n## Ce que cela implique pour les fintechs\n\nLa fintech est plus exposée que d'autres secteurs, pour trois raisons :\n\n1. **Un produit réglementé exige des profils seniors.** Systèmes de paiement, dispositifs LBA/FT, audits de sécurité : on ne peut pas tout confier à des juniors. La BCT attend des établissements de paiement de vraies fonctions de risque, de conformité et d'informatique.\n2. **Les startups rivalisent avec des salaires étrangers.** Une startup locale convoite souvent le même développeur qu'une entreprise européenne qui recrute à distance, et elle paie en dinars.\n3. **Le droit du travail a changé.** Depuis la réforme de 2025, les CDD sont encadrés et la sous-traitance de main-d'œuvre est interdite (voir [la réforme du code du travail et les startups](post:tunisia-labor-law-reform-startups)). En août 2025, le groupe Adecco a annoncé son départ de Tunisie en invoquant cette loi. Les startups recrutent désormais leurs équipes clés directement, en CDI, ce qui engage davantage les deux parties.\n\n## Ce que les fondateurs peuvent faire\n\nIl n'existe pas de solution unique, mais certaines pistes reviennent :\n\n- **Utiliser les outils du Startup Act.** Le [Startup Act](post:startup-act-tunisia-explained) permet à un salarié de prendre jusqu'à deux ans de congé pour créer une startup, et l'État prend en charge les cotisations sociales pendant la durée du label. Le coût réel de chaque recrutement s'en trouve réduit.\n- **Proposer du capital, pas seulement un salaire.** Des sorties comme [le rachat d'InstaDeep par BioNTech](post:instadeep-biontech-lessons) montrent que le capital d'une entreprise tech tunisienne peut valoir beaucoup. Rares sont pourtant les salariés qui détiennent des stock-options.\n- **Recruter dans la diaspora.** Les ingénieurs partis forment un réseau, pas seulement une perte. Certains travaillent à distance pour des entreprises tunisiennes, investissent ou reviennent comme cadres seniors. La diaspora est aussi un marché (voir [les transferts de la diaspora](post:diaspora-remittances-tunisia)).\n- **Former des juniors et anticiper le turnover.** La documentation, les revues de code et le partage des connaissances limitent les dégâts lorsqu'un collaborateur s'en va.\n\n## En résumé\n\nL'émigration des ingénieurs est un fait structurel en Tunisie, pas une crise passagère. Les chiffres de l'Ordre suggèrent que des milliers d'entre eux partent chaque année, et les enquêtes montrent que la plupart des jeunes Tunisiens envisagent de partir. Les fondateurs de fintech qui en tiennent compte (participation au capital, vraies responsabilités, équipes ouvertes au travail à distance) retiendront mieux leurs talents que ceux qui misent sur un retournement de tendance.",
+    "faq": [
+      {
+        "q": "Combien d'ingénieurs quittent la Tunisie chaque année ?",
+        "a": "Des chiffres attribués à l'Ordre des ingénieurs tunisiens font état d'environ 6 500 départs en 2024 et de plus de 7 000 en 2025. En octobre 2025, le doyen de l'Ordre évoquait plus de 45 000 départs au total. Ces chiffres portent sur les ingénieurs inscrits et doivent être lus comme des ordres de grandeur."
+      },
+      {
+        "q": "Pourquoi les ingénieurs tunisiens émigrent-ils ?",
+        "a": "Surtout pour des raisons économiques : salaires d'embauche faibles, et forte demande pour leurs compétences en Europe, au Canada et dans certains pays d'Asie. Dans l'Arab Barometer 2023-2024, 89 % des Tunisiens tentés par le départ citaient des motifs économiques."
+      },
+      {
+        "q": "Comment une startup tunisienne peut-elle retenir ses développeurs ?",
+        "a": "Les pistes les plus courantes : proposer une part du capital, utiliser les avantages du Startup Act qui allègent le coût de l'emploi, confier de vraies responsabilités produit, recruter à distance dans la diaspora et anticiper le turnover par la documentation et la formation."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tunisie : plus de 8 000 ingénieurs et 1 600 médecins quittent le pays chaque année",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/05/13/tunisie-plus-de-8-000-ingenieurs-et-1-600-medecins-quittent-le-pays-chaque-annee/"
+    },
+    {
+      "title": "Mohsen Ghrissi sur l'exode des ingénieurs : « Il faut stopper l'hémorragie et améliorer les salaires »",
+      "publisher": "La Presse",
+      "url": "https://lapresse.tn/2025/10/08/mohsen-ghrissi-sur-lexode-des-ingenieurs-il-faut-stopper-lhemorragie-et-ameliorer-les-salaires/"
+    },
+    {
+      "title": "Exode massif : plus de 45 000 ingénieurs tunisiens ont quitté le pays",
+      "publisher": "Webdo",
+      "url": "https://www.webdo.tn/fr/actualite/national/exode-massif-plus-de-45-000-ingenieurs-tunisiens-ont-quitte-le-pays-alerte-le-doyen-de-lordre/385251/"
+    },
+    {
+      "title": "Press Release: Migration Trends in the Middle East and North Africa Revealed in Latest Arab Barometer Survey",
+      "publisher": "Arab Barometer",
+      "url": "https://www.arabbarometer.org/media-news/press-release-migration-trends-in-the-middle-east-and-north-africa-revealed-in-latest-arab-barometer-survey/"
+    },
+    {
+      "title": "Jeunesse tunisienne : l'espoir de 2011 cède-t-il à l'envie de partir ?",
+      "publisher": "La Presse",
+      "url": "https://www.lapresse.tn/2026/09/24/jeunesse-tunisienne-lespoir-de-2011-cede-t-il-a-lenvie-de-partir/"
+    },
+    {
+      "title": "Tunisia's New Labour Law Forces a €24bn IT Hiring Giant to Quit the Country After 23 Years",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/08/28/tunisias-new-labour-law-forces-a-e24bn-it-hiring-giant-to-quit-the-country-after-23-years/"
+    }
+  ]
+}

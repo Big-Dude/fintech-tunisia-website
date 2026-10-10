@@ -1,0 +1,188 @@
+{
+ "slug": "african-fintech-unicorns",
+ "category": "africa",
+ "cover_motif": "rocket",
+ "stats": [
+  {
+   "value": "8 of 9",
+   "label_en": "African unicorns on Afridigest's list that are fintechs (Andela is the exception)",
+   "label_fr": "licornes africaines de la liste d'Afridigest qui sont des fintechs (Andela fait exception)",
+   "source": "Afridigest, 2025–2026"
+  },
+  {
+   "value": "$3.25bn",
+   "label_en": "Flutterwave's valuation after its June 2026 Series E",
+   "label_fr": "valorisation de Flutterwave après sa série E de juin 2026",
+   "source": "TechCabal, 2026"
+  },
+  {
+   "value": "$22bn+",
+   "label_en": "Moniepoint's monthly payment volume (Oct. 2025)",
+   "label_fr": "volume de paiements mensuel de Moniepoint (oct. 2025)",
+   "source": "Launch Base Africa, 2025"
+  }
+ ],
+ "chart": {
+  "title_en": "Last disclosed or implied valuations of African fintech unicorns (US$ billion, year of valuation in brackets)",
+  "title_fr": "Dernières valorisations publiques ou implicites des licornes fintech africaines (milliards de dollars, année entre parenthèses)",
+  "unit": "US$bn",
+  "bars": [
+   {
+    "label_en": "Flutterwave (2026)",
+    "label_fr": "Flutterwave (2026)",
+    "value": 3.25
+   },
+   {
+    "label_en": "OPay (2026, implied)",
+    "label_fr": "OPay (2026, implicite)",
+    "value": 3.1
+   },
+   {
+    "label_en": "Wave (2021)",
+    "label_fr": "Wave (2021)",
+    "value": 1.7
+   },
+   {
+    "label_en": "Tyme Group (2024)",
+    "label_fr": "Tyme Group (2024)",
+    "value": 1.5
+   },
+   {
+    "label_en": "MNT-Halan (2026)",
+    "label_fr": "MNT-Halan (2026)",
+    "value": 1.4
+   },
+   {
+    "label_en": "Interswitch (2019)",
+    "label_fr": "Interswitch (2019)",
+    "value": 1.0
+   }
+  ],
+  "source_name": "TechCabal, Launch Base Africa, Africa: The Big Deal, GoTyme Bank, Wamda",
+  "source_url": "https://thebigdeal.substack.com/p/unicorns"
+ },
+ "en": {
+  "title": "Africa's Fintech Unicorns: Moniepoint, OPay, Wave and More",
+  "meta_description": "Africa's fintech unicorns in 2026: Flutterwave, OPay, Moniepoint, Wave, MNT-Halan, Tyme and others, what their valuations mean and what Tunisia can learn.",
+  "excerpt": "Almost every African unicorn is a fintech. Who they are, how reliable their valuations are, and why none of them is Tunisian.",
+  "keywords": [
+   "African fintech unicorns",
+   "Africa unicorns 2026",
+   "Moniepoint valuation",
+   "OPay valuation",
+   "Wave unicorn",
+   "MNT-Halan valuation",
+   "Tunisia unicorn"
+  ],
+  "tags": [
+   "Unicorns",
+   "Africa",
+   "Valuations",
+   "Nigeria",
+   "Egypt"
+  ],
+  "key_takeaways": [
+   "Eight of the nine companies on Afridigest's list of African unicorns are fintechs, and most are Nigerian.",
+   "Flutterwave ($3.25 billion, June 2026), OPay (about $3.1 billion implied by Opera's accounts) and MNT-Halan ($1.4 billion, June 2026) have the most recent valuations.",
+   "Several valuations, such as Wave's $1.7 billion and Chipper Cash's, date from 2021 and may no longer reflect market value.",
+   "The common recipe is payments as an entry point, lending and banking licences for revenue, and a large home market; Tunisian founders need a regional plan to approach that scale."
+  ],
+  "body": "Africa has only a handful of startups valued at $1 billion or more, and almost all of them are fintechs. **Africa's fintech unicorns** are concentrated in Nigeria, with outliers in Egypt, Senegal and South Africa. Their stories show what kind of business reaches scale on the continent, and why valuations should be read with care.\n\n## Who are Africa's fintech unicorns?\n\nLists vary because companies rarely publish valuations. [Afridigest](https://afridigest.com/complete-list-african-unicorns-today/), last updated in September 2025, counts nine unicorns, eight of them fintechs: Interswitch, Flutterwave, OPay, Wave, Chipper Cash, MNT-Halan, Moniepoint and Tyme. The ninth is Andela, a tech talent company. BusinessDay reported in August 2026 that Nigeria's Moove, a vehicle-financing company, had joined the club, taking the total to ten.\n\n### Flutterwave (Nigeria)\n\nThe payments company, founded in 2016, is Africa's most valuable fintech. [TechCabal](https://techcabal.com/2026/06/16/flutterwave-series-e/) reported that its June 2026 Series E, backed by Ripple, valued it at $3.25 billion. Its strategy is covered in our piece on [Flutterwave, Paystack and Africa's payment rails](post:flutterwave-paystack-payment-rails).\n\n### OPay (Nigeria)\n\nOPay's last external valuation was $2 billion, after a $400 million Series C led by SoftBank's Vision Fund 2 in 2021. According to [Launch Base Africa](https://launchbaseafrica.com/2026/04/24/an-85-chance-of-a-3-1bn-ipo-within-two-years-inside-operas-high-stakes-opay-bet/), Opera's accounts value its 9.5% stake at $294.6 million, which implies about $3.1 billion for the whole company. Opera's model assumes an 85% chance of a stock market listing within two years. OPay has more than 60 million users in Nigeria, according to figures cited in the same article.\n\n### Moniepoint (Nigeria)\n\nMoniepoint, founded in 2015, built its business on payments and business accounts for small merchants. It passed $1 billion in valuation in 2024. In October 2025, [Launch Base Africa](https://launchbaseafrica.com/2025/10/21/moniepoint-closes-200m-round-to-push-merchant-banking-beyond-nigeria/?amp=1) reported that it had completed a $200 million round with Visa, Development Partners International, LeapFrog and Google's Africa fund. It processes more than one billion transactions and over $22 billion a month, and has bought licensed entities in the UK and Kenya.\n\n### Wave (Senegal)\n\nWave reached a $1.7 billion valuation with a $200 million Series A in 2021, after cutting mobile money fees in Senegal. That valuation has not been updated publicly since. Its later financing, including a $137 million debt facility in 2025, did not come with a new valuation. See [how Wave disrupted mobile money pricing](post:wave-senegal-mobile-money).\n\n### MNT-Halan (Egypt)\n\nEgypt's first fintech unicorn combines lending, payments, wallets and e-commerce. In June 2026, [Wamda](https://www.wamda.com/2026/06/mnt-halan-reaches-1-4-billion-valuation-investment-round-led-al-ahly-capital) reported a $1.4 billion valuation after a round led by Al Ahly Capital, the investment arm of the National Bank of Egypt. It also operates in Türkiye, Pakistan and the UAE. More on the Egyptian market in our article on [Egypt's fintech boom](post:egypt-fintech-instapay).\n\n### Tyme Group (South Africa)\n\nThe digital bank behind TymeBank in South Africa and GoTyme in the Philippines became a unicorn in December 2024, when Brazil's Nubank led a $250 million round at a $1.5 billion post-money valuation, according to [GoTyme Bank](https://www.gotyme.com.ph/news/tyme-group-achieves-unicorn-status-with-major-nubank-investment). Tyme reported more than 15 million customers at the time.\n\n### Interswitch and Chipper Cash\n\nInterswitch, Nigeria's payment switching company, reached a $1 billion valuation with a Visa investment in 2019. Chipper Cash was valued at slightly over $2 billion in 2021 but has not raised since, and has made several rounds of layoffs, according to [Africa: The Big Deal](https://thebigdeal.substack.com/p/unicorns).\n\n## Paper valuations, real caution\n\nA unicorn label says when a company was last priced, not what it is worth today. Several African valuations date from the 2021 funding boom. Africa: The Big Deal noted in 2024 that Chipper Cash's valuation may now be lower, and that Fawry, often called a unicorn after its 2019 listing in Cairo, was then worth well under $1 billion on the stock market. OPay's $3.1 billion is an accounting estimate by one shareholder, not a funding round.\n\nThe same caution applies to unconfirmed claims. BusinessDay excluded Algeria's Yassir from its list because the company has never officially disclosed a valuation above $1 billion.\n\n## What they have in common\n\nThe fintech unicorns share several traits:\n\n- **Payments as the entry point.** Almost all started with transfers, merchant payments or card switching.\n- **Lending and deposits for revenue.** MNT-Halan, Moniepoint and Tyme earn much of their money from credit and banking, which requires licences.\n- **A large home market.** Nigeria and Egypt are among Africa's most populous countries, giving room to scale before going abroad.\n- **Physical distribution.** OPay, Moniepoint and Wave built agent or merchant networks, not just apps.\n- **Licences as assets.** Moniepoint bought licensed entities in the UK and Kenya; Paystack and others have also bought banks.\n\n## What it means for Tunisia\n\nTunisia has no unicorn. Its best-known exit, InstaDeep's acquisition by BioNTech in 2023, was in artificial intelligence, not fintech (see [lessons from InstaDeep](post:instadeep-biontech-lessons)). A small domestic market, foreign exchange rules and a still-modest digital payments base make a Tunisian fintech unicorn hard to build from the home market alone.\n\nFor Tunisian founders, the lessons are practical:\n\n- **Plan for a bigger market early,** whether North Africa, francophone West Africa or the diaspora in Europe.\n- **Treat licensing as strategy.** The unicorns that grew fastest used banking or payment licences to move into lending and deposits.\n- **Build distribution, not just software.** Agents, merchants and partnerships with La Poste or telecom operators matter as much as the app.\n- **Read valuations critically.** A headline number from 2021 says little about what investors will pay in 2026.",
+  "faq": [
+   {
+    "q": "How many fintech unicorns are there in Africa?",
+    "a": "Afridigest's list, last updated in September 2025, counts nine African unicorns, eight of them fintechs: Interswitch, Flutterwave, OPay, Wave, Chipper Cash, MNT-Halan, Moniepoint and Tyme. BusinessDay reported in August 2026 that Moove had also passed $1 billion."
+   },
+   {
+    "q": "What is Africa's most valuable fintech?",
+    "a": "Flutterwave, valued at $3.25 billion after its Ripple-backed Series E in June 2026, according to TechCabal. OPay's implied value of about $3.1 billion comes from a shareholder's accounts rather than a funding round."
+   },
+   {
+    "q": "Is there a fintech unicorn in North Africa?",
+    "a": "Yes, Egypt's MNT-Halan, valued at $1.4 billion in June 2026. Algeria's Yassir has been reported as a unicorn, but it has not officially disclosed such a valuation. Morocco and Tunisia have no fintech unicorn."
+   },
+   {
+    "q": "Are African unicorn valuations reliable?",
+    "a": "They should be read with caution. Several, such as Wave's $1.7 billion and Chipper Cash's valuation, date from 2021 and have not been updated publicly. Africa: The Big Deal has noted that some may now be lower."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Les licornes fintech africaines : Moniepoint, OPay, Wave…",
+  "meta_description": "Licornes fintech africaines en 2026 : Flutterwave, OPay, Moniepoint, Wave, MNT-Halan, Tyme… Que valent leurs valorisations ? Quelles leçons pour la Tunisie ?",
+  "excerpt": "Presque toutes les licornes africaines sont des fintechs. Qui sont-elles, que valent leurs valorisations, et pourquoi aucune n'est tunisienne ?",
+  "keywords": [
+   "licornes fintech africaines",
+   "licornes Afrique 2026",
+   "valorisation Moniepoint",
+   "valorisation OPay",
+   "Wave licorne",
+   "MNT-Halan valorisation",
+   "licorne tunisienne"
+  ],
+  "tags": [
+   "Licornes",
+   "Afrique",
+   "Valorisations",
+   "Nigeria",
+   "Égypte"
+  ],
+  "key_takeaways": [
+   "Huit des neuf entreprises de la liste des licornes africaines d'Afridigest sont des fintechs, majoritairement nigérianes.",
+   "Flutterwave (3,25 milliards de dollars, juin 2026), OPay (environ 3,1 milliards, valeur implicite dans les comptes d'Opera) et MNT-Halan (1,4 milliard, juin 2026) ont les valorisations les plus récentes.",
+   "Plusieurs valorisations, comme les 1,7 milliard de Wave ou celle de Chipper Cash, datent de 2021 et ne reflètent peut-être plus la valeur de marché.",
+   "La recette commune : le paiement comme porte d'entrée, le crédit et la licence bancaire pour les revenus, un grand marché domestique. Les fondateurs tunisiens ont besoin d'un plan régional pour viser cette échelle."
+  ],
+  "body": "L'Afrique ne compte qu'une poignée de startups valorisées à un milliard de dollars ou plus, et presque toutes sont des fintechs. Les **licornes fintech africaines** se concentrent au Nigeria, avec quelques exceptions en Égypte, au Sénégal et en Afrique du Sud. Leur parcours montre quel type d'entreprise atteint l'échelle sur le continent, et pourquoi il faut lire les valorisations avec prudence.\n\n## Qui sont les licornes fintech africaines ?\n\nLes listes varient, car les entreprises publient rarement leur valorisation. [Afridigest](https://afridigest.com/complete-list-african-unicorns-today/), dans sa dernière mise à jour de septembre 2025, recense neuf licornes, dont huit fintechs : Interswitch, Flutterwave, OPay, Wave, Chipper Cash, MNT-Halan, Moniepoint et Tyme. La neuvième est Andela, spécialisée dans les talents tech. BusinessDay a rapporté en août 2026 l'entrée dans le club du nigérian Moove, spécialiste du financement de véhicules, portant le total à dix.\n\n### Flutterwave (Nigeria)\n\nFondée en 2016, la société de paiement est la fintech la plus valorisée d'Afrique. Selon [TechCabal](https://techcabal.com/2026/06/16/flutterwave-series-e/), sa série E de juin 2026, soutenue par Ripple, la valorise à 3,25 milliards de dollars. Sa stratégie est détaillée dans notre article sur [Flutterwave, Paystack et les rails de paiement africains](post:flutterwave-paystack-payment-rails).\n\n### OPay (Nigeria)\n\nLa dernière valorisation externe d'OPay, 2 milliards de dollars, remonte à une série C de 400 millions menée en 2021 par le Vision Fund 2 de SoftBank. Selon [Launch Base Africa](https://launchbaseafrica.com/2026/04/24/an-85-chance-of-a-3-1bn-ipo-within-two-years-inside-operas-high-stakes-opay-bet/), les comptes d'Opera valorisent sa participation de 9,5 % à 294,6 millions de dollars, ce qui implique environ 3,1 milliards pour l'ensemble de l'entreprise. Le modèle d'Opera retient une probabilité de 85 % d'introduction en Bourse d'ici deux ans. OPay revendique plus de 60 millions d'utilisateurs au Nigeria, selon les chiffres cités par le même article.\n\n### Moniepoint (Nigeria)\n\nFondée en 2015, Moniepoint s'est développée en proposant paiements et comptes professionnels aux petits commerçants. Elle a dépassé le milliard de dollars de valorisation en 2024. En octobre 2025, [Launch Base Africa](https://launchbaseafrica.com/2025/10/21/moniepoint-closes-200m-round-to-push-merchant-banking-beyond-nigeria/?amp=1) indiquait qu'elle avait bouclé un tour de 200 millions de dollars avec Visa, Development Partners International, LeapFrog et le fonds africain de Google. Elle traite plus d'un milliard de transactions et plus de 22 milliards de dollars par mois, et a racheté des structures agréées au Royaume-Uni et au Kenya.\n\n### Wave (Sénégal)\n\nWave a atteint une valorisation de 1,7 milliard de dollars lors d'une série A de 200 millions en 2021, après avoir cassé les prix du mobile money au Sénégal. Cette valorisation n'a pas été actualisée publiquement depuis : ses financements ultérieurs, dont une facilité de dette de 137 millions de dollars en 2025, ne s'accompagnaient pas d'une nouvelle valorisation. Voir [comment Wave a bousculé les prix du mobile money](post:wave-senegal-mobile-money).\n\n### MNT-Halan (Égypte)\n\nPremière licorne fintech égyptienne, MNT-Halan combine crédit, paiements, portefeuilles et e-commerce. En juin 2026, [Wamda](https://www.wamda.com/2026/06/mnt-halan-reaches-1-4-billion-valuation-investment-round-led-al-ahly-capital) faisait état d'une valorisation de 1,4 milliard de dollars après un tour mené par Al Ahly Capital, bras d'investissement de la National Bank of Egypt. Le groupe est aussi présent en Turquie, au Pakistan et aux Émirats. Pour en savoir plus sur ce marché, lire notre article sur [l'essor de la fintech égyptienne](post:egypt-fintech-instapay).\n\n### Tyme Group (Afrique du Sud)\n\nLa banque numérique derrière TymeBank en Afrique du Sud et GoTyme aux Philippines est devenue licorne en décembre 2024, lorsque le brésilien Nubank a mené un tour de 250 millions de dollars sur une valorisation post-money de 1,5 milliard, selon [GoTyme Bank](https://www.gotyme.com.ph/news/tyme-group-achieves-unicorn-status-with-major-nubank-investment). Tyme revendiquait alors plus de 15 millions de clients.\n\n### Interswitch et Chipper Cash\n\nInterswitch, opérateur nigérian de switching de paiements, a atteint le milliard de dollars de valorisation avec une prise de participation de Visa en 2019. Chipper Cash a été valorisée un peu plus de 2 milliards de dollars en 2021, mais n'a plus levé depuis et a procédé à plusieurs vagues de licenciements, selon [Africa: The Big Deal](https://thebigdeal.substack.com/p/unicorns).\n\n## Des valorisations sur le papier\n\nLe statut de licorne indique à quel prix une entreprise a été valorisée pour la dernière fois, pas ce qu'elle vaut aujourd'hui. Plusieurs valorisations africaines datent de l'euphorie de 2021. Africa: The Big Deal relevait en 2024 que celle de Chipper Cash pourrait être plus basse aujourd'hui, et que Fawry, souvent qualifiée de licorne après son introduction en Bourse au Caire en 2019, valait alors nettement moins d'un milliard de dollars. Les 3,1 milliards d'OPay sont une estimation comptable d'un actionnaire, pas le prix d'un tour de table.\n\nLa même prudence vaut pour les annonces non confirmées. BusinessDay a ainsi exclu l'algérien Yassir de sa liste, faute de valorisation supérieure au milliard officiellement communiquée.\n\n## Ce qu'elles ont en commun\n\nLes licornes fintech partagent plusieurs traits :\n\n- **Le paiement comme porte d'entrée.** Presque toutes ont commencé par le transfert, le paiement marchand ou le switching de cartes.\n- **Le crédit et les dépôts pour les revenus.** MNT-Halan, Moniepoint et Tyme tirent une grande partie de leurs revenus du crédit et de la banque, ce qui suppose des licences.\n- **Un grand marché domestique.** Le Nigeria et l'Égypte figurent parmi les pays les plus peuplés d'Afrique, de quoi croître avant de s'internationaliser.\n- **Une distribution physique.** OPay, Moniepoint et Wave ont bâti des réseaux d'agents ou de commerçants, pas seulement des applications.\n- **La licence comme actif.** Moniepoint a racheté des structures agréées au Royaume-Uni et au Kenya ; Paystack et d'autres ont aussi acquis des banques.\n\n## Ce que cela signifie pour la Tunisie\n\nLa Tunisie n'a pas de licorne. Sa sortie la plus célèbre, le rachat d'InstaDeep par BioNTech en 2023, concernait l'intelligence artificielle, pas la fintech (voir [les leçons d'InstaDeep](post:instadeep-biontech-lessons)). Un marché intérieur étroit, la réglementation des changes et un paiement numérique encore modeste rendent difficile l'émergence d'une licorne fintech à partir du seul marché tunisien.\n\nPour les fondateurs tunisiens, les leçons sont concrètes :\n\n- **Viser tôt un marché plus large** : Afrique du Nord, Afrique de l'Ouest francophone ou diaspora en Europe.\n- **Faire de la licence une stratégie.** Les licornes à la croissance la plus rapide se sont appuyées sur des agréments bancaires ou de paiement pour passer au crédit et aux dépôts.\n- **Construire la distribution, pas seulement le logiciel.** Agents, commerçants et partenariats avec La Poste ou les opérateurs télécoms comptent autant que l'application.\n- **Lire les valorisations avec recul.** Un chiffre de 2021 dit peu de choses de ce que les investisseurs paieront en 2026.",
+  "faq": [
+   {
+    "q": "Combien y a-t-il de licornes fintech en Afrique ?",
+    "a": "La liste d'Afridigest, mise à jour en septembre 2025, recense neuf licornes africaines, dont huit fintechs : Interswitch, Flutterwave, OPay, Wave, Chipper Cash, MNT-Halan, Moniepoint et Tyme. BusinessDay a indiqué en août 2026 que Moove avait aussi dépassé le milliard de dollars."
+   },
+   {
+    "q": "Quelle est la fintech la plus valorisée d'Afrique ?",
+    "a": "Flutterwave, valorisée 3,25 milliards de dollars après sa série E de juin 2026 soutenue par Ripple, selon TechCabal. La valeur implicite d'environ 3,1 milliards d'OPay provient des comptes d'un actionnaire et non d'un tour de table."
+   },
+   {
+    "q": "Existe-t-il une licorne fintech en Afrique du Nord ?",
+    "a": "Oui, l'égyptien MNT-Halan, valorisé 1,4 milliard de dollars en juin 2026. L'algérien Yassir a été présenté comme une licorne, mais n'a jamais officiellement communiqué une telle valorisation. Le Maroc et la Tunisie n'ont pas de licorne fintech."
+   },
+   {
+    "q": "Les valorisations des licornes africaines sont-elles fiables ?",
+    "a": "Elles doivent être lues avec prudence. Plusieurs, comme les 1,7 milliard de Wave ou la valorisation de Chipper Cash, datent de 2021 et n'ont pas été actualisées publiquement. Africa: The Big Deal estime que certaines pourraient être plus basses aujourd'hui."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "title": "The complete list of African unicorns today",
+   "publisher": "Afridigest",
+   "url": "https://afridigest.com/complete-list-african-unicorns-today/"
+  },
+  {
+   "title": "Africa's unicorns in focus",
+   "publisher": "Africa: The Big Deal",
+   "url": "https://thebigdeal.substack.com/p/unicorns"
+  },
+  {
+   "title": "An 85% chance of a $3.1bn IPO within two years: inside Opera's high-stakes OPay bet",
+   "publisher": "Launch Base Africa",
+   "url": "https://launchbaseafrica.com/2026/04/24/an-85-chance-of-a-3-1bn-ipo-within-two-years-inside-operas-high-stakes-opay-bet/"
+  },
+  {
+   "title": "Moniepoint closes $200M round to push merchant banking beyond Nigeria",
+   "publisher": "Launch Base Africa",
+   "url": "https://launchbaseafrica.com/2025/10/21/moniepoint-closes-200m-round-to-push-merchant-banking-beyond-nigeria/?amp=1"
+  },
+  {
+   "title": "MNT-Halan reaches $1.4 billion valuation in investment round led by Al Ahly Capital",
+   "publisher": "Wamda",
+   "url": "https://www.wamda.com/2026/06/mnt-halan-reaches-1-4-billion-valuation-investment-round-led-al-ahly-capital"
+  },
+  {
+   "title": "Africa's unicorn club grows to 10, Nigeria remains continent's dominant hub",
+   "publisher": "BusinessDay",
+   "url": "https://businessday.ng/news/article/africas-unicorn-club-grows-to-10-nigeria-remains-continents-dominant-hub/"
+  }
+ ]
+}

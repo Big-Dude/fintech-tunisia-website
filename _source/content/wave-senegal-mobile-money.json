@@ -1,0 +1,142 @@
+{
+  "slug": "wave-senegal-mobile-money",
+  "category": "africa",
+  "cover_motif": "phone-wallet",
+  "stats": [
+    {
+      "value": "1%",
+      "label_en": "Wave's flat fee on person-to-person transfers; deposits and withdrawals free",
+      "label_fr": "de frais fixes chez Wave sur les transferts entre particuliers ; dépôts et retraits gratuits",
+      "source": "TechCabal, 2025"
+    },
+    {
+      "value": "$137M",
+      "label_en": "debt round led by Rand Merchant Bank, June 2025",
+      "label_fr": "de dette levés auprès d'un pool mené par Rand Merchant Bank, juin 2025",
+      "source": "TechCabal, 2025"
+    },
+    {
+      "value": "0.5%",
+      "label_en": "Senegal's mobile money tax since 17 Dec 2025, capped at 2,000 FCFA",
+      "label_fr": "taxe sénégalaise sur le mobile money depuis le 17 déc. 2025, plafonnée à 2 000 FCFA",
+      "source": "Senego, 2025"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "How Wave Mobile Money Disrupted Pricing in Senegal",
+    "meta_description": "Wave mobile money made withdrawals free and charged 1% to send, forcing Orange Money to cut fees. What its model, new tax and bank plans mean for Tunisia.",
+    "excerpt": "Wave scrapped cash-out fees and charged a flat 1% to send, forcing Senegal's incumbent to follow. Now taxes, a public instant payment rail and a bank are changing the game.",
+    "keywords": [
+      "Wave mobile money",
+      "Wave Senegal",
+      "Wave vs Orange Money",
+      "mobile money fees Senegal",
+      "Senegal mobile money tax",
+      "Wave Bank Africa",
+      "mobile money Tunisia lessons"
+    ],
+    "tags": [
+      "Wave",
+      "Senegal",
+      "Mobile money",
+      "Pricing",
+      "West Africa"
+    ],
+    "key_takeaways": [
+      "Wave made deposits and withdrawals free and charged a flat 1% on transfers, while rivals reportedly charged 5% to 10%.",
+      "In November 2021, Orange Money Senegal responded with free withdrawals and a 0.8% sending fee.",
+      "Since 2025, a 0.5% Senegalese mobile money tax, the BCEAO's PI-SPI instant payment rail and Wave's new bank have changed the market.",
+      "For Tunisia, the lesson is to price cash-in and cash-out, finance agent liquidity and expect public rails and taxes to reshape margins."
+    ],
+    "body": "When Wave launched in Senegal in 2018, mobile money users were used to paying to send money and paying again to withdraw their own cash. **Wave mobile money** dropped deposit and withdrawal fees to zero and charged a flat 1% to send, and within three years the incumbent had to follow. The story has now moved into a second chapter, with a transaction tax, a free central-bank instant payment rail and a banking subsidiary, and both chapters hold lessons for Tunisia.\n\n## The 1% model: what Wave mobile money changed\n\nWave's pricing is simple, and it is the reason for its growth. According to [TechCabal](https://techcabal.com/2025/06/30/wave-raises-137-milion/), Wave offers:\n\n- free deposits and withdrawals in its app;\n- a fixed 1% fee on person-to-person transfers;\n- bill payments where the fee is charged to the business, not the user.\n\nTechCabal reported that competitors such as Orange, Free and Expresso were charging between 5% and 10% per transaction. In a cash economy, money moves in and out of wallets all the time: a trader receives a transfer, cashes out at an agent, pays suppliers in cash. A cash-out fee is charged on almost every cycle, so removing it changed the value of a wallet far more than a small cut to the transfer fee would have.\n\n## How the incumbent responded\n\nThe market leader did not stand still. In November 2021, Senegalese outlet [Osiris](https://osiris.sn/transactions-electroniques-wave-contraint-orange-money-a-baisser-drastiquement.html), citing *L'Observateur*, reported that Orange Money in Senegal had made withdrawals free and set its sending fee at 0.8%, slightly below Wave's 1%. At that rate, a 5,000 FCFA transfer cost 40 FCFA.\n\nThe same report noted that the third-quarter report of Sonatel and Orange attributed lower financial services revenue to strong competition. Agents and distributors, who had lived on withdrawal commissions, also complained loudly about lost income. The price war showed that a challenger can reset what a whole market charges, and that consumers keep most of the gain even when the challenger does not win every customer.\n\n## Capital to fund the model\n\nLow prices need deep pockets, especially because agents must hold cash and e-money float. Wave raised a $200 million Series A in September 2021 at a $1.7 billion valuation, becoming Francophone Africa's first unicorn. In June 2025, it added a $137 million debt round led by Rand Merchant Bank, with British International Investment, Finnfund and Norfund, aimed at working capital and expansion. At that time it reported over 20 million monthly active users, more than 150,000 agents and about 3,000 staff across eight markets.\n\nBy July 2026, Wave Burkina's director general told the SIPEN-UEMOA fair in Ouagadougou that the company had 25 million active users, 3 million merchants and a presence in 11 countries, according to [Wakat Séra](https://www.wakatsera.com/economie-numerique-wave-leader-du-mobile-money-sur-les-marches-senegalais-ivoirien-et-gambien/). These are company figures, not independently audited. He also said a promotion had temporarily cut the transfer fee to 0.5%.\n\n## Chapter two: tax, interoperability and a bank\n\nThree changes in 2025 reshaped the environment Wave helped create.\n\n### A tax on mobile money\n\nSenegal's Law No. 2025-17 of 27 September 2025 introduced a 0.5% tax on transfers, payments and withdrawals, capped at 2,000 FCFA per operation, which came into force on 17 December 2025, as reported by [Senego](https://senego.com/mobile-money-la-taxe-sur-les-transferts-dargent-entre-en-vigueur-ce-17-decembre-2025_1903513.html). Withdrawals are taxed only when the total withdrawn over 24 hours exceeds 20,000 FCFA; cash deposits and salary payments are exempt. A tax of 0.5% is half of Wave's own fee, which shows how quickly a cheap service can become a revenue base for a stretched government.\n\n### A free public rail\n\nOn 30 September 2025, the BCEAO, the central bank of the eight-country West African Economic and Monetary Union, launched PI-SPI, an interoperable instant payment platform. When the main selling point of a private network is cheap transfers, a public rail that connects banks and e-money issuers changes the competitive picture.\n\n### A banking licence strategy\n\nAccording to [Osiris](https://www.osiris.sn/wave-cree-wava-bank-africa-sa.html), Wave Bank Africa SA was incorporated in Côte d'Ivoire in August 2025 with 20 billion FCFA in capital. The outlet linked the move to fee cuts by competitors, the new instant payment system and Senegal's tax, and reported that Wave was not among the first operators authorised on PI-SPI. Wave executives have since said that credit, savings and insurance products are in preparation.\n\n## What it means for Tunisia\n\nTunisia's mobile payment market is still small. Central Bank of Tunisia (BCT) data reported by [Ecofin Agency](https://www.ecofinagency.com/news-digital/0905-55414-tunisia-introduces-tunpay-label-to-regulate-and-unify-mobile-payment-sector) show 8.4 million mobile transactions in 2025, up 81%, worth 1.769 billion dinars. In May 2026, the BCT and Monétique Tunisie introduced the TUNPAY label to make mobile payment services easier to recognise and more interoperable. Several lessons from Senegal apply:\n\n- **Price the cash edges, not just the transfer.** In a cash-heavy economy such as Tunisia's, what users pay to get money in and out matters more than the headline transfer fee. See our piece on [the Tunisian mobile wallet landscape](post:mobile-payments-tunisia).\n- **Float needs financing.** Wave relied on equity first and then development-finance debt to fund agent liquidity. Tunisian wallet operators face the same need under the [payment institution regime](post:payment-institutions-tunisia).\n- **Public rails reset the game.** Once a central bank offers free, interoperable instant payments, a cheap closed network is no longer enough. Tunisia's own path is covered in [instant payments and interoperability](post:instant-payments-tunisia).\n- **Watch the tax authority.** Senegal shows that fast-growing digital flows attract taxes quickly. Any Tunisian strategy built on thin margins should plan for that risk.\n\nWave's first chapter showed that one disciplined entrant can lower prices for a whole country. Its second chapter shows that pricing alone is not a lasting moat, which is why Wave is now moving into banking, like several of [Africa's fintech unicorns](post:african-fintech-unicorns).",
+    "faq": [
+      {
+        "q": "How much does Wave charge to send money?",
+        "a": "Wave charges a flat 1% on person-to-person transfers, and deposits and withdrawals are free, according to TechCabal's 2025 reporting. In July 2026 a Wave Burkina executive said a promotion had temporarily cut the transfer fee to 0.5%. Senegal's 0.5% mobile money tax, in force since December 2025, applies on top of operator fees."
+      },
+      {
+        "q": "How did Orange Money react to Wave in Senegal?",
+        "a": "In November 2021, Orange Money Senegal made withdrawals free and set its sending fee at 0.8%, according to local press. Sonatel and Orange reported lower financial services revenue because of strong competition."
+      },
+      {
+        "q": "Is Wave available in Tunisia?",
+        "a": "No. Wave operates in West and Central Africa and in Uganda, according to company statements in 2026. Tunisia has its own wallets run by banks, La Poste and licensed payment institutions."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Wave : comment le mobile money a cassé les prix au Sénégal",
+    "meta_description": "Wave a rendu les retraits gratuits et l'envoi à 1 %, forçant Orange Money à baisser ses prix. Ce que son modèle, la taxe et sa banque disent à la Tunisie.",
+    "excerpt": "Wave a supprimé les frais de retrait et fixé l'envoi à 1 %, obligeant l'opérateur historique à suivre. Taxe, paiement instantané public et banque changent désormais la donne.",
+    "keywords": [
+      "Wave mobile money",
+      "Wave Sénégal",
+      "Wave contre Orange Money",
+      "frais mobile money Sénégal",
+      "taxe mobile money Sénégal",
+      "Wave Bank Africa",
+      "mobile money Tunisie"
+    ],
+    "tags": [
+      "Wave",
+      "Sénégal",
+      "Mobile money",
+      "Tarification",
+      "Afrique de l'Ouest"
+    ],
+    "key_takeaways": [
+      "Wave a rendu dépôts et retraits gratuits et fixé les transferts à 1 %, quand ses concurrents factureraient de 5 % à 10 %.",
+      "En novembre 2021, Orange Money Sénégal a répliqué avec des retraits gratuits et des envois à 0,8 %.",
+      "Depuis 2025, une taxe sénégalaise de 0,5 %, la plateforme PI-SPI de la BCEAO et la nouvelle banque de Wave ont transformé le marché.",
+      "Pour la Tunisie, il faut tarifer l'entrée et la sortie du cash, financer la liquidité des agents et anticiper l'effet des infrastructures publiques et de l'impôt."
+    ],
+    "body": "Lorsque Wave s'est lancé au Sénégal en 2018, les utilisateurs de mobile money payaient pour envoyer de l'argent, puis encore pour retirer leurs propres fonds. **Wave mobile money** a supprimé les frais de dépôt et de retrait et fixé l'envoi à 1 %, et en trois ans l'opérateur historique a dû suivre. L'histoire est entrée dans un deuxième acte, avec une taxe sur les transactions, un système de paiement instantané public et gratuit et une filiale bancaire. Les deux actes ont des enseignements pour la Tunisie.\n\n## Le modèle à 1 % : ce que Wave mobile money a changé\n\nLa grille tarifaire de Wave est simple, et c'est elle qui explique sa croissance. Selon [TechCabal](https://techcabal.com/2025/06/30/wave-raises-137-milion/), Wave propose :\n\n- des dépôts et des retraits gratuits dans son application ;\n- des frais fixes de 1 % sur les transferts entre particuliers ;\n- des paiements de factures dont les frais sont supportés par l'entreprise, et non par l'utilisateur.\n\nD'après TechCabal, des concurrents comme Orange, Free ou Expresso facturaient entre 5 % et 10 % par transaction. Dans une économie du cash, l'argent entre et sort sans cesse du portefeuille : un commerçant reçoit un transfert, le retire chez un agent et paie ses fournisseurs en espèces. Les frais de retrait reviennent donc à chaque cycle, et leur suppression a bien plus changé l'intérêt du portefeuille qu'une petite baisse du prix d'envoi.\n\n## La riposte de l'opérateur historique\n\nLe leader du marché a réagi. En novembre 2021, le site sénégalais [Osiris](https://osiris.sn/transactions-electroniques-wave-contraint-orange-money-a-baisser-drastiquement.html), citant *L'Observateur*, indiquait qu'Orange Money Sénégal rendait les retraits gratuits et ramenait ses frais d'envoi à 0,8 %, juste sous le 1 % de Wave. À ce tarif, un transfert de 5 000 FCFA coûtait 40 FCFA.\n\nLe même article rappelait que le rapport du troisième trimestre de Sonatel et d'Orange attribuait le recul des revenus des services financiers à une forte concurrence. Les agents et distributeurs, qui vivaient des commissions de retrait, ont eux aussi dénoncé la baisse de leurs revenus. Cette guerre des prix montre qu'un nouvel entrant peut redéfinir le prix de tout un marché, et que les consommateurs en gardent l'essentiel du bénéfice, même lorsque le challenger ne gagne pas tous les clients.\n\n## Des capitaux pour financer le modèle\n\nDes prix bas exigent des moyens importants, d'autant que les agents doivent détenir du cash et de la monnaie électronique. Wave a levé 200 millions de dollars en série A en septembre 2021, pour une valorisation de 1,7 milliard de dollars, devenant la première licorne d'Afrique francophone. En juin 2025, la société a ajouté une dette de 137 millions de dollars, menée par Rand Merchant Bank avec British International Investment, Finnfund et Norfund, destinée au fonds de roulement et à l'expansion. Elle revendiquait alors plus de 20 millions d'utilisateurs actifs mensuels, plus de 150 000 agents et environ 3 000 salariés dans huit marchés.\n\nEn juillet 2026, le directeur général de Wave Burkina a déclaré au SIPEN-UEMOA de Ouagadougou que l'entreprise comptait 25 millions d'utilisateurs actifs, 3 millions de marchands et une présence dans 11 pays, selon [Wakat Séra](https://www.wakatsera.com/economie-numerique-wave-leader-du-mobile-money-sur-les-marches-senegalais-ivoirien-et-gambien/). Il s'agit de chiffres de l'entreprise, non audités. Il a aussi indiqué qu'une promotion ramenait temporairement les frais de transfert à 0,5 %.\n\n## Deuxième acte : taxe, interopérabilité et banque\n\nTrois changements intervenus en 2025 ont transformé le marché que Wave avait contribué à créer.\n\n### Une taxe sur le mobile money\n\nLa loi sénégalaise n° 2025-17 du 27 septembre 2025 a instauré une taxe de 0,5 % sur les transferts, paiements et retraits, plafonnée à 2 000 FCFA par opération, entrée en vigueur le 17 décembre 2025, selon [Senego](https://senego.com/mobile-money-la-taxe-sur-les-transferts-dargent-entre-en-vigueur-ce-17-decembre-2025_1903513.html). Les retraits ne sont taxés que si le total retiré sur 24 heures dépasse 20 000 FCFA ; les dépôts d'espèces et le versement des salaires sont exonérés. Une taxe de 0,5 %, c'est la moitié des frais de Wave : un service bon marché devient vite une assiette fiscale pour un État sous pression budgétaire.\n\n### Un réseau public gratuit\n\nLe 30 septembre 2025, la BCEAO, banque centrale des huit pays de l'UEMOA, a lancé la PI-SPI, une plateforme interopérable de paiement instantané. Quand l'argument principal d'un réseau privé est le prix des transferts, un système public reliant banques et émetteurs de monnaie électronique change la donne.\n\n### Le choix de la banque\n\nSelon [Osiris](https://www.osiris.sn/wave-cree-wava-bank-africa-sa.html), la société Wave Bank Africa SA a été constituée en Côte d'Ivoire en août 2025, avec un capital de 20 milliards de FCFA. Le site relie cette décision aux baisses de prix des concurrents, au nouveau système de paiement instantané et à la taxe sénégalaise, et indique que Wave ne figurait pas parmi les premiers opérateurs autorisés sur la PI-SPI. Les dirigeants de Wave ont depuis annoncé que des offres de crédit, d'épargne et d'assurance étaient en préparation.\n\n## Ce que cela signifie pour la Tunisie\n\nLe paiement mobile reste modeste en Tunisie. Les données de la Banque centrale de Tunisie (BCT) relayées par [Ecofin Agency](https://www.ecofinagency.com/news-digital/0905-55414-tunisia-introduces-tunpay-label-to-regulate-and-unify-mobile-payment-sector) font état de 8,4 millions de transactions mobiles en 2025, en hausse de 81 %, pour 1,769 milliard de dinars. En mai 2026, la BCT et Monétique Tunisie ont lancé le label TUNPAY pour rendre les services de paiement mobile plus lisibles et plus interopérables. Plusieurs leçons sénégalaises s'appliquent :\n\n- **Tarifer l'entrée et la sortie du cash, pas seulement le transfert.** Dans une économie aussi dépendante des espèces que la Tunisie, le coût d'alimentation et de retrait compte davantage que le prix affiché du transfert. Voir notre panorama [des portefeuilles mobiles en Tunisie](post:mobile-payments-tunisia).\n- **La liquidité des agents doit être financée.** Wave a d'abord mobilisé des fonds propres, puis de la dette d'institutions de développement. Les opérateurs tunisiens ont le même besoin dans le cadre du [régime des établissements de paiement](post:payment-institutions-tunisia).\n- **Les infrastructures publiques rebattent les cartes.** Dès qu'une banque centrale offre un paiement instantané gratuit et interopérable, un réseau fermé bon marché ne suffit plus. La situation tunisienne est détaillée dans notre article sur [le paiement instantané et l'interopérabilité](post:instant-payments-tunisia).\n- **Anticiper le fisc.** Le Sénégal montre que des flux numériques en forte croissance attirent vite l'impôt. Toute stratégie tunisienne fondée sur des marges minces doit intégrer ce risque.\n\nLe premier acte de Wave prouve qu'un entrant discipliné peut faire baisser les prix de tout un pays. Le second montre que le prix seul ne constitue pas un avantage durable. C'est pourquoi Wave se tourne aujourd'hui vers la banque, comme plusieurs [licornes africaines de la fintech](post:african-fintech-unicorns).",
+    "faq": [
+      {
+        "q": "Combien coûte un transfert avec Wave ?",
+        "a": "Wave facture 1 % sur les transferts entre particuliers, et les dépôts et retraits sont gratuits, selon TechCabal (2025). En juillet 2026, un dirigeant de Wave Burkina a évoqué une promotion ramenant temporairement ces frais à 0,5 %. Au Sénégal, la taxe de 0,5 % en vigueur depuis décembre 2025 s'ajoute aux frais de l'opérateur."
+      },
+      {
+        "q": "Comment Orange Money a-t-il réagi à l'arrivée de Wave ?",
+        "a": "En novembre 2021, Orange Money Sénégal a rendu les retraits gratuits et ramené ses frais d'envoi à 0,8 %, selon la presse locale. Sonatel et Orange ont fait état d'une baisse des revenus des services financiers liée à une forte concurrence."
+      },
+      {
+        "q": "Wave est-il disponible en Tunisie ?",
+        "a": "Non. Wave opère en Afrique de l'Ouest et centrale ainsi qu'en Ouganda, selon les déclarations de l'entreprise en 2026. La Tunisie dispose de ses propres portefeuilles, proposés par les banques, La Poste et les établissements de paiement agréés."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wave raises $137 million debt round",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2025/06/30/wave-raises-137-milion/"
+    },
+    {
+      "title": "Transactions électroniques : Wave contraint Orange Money à baisser drastiquement",
+      "publisher": "Osiris",
+      "url": "https://osiris.sn/transactions-electroniques-wave-contraint-orange-money-a-baisser-drastiquement.html"
+    },
+    {
+      "title": "Wave crée Wave Bank Africa SA",
+      "publisher": "Osiris",
+      "url": "https://www.osiris.sn/wave-cree-wava-bank-africa-sa.html"
+    },
+    {
+      "title": "Mobile money : la taxe sur les transferts d'argent entre en vigueur ce 17 décembre 2025",
+      "publisher": "Senego",
+      "url": "https://senego.com/mobile-money-la-taxe-sur-les-transferts-dargent-entre-en-vigueur-ce-17-decembre-2025_1903513.html"
+    },
+    {
+      "title": "Économie numérique : Wave, leader du mobile money sur les marchés sénégalais, ivoirien et gambien",
+      "publisher": "Wakat Séra",
+      "url": "https://www.wakatsera.com/economie-numerique-wave-leader-du-mobile-money-sur-les-marches-senegalais-ivoirien-et-gambien/"
+    },
+    {
+      "title": "Tunisia introduces TUNPAY label to regulate and unify mobile payment sector",
+      "publisher": "Ecofin Agency",
+      "url": "https://www.ecofinagency.com/news-digital/0905-55414-tunisia-introduces-tunpay-label-to-regulate-and-unify-mobile-payment-sector"
+    }
+  ]
+}

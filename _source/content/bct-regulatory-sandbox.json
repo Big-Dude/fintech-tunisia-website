@@ -1,0 +1,146 @@
+{
+  "slug": "bct-regulatory-sandbox",
+  "category": "regulation",
+  "cover_motif": "shield-lock",
+  "stats": [
+    {
+      "value": "4",
+      "label_en": "fintechs in the sandbox's first cohort (2020)",
+      "label_fr": "fintechs dans la première cohorte de la sandbox (2020)",
+      "source": "Tech In Africa / African Manager, 2020–2021"
+    },
+    {
+      "value": "9 months",
+      "label_en": "test period for the first cohort",
+      "label_fr": "durée de test de la première cohorte",
+      "source": "Tech In Africa, 2021"
+    },
+    {
+      "value": "21 Jan 2020",
+      "label_en": "official launch of the BCT sandbox",
+      "label_fr": "lancement officiel de la sandbox de la BCT",
+      "source": "Webmanagercenter, 2020"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "The BCT Regulatory Sandbox: How Tunisia Tests Fintech",
+    "meta_description": "How the Central Bank of Tunisia's regulatory sandbox works: the 2020 launch, the first four fintechs, the Sandbox Express for banks and its limits.",
+    "excerpt": "Launched in 2020, the Central Bank of Tunisia's sandbox lets fintechs test products with real users under supervision. Here is what it has done so far, and what it cannot do.",
+    "keywords": [
+      "BCT regulatory sandbox",
+      "Central Bank of Tunisia sandbox",
+      "Tunisia fintech sandbox",
+      "Sandbox Express BCT",
+      "fintech regulation Tunisia",
+      "BCT fintech committee"
+    ],
+    "tags": [
+      "BCT",
+      "Sandbox",
+      "Regulation",
+      "Fintech"
+    ],
+    "key_takeaways": [
+      "The Central Bank of Tunisia officially launched its fintech regulatory sandbox on 21 January 2020, with World Bank support.",
+      "The first cohort of four fintechs tested e-KYC, cross-border clearing, crypto-asset and central bank digital currency projects over nine months.",
+      "A separate Sandbox Express for banks was announced in February 2023.",
+      "The sandbox is not a licence: commercial activity still requires authorisation under Law 2016-48 and, from late 2026, compliance with Circular 2026-10."
+    ],
+    "body": "The Central Bank of Tunisia (BCT) launched its fintech regulatory sandbox in January 2020, promising a supervised space where startups could test new financial services before holding a full licence. Six years on, the sandbox has run a first cohort, inspired a bank-only \"Sandbox Express\" and sits alongside a much stricter rulebook for payment institutions. Here is what founders should know.\n\n## What the BCT regulatory sandbox is\n\nA regulatory sandbox is a controlled test environment. A company tries an innovative product on a small scale, with real but volunteer customers, under the regulator's watch, without having to meet every licensing requirement from day one. The BCT described its own version as a test environment that lets it monitor the experimentation of innovative solutions.\n\nThe idea was first announced in a BCT communiqué on 11 December 2019, as part of a package that also created:\n\n- a **BCT-Fintech committee**, meant to act as a liaison between the regulator and the innovation ecosystem;\n- a dedicated **fintech website** for the central bank;\n- a channel for stakeholders to send proposals directly to the BCT.\n\nThe official launch took place in Tunis on 21 January 2020, in the presence of then-governor Marouane El Abassi, the minister of communication technologies, the president of the banking association APTBEF and a World Bank economist. The World Bank presented the sandbox as part of a wider programme it supports on financial inclusion and fintech. The APTBEF president described it as the first sandbox of its kind in North Africa.\n\n## Why the central bank created it\n\nAt the launch, the governor framed the sandbox as a meeting point between innovation and regulation. His argument, as reported by Managers, was that regulators need to understand new technologies before they can rewrite the rules, and that the legal framework is slow to change because it depends on government and parliament, not on the central bank alone. He also warned that investors could look elsewhere if Tunisia did not create the right conditions for fintech, and noted that around half of Tunisians had no direct relationship with a bank.\n\nWhen the first tests started, the BCT listed its objectives more precisely:\n\n- help fintechs emerge and diversify digital financial services;\n- improve financial inclusion;\n- let startups reach regulatory compliance faster;\n- help the regulator understand new technologies and, where needed, adjust the rules;\n- keep financial stability and user protection as non-negotiable limits.\n\n## The first cohort: four fintechs, nine months\n\nIn December 2020 the BCT announced that testing had begun with four selected fintechs. According to Tech In Africa, the first cohort was made up of **Kraoun, Instaclear, TLedger and Sqoin & Coinsence**. The selected projects covered four themes:\n\n- remote customer identification (what is now called [e-KYC](post:ekyc-aml-tunisia));\n- cross-border clearing;\n- crypto-assets;\n- central bank digital currency.\n\nThe test period was set at nine months. At the end, participants that met the regulator's test criteria could apply for a licence or authorisation. One concrete case was reported by Business News in March 2021: TLedger, a Startup Act-labelled payments fintech, was running a proof of concept of a digital central bank currency with volunteer clients, and Société Tunisienne de Banque (STB) was described as the first bank to join that test network.\n\nPublic information on what happened next is thin. We could not find a published BCT report listing the outcomes of the first cohort, or official announcements of later cohorts. Founders should ask the BCT directly about the current application windows rather than rely on older press coverage.\n\n## The Sandbox Express for banks\n\nIn February 2023, the governor announced a second track: the **Sandbox Express**, aimed at Tunisian banks rather than startups. Its stated purpose was to give banks that want to roll out digital solutions a faster route to market, while letting the BCT check that those solutions are robust, including in an [open banking](post:open-banking-tunisia) perspective. Press coverage at the time gave no detailed eligibility criteria or launch date.\n\nThe distinction matters. A bank testing a feature in the Express track already holds a licence and capital; a startup in the original sandbox is trying to prove it deserves one.\n\n## What the sandbox does not do\n\nThe sandbox is a testing arrangement, not a licence and not a shortcut around the law. It does not allow a startup to issue electronic money, take deposits or operate a payment business permanently. To do that commercially, a company still needs an authorisation under Law No. 2016-48 on banks and financial institutions, for example as a [payment institution](post:payment-institutions-tunisia).\n\nThat exit route has become more demanding. On 25 September 2026, the BCT published Circular No. 2026-10 on payment institutions, replacing the 2018 framework. It adds governance, cybersecurity, client-fund segregation and partnership approval requirements, and enters into force three months after publication. Anything a startup tests in a sandbox today will eventually have to meet that standard.\n\n## Why it matters for Tunisian founders\n\nFor a fintech founder, the sandbox is mainly useful in three situations:\n\n- **Your product does not fit an existing licence category**, for instance a new identification or settlement model. Testing with the regulator is the only realistic way to get a ruling.\n- **You need evidence before raising money.** A supervised test with real clients is a stronger signal to investors than a pitch deck.\n- **You plan to apply for a licence anyway.** Early contact with supervisors helps you design compliance, data protection and anti-money-laundering controls the way they expect.\n\nThe limits are equally clear. The sandbox is small, its later activity is poorly documented in public, and Tunisia's broader rules — on [foreign exchange](post:tunisia-foreign-exchange-code-reform), crypto-assets and capital — remain unchanged by it. The governor said as much in 2020: the sandbox helps the central bank learn, but changing the law requires the government and parliament.",
+    "faq": [
+      {
+        "q": "Does Tunisia have a fintech regulatory sandbox?",
+        "a": "Yes. The Central Bank of Tunisia (BCT) announced a regulatory sandbox in December 2019 and officially launched it on 21 January 2020. It lets innovative firms test financial services on a small scale with volunteer customers under the central bank's supervision."
+      },
+      {
+        "q": "Which startups were in the BCT sandbox?",
+        "a": "The first cohort, announced at the end of 2020, included four fintechs: Kraoun, Instaclear, TLedger and Sqoin & Coinsence. Their projects covered remote customer identification, cross-border clearing, crypto-assets and central bank digital currency."
+      },
+      {
+        "q": "Is joining the sandbox the same as getting a licence?",
+        "a": "No. The sandbox is a supervised test. To operate commercially, a company still needs an authorisation under Law 2016-48, for example as a payment institution, and must meet the BCT's rules for that status."
+      },
+      {
+        "q": "What is the BCT Sandbox Express?",
+        "a": "It is a separate track announced in February 2023 for Tunisian banks. It aims to speed up the launch of banks' digital solutions while letting the central bank check that they are robust."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Sandbox réglementaire de la BCT : la Tunisie teste ses fintechs",
+    "meta_description": "La sandbox réglementaire de la BCT : lancement en 2020, première cohorte de quatre fintechs, Sandbox Express pour les banques et limites du dispositif.",
+    "excerpt": "Lancée en 2020, la sandbox de la Banque centrale de Tunisie permet aux fintechs de tester leurs produits avec de vrais clients sous supervision. Bilan, et limites.",
+    "keywords": [
+      "sandbox réglementaire BCT",
+      "sandbox Banque centrale de Tunisie",
+      "fintech Tunisie régulation",
+      "Sandbox Express BCT",
+      "comité BCT-Fintech",
+      "expérimentation fintech Tunisie"
+    ],
+    "tags": [
+      "BCT",
+      "Sandbox",
+      "Régulation",
+      "Fintech"
+    ],
+    "key_takeaways": [
+      "La Banque centrale de Tunisie a officiellement lancé sa sandbox réglementaire le 21 janvier 2020, avec l'appui de la Banque mondiale.",
+      "La première cohorte de quatre fintechs a testé pendant neuf mois des projets d'e-KYC, de compensation transfrontalière, de crypto-actifs et de monnaie digitale de banque centrale.",
+      "Une Sandbox Express distincte, réservée aux banques, a été annoncée en février 2023.",
+      "La sandbox n'est pas un agrément : toute activité commerciale exige une autorisation au titre de la loi 2016-48 et, dès fin 2026, le respect de la circulaire 2026-10."
+    ],
+    "body": "La Banque centrale de Tunisie (BCT) a lancé sa sandbox réglementaire dédiée aux fintechs en janvier 2020. L'objectif : offrir un espace supervisé où des startups peuvent tester de nouveaux services financiers avant d'obtenir un agrément complet. Six ans plus tard, le dispositif a accueilli une première cohorte, inspiré une « Sandbox Express » réservée aux banques et coexiste désormais avec des règles bien plus strictes pour les établissements de paiement. Ce qu'il faut en retenir.\n\n## La sandbox réglementaire de la BCT, c'est quoi ?\n\nUne sandbox réglementaire est un environnement de test encadré. Une entreprise y expérimente un produit innovant à petite échelle, avec de vrais clients volontaires, sous le contrôle du régulateur, sans devoir remplir dès le départ toutes les conditions d'agrément. La BCT la décrit elle-même comme un environnement de test qui lui permet de surveiller l'expérimentation de solutions innovantes.\n\nLe projet a été annoncé par un communiqué de la BCT le 11 décembre 2019, dans un ensemble de mesures qui comprenait aussi :\n\n- un **comité BCT-Fintech**, chargé de faire le lien entre le régulateur et l'écosystème de l'innovation ;\n- un **site web** consacré aux technologies financières ;\n- un canal permettant aux acteurs d'adresser directement leurs propositions à la BCT.\n\nLe lancement officiel a eu lieu à Tunis le 21 janvier 2020, en présence du gouverneur de l'époque, Marouane El Abassi, du ministre des Technologies de la communication, du président de l'APTBEF (l'association professionnelle des banques) et d'un économiste de la Banque mondiale. Cette dernière a présenté la sandbox comme un volet d'un programme plus large qu'elle soutient sur l'inclusion financière et les fintechs. Le président de l'APTBEF l'a qualifiée de première sandbox de ce type en Afrique du Nord.\n\n## Pourquoi la Banque centrale l'a créée\n\nLors du lancement, le gouverneur a présenté la sandbox comme un point de rencontre entre innovation et régulation. Selon le compte rendu de Managers, il estimait que le régulateur doit d'abord comprendre les nouvelles technologies avant de réécrire les règles, et que le cadre légal évolue lentement parce qu'il dépend du gouvernement et du Parlement, pas de la seule Banque centrale. Il prévenait aussi que les investisseurs pourraient se tourner vers d'autres pays faute de conditions favorables, et rappelait qu'environ la moitié des Tunisiens n'avaient pas de relation directe avec une banque.\n\nAu démarrage des tests, la BCT a précisé ses objectifs :\n\n- favoriser l'émergence de fintechs et diversifier l'offre de services financiers numériques ;\n- améliorer l'inclusion financière ;\n- permettre aux startups de se conformer plus vite aux exigences réglementaires ;\n- aider le régulateur à comprendre les innovations et, si nécessaire, à ajuster la réglementation ;\n- préserver la stabilité financière et la protection des usagers.\n\n## La première cohorte : quatre fintechs, neuf mois\n\nEn décembre 2020, la BCT a annoncé le début des tests avec quatre fintechs. D'après Tech In Africa, il s'agissait de **Kraoun, Instaclear, TLedger et Sqoin & Coinsence**. Les projets retenus portaient sur quatre thèmes :\n\n- l'identification à distance des clients (l'[e-KYC](post:ekyc-aml-tunisia)) ;\n- la compensation transfrontalière ;\n- les crypto-actifs ;\n- la monnaie digitale de banque centrale.\n\nLa période de test était fixée à neuf mois. À son terme, les participants ayant satisfait aux critères du régulateur pouvaient demander un agrément ou une autorisation. Business News a rapporté un cas concret en mars 2021 : TLedger, fintech de paiement labellisée Startup Act, menait une preuve de concept de monnaie digitale de banque centrale avec des clients volontaires, la Société Tunisienne de Banque (STB) étant présentée comme la première banque à rejoindre ce réseau de test.\n\nLa suite est mal documentée. Nous n'avons trouvé ni rapport public de la BCT sur les résultats de cette première cohorte, ni annonce officielle de cohortes ultérieures. Mieux vaut interroger directement la BCT sur les fenêtres de candidature en cours que se fier à d'anciens articles de presse.\n\n## La Sandbox Express pour les banques\n\nEn février 2023, le gouverneur a annoncé un second dispositif : la **Sandbox Express**, destinée cette fois aux banques de la place. Elle vise à accélérer la mise sur le marché de leurs solutions numériques tout en permettant à la BCT d'en vérifier la robustesse, notamment dans une logique d'[open banking](post:open-banking-tunisia). La presse n'a alors publié ni critères d'éligibilité détaillés ni date de lancement.\n\nLa nuance compte : une banque qui teste une fonctionnalité dans la Sandbox Express dispose déjà d'un agrément et de fonds propres ; une startup dans la sandbox d'origine cherche précisément à prouver qu'elle mérite le sien.\n\n## Ce que la sandbox ne permet pas\n\nLa sandbox est un cadre d'expérimentation, pas un agrément ni un moyen de contourner la loi. Elle n'autorise pas une startup à émettre de la monnaie électronique, à collecter des dépôts ou à exploiter durablement une activité de paiement. Pour cela, il faut toujours un agrément au titre de la loi n° 2016-48 relative aux banques et aux établissements financiers, par exemple comme [établissement de paiement](post:payment-institutions-tunisia).\n\nOr cette porte de sortie s'est resserrée. Le 25 septembre 2026, la BCT a publié la circulaire n° 2026-10 sur les établissements de paiement, qui remplace le cadre de 2018. Elle renforce les exigences de gouvernance, de cybersécurité, de cantonnement des fonds des clients et d'autorisation des partenariats, et entre en vigueur trois mois après sa publication. Tout ce qu'une startup teste aujourd'hui devra, à terme, respecter ce niveau d'exigence.\n\n## Ce que cela change pour les fondateurs tunisiens\n\nPour un fondateur de fintech, la sandbox est surtout utile dans trois cas :\n\n- **le produit n'entre dans aucune catégorie d'agrément existante**, par exemple un nouveau modèle d'identification ou de règlement : tester avec le régulateur est alors la seule voie réaliste pour obtenir une position ;\n- **il faut des preuves avant de lever des fonds** : un test supervisé avec de vrais clients pèse plus qu'un pitch deck ;\n- **une demande d'agrément est prévue de toute façon** : le dialogue précoce avec les superviseurs aide à concevoir la conformité, la protection des données et la lutte anti-blanchiment comme ils l'attendent.\n\nLes limites sont tout aussi nettes. Le dispositif reste modeste, son activité récente est peu documentée publiquement et le reste du cadre tunisien — [change](post:tunisia-foreign-exchange-code-reform), crypto-actifs, exigences de capital — n'en est pas modifié. Le gouverneur le reconnaissait dès 2020 : la sandbox aide la Banque centrale à apprendre, mais changer la loi relève du gouvernement et du Parlement.",
+    "faq": [
+      {
+        "q": "La Tunisie dispose-t-elle d'une sandbox réglementaire pour les fintechs ?",
+        "a": "Oui. La BCT a annoncé une sandbox réglementaire en décembre 2019 et l'a officiellement lancée le 21 janvier 2020. Elle permet à des entreprises innovantes de tester des services financiers à petite échelle, avec des clients volontaires, sous la supervision de la Banque centrale."
+      },
+      {
+        "q": "Quelles startups ont intégré la sandbox de la BCT ?",
+        "a": "La première cohorte, annoncée fin 2020, comptait quatre fintechs : Kraoun, Instaclear, TLedger et Sqoin & Coinsence. Leurs projets portaient sur l'identification à distance, la compensation transfrontalière, les crypto-actifs et la monnaie digitale de banque centrale."
+      },
+      {
+        "q": "Intégrer la sandbox équivaut-il à obtenir un agrément ?",
+        "a": "Non. La sandbox est un test supervisé. Pour exercer commercialement, il faut toujours un agrément au titre de la loi 2016-48, par exemple comme établissement de paiement, et respecter les règles de la BCT applicables à ce statut."
+      },
+      {
+        "q": "Qu'est-ce que la Sandbox Express de la BCT ?",
+        "a": "C'est un dispositif distinct, annoncé en février 2023, destiné aux banques tunisiennes. Il doit accélérer le lancement de leurs solutions numériques tout en permettant à la BCT d'en vérifier la robustesse."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "La BCT annonce le lancement officiel de la sandbox réglementaire",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2020/01/21/443813/la-bct-annonce-le-lancement-officiel-de-la-sandbox-reglementaire/"
+    },
+    {
+      "title": "Lancement de la Sandbox : la réglementation doit changer selon le gouverneur de la BCT",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2020/01/21/lancement-de-la-sandbox-la-reglementation-doit-changer-selon-le-gouverneur-de-la-bct/"
+    },
+    {
+      "title": "La BCT et le Ministère de la Communication signent 2 mémorandums d'entente",
+      "publisher": "African Manager",
+      "url": "https://africanmanager.com/?p=378111"
+    },
+    {
+      "title": "4 Tunisian startups make the first cohort of the BCT sandbox",
+      "publisher": "Tech In Africa",
+      "url": "https://www.techinafrica.com/4-tunisia-startups-make-the-first-cohort-of-the-bct-sandbox/"
+    },
+    {
+      "title": "La BCT lance une sandbox express au profit des banques tunisiennes",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2023/02/09/la-bct-lance-une-sandbox-express-au-profit-des-banques-tunisiennes"
+    },
+    {
+      "title": "BCT : de nouvelles règles pour les établissements de paiement",
+      "publisher": "La Presse de Tunisie",
+      "url": "https://www.lapresse.tn/2026/09/27/bct-de-nouvelles-regles-pour-les-etablissements-de-paiement/"
+    }
+  ]
+}

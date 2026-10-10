@@ -1,0 +1,140 @@
+{
+  "slug": "cybersecurity-financial-sector-tunisia",
+  "category": "banking",
+  "cover_motif": "shield-lock",
+  "stats": [
+    {
+      "value": "1 year",
+      "label_en": "maximum interval between ANCS-certified security audits for payment institutions",
+      "label_fr": "entre deux audits de sécurité certifiés ANCS pour les établissements de paiement",
+      "source": "BCT circular 2026-10, via Challenges, 2026"
+    },
+    {
+      "value": "2 years",
+      "label_en": "maximum interval between audits of remote-onboarding technology",
+      "label_fr": "au plus entre deux audits de la technologie d'enrôlement à distance",
+      "source": "BCT circular 2026-10, via Webdo, 2026"
+    },
+    {
+      "value": "3 months",
+      "label_en": "for payment institutions to comply with circular 2026-10",
+      "label_fr": "pour se conformer à la circulaire 2026-10",
+      "source": "Webdo, 2026"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Cybersecurity in Tunisia's Financial Sector: The New Rules",
+    "meta_description": "Annual ANCS-certified audits, instant incident reporting, liveness checks: how cybersecurity rules for Tunisia's financial sector are tightening for fintechs.",
+    "excerpt": "BCT circular 2026-10 and Decree-law 2023-17 make security audits, incident reporting and strong remote identity checks mandatory for Tunisian payment fintechs.",
+    "keywords": [
+      "cybersecurity Tunisia financial sector",
+      "BCT circular 2026-10 cybersecurity",
+      "ANCS Tunisia audit",
+      "Decree-law 2023-17 Tunisia",
+      "fintech security Tunisia",
+      "bank cybersecurity Tunisia"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "BCT",
+      "ANCS",
+      "Regulation",
+      "Payment institutions"
+    ],
+    "key_takeaways": [
+      "BCT circular 2026-10 requires payment institutions to undergo an annual audit by an ANCS-certified firm and report attacks immediately to the BCT and ANCS.",
+      "Remote account opening requires two-factor authentication and facial recognition or equivalent, with the technology audited at least every two years.",
+      "Decree-law 2023-17 is the national cybersecurity framework, administered by the ANCS.",
+      "Public data on cyber incidents in Tunisian finance is scarce, but regulation is clearly tightening."
+    ],
+    "body": "Cybersecurity in Tunisia's financial sector has moved from a technical topic to a regulatory requirement. With mobile payments growing fast and remote onboarding now allowed, the Central Bank of Tunisia (BCT) and the National Cybersecurity Agency (ANCS) are setting firmer rules on audits, incident reporting and identity checks. For fintechs, security is now part of the licence, not an optional extra.\n\n## Why the risk is rising\n\nThe attack surface of Tunisian finance is expanding quickly. According to BCT figures for 2025 reported by La Presse, mobile payment transactions rose 80.5% to 8.4 million, e-wallets in circulation reached 469,000 and online payments grew 31% in value. Banks are also replacing core systems and opening new digital channels.\n\nThe regulator is aware of the risk. Speaking at the Africa Banking Forum in Tunis in February 2025, BCT Vice-Governor Mourad Abdessalem listed the rise of cyber threats among the emerging risks that financial stability must withstand, and called for closer cooperation between central banks.\n\nPublic data on cyber incidents in Tunisian financial institutions is scarce, so it is hard to measure the threat precisely. What is clear is that regulation is catching up.\n\n## The legal framework for cybersecurity in Tunisia's financial sector\n\nThree layers of rules apply to banks and fintechs.\n\n### National cybersecurity law\n\n**Decree-law 2023-17** on cybersecurity, issued in 2023, is the national framework. It is administered by the **ANCS** (Agence nationale de la cybersécurité); some reports still refer to the agency by its former acronym, ANSI. The decree-law covers security audits and the accreditation of the firms that carry them out. BCT circulars now refer to it directly.\n\n### BCT rules for payment institutions\n\nPayment institutions were first covered by **circular 2018-16**, which already required an annual IT security audit sent to the BCT, a tested business continuity plan and management of operational and cyber risk, according to Ilboursa.\n\nThe new **circular 2026-10**, published on 25 September 2026, goes further. Based on reporting by Challenges, Webdo and Launch Base Africa:\n\n- **Annual audit** of information systems by an independent firm certified by the ANCS, with the report sent to the BCT.\n- **Immediate notification** of any attack or intrusion to both the BCT and the ANCS.\n- **Segregation** of the institution's systems from those of its partners, and protection of customer funds from partners.\n- **Remote onboarding** only with at least two-factor authentication and a presence check by facial recognition or equivalent, with that technology audited at least every two years.\n- **Governance**: a board-level audit and risk committee and independent risk, compliance and internal audit functions.\n- **Record keeping**: Launch Base Africa reports that transaction logs must be kept for 10 years.\n\nInstitutions have three months from publication to comply. See our full guide to [payment institutions in Tunisia](post:payment-institutions-tunisia).\n\n### Banks and remote onboarding\n\nFor banks, a BCT circular of 28 February 2025 sets minimum requirements for electronic customer onboarding. Remote identity verification must be at least as strong as in-person checks under circular 2017-08, and due diligence must match each client's risk. Our article on [e-KYC and AML rules](post:ekyc-aml-tunisia) explains how these rules fit with anti-money-laundering obligations.\n\n## Data protection and sovereignty\n\nCybersecurity and data protection overlap. Personal data processing in Tunisia is governed by Organic Law 2004-63, supervised by the INPDP, a text widely seen as outdated. Read more in our article on [data protection for fintechs](post:data-protection-tunisia-fintech).\n\nA second debate concerns sovereignty. In a February 2026 opinion piece in L'Economiste Maghrébin, Abdelwaheb Ben Moussa, an IT manager at a public bank, argued that cybersecurity should be treated as part of national sovereignty: control and localisation of bank data, less dependence on proprietary foreign systems, and protection of public trust, since a major attack could slow digital adoption. These are views, not rules, but they reflect concerns inside the sector.\n\n## What this means for fintech founders\n\nSecurity costs are now part of the business model. Practical steps for a Tunisian fintech:\n\n1. **Budget for audits early.** An annual audit by an ANCS-certified firm is mandatory for payment institutions; book it into your financial plan.\n2. **Write an incident response plan** that includes immediate notification to the BCT and the ANCS, not just internal escalation.\n3. **Choose e-KYC vendors carefully.** Facial recognition and liveness tools must pass periodic audits; ask vendors for audit history and data-hosting details.\n4. **Segregate systems and data** from partners such as telecom operators, agents and white-label providers.\n5. **Log everything** and plan storage for long retention periods.\n6. **Train staff and agents**, since social engineering and agent-level fraud are common entry points in mobile money markets.\n\nFor banks working with fintechs, these rules also make due diligence easier: a partner that already passes ANCS-certified audits is a lower risk.\n\n## What to watch next\n\n- **The full text of circular 2026-10**, especially how the ANCS certification process works in practice.\n- **Enforcement** after the three-month transition, which ends in late December 2026.\n- **Data protection reform**, which would change how customer data can be stored and shared.\n- **AI-driven fraud and defence.** As banks adopt AI, both attackers and defenders gain new tools; see our piece on [AI in Tunisian banking](post:ai-in-tunisian-banking).\n\nTunisia's rules are now closer to international practice. The challenge is execution: enough certified auditors, enough skilled security staff and enough budget, especially for smaller fintechs.",
+    "faq": [
+      {
+        "q": "Which agency is responsible for cybersecurity in Tunisia?",
+        "a": "The National Cybersecurity Agency (ANCS) administers the national framework set by Decree-law 2023-17. For financial institutions, the BCT also sets security requirements and receives audit reports and incident notifications."
+      },
+      {
+        "q": "Do Tunisian fintechs need a cybersecurity audit?",
+        "a": "Yes, payment institutions do. Under BCT circular 2026-10, their information systems must be audited every year by an independent firm certified by the ANCS, and the report goes to the BCT. The earlier 2018 circular already required an annual IT security audit."
+      },
+      {
+        "q": "What must a payment institution do after a cyberattack in Tunisia?",
+        "a": "According to press coverage of circular 2026-10, it must notify both the BCT and the ANCS without delay after any attack or intrusion. Firms should have an incident response plan that builds in this obligation."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Cybersécurité du secteur financier tunisien : les règles",
+    "meta_description": "Audit annuel certifié ANCS, déclaration immédiate des incidents, preuve de vie : les règles de cybersécurité du secteur financier tunisien se durcissent.",
+    "excerpt": "La circulaire BCT 2026-10 et le décret-loi 2023-17 rendent obligatoires audits de sécurité, déclaration d'incidents et vérification d'identité renforcée pour les fintechs de paiement.",
+    "keywords": [
+      "cybersécurité secteur financier Tunisie",
+      "circulaire BCT 2026-10 cybersécurité",
+      "ANCS audit Tunisie",
+      "décret-loi 2023-17",
+      "sécurité fintech Tunisie",
+      "cybersécurité banques tunisiennes"
+    ],
+    "tags": [
+      "Cybersécurité",
+      "BCT",
+      "ANCS",
+      "Réglementation",
+      "Établissements de paiement"
+    ],
+    "key_takeaways": [
+      "La circulaire BCT 2026-10 impose aux établissements de paiement un audit annuel par un cabinet certifié ANCS et la déclaration immédiate des attaques à la BCT et à l'ANCS.",
+      "L'ouverture de compte à distance exige deux facteurs d'authentification et une reconnaissance faciale ou équivalent, technologie auditée au moins tous les deux ans.",
+      "Le décret-loi 2023-17 constitue le cadre national de cybersécurité, mis en œuvre par l'ANCS.",
+      "Les données publiques sur les incidents sont rares, mais la réglementation se durcit nettement."
+    ],
+    "body": "La cybersécurité du secteur financier tunisien n'est plus un sujet purement technique : c'est devenu une exigence réglementaire. Avec l'essor du paiement mobile et l'ouverture de compte à distance désormais permise, la Banque centrale de Tunisie (BCT) et l'Agence nationale de la cybersécurité (ANCS) durcissent les règles en matière d'audit, de déclaration d'incidents et de vérification d'identité. Pour une fintech, la sécurité fait désormais partie de l'agrément.\n\n## Pourquoi le risque augmente\n\nLa surface d'attaque s'élargit vite. Selon les chiffres 2025 de la BCT rapportés par La Presse, les paiements mobiles ont progressé de 80,5 % à 8,4 millions d'opérations, les portefeuilles électroniques en circulation ont atteint 469 000 et le paiement en ligne a crû de 31 % en valeur. Les banques remplacent par ailleurs leurs systèmes centraux et ouvrent de nouveaux canaux numériques.\n\nLe régulateur en a conscience. Lors de l'Africa Banking Forum, à Tunis en février 2025, le vice-gouverneur de la BCT Mourad Abdessalem a cité la montée des menaces cybernétiques parmi les risques émergents auxquels la stabilité financière doit résister, et appelé à une coopération accrue entre banques centrales.\n\nLes données publiques sur les incidents dans les établissements financiers tunisiens sont rares, ce qui empêche de mesurer précisément la menace. En revanche, la réglementation rattrape son retard.\n\n## Le cadre juridique de la cybersécurité du secteur financier tunisien\n\nTrois niveaux de règles s'appliquent aux banques et aux fintechs.\n\n### La loi nationale sur la cybersécurité\n\nLe **décret-loi n° 2023-17** relatif à la cybersécurité constitue le cadre national. Il est mis en œuvre par l'**ANCS** (Agence nationale de la cybersécurité), que certains articles désignent encore par son ancien sigle, ANSI. Le texte encadre les audits de sécurité et l'agrément des cabinets qui les réalisent. Les circulaires de la BCT y renvoient désormais directement.\n\n### Les règles de la BCT pour les établissements de paiement\n\nLes établissements de paiement relevaient d'abord de la **circulaire 2018-16**, qui imposait déjà un audit annuel de sécurité informatique transmis à la BCT, un plan de continuité d'activité testé et une gestion des risques opérationnels et cyber, selon Ilboursa.\n\nLa nouvelle **circulaire 2026-10**, publiée le 25 septembre 2026, va plus loin. D'après Challenges, Webdo et Launch Base Africa :\n\n- **Audit annuel** des systèmes d'information par un cabinet indépendant certifié par l'ANCS, rapport transmis à la BCT.\n- **Déclaration sans délai** de toute attaque ou intrusion à la BCT et à l'ANCS.\n- **Cloisonnement** des systèmes de l'établissement par rapport à ceux de ses partenaires, et protection des fonds des clients vis-à-vis de ces derniers.\n- **Ouverture de compte à distance** uniquement avec au moins deux facteurs d'authentification et une vérification de présence par reconnaissance faciale ou équivalent, technologie auditée au moins tous les deux ans.\n- **Gouvernance** : comité d'audit et des risques au sein du conseil, fonctions indépendantes de gestion des risques, de conformité et d'audit interne.\n- **Traçabilité** : selon Launch Base Africa, les journaux de transactions doivent être conservés dix ans.\n\nLes établissements disposent de trois mois après publication pour se conformer. Voir notre guide des [établissements de paiement en Tunisie](post:payment-institutions-tunisia).\n\n### Les banques et l'entrée en relation à distance\n\nPour les banques, une circulaire de la BCT du 28 février 2025 fixe les exigences minimales de l'enrôlement électronique. La vérification d'identité à distance doit être au moins aussi robuste qu'en présentiel, au sens de la circulaire 2017-08, et la vigilance proportionnée au risque du client. Notre article sur [l'e-KYC et la lutte anti-blanchiment](post:ekyc-aml-tunisia) détaille l'articulation avec les obligations LBC/FT.\n\n## Protection des données et souveraineté\n\nCybersécurité et protection des données se recoupent. Le traitement des données personnelles relève de la loi organique 2004-63, sous le contrôle de l'INPDP, un texte largement jugé dépassé. Voir notre article sur [la protection des données pour les fintechs](post:data-protection-tunisia-fintech).\n\nUn second débat porte sur la souveraineté. Dans une tribune publiée en février 2026 par L'Economiste Maghrébin, Abdelwaheb Ben Moussa, cadre informatique dans une banque publique, plaide pour traiter la cybersécurité comme un pilier de souveraineté : maîtrise et localisation des données bancaires, moindre dépendance aux solutions propriétaires étrangères et préservation de la confiance, une cyberattaque majeure pouvant freiner l'adoption du numérique. Il s'agit d'une opinion, pas d'une règle, mais elle reflète des préoccupations internes au secteur.\n\n## Ce que cela implique pour les fondateurs\n\nLa sécurité fait désormais partie du modèle économique. Quelques réflexes pour une fintech tunisienne :\n\n1. **Budgéter les audits dès le départ.** L'audit annuel par un cabinet certifié ANCS est obligatoire pour les établissements de paiement.\n2. **Rédiger un plan de réponse aux incidents** prévoyant la notification immédiate à la BCT et à l'ANCS, pas seulement une escalade interne.\n3. **Choisir ses prestataires d'e-KYC avec soin.** Reconnaissance faciale et détection du vivant doivent passer des audits périodiques ; demandez l'historique d'audit et le lieu d'hébergement des données.\n4. **Cloisonner systèmes et données** vis-à-vis des partenaires : opérateurs télécoms, agents, fournisseurs en marque blanche.\n5. **Tout journaliser** et prévoir le stockage sur de longues durées.\n6. **Former équipes et agents**, l'ingénierie sociale et la fraude au niveau des agents étant des portes d'entrée fréquentes dans le mobile money.\n\nPour les banques qui travaillent avec des fintechs, ces règles facilitent aussi la due diligence : un partenaire déjà audité par un cabinet certifié présente moins de risques.\n\n## Les points à surveiller\n\n- **Le texte intégral de la circulaire 2026-10**, notamment le fonctionnement concret de la certification ANCS.\n- **L'application des règles** à l'issue de la période transitoire de trois mois, fin décembre 2026.\n- **La réforme de la protection des données**, qui changerait les conditions de stockage et de partage.\n- **L'IA, côté fraude comme côté défense.** Voir notre article sur [l'IA dans les banques tunisiennes](post:ai-in-tunisian-banking).\n\nLes règles tunisiennes se rapprochent des pratiques internationales. Reste l'exécution : assez d'auditeurs certifiés, assez de compétences en sécurité et assez de budget, en particulier pour les petites fintechs.",
+    "faq": [
+      {
+        "q": "Quelle agence est chargée de la cybersécurité en Tunisie ?",
+        "a": "L'Agence nationale de la cybersécurité (ANCS) met en œuvre le cadre national fixé par le décret-loi 2023-17. Pour les établissements financiers, la BCT fixe aussi des exigences de sécurité et reçoit rapports d'audit et déclarations d'incidents."
+      },
+      {
+        "q": "Une fintech tunisienne doit-elle faire un audit de cybersécurité ?",
+        "a": "Oui, pour les établissements de paiement. Selon la circulaire 2026-10, leurs systèmes d'information doivent être audités chaque année par un cabinet indépendant certifié par l'ANCS, rapport transmis à la BCT. La circulaire de 2018 imposait déjà un audit annuel."
+      },
+      {
+        "q": "Que doit faire un établissement de paiement après une cyberattaque ?",
+        "a": "D'après la presse, la circulaire 2026-10 impose d'alerter sans délai la BCT et l'ANCS après toute attaque ou intrusion. Il est donc conseillé d'intégrer cette obligation dans un plan de réponse aux incidents."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Paiement mobile en Tunisie : la BCT resserre les règles avec sa nouvelle circulaire n°2026-10",
+      "publisher": "Challenges",
+      "url": "https://www.challenges.tn/economie/paiement-mobile-en-tunisie-la-bct-resserre-les-regles-avec-sa-nouvelle-circulaire-n2026-10/"
+    },
+    {
+      "title": "Paiement mobile : la BCT durcit les règles et impose un audit cyber annuel",
+      "publisher": "Webdo",
+      "url": "https://www.webdo.tn/fr/actualite/national/paiement-mobile-la-bct-durcit-les-regles-et-impose-un-audit-cyber-annuel/404596/"
+    },
+    {
+      "title": "Tunisia's Fintech Crackdown",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2026/09/28/tunisias-fintech/"
+    },
+    {
+      "title": "Les nouvelles règles régissant l'activité et le fonctionnement des établissements de paiement",
+      "publisher": "Ilboursa",
+      "url": "https://www.ilboursa.com/marches/les-nouvelles-regles-regissant-lactivite-et-le-fonctionnement-des-etablissements-de-paiement_15621"
+    },
+    {
+      "title": "Africa Banking Forum 2025 : la BCT plaide pour une digitalisation inclusive",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2025/02/21/541230/africa-banking-forum-2025-la-bct-plaide-pour-une-digitalisation-inclusive-et-la-resilience-du-secteur-bancaire-africain/"
+    },
+    {
+      "title": "Core banking systems, IA et souveraineté numérique",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2026/02/16/core-banking-systems-ia-et-souverainete-numerique-le-vrai-point-de-bascule-des-banques-publiques-tunisiennes/"
+    }
+  ]
+}

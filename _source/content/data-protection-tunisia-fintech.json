@@ -1,0 +1,148 @@
+{
+  "slug": "data-protection-tunisia-fintech",
+  "category": "regulation",
+  "cover_motif": "shield-lock",
+  "stats": [
+    {
+      "value": "2004",
+      "label_en": "Year of the data protection law still in force",
+      "label_fr": "Année de la loi encore en vigueur",
+      "source": "Organic Law No. 2004-63"
+    },
+    {
+      "value": "132",
+      "label_en": "Articles in the 2025 reform bill",
+      "label_fr": "Articles de la proposition de loi de 2025",
+      "source": "APA News, 2025"
+    },
+    {
+      "value": "TND 200,000",
+      "label_en": "Maximum fine proposed in the bill",
+      "label_fr": "Amende maximale proposée",
+      "source": "APA News, 2025"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Data Protection in Tunisia: What Fintechs Must Know",
+    "meta_description": "Data protection in Tunisia for fintechs: the 2004 law, INPDP declarations, cross-border transfer rules, and the 132-article reform bill before parliament.",
+    "excerpt": "Tunisia's 2004 data protection law still applies, its regulator has barely functioned since 2024, and a GDPR-style reform is in committee. What fintechs should do now.",
+    "keywords": [
+      "data protection Tunisia",
+      "INPDP Tunisia",
+      "Tunisia personal data law 2004-63",
+      "Tunisia data protection reform bill",
+      "fintech data privacy Tunisia",
+      "cross-border data transfer Tunisia"
+    ],
+    "tags": [
+      "Data protection",
+      "INPDP",
+      "Privacy",
+      "Compliance",
+      "Regulation"
+    ],
+    "key_takeaways": [
+      "Organic Law No. 2004-63 still governs personal data in Tunisia, with prior declarations to the INPDP and authorisation for transfers abroad.",
+      "An unauthorised transfer of personal data abroad can bring one year in prison and a TND 5,000 fine under Article 90 of the 2004 law.",
+      "A 132-article bill filed by 17 MPs in July 2025 would create a new independent authority and fines of up to TND 200,000; it was still in committee as of 2026.",
+      "Financial regulators already tie licensing and remote onboarding to data protection, so fintechs should comply now rather than wait for the reform."
+    ],
+    "body": "Data protection in Tunisia still rests on a law passed in 2004, before smartphones, cloud hosting or facial-recognition onboarding. For fintechs, that creates a strange situation: strict rules on paper, an oversight authority that has barely functioned in recent years, and a 132-article reform bill under study in parliament since 2025. Here is what applies today and what may change.\n\n## The 2004 law still governs\n\nTunisia's core text is **Organic Law No. 2004-63 of 27 July 2004** on the protection of personal data. Two decrees of 27 November 2007 complete it: No. 2007-3003 on how the national authority works, and No. 2007-3004 on how to declare processing or obtain authorisation. The constitution also protects personal data, and Tunisia ratified the Council of Europe's **Convention 108** in 2017.\n\nThe supervisor is the **Instance nationale de protection des données à caractère personnel (INPDP)**. Under the 2004 model, most processing must be declared to it in advance, and some processing needs its prior authorisation.\n\n## Key obligations for a fintech today\n\nThe law was not written for digital finance, but several of its rules hit fintech business models directly.\n\n### Prior declaration\n\nProcessing personal data without a prior declaration is an offence. According to a 2024 practical guide by the law firm Boussayen Knani & Associés, the INPDP referred about thirty cases to the public prosecutor in July 2023 for undeclared processing.\n\n### Transfers abroad\n\nThis is the rule most relevant to startups that host data on foreign cloud services or share it with foreign partners:\n\n- Any transfer of personal data abroad requires **INPDP authorisation** (Article 52). The authority has one month to decide.\n- Transfers are allowed only to countries offering an adequate level of protection (Article 51).\n- Transfers that may harm Tunisia's public security or vital interests are prohibited (Article 50).\n- An unauthorised transfer can bring **one year in prison and a TND 5,000 fine** (Article 90).\n\n### Consent and third parties\n\nPersonal data cannot be passed to third parties without the person's **express written consent** (Article 47), and confidentiality obligations continue after processing ends.\n\n### Sector rules add their own requirements\n\nFinancial regulators now reference data protection directly. To be approved, an equity [crowdfunding platform](post:crowdfunding-law-tunisia) needs an authorisation from the data protection authority. The BCT's September 2026 circular for payment institutions requires explicit consent to data processing when customers are onboarded remotely (see our guide to [e-KYC and AML rules](post:ekyc-aml-tunisia)).\n\n## An authority that has stopped working\n\nThe weak point is enforcement. At a February 2026 parliamentary hearing reported by Webdo, citing the TAP news agency, the Ministry of Health said the data protection authority had not been operating since 2024, which it warned could delay research projects that need its authorisation. Sponsors of the reform bill describe the current INPDP as having no effective role, leaving an institutional gap.\n\nFor fintechs, this creates a practical problem: some obligations, such as authorisation for transfers abroad, depend on an authority that may not be able to process requests. Founders should document their filings and keep evidence of good faith.\n\n## The reform bill: what it proposes\n\nIn July 2025, a group of **17 MPs** filed a draft organic law on personal data protection. The text has **132 articles in six chapters** and would replace the 2004 law entirely. According to reports by APA, allAfrica and Tunisie Numérique, it would:\n\n- create a new **independent authority** with legal personality and financial autonomy, whose members are appointed for a single five-year term;\n- raise financial penalties for serious violations to as much as **TND 200,000**, in addition to possible prison terms;\n- require a **data protection officer** (in public bodies, according to APA);\n- introduce **impact assessments** for high-risk processing and a right not to be subject to decisions based **solely on automated processing**;\n- add four articles on **artificial intelligence**, pending a separate law;\n- rewrite the rules on **transfers abroad**, set a framework for **health data**, and end prior authorisation for most surveillance cameras.\n\nThe sponsors say the text aligns with international standards, including the EU's data protection rules.\n\n## Where the bill stands\n\nThe parliamentary Committee on Rights and Freedoms held hearings in February 2026, including with the bill's sponsors and the Ministry of Health. On 20 May 2026, the committee discussed widening the list of experts and associations to be heard. We found no report of a committee or plenary vote as of October 2026, so the final text may differ from the draft.\n\n## What fintech founders should do now\n\nWaiting for the new law is not a strategy. The safest course is to comply with the 2004 law and prepare for a GDPR-style regime:\n\n- **Map your data**: what you collect, why, where it is stored, and who you share it with.\n- **File declarations** with the INPDP and keep proof of submission.\n- **Check cloud hosting**: if data leaves Tunisia, you need an authorisation under the current law.\n- **Treat biometrics and credit scoring as high risk**: document the logic of automated decisions and offer human review. This matters for [AI in banking](post:ai-in-tunisian-banking) and lending.\n- **Secure systems**: data protection and [cybersecurity](post:cybersecurity-financial-sector-tunisia) obligations increasingly overlap in BCT rules.\n\nPartners and investors from Europe will expect GDPR-like practices anyway, and doing the work now will make the transition easier once the reform is adopted.",
+    "faq": [
+      {
+        "q": "What is the data protection law in Tunisia?",
+        "a": "The main text is Organic Law No. 2004-63 of 27 July 2004 on the protection of personal data, completed by two decrees of 2007. It is supervised by the INPDP. A reform bill filed in July 2025 would replace it, but it had not been adopted as of October 2026."
+      },
+      {
+        "q": "Can a Tunisian fintech store customer data on a foreign cloud?",
+        "a": "Under the 2004 law, any transfer of personal data abroad requires INPDP authorisation, and only to countries with adequate protection. An unauthorised transfer can bring a prison sentence and a fine, so founders should seek authorisation and document their requests."
+      },
+      {
+        "q": "Does Tunisia have a GDPR-equivalent law?",
+        "a": "Not yet. A 132-article bill inspired by international standards, including EU rules, proposes impact assessments, a data protection officer, rules on automated decisions and fines of up to TND 200,000. It was under committee review in 2026."
+      },
+      {
+        "q": "Is the INPDP still active?",
+        "a": "Its activity has been very limited. At a parliamentary hearing reported in February 2026, the Ministry of Health said the authority had not been operating since 2024, and the reform's sponsors describe an institutional gap."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Protection des données en Tunisie : le guide des fintechs",
+    "meta_description": "Protection des données en Tunisie pour les fintechs : loi de 2004, déclarations à l'INPDP, transferts à l'étranger et proposition de loi de 132 articles.",
+    "excerpt": "La loi de 2004 s'applique toujours, l'INPDP est quasi à l'arrêt depuis 2024 et une réforme inspirée du RGPD est en commission. Ce que les fintechs doivent faire.",
+    "keywords": [
+      "protection des données Tunisie",
+      "INPDP",
+      "loi 2004-63",
+      "réforme protection données personnelles Tunisie",
+      "fintech données personnelles",
+      "transfert de données à l'étranger Tunisie"
+    ],
+    "tags": [
+      "Données personnelles",
+      "INPDP",
+      "Vie privée",
+      "Conformité",
+      "Réglementation"
+    ],
+    "key_takeaways": [
+      "La loi organique n° 2004-63 régit toujours les données personnelles, avec déclaration préalable à l'INPDP et autorisation pour les transferts à l'étranger.",
+      "Un transfert non autorisé de données à l'étranger est passible d'un an de prison et de 5 000 dinars d'amende selon l'article 90 de la loi de 2004.",
+      "Une proposition de 132 articles déposée par 17 députés en juillet 2025 crée une autorité indépendante et des amendes jusqu'à 200 000 dinars ; elle était encore en commission en 2026.",
+      "Les régulateurs financiers lient déjà agrément et onboarding à distance à la protection des données : il faut se conformer sans attendre la réforme."
+    ],
+    "body": "La protection des données en Tunisie repose encore sur une loi de 2004, antérieure aux smartphones, au cloud et à l'onboarding par reconnaissance faciale. Pour les fintechs, la situation est paradoxale : des règles strictes sur le papier, une autorité de contrôle quasi à l'arrêt ces dernières années, et une proposition de loi de 132 articles à l'étude au Parlement depuis 2025. Voici ce qui s'applique aujourd'hui et ce qui pourrait changer.\n\n## La loi de 2004 reste la référence\n\nLe texte central est la **loi organique n° 2004-63 du 27 juillet 2004** portant sur la protection des données à caractère personnel. Deux décrets du 27 novembre 2007 la complètent : le n° 2007-3003 sur le fonctionnement de l'instance nationale, et le n° 2007-3004 sur les procédures de déclaration et d'autorisation. La Constitution protège également les données personnelles, et la Tunisie a ratifié la **Convention 108** du Conseil de l'Europe en 2017.\n\nLe régulateur est l'**Instance nationale de protection des données à caractère personnel (INPDP)**. Dans le modèle de 2004, la plupart des traitements doivent lui être déclarés au préalable, et certains exigent une autorisation.\n\n## Les obligations clés pour une fintech aujourd'hui\n\nLa loi n'a pas été pensée pour la finance numérique, mais plusieurs de ses règles touchent directement les modèles des fintechs.\n\n### La déclaration préalable\n\nTraiter des données personnelles sans déclaration préalable est une infraction. Selon un guide pratique publié en 2024 par le cabinet Boussayen Knani & Associés, l'INPDP a transmis une trentaine de dossiers au parquet en juillet 2023 pour des traitements non déclarés.\n\n### Les transferts à l'étranger\n\nC'est la règle la plus sensible pour les startups qui hébergent leurs données dans un cloud étranger ou les partagent avec des partenaires hors de Tunisie :\n\n- Tout transfert de données personnelles à l'étranger exige une **autorisation de l'INPDP** (article 52), qui doit statuer dans un délai d'un mois.\n- Le transfert n'est permis que vers des pays assurant un niveau de protection adéquat (article 51).\n- Il est interdit s'il peut porter atteinte à la sécurité publique ou aux intérêts vitaux de la Tunisie (article 50).\n- Un transfert non autorisé est passible d'**un an d'emprisonnement et de 5 000 dinars d'amende** (article 90).\n\n### Le consentement et les tiers\n\nLes données ne peuvent être communiquées à des tiers sans le **consentement exprès et écrit** de la personne concernée (article 47), et l'obligation de confidentialité perdure après la fin du traitement.\n\n### Les règles sectorielles s'y ajoutent\n\nLes régulateurs financiers renvoient désormais explicitement à la protection des données. Pour être agréée, une [plateforme de crowdfunding](post:crowdfunding-law-tunisia) en capital doit produire une autorisation de l'instance de protection des données. La circulaire de la BCT de septembre 2026 sur les établissements de paiement exige un consentement explicite au traitement des données lors de l'entrée en relation à distance (voir notre article sur [l'e-KYC et la LBA/FT](post:ekyc-aml-tunisia)).\n\n## Une instance à l'arrêt\n\nLe maillon faible, c'est l'application. Lors d'une audition parlementaire rapportée en février 2026 par Webdo, d'après l'agence TAP, le ministère de la Santé a indiqué que l'instance de protection des données ne fonctionnait plus depuis 2024, ce qui risquait de retarder les projets de recherche soumis à son autorisation. Les porteurs de la réforme décrivent une INPDP sans rôle effectif et un « vide » institutionnel.\n\nPour une fintech, le problème est concret : certaines obligations, comme l'autorisation de transfert à l'étranger, dépendent d'une autorité qui n'est peut-être pas en mesure de traiter les demandes. Mieux vaut documenter chaque démarche et conserver la preuve de sa bonne foi.\n\n## La proposition de loi : ce qu'elle prévoit\n\nEn juillet 2025, **17 députés** ont déposé une proposition de loi organique sur la protection des données personnelles. Le texte compte **132 articles répartis en six chapitres** et remplacerait entièrement la loi de 2004. Selon APA, allAfrica et Tunisie Numérique, il prévoit notamment :\n\n- une nouvelle **autorité indépendante**, dotée de la personnalité juridique et de l'autonomie financière, dont les membres sont nommés pour un mandat unique de cinq ans ;\n- des sanctions financières pouvant atteindre **200 000 dinars** pour les violations graves, en plus de peines de prison ;\n- un **délégué à la protection des données** (dans les organismes publics, selon APA) ;\n- des **analyses d'impact** pour les traitements à haut risque et le droit de ne pas faire l'objet d'une décision fondée **exclusivement sur un traitement automatisé** ;\n- quatre articles consacrés à l'**intelligence artificielle**, dans l'attente d'une loi spécifique ;\n- une refonte des règles sur les **transferts à l'étranger**, un cadre pour les **données de santé** et la fin de l'autorisation préalable pour la plupart des caméras de surveillance.\n\nSes auteurs affirment s'aligner sur les standards internationaux, dont la réglementation européenne.\n\n## Où en est le texte ?\n\nLa commission des droits et libertés de l'ARP a tenu des auditions en février 2026, notamment avec les initiateurs du texte et le ministère de la Santé. Le 20 mai 2026, elle a discuté de l'élargissement de la liste des experts et associations à entendre. Nous n'avons trouvé aucune trace d'un vote en commission ou en plénière à la date d'octobre 2026 : le texte final pourrait donc différer du projet.\n\n## Ce que les fondateurs devraient faire dès maintenant\n\nAttendre la nouvelle loi n'est pas une stratégie. Le plus sûr est de se conformer à la loi de 2004 tout en se préparant à un régime proche du RGPD :\n\n- **Cartographier ses données** : ce qui est collecté, pourquoi, où c'est stocké, avec qui c'est partagé.\n- **Déposer les déclarations** auprès de l'INPDP et en garder la preuve.\n- **Vérifier l'hébergement** : si les données quittent la Tunisie, la loi actuelle exige une autorisation.\n- **Traiter la biométrie et le scoring de crédit comme des usages à haut risque** : documenter la logique des décisions automatisées et prévoir une revue humaine. C'est central pour [l'IA dans la banque](post:ai-in-tunisian-banking) et le crédit.\n- **Sécuriser les systèmes** : dans les règles de la BCT, protection des données et [cybersécurité](post:cybersecurity-financial-sector-tunisia) se recoupent de plus en plus.\n\nLes partenaires et investisseurs européens attendront de toute façon des pratiques proches du RGPD. Faire le travail maintenant facilitera la transition une fois la réforme adoptée.",
+    "faq": [
+      {
+        "q": "Quelle loi protège les données personnelles en Tunisie ?",
+        "a": "La loi organique n° 2004-63 du 27 juillet 2004, complétée par deux décrets de 2007, sous le contrôle de l'INPDP. Une proposition de loi déposée en juillet 2025 doit la remplacer, mais elle n'était pas adoptée en octobre 2026."
+      },
+      {
+        "q": "Une fintech tunisienne peut-elle héberger ses données dans un cloud étranger ?",
+        "a": "Selon la loi de 2004, tout transfert de données personnelles à l'étranger requiert une autorisation de l'INPDP, et uniquement vers des pays offrant une protection adéquate. Un transfert non autorisé expose à une peine de prison et à une amende."
+      },
+      {
+        "q": "La Tunisie a-t-elle un équivalent du RGPD ?",
+        "a": "Pas encore. Une proposition de 132 articles, inspirée notamment des règles européennes, prévoit analyses d'impact, délégué à la protection des données, encadrement des décisions automatisées et amendes jusqu'à 200 000 dinars. Elle était à l'étude en commission en 2026."
+      },
+      {
+        "q": "L'INPDP est-elle encore active ?",
+        "a": "Son activité est très réduite. Lors d'une audition parlementaire rapportée en février 2026, le ministère de la Santé a indiqué que l'instance ne fonctionnait plus depuis 2024, et les porteurs de la réforme parlent d'un vide institutionnel."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Practical guide: application of Tunisian legislation on personal data protection",
+      "publisher": "Boussayen Knani & Associés",
+      "url": "https://bkassocies.tn/en/practical-guide-application-of-tunisian-legislation-on-personal-data-protection/"
+    },
+    {
+      "title": "Protection of Personal Data in Tunisia",
+      "publisher": "Tunisia Investment Authority (Invest in Tunisia)",
+      "url": "https://investintunisia.tn/en/privacy-policy/"
+    },
+    {
+      "title": "A l'ARP : examen du projet de loi fondamentale sur la protection des données personnelles",
+      "publisher": "allAfrica",
+      "url": "https://fr.allafrica.com/stories/202507210438.html"
+    },
+    {
+      "title": "Tunisie : 60 000 € d'amende pour violation de données",
+      "publisher": "APA News",
+      "url": "https://fr.apanews.net/news/tunisie-60-000-e-damende-pour-violation-de-donnees/"
+    },
+    {
+      "title": "Protection des données : audition stratégique à l'ARP sur la future loi organique",
+      "publisher": "Webdo",
+      "url": "https://www.webdo.tn/fr/actualite/national/protection-des-donnees-audition-strategique-a-larp-sur-la-future-loi-organique/393696/"
+    },
+    {
+      "title": "Protection des données en Tunisie : vers une réforme majeure face aux défis numériques",
+      "publisher": "Tunisie Numérique",
+      "url": "https://www.tunisienumerique.com/protection-des-donnees-en-tunisie-vers-une-reforme-majeure-face-aux-defis-numeriques/"
+    }
+  ]
+}

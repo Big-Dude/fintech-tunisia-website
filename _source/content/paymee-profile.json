@@ -1,0 +1,148 @@
+{
+  "slug": "paymee-profile",
+  "category": "startups",
+  "cover_motif": "scales-law",
+  "stats": [
+    {
+      "value": "750+",
+      "label_en": "client businesses affected by the 2023 fund freeze, per Paymee",
+      "label_fr": "entreprises clientes touchées par le gel des fonds de 2023, selon Paymee",
+      "source": "Paymee press release, 2024"
+    },
+    {
+      "value": "~90M TND",
+      "label_en": "processed through the platform, per the company",
+      "label_fr": "traités via la plateforme, selon l'entreprise",
+      "source": "Paymee press release, 2024"
+    },
+    {
+      "value": "11 months",
+      "label_en": "the case had been open by February 2024",
+      "label_fr": "durée de la procédure en février 2024",
+      "source": "Webdo, 2024"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Paymee: Profile of a Tunisian Payment Pioneer Under Pressure",
+    "meta_description": "Paymee was one of Tunisia's first online payment gateways. Its products, P1 Ventures funding, the 2023 fund freeze and the lessons for fintechs.",
+    "excerpt": "Paymee helped Tunisian merchants accept card payments online and at delivery. A 2023 anti-money laundering freeze, later linked to a regulatory grey zone, put the company at risk.",
+    "keywords": [
+      "Paymee",
+      "Paymee Tunisia",
+      "Paymee payment gateway",
+      "Marwen Amamou",
+      "payment facilitator Tunisia",
+      "Paymee CTAF",
+      "Tunisian fintech startup"
+    ],
+    "tags": [
+      "Paymee",
+      "Payment gateway",
+      "Regulation",
+      "Startups"
+    ],
+    "key_takeaways": [
+      "Paymee, founded by Marwen Amamou around 2017–2018, built one of Tunisia's early online payment gateways, plus payment links, QR codes and card payment at delivery.",
+      "It raised a six-figure round led by P1 Ventures in July 2022.",
+      "In February 2023, a suspicious activity report to the CTAF led to a freeze of Paymee's funds; a BCT inspection later found it acted as a payment facilitator, not an unlicensed payment institution.",
+      "The case helped expose the missing rules for payment facilitators, which the BCT addressed in January 2024 guidelines."
+    ],
+    "body": "Paymee was one of the first Tunisian startups to offer merchants an online payment gateway. Its story is also a warning: in 2023 a money laundering suspicion report froze its funds and those of its founder, in a case that turned on how Tunisia regulated, or failed to regulate, payment facilitators. This profile covers the company, its products and the dispute.\n\n## Paymee at a glance\n\n- **Founder and CEO:** Marwen Amamou, a Tunisian computer engineer who studied at ISI Ariana and worked in France before returning to Tunis.\n- **Founded:** sources differ. We Are Tech Africa gives 2017; Wamda gives 2018; a 2018 profile in Tunisian Monitor says the company was started in Paris in March 2018.\n- **Startup Label:** granted in May 2019 under Tunisia's [Startup Act](post:startup-act-tunisia-explained).\n- **Funding:** a six-figure round led by P1 Ventures in July 2022, amount undisclosed. Paymee had earlier won the grand prize of the second season of the El Pitch competition.\n- **Recognition:** a fintech innovation prize from the Presidency of the Government at the November 2022 Francophonie summit in Tunisia, according to the company.\n\n## Products\n\nPaymee began in 2018 as a mobile app for paying merchants and sending money, with a gateway for e-commerce sites. It then focused on businesses:\n\n- **Payment gateway:** acceptance of Tunisian and international bank cards and La Poste's e-Dinar cards, through plugins or an API. Payments run through the secure platform of the Société Monétique Tunisie (SMT).\n- **Paylink:** payment links for businesses without a website, for invoices, phone or social media orders and deposits.\n- **QR code payments:** a fixed QR code with an adjustable amount, presented in 2022 as a replacement for card terminals.\n- **Paymee On Delivery:** couriers generate a QR code for each parcel; the customer scans it and pays by card at the door. Aramex was cited as a logistics client in 2022.\n\nIn mid-2022 Paymee said it had more than 250 business accounts and over 100,000 completed transactions. These products target the core weakness of Tunisian e-commerce, the dominance of cash on delivery, covered in our guide to [e-commerce payments in Tunisia](post:ecommerce-payments-tunisia).\n\n## The 2023 freeze\n\nAccording to Paymee's February 2024 press release and reporting by Webdo:\n\n- **24 February 2023:** the Commission Tunisienne des Analyses Financières (CTAF), Tunisia's financial intelligence unit, received a suspicious activity report from an unknown source. It accused Paymee of operating as a payment institution without a licence and of money laundering.\n- Paymee's funds and the personal funds of its legal representative were frozen, and a criminal case was opened.\n- **October 2023:** a Banque Centrale de Tunisie (BCT) inspection report concluded that Paymee was not acting as a payment institution but as a **payment facilitator**, a category the company said was not yet fully regulated.\n- **January 2024:** the BCT published guidelines on payment facilitation, requiring facilitators to operate in partnership with a licensed bank or institution.\n- **February 2024:** the case was still open after 11 months. Paymee said over 750 clients were affected, that it had processed about 90 million dinars, that its operations were paralysed and that it faced an imminent risk of closing.\n\nThese are the company's account and press reports; we have not seen the authorities' files.\n\n## What happened next\n\nThe public record after early 2024 is thin. Paymee announced an innovative-project label in Algeria in March 2024. Its website remains online, but its blog shows no update on the case after February 2024. Merchant guides to Tunisian payment providers published in 2025 and 2026 still described Paymee's accounts as frozen or the company as facing serious regulatory difficulties. We found no official announcement that the case was closed or the funds released. Readers should treat Paymee's current status as unconfirmed.\n\n## Lessons for Tunisian fintechs\n\nThe Paymee case illustrates the regulatory risk in Tunisian payments. Some lessons are practical:\n\n- **Know your category.** The line between a payment facilitator and an unlicensed payment institution decides whether you are innovating or committing an offence. Our explainer on [payment institutions in Tunisia](post:payment-institutions-tunisia) sets out the categories.\n- **Document flows of funds.** Facilitators that touch merchant money are exposed to anti-money laundering scrutiny. See our article on [AML and e-KYC rules](post:ekyc-aml-tunisia).\n- **Plan for frozen accounts.** A freeze stops payouts to merchants immediately, and those merchants bear the damage too.\n\nThe BCT's January 2024 guidelines, which Paymee says it helped inform, gave the facilitator model a clearer basis. Konnect and Flouci both now describe themselves as BCT-authorised facilitators. Paymee's experience shows the cost of operating before the rules existed.",
+    "faq": [
+      {
+        "q": "What is Paymee?",
+        "a": "Paymee is a Tunisian fintech founded by Marwen Amamou that offers an online payment gateway, payment links, QR code payments and card payment at delivery for merchants."
+      },
+      {
+        "q": "Why were Paymee's funds frozen?",
+        "a": "In February 2023 the CTAF received a suspicious activity report accusing Paymee of operating as an unlicensed payment institution and of money laundering. A BCT inspection in October 2023 concluded it acted as a payment facilitator, but the case was still open in February 2024."
+      },
+      {
+        "q": "Is Paymee still operating?",
+        "a": "Its status is unclear. Paymee warned in February 2024 that it risked closure, and payment guides in 2025 and 2026 still described its accounts as frozen. We found no official confirmation that the case was resolved."
+      },
+      {
+        "q": "Who invested in Paymee?",
+        "a": "P1 Ventures led a six-figure round in Paymee in July 2022. The exact amount was not disclosed."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Paymee : portrait d'un pionnier du paiement tunisien en difficulté",
+    "meta_description": "Paymee fut l'une des premières passerelles de paiement en ligne en Tunisie. Ses produits, sa levée avec P1 Ventures, le gel des fonds de 2023 et ses leçons.",
+    "excerpt": "Paymee a aidé les commerçants tunisiens à encaisser par carte en ligne et à la livraison. Un gel de fonds pour soupçon de blanchiment en 2023, lié à un vide réglementaire, a mis l'entreprise en danger.",
+    "keywords": [
+      "Paymee",
+      "Paymee Tunisie",
+      "passerelle de paiement Paymee",
+      "Marwen Amamou",
+      "facilitateur de paiement Tunisie",
+      "Paymee CTAF",
+      "startup fintech tunisienne"
+    ],
+    "tags": [
+      "Paymee",
+      "Passerelle de paiement",
+      "Réglementation",
+      "Startups"
+    ],
+    "key_takeaways": [
+      "Paymee, fondée par Marwen Amamou vers 2017-2018, a bâti l'une des premières passerelles de paiement en ligne tunisiennes, avec liens de paiement, QR codes et paiement par carte à la livraison.",
+      "Elle a levé un tour à six chiffres mené par P1 Ventures en juillet 2022.",
+      "En février 2023, une déclaration de soupçon à la CTAF a entraîné le gel de ses fonds ; une inspection de la BCT a ensuite conclu à une activité de facilitateur de paiement, et non d'établissement de paiement non agréé.",
+      "L'affaire a mis en lumière l'absence de règles pour les facilitateurs, que la BCT a comblée en partie avec ses lignes directrices de janvier 2024."
+    ],
+    "body": "Paymee a été l'une des premières startups tunisiennes à proposer aux commerçants une passerelle de paiement en ligne. Son histoire est aussi un avertissement : en 2023, une déclaration de soupçon de blanchiment a entraîné le gel de ses fonds et de ceux de son fondateur, dans une affaire qui tenait à la manière dont la Tunisie encadrait, ou non, les facilitateurs de paiement. Portrait.\n\n## Paymee en bref\n\n- **Fondateur et dirigeant :** Marwen Amamou, ingénieur informaticien passé par l'ISI de l'Ariana, qui a travaillé en France avant de revenir à Tunis.\n- **Création :** les sources divergent. We Are Tech Africa indique 2017, Wamda 2018 ; un portrait publié en 2018 par Tunisian Monitor situe le lancement à Paris en mars 2018.\n- **Label Startup :** obtenu en mai 2019 dans le cadre du [Startup Act](post:startup-act-tunisia-explained).\n- **Financement :** un tour à six chiffres mené par P1 Ventures en juillet 2022, montant non divulgué. Paymee avait auparavant remporté le grand prix de la deuxième saison du concours El Pitch.\n- **Distinction :** un prix de l'innovation fintech décerné par la Présidence du gouvernement lors du sommet de la Francophonie de novembre 2022 en Tunisie, selon l'entreprise.\n\n## Produits\n\nPaymee a démarré en 2018 avec une application mobile pour payer les commerçants et envoyer de l'argent, doublée d'une passerelle pour les sites marchands. L'offre s'est ensuite recentrée sur les entreprises :\n\n- **Passerelle de paiement :** acceptation des cartes bancaires tunisiennes et internationales et des cartes e-Dinar de La Poste, via modules ou API. Les paiements transitent par la plateforme sécurisée de la Société Monétique Tunisie (SMT).\n- **Paylink :** des liens de paiement pour les entreprises sans site, pour les factures, les commandes par téléphone ou réseaux sociaux et les acomptes.\n- **Paiement par QR code :** un QR code fixe au montant modifiable, présenté en 2022 comme une alternative au TPE.\n- **Paymee On Delivery :** le livreur génère un QR code pour chaque colis ; le client le scanne et paie par carte à la porte. Aramex était cité comme client logistique en 2022.\n\nMi-2022, Paymee revendiquait plus de 250 comptes professionnels et plus de 100 000 transactions. Ces produits visent la faiblesse structurelle de l'e-commerce tunisien, la domination du paiement à la livraison, détaillée dans notre guide du [paiement e-commerce en Tunisie](post:ecommerce-payments-tunisia).\n\n## Le gel de 2023\n\nD'après le communiqué de Paymee de février 2024 et les informations de Webdo :\n\n- **24 février 2023 :** la Commission Tunisienne des Analyses Financières (CTAF), la cellule de renseignement financier, reçoit une déclaration de soupçon d'origine inconnue. Elle accuse Paymee d'exercer comme établissement de paiement sans agrément et de blanchiment.\n- Les fonds de Paymee et les avoirs personnels de son représentant légal sont gelés ; une affaire pénale est ouverte.\n- **Octobre 2023 :** un rapport d'inspection de la Banque Centrale de Tunisie (BCT) conclut que Paymee n'agit pas comme établissement de paiement mais comme **facilitateur de paiement**, une catégorie que l'entreprise décrit comme pas encore pleinement réglementée.\n- **Janvier 2024 :** la BCT publie des lignes directrices sur la facilitation de paiement, qui imposent un partenariat avec une banque ou un établissement agréé.\n- **Février 2024 :** l'affaire est toujours ouverte après onze mois. Paymee évoque plus de 750 clients touchés, environ 90 millions de dinars traités, une activité paralysée et un risque imminent de cessation.\n\nIl s'agit de la version de l'entreprise et de comptes rendus de presse ; nous n'avons pas eu accès aux dossiers des autorités.\n\n## Et ensuite ?\n\nLes informations publiques après début 2024 sont rares. Paymee a annoncé en mars 2024 avoir obtenu le label « Projet innovant » en Algérie. Son site reste en ligne, mais son blog ne publie aucune mise à jour sur l'affaire après février 2024. Des comparatifs de prestataires de paiement publiés en 2025 et 2026 décrivaient encore ses comptes comme gelés ou l'entreprise comme en grande difficulté réglementaire. Nous n'avons trouvé aucune annonce officielle de classement de l'affaire ou de dégel des fonds. La situation actuelle de Paymee doit donc être considérée comme non confirmée.\n\n## Les leçons pour les fintechs tunisiennes\n\nL'affaire Paymee illustre le risque réglementaire propre au paiement en Tunisie. Quelques enseignements concrets :\n\n- **Connaître sa catégorie.** La frontière entre facilitateur de paiement et établissement de paiement non agréé sépare l'innovation de l'infraction. Notre dossier sur [les établissements de paiement en Tunisie](post:payment-institutions-tunisia) détaille les statuts.\n- **Documenter les flux.** Un facilitateur qui touche l'argent des commerçants s'expose au contrôle LBC/FT. Voir notre article sur [la LBC/FT et l'e-KYC](post:ekyc-aml-tunisia).\n- **Anticiper le gel de comptes.** Un gel bloque immédiatement les reversements aux commerçants, qui en subissent aussi les conséquences.\n\nLes lignes directrices de janvier 2024, que Paymee dit avoir contribué à nourrir, ont donné une base plus claire au modèle du facilitateur ; Konnect et Flouci se présentent aujourd'hui comme facilitateurs autorisés par la BCT. L'expérience de Paymee montre le prix à payer pour avoir opéré avant que les règles n'existent.",
+    "faq": [
+      {
+        "q": "Qu'est-ce que Paymee ?",
+        "a": "Paymee est une fintech tunisienne fondée par Marwen Amamou. Elle propose aux commerçants une passerelle de paiement en ligne, des liens de paiement, le paiement par QR code et le paiement par carte à la livraison."
+      },
+      {
+        "q": "Pourquoi les fonds de Paymee ont-ils été gelés ?",
+        "a": "En février 2023, la CTAF a reçu une déclaration de soupçon accusant Paymee d'exercer comme établissement de paiement sans agrément et de blanchiment. Une inspection de la BCT a conclu en octobre 2023 à une activité de facilitateur, mais l'affaire restait ouverte en février 2024."
+      },
+      {
+        "q": "Paymee est-elle toujours en activité ?",
+        "a": "Ce n'est pas clair. Paymee alertait en février 2024 sur un risque de cessation, et des comparatifs de 2025 et 2026 décrivaient encore ses comptes comme gelés. Nous n'avons trouvé aucune confirmation officielle d'un règlement de l'affaire."
+      },
+      {
+        "q": "Qui a investi dans Paymee ?",
+        "a": "P1 Ventures a mené un tour à six chiffres en juillet 2022. Le montant exact n'a pas été communiqué."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tunisia's Paymee raises six-figure round led by P1 Ventures",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/2022/07/tunisia-paymee-raises-figure-round-led-p1-ventures"
+    },
+    {
+      "title": "En Tunisie, Paymee fournit des passerelles de paiement en ligne pour les entreprises",
+      "publisher": "We Are Tech Africa",
+      "url": "https://www.wearetech.africa/fr/fils/solutions/en-tunisie-paymee-fournit-des-passerelles-de-paiement-en-ligne-pour-les-entreprises"
+    },
+    {
+      "title": "Pionnier des solutions de paiement en ligne en Tunisie face aux défis",
+      "publisher": "Paymee",
+      "url": "https://www.paymee.tn/pionnier-des-solutions-de-paiement-en-ligne-en-tunisie-face-aux-defis/"
+    },
+    {
+      "title": "Tunisie : Enquête, gel de fonds, la startup Paymee en péril !",
+      "publisher": "Webdo",
+      "url": "https://www.webdo.tn/fr/actualite/national/tunisie-enquete-gel-de-fonds-la-startup-paymee-en-peril/212483/"
+    },
+    {
+      "title": "Paymee, revolution in mobile and online payment for Tunisian economy",
+      "publisher": "Tunisian Monitor",
+      "url": "https://tmo-mag.com.tn/paymee-revolution-in-mobile-payment-for-tunisian-economy-founded-by-tunisian-ict-engineer-marwen-amamou/"
+    },
+    {
+      "title": "Paymee On Delivery",
+      "publisher": "Paymee",
+      "url": "https://www.paymee.tn/paymee-on-delivery/"
+    }
+  ]
+}

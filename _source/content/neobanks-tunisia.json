@@ -1,0 +1,163 @@
+{
+  "slug": "neobanks-tunisia",
+  "category": "banking",
+  "cover_motif": "phone-wallet",
+  "stats": [
+    {
+      "value": "TND 50M",
+      "label_en": "minimum capital for a bank under Law 2016-48",
+      "label_fr": "de capital minimum pour une banque (loi 2016-48)",
+      "source": "Oxford Business Group, 2017"
+    },
+    {
+      "value": "TND 5M",
+      "label_en": "minimum paid-up capital for a payment institution",
+      "label_fr": "de capital libéré minimum pour un établissement de paiement",
+      "source": "Ilboursa, 2019"
+    },
+    {
+      "value": "37.8%",
+      "label_en": "of Tunisian adults have an account",
+      "label_fr": "des adultes tunisiens ont un compte",
+      "source": "World Bank Global Findex 2025"
+    }
+  ],
+  "chart": {
+    "title_en": "Payment account balance caps under BCT circular 2026-10",
+    "title_fr": "Plafonds des comptes de paiement (circulaire BCT 2026-10)",
+    "unit": "TND",
+    "bars": [
+      {
+        "label_en": "Level 1",
+        "label_fr": "Niveau 1",
+        "value": 1500
+      },
+      {
+        "label_en": "Level 2",
+        "label_fr": "Niveau 2",
+        "value": 5000
+      },
+      {
+        "label_en": "Level 3",
+        "label_fr": "Niveau 3",
+        "value": 20000
+      }
+    ],
+    "source_name": "Challenges, reporting BCT circular 2026-10, September 2026",
+    "source_url": "https://www.challenges.tn/economie/paiement-mobile-en-tunisie-la-bct-resserre-les-regles-avec-sa-nouvelle-circulaire-n2026-10/"
+  },
+  "en": {
+    "title": "Neobanks in Tunisia: Why None Exists Yet, and What Would Change",
+    "meta_description": "Tunisia has no digital-bank licence and a TND 50M capital bar. Why neobanks in Tunisia remain out of reach, who is getting close, and what reform would take.",
+    "excerpt": "No app-only bank operates in Tunisia. The law, wallet caps and capital rules explain why, and payment institutions are filling part of the gap.",
+    "keywords": [
+      "neobanks Tunisia",
+      "digital bank licence Tunisia",
+      "neobank Tunisia 2026",
+      "payment institution Tunisia",
+      "BCT circular 2026-10",
+      "online bank Tunisia",
+      "Law 2016-48 banks"
+    ],
+    "tags": [
+      "Neobanks",
+      "Licensing",
+      "Payment institutions",
+      "BCT"
+    ],
+    "key_takeaways": [
+      "As of October 2026, Tunisia has no licensed digital-only bank and no dedicated neobank licence.",
+      "A full bank licence under Law 2016-48 requires TND 50 million in capital; a payment institution needs TND 5 million.",
+      "Payment accounts are capped at TND 1,500, 5,000 or 20,000 depending on level, under BCT circular 2026-10.",
+      "The most realistic neobank models are bank-owned digital brands or payment institutions partnering with banks."
+    ],
+    "body": "Neobanks in Tunisia are still more idea than reality. As of October 2026 there is no app-only bank licensed in the country and no dedicated digital-bank licence, yet the gap they would fill is large: only 37.8% of adults hold an account, according to the World Bank's 2025 Global Findex. This article looks at what the law allows, who is getting close, and what would have to change.\n\n## Why neobanks in Tunisia keep coming up\n\nThe case is easy to make. Tunisia's account ownership has barely moved in a decade, from 36.9% in 2017 to 37.8% in the 2024 survey data published in the 2025 Findex. Smartphone use is widespread, mobile payments grew 80.5% in 2025 according to the BCT, and a large diaspora sends money home. Around the world, neobanks have won customers by making account opening simple and cheap.\n\nThe debate is not new. At a KPMG and APTBEF seminar in Tunis in April 2019, speakers discussed whether neobanks would become part of the Tunisian banking landscape. BCT Vice-Governor Nadia Gamha pointed to the payment-institution circular of December 2018 as a sign that digital financial services were coming. Seven years later, the payment-institution route has delivered wallets, not banks.\n\n## What Tunisian law allows\n\nBanking in Tunisia is governed by **Law 2016-48** on banks and financial institutions. According to Oxford Business Group's analysis of the law:\n\n- Banks need a licence granted by a committee chaired by the BCT governor, in two stages (provisional, then final).\n- The minimum capital for a bank was doubled to **TND 50 million**.\n- The law introduced \"à la carte\" licences alongside universal ones, and created a deposit guarantee fund covering up to TND 60,000 per depositor.\n- It also authorised non-bank **payment institutions**.\n\nThere is no separate licence category for a branchless or digital-only bank. A neobank wanting to take deposits and lend would need a full bank licence and the capital that comes with it. Egypt took a different path: in August 2025 the Central Bank of Egypt approved the licence of Onebank, the country's first fully digital bank, set up by Banque Misr. Our article on [Egypt's fintech boom](post:egypt-fintech-instapay) has more on that market.\n\n## The practical route: payment institutions\n\nMost \"neobank-like\" products in Tunisia are therefore built as [payment institutions](post:payment-institutions-tunisia). These require TND 5 million in paid-up capital and BCT approval. They can open payment accounts, handle deposits and withdrawals, transfers and card payments, but only in dinars, only within Tunisia, and without granting credit.\n\nThe BCT's new circular 2026-10, published on 25 September 2026, replaces the 2018 framework. As reported by Challenges and Webdo, it keeps three account levels:\n\n- **Level 1** (individuals only): balance capped at TND 1,500.\n- **Level 2**: balance capped at TND 5,000, cash withdrawals up to TND 3,000 a day.\n- **Level 3**: balance capped at TND 20,000, cash withdrawals up to TND 10,000 a day.\n\nThe circular also allows remote account opening with at least two-factor authentication and a liveness check, and imposes annual cybersecurity audits, stricter governance and BCT approval for partnerships. Institutions have three months to comply.\n\nThese caps make a wallet useful for payments and transfers, but not a full replacement for a bank account, since salaries above the cap, savings and credit stay with banks.\n\n## Who is getting close\n\nA few Tunisian players are testing the edges:\n\n- **Ooredoo Fintech Tunisie** received BCT authorisation in February 2026 to launch walletii, offering bill payments, transfers and cash services through Ooredoo's distribution network.\n- **Insight Plus**, a labelled startup founded in 2019 and known for its FX platform for banks and exchange offices, told Managers in January 2026 that it plans a cross-border offer for the diaspora, with dinar account opening in Tunisia targeted for mid-2026. The article does not say under which licence.\n- **EasyBank**, founded in 2023, raised TND 1.2 million (about $370,000) in January 2025, according to Wamda. Despite its name, it is a fintech platform giving access to loans and banking services, not a licensed bank.\n\nBanks themselves are also adding remote onboarding, now possible under a BCT circular of 28 February 2025 on electronic customer onboarding. A bank-owned digital brand may be the most realistic form a Tunisian neobank takes. See our overview of [digital banking in Tunisia](post:digital-banking-tunisia).\n\n## What would need to change\n\nFor a true neobank to emerge, several conditions would have to align:\n\n1. **A proportionate licence.** Either a digital-bank category or a clear path for a lighter \"à la carte\" licence focused on deposits and payments.\n2. **Higher or more flexible wallet caps**, or a path for payment institutions to partner with banks on savings and credit.\n3. **Foreign-exchange flexibility.** Cross-border services for the diaspora are constrained by FX rules that are only starting to change.\n4. **Digital identity at scale**, so that remote onboarding is cheap and reliable.\n5. **Patient capital.** TND 50 million is a large sum in a market where startup rounds are typically small.\n\nThe BCT's [regulatory sandbox](post:bct-regulatory-sandbox) is one place where such models could be tested before any licence reform.\n\n## The bottom line for founders\n\nLaunching a neobank in Tunisia in 2026 means choosing between raising bank-level capital or working within payment-institution limits. Most founders will take the second route, partner with a bank for deposits and credit, and focus on user experience, onboarding and niche segments such as the diaspora, students or small merchants. Licensing and FX reform will decide whether a full digital bank becomes possible.",
+    "faq": [
+      {
+        "q": "Is there a neobank in Tunisia?",
+        "a": "As of October 2026, no fully digital bank is licensed in Tunisia. Digital wallets from payment institutions and online services from traditional banks cover part of the need, but they are not neobanks in the full sense."
+      },
+      {
+        "q": "Can I use Revolut or N26 in Tunisia?",
+        "a": "Foreign neobanks hold no BCT licence in Tunisia, and Tunisian payment institutions may only operate in dinars within Tunisia. Residents should check each provider's own eligibility rules and Tunisian FX regulations before using a foreign account."
+      },
+      {
+        "q": "How much capital do you need to open a bank in Tunisia?",
+        "a": "Under Law 2016-48, the minimum capital for a bank is TND 50 million, and the licence is granted in two stages by a committee chaired by the BCT governor. A payment institution requires TND 5 million in paid-up capital."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Néobanques en Tunisie : pourquoi aucune n'existe encore",
+    "meta_description": "Pas d'agrément de banque digitale et 50 MDT de capital minimum : pourquoi les néobanques en Tunisie tardent, qui s'en approche, quelles réformes envisager.",
+    "excerpt": "Aucune banque 100 % mobile n'opère en Tunisie. Loi bancaire, plafonds des wallets et capital minimum expliquent ce retard, que les établissements de paiement comblent en partie.",
+    "keywords": [
+      "néobanque Tunisie",
+      "banque en ligne Tunisie",
+      "agrément banque digitale Tunisie",
+      "établissement de paiement Tunisie",
+      "circulaire BCT 2026-10",
+      "loi 2016-48 banques",
+      "néobanque tunisienne 2026"
+    ],
+    "tags": [
+      "Néobanques",
+      "Agrément",
+      "Établissements de paiement",
+      "BCT"
+    ],
+    "key_takeaways": [
+      "En octobre 2026, aucune banque entièrement numérique n'est agréée en Tunisie et aucune licence spécifique n'existe.",
+      "Un agrément bancaire (loi 2016-48) exige 50 millions de dinars de capital, contre 5 millions pour un établissement de paiement.",
+      "Les comptes de paiement sont plafonnés à 1 500, 5 000 ou 20 000 dinars selon le niveau (circulaire BCT 2026-10).",
+      "Les modèles les plus réalistes sont une marque digitale bancaire ou un établissement de paiement adossé à une banque."
+    ],
+    "body": "Les néobanques en Tunisie relèvent encore davantage du concept que de la réalité. En octobre 2026, aucune banque 100 % mobile n'est agréée dans le pays et il n'existe pas de licence dédiée aux banques numériques. Le besoin est pourtant réel : seuls 37,8 % des adultes ont un compte selon le Global Findex 2025 de la Banque mondiale. Que permet la loi, qui s'en approche, et que faudrait-il changer ?\n\n## Pourquoi la question des néobanques en Tunisie revient sans cesse\n\nL'argument se défend aisément. Le taux de détention d'un compte n'a presque pas bougé en dix ans : 36,9 % en 2017, 37,8 % dans l'enquête 2024 publiée dans le Findex 2025. Le smartphone est répandu, le paiement mobile a progressé de 80,5 % en 2025 selon la BCT, et une large diaspora envoie de l'argent au pays. Ailleurs, les néobanques ont séduit en rendant l'ouverture de compte simple et peu coûteuse.\n\nLe débat n'a rien de neuf. En avril 2019, lors d'un séminaire organisé à Tunis par KPMG et l'APTBEF, les intervenants se demandaient déjà si les néobanques trouveraient leur place dans le paysage bancaire tunisien. La vice-gouverneure de la BCT, Nadia Gamha, citait alors la circulaire de décembre 2018 sur les établissements de paiement comme le signal de l'arrivée des services financiers numériques. Sept ans plus tard, cette voie a produit des wallets, pas des banques.\n\n## Ce que permet la loi tunisienne\n\nL'activité bancaire est régie par la **loi n° 2016-48** relative aux banques et aux établissements financiers. Selon l'analyse d'Oxford Business Group :\n\n- les banques sont agréées par une commission présidée par le gouverneur de la BCT, en deux temps (agrément provisoire puis définitif) ;\n- le capital minimum d'une banque a été doublé, à **50 millions de dinars** ;\n- la loi a créé des agréments « à la carte » à côté de l'agrément universel, ainsi qu'un fonds de garantie des dépôts couvrant jusqu'à 60 000 dinars par déposant ;\n- elle a aussi autorisé les **établissements de paiement** non bancaires.\n\nAucune catégorie spécifique n'existe pour une banque sans agence. Une néobanque souhaitant collecter des dépôts et prêter devrait obtenir un agrément bancaire complet, avec le capital correspondant. L'Égypte a choisi une autre voie : en août 2025, la Banque centrale d'Égypte a validé l'agrément de Onebank, première banque entièrement numérique du pays, portée par Banque Misr. Notre article sur [l'essor de la fintech égyptienne](post:egypt-fintech-instapay) y revient.\n\n## La voie pratique : l'établissement de paiement\n\nLa plupart des offres « type néobanque » passent donc par le statut d'[établissement de paiement](post:payment-institutions-tunisia). Il exige un capital libéré de 5 millions de dinars et l'agrément de la BCT. Ces acteurs peuvent ouvrir des comptes de paiement, gérer dépôts et retraits, virements et paiements par carte, mais uniquement en dinars, sur le territoire tunisien et sans octroyer de crédit.\n\nLa nouvelle circulaire 2026-10 de la BCT, publiée le 25 septembre 2026, remplace le cadre de 2018. Selon Challenges et Webdo, elle conserve trois niveaux de compte :\n\n- **Niveau 1** (particuliers uniquement) : solde plafonné à 1 500 dinars.\n- **Niveau 2** : solde plafonné à 5 000 dinars, retraits en espèces limités à 3 000 dinars par jour.\n- **Niveau 3** : solde plafonné à 20 000 dinars, retraits limités à 10 000 dinars par jour.\n\nLe texte autorise l'ouverture de compte à distance, avec au moins deux facteurs d'authentification et une preuve de vie, et impose un audit de cybersécurité annuel, une gouvernance renforcée et l'accord préalable de la BCT pour les partenariats. Les établissements ont trois mois pour se conformer.\n\nAvec ces plafonds, le wallet sert au paiement et au transfert, mais ne remplace pas un compte bancaire : les salaires au-delà du plafond, l'épargne et le crédit restent du ressort des banques.\n\n## Ceux qui s'en approchent\n\nQuelques acteurs tunisiens testent les limites :\n\n- **Ooredoo Fintech Tunisie** a obtenu en février 2026 l'agrément de la BCT pour lancer walletii : paiement de factures, transferts et opérations en espèces via le réseau de distribution d'Ooredoo.\n- **Insight Plus**, startup labellisée fondée en 2019 et connue pour sa plateforme de change destinée aux banques et bureaux de change, a annoncé à Managers en janvier 2026 une offre transfrontalière pour la diaspora, avec ouverture de comptes en dinars visée pour mi-2026. L'article ne précise pas sous quel statut.\n- **EasyBank**, fondée en 2023, a levé 1,2 million de dinars (environ 370 000 dollars) en janvier 2025, selon Wamda. Malgré son nom, c'est une plateforme fintech d'accès au crédit et aux services bancaires, pas une banque agréée.\n\nLes banques elles-mêmes déploient l'entrée en relation à distance, permise par une circulaire de la BCT du 28 février 2025. Une marque numérique adossée à une banque existante est sans doute la forme la plus réaliste d'une néobanque tunisienne. Voir notre état des lieux de la [banque digitale en Tunisie](post:digital-banking-tunisia).\n\n## Ce qu'il faudrait changer\n\nPour qu'une véritable néobanque voie le jour, plusieurs conditions devraient être réunies :\n\n1. **Un agrément proportionné**, soit une catégorie « banque digitale », soit une voie claire vers un agrément « à la carte » centré sur les dépôts et les paiements.\n2. **Des plafonds de wallet plus souples**, ou un cadre de partenariat banque-établissement de paiement pour l'épargne et le crédit.\n3. **Plus de souplesse de change**, les services transfrontaliers pour la diaspora restant contraints par une réglementation qui commence à peine à évoluer.\n4. **Une identité numérique généralisée**, pour un e-KYC fiable et bon marché.\n5. **Des capitaux patients** : 50 millions de dinars, c'est beaucoup dans un marché où les levées de fonds restent modestes.\n\nLa [sandbox réglementaire de la BCT](post:bct-regulatory-sandbox) offre un cadre pour tester ces modèles avant toute réforme des agréments.\n\n## En résumé pour les fondateurs\n\nLancer une néobanque en Tunisie en 2026 suppose de choisir entre lever un capital de niveau bancaire et opérer dans les limites d'un établissement de paiement. La plupart des fondateurs choisiront la seconde option, s'adosseront à une banque pour les dépôts et le crédit, et miseront sur l'expérience utilisateur, l'enrôlement et des niches comme la diaspora, les étudiants ou les petits commerçants. Les réformes des agréments et du change décideront si une vraie banque numérique devient possible.",
+    "faq": [
+      {
+        "q": "Existe-t-il une néobanque en Tunisie ?",
+        "a": "En octobre 2026, aucune banque entièrement numérique n'est agréée en Tunisie. Les wallets des établissements de paiement et les services en ligne des banques couvrent une partie des besoins, sans être des néobanques au sens strict."
+      },
+      {
+        "q": "Peut-on utiliser Revolut ou N26 en Tunisie ?",
+        "a": "Les néobanques étrangères ne disposent d'aucun agrément de la BCT, et les établissements de paiement tunisiens n'opèrent qu'en dinars et sur le territoire. Les résidents doivent vérifier les conditions de chaque prestataire et la réglementation des changes."
+      },
+      {
+        "q": "Quel capital faut-il pour créer une banque en Tunisie ?",
+        "a": "La loi 2016-48 fixe le capital minimum d'une banque à 50 millions de dinars, et l'agrément est délivré en deux étapes par une commission présidée par le gouverneur de la BCT. Un établissement de paiement doit disposer de 5 millions de dinars libérés."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "By the book: A new banking law provides clearer guidelines",
+      "publisher": "Oxford Business Group",
+      "url": "https://oxfordbusinessgroup.com/reports/tunisia/2017-report/economy/by-the-book-a-new-banking-law-provides-clearer-guidelines-for-investors-and-financial-institutions"
+    },
+    {
+      "title": "Paiement mobile en Tunisie : la BCT resserre les règles avec sa nouvelle circulaire n°2026-10",
+      "publisher": "Challenges",
+      "url": "https://www.challenges.tn/economie/paiement-mobile-en-tunisie-la-bct-resserre-les-regles-avec-sa-nouvelle-circulaire-n2026-10/"
+    },
+    {
+      "title": "Les nouvelles règles régissant l'activité et le fonctionnement des établissements de paiement",
+      "publisher": "Ilboursa",
+      "url": "https://www.ilboursa.com/marches/les-nouvelles-regles-regissant-lactivite-et-le-fonctionnement-des-etablissements-de-paiement_15621"
+    },
+    {
+      "title": "Insight Plus : la fintech tunisienne qui veut devenir la Revolut de la diaspora",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/01/16/insight-plus-la-fintech-tunisienne-qui-veut-devenir-la-revolut-de-la-diaspora/"
+    },
+    {
+      "title": "Tunisian fintech EasyBank secures $370,000 investment",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/2025/01/tunisian-fintech-easybank-secures-370000-investment"
+    },
+    {
+      "title": "Égypte : la Banque centrale valide la création d'une banque entièrement numérique",
+      "publisher": "Tunisie Numérique",
+      "url": "https://www.tunisienumerique.com/egypte-la-banque-centrale-valide-la-creation-dune-banque-entierement-numerique/"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "crowdfunding-law-tunisia",
+  "category": "regulation",
+  "cover_motif": "people",
+  "stats": [
+    {
+      "value": "TND 1M",
+      "label_en": "Max raised per project (equity)",
+      "label_fr": "Plafond par projet (capital)",
+      "source": "Decree No. 2022-765, 2022"
+    },
+    {
+      "value": "TND 10,000",
+      "label_en": "Max per contributor per project",
+      "label_fr": "Plafond par contributeur et par projet",
+      "source": "Decree No. 2022-765, 2022"
+    },
+    {
+      "value": "TND 100,000",
+      "label_en": "Minimum platform capital",
+      "label_fr": "Capital minimum d'une plateforme",
+      "source": "Decree No. 2022-765, 2022"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Crowdfunding Law in Tunisia: How the CMF Framework Works",
+    "meta_description": "Tunisia's crowdfunding law explained: Law 2020-37, CMF equity rules, TND 1M project and TND 10,000 investor caps, and where loan and donation platforms stand.",
+    "excerpt": "Six years after Law 2020-37, Tunisia's equity crowdfunding rules are complete and the first platform licence has been granted. Here is what founders need to know.",
+    "keywords": [
+      "crowdfunding law Tunisia",
+      "Tunisia crowdfunding CMF",
+      "Law 2020-37 crowdfunding",
+      "equity crowdfunding Tunisia",
+      "loan crowdfunding BCT",
+      "crowdfunding platform license Tunisia"
+    ],
+    "tags": [
+      "Crowdfunding",
+      "CMF",
+      "BCT",
+      "Startup funding",
+      "Regulation"
+    ],
+    "key_takeaways": [
+      "Law No. 2020-37 created three crowdfunding categories (equity, loans, donations), each with its own regulator and a one-category-per-platform rule.",
+      "Under Decree No. 2022-765, an equity project can raise at most TND 1 million and each contributor can invest at most TND 10,000 per project.",
+      "The CMF completed the equity framework with a regulation dated 11 November 2024; the BCT issued Circular 2023-06 for loan platforms.",
+      "The first publicly reported approval went to CnBees, a donation platform licensed by the ACM in December 2025, according to La Presse."
+    ],
+    "body": "Tunisia's crowdfunding law has been on the books since August 2020, but the market it was meant to create is only now taking shape. Law No. 2020-37 sets up three separate regimes, equity, lending and donations, each with its own regulator and its own implementing texts. For founders, the equity track run by the Conseil du marché financier (CMF) matters most, and its rules are now complete.\n\n## Three kinds of crowdfunding, three regulators\n\nLaw No. 2020-37 of 6 August 2020 defines crowdfunding as raising money from the public through a dedicated online platform to finance a profit-making project carried out in Tunisia. It recognises three categories:\n\n- **Investment in securities**: contributors receive ordinary shares, sukuk or bonds. Platforms need approval from the **CMF**.\n- **Loans**: platforms need approval from the **Governor of the Central Bank of Tunisia (BCT)** (Article 32).\n- **Donations and gifts**: in 2023 the head of APII said the microfinance supervisor, the **Autorité de contrôle de la microfinance (ACM)**, was finalising the rules for this category.\n\nA platform operator must be a Tunisian *société anonyme* with its registered office in Tunisia, and it may run **only one** of the three categories. The same project cannot be listed on two platforms of the same category at once.\n\n## The CMF framework for equity crowdfunding\n\nThe equity regime rests on three texts: the 2020 law, **Decree No. 2022-765 of 19 October 2022**, and a **CMF regulation dated 11 November 2024**, which the regulator announced had been published in the Official Journal. Together they set the following rules.\n\n### For platforms\n\n- Minimum share capital of **TND 100,000**, fully paid up at incorporation.\n- A business plan, vetted shareholders and managers, adequate staff and IT security, project-evaluation procedures, AML/CFT controls and an insurance policy.\n- An authorisation from the national personal data protection authority (see our guide to [data protection rules for fintechs](post:data-protection-tunisia-fintech)).\n- The chief executive must live in Tunisia and have at least three years of relevant experience.\n- The CMF has up to **three months** to decide on a complete application, and any refusal must give reasons.\n\nStockbrokers, portfolio managers and venture capital firms that manage third-party money do not need a separate approval: they file a prior declaration with the CMF and follow the same operating rules.\n\n### For companies raising money\n\n- A project can raise at most **TND 1 million** on a platform.\n- Each contributor can put in at most **TND 10,000** per project.\n- The company cannot be listed on the Tunis Stock Exchange or have already made a public offer approved by the CMF.\n- Instead of a full prospectus, it publishes a short information note on the platform, using a CMF template, covering the project, financials, securities, risks and fees.\n- Canvassing is banned: the project can only be promoted through the platform.\n\n### For contributors\n\nContributors can be individuals or companies, residents or non-residents. They must register and acknowledge the risks, including the loss of all capital, illiquidity and default on bonds. Money must arrive by electronic transfer or another BCT-authorised payment method and sits in a ring-fenced account at a bank or La Poste Tunisienne. If the funding target is not reached, contributors are refunded.\n\n## Lending and donations: slower to move\n\nThe lending track got its operating detail later. In November 2023 the BCT issued **Circular No. 2023-06**, listing the documents required to apply for a loan crowdfunding approval, under conditions set by **Decree No. 2022-766**. We did not find a public report of an approved lending platform as of October 2026.\n\nDonation-based crowdfunding has produced the first visible licence. According to an interview published by *La Presse* in June 2026, **CnBees** obtained ACM approval in December 2025, after filing in May 2024, and describes itself as Tunisia's first approved crowdfunding platform. It is donation-only and was targeting its first funded projects for the third quarter of 2026.\n\n## Why the market took so long\n\nThe rules arrived in stages: law in 2020, decrees in October 2022, the BCT circular in 2023, the CMF regulation in late 2024. In February 2023, a CMF spokesperson told a business seminar that many people had asked about launching a platform, but no formal approval request had been filed at that point.\n\nThe structure itself also limits the business case. A one-category licence, a TND 100,000 capital floor, a ban on canvassing and a TND 1 million ceiling per project make equity platforms a niche, low-ticket business. For a fintech, running a platform means compliance, escrow and investor-protection costs on top of the technology.\n\n## What it means for founders\n\nFor a startup looking at [ways to raise money](post:how-to-raise-funding-tunisian-fintech), equity crowdfunding is best seen as a complement to angels and VC, not a substitute:\n\n- **Ticket size**: TND 1 million is useful for a seed or pre-seed round, but not for growth rounds.\n- **Cap table**: with TND 10,000 per person, a full round means many small shareholders. Plan governance and shareholder agreements early.\n- **Instruments**: the sukuk option may appeal to sharia-sensitive savers (see [Islamic fintech in Tunisia](post:islamic-fintech-tunisia)).\n- **Diaspora**: non-resident contributors are allowed, which opens a door to [Tunisians abroad](post:diaspora-remittances-tunisia).\n\nBefore building on any platform, check the CMF and BCT lists of approved providers, which both regulators are required to keep and publish.",
+    "faq": [
+      {
+        "q": "Is crowdfunding legal in Tunisia?",
+        "a": "Yes. Law No. 2020-37 of 6 August 2020 regulates crowdfunding in three forms: investment in securities, loans and donations. Platforms must be Tunisian public limited companies approved by the relevant regulator and can operate only one category."
+      },
+      {
+        "q": "How much can a startup raise through equity crowdfunding in Tunisia?",
+        "a": "Decree No. 2022-765 caps the amount raised for a single project on an equity platform at TND 1 million. Each contributor can invest no more than TND 10,000 per project."
+      },
+      {
+        "q": "Who licenses crowdfunding platforms in Tunisia?",
+        "a": "The CMF approves equity (securities) platforms and the Governor of the BCT approves loan platforms. Donation platforms fall under the microfinance supervisor, the ACM, which approved CnBees in December 2025 according to La Presse."
+      },
+      {
+        "q": "Can Tunisians abroad invest through a crowdfunding platform?",
+        "a": "Yes. The law and the CMF's guidance allow both resident and non-resident contributors. Payments must go through electronic transfer or another payment method authorised by the BCT."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Crowdfunding en Tunisie : la loi et le cadre du CMF",
+    "meta_description": "La loi tunisienne sur le crowdfunding expliquée : loi 2020-37, règles du CMF, plafonds de 1 million et 10 000 dinars, état des plateformes de prêt et de don.",
+    "excerpt": "Six ans après la loi 2020-37, le cadre du crowdfunding en capital est complet et un premier agrément a été délivré. Ce que les fondateurs doivent savoir.",
+    "keywords": [
+      "loi crowdfunding Tunisie",
+      "financement participatif Tunisie",
+      "crowdfunding CMF",
+      "loi 2020-37",
+      "crowdfunding en prêt BCT",
+      "agrément plateforme crowdfunding"
+    ],
+    "tags": [
+      "Crowdfunding",
+      "CMF",
+      "BCT",
+      "Financement des startups",
+      "Réglementation"
+    ],
+    "key_takeaways": [
+      "La loi n° 2020-37 crée trois catégories de crowdfunding (capital, prêt, don), chacune avec son régulateur, et une plateforme ne peut en exercer qu'une seule.",
+      "Selon le décret n° 2022-765, un projet en capital peut lever au plus 1 million de dinars, et chaque contributeur investir au plus 10 000 dinars par projet.",
+      "Le CMF a complété le cadre par un règlement du 11 novembre 2024 ; la BCT a publié la circulaire 2023-06 pour les plateformes de prêt.",
+      "Le premier agrément rendu public concerne CnBees, plateforme de dons agréée par l'ACM en décembre 2025, selon La Presse."
+    ],
+    "body": "La loi tunisienne sur le crowdfunding existe depuis août 2020, mais le marché qu'elle devait créer ne prend forme que maintenant. La loi n° 2020-37 organise trois régimes distincts (investissement, prêt et don), chacun avec son régulateur et ses textes d'application. Pour les fondateurs, c'est le volet « valeurs mobilières » piloté par le Conseil du marché financier (CMF) qui compte le plus, et son cadre est désormais complet.\n\n## Trois formes de financement participatif, trois régulateurs\n\nLa loi n° 2020-37 du 6 août 2020 définit le crowdfunding comme la collecte de fonds auprès du public, via une plateforme en ligne dédiée, pour financer un projet à but lucratif réalisé en Tunisie. Elle distingue trois catégories :\n\n- **Investissement dans des valeurs mobilières** : les contributeurs reçoivent des actions ordinaires, des sukuk ou des obligations. Les plateformes doivent être agréées par le **CMF**.\n- **Prêts** : l'agrément relève du **gouverneur de la Banque centrale de Tunisie (BCT)** (article 32).\n- **Dons et libéralités** : en 2023, le directeur général de l'APII indiquait que l'**Autorité de contrôle de la microfinance (ACM)** finalisait les règles de cette catégorie.\n\nL'opérateur doit être une société anonyme de droit tunisien ayant son siège en Tunisie, et ne peut exercer **qu'une seule** des trois catégories. Un même projet ne peut pas figurer simultanément sur deux plateformes de la même catégorie.\n\n## Le cadre du CMF pour le crowdfunding en capital\n\nLe régime repose sur trois textes : la loi de 2020, le **décret n° 2022-765 du 19 octobre 2022** et un **règlement du CMF daté du 11 novembre 2024**, dont le régulateur a annoncé la publication au Journal officiel. Voici ce qu'ils prévoient.\n\n### Pour les plateformes\n\n- Un capital minimum de **100 000 dinars**, entièrement libéré à la constitution.\n- Un business plan, des actionnaires et dirigeants contrôlés, des moyens humains et informatiques suffisants, des procédures d'évaluation des projets, un dispositif LBA/FT et un contrat d'assurance.\n- Une autorisation de l'instance nationale de protection des données personnelles (voir notre article sur [la protection des données pour les fintechs](post:data-protection-tunisia-fintech)).\n- Un dirigeant résidant en Tunisie et justifiant d'au moins trois ans d'expérience dans le domaine.\n- Le CMF dispose de **trois mois** pour statuer sur un dossier complet, et tout refus doit être motivé.\n\nLes intermédiaires en Bourse, les sociétés de gestion de portefeuille et les sociétés d'investissement à capital risque gérant des fonds de tiers n'ont pas besoin d'agrément distinct : une déclaration préalable au CMF suffit, avec les mêmes règles d'exercice.\n\n### Pour les sociétés qui lèvent des fonds\n\n- Un projet peut collecter au maximum **1 million de dinars** sur une plateforme.\n- Chaque contributeur peut investir au maximum **10 000 dinars** par projet.\n- La société ne doit pas être cotée à la Bourse de Tunis ni avoir déjà fait l'objet d'une offre visée par le CMF.\n- Pas de prospectus complet : une note d'information abrégée, selon un modèle du CMF, est publiée sur la plateforme (projet, états financiers, titres, risques, frais).\n- Le démarchage est interdit : la promotion du projet passe uniquement par la plateforme.\n\n### Pour les contributeurs\n\nPersonnes physiques ou morales, résidentes ou non résidentes, elles doivent s'inscrire et reconnaître les risques : perte totale du capital, illiquidité, défaut sur les obligations. Les fonds sont versés par virement électronique ou tout autre moyen de paiement autorisé par la BCT, puis cantonnés sur un compte spécial ouvert dans une banque ou à La Poste tunisienne. Si l'objectif de collecte n'est pas atteint, les contributeurs sont remboursés.\n\n## Prêts et dons : un démarrage plus lent\n\nLe volet prêt a reçu ses précisions plus tard. En novembre 2023, la BCT a publié la **circulaire n° 2023-06**, qui fixe la liste des pièces exigées pour demander un agrément de crowdfunding en prêt, dans les conditions prévues par le **décret n° 2022-766**. Nous n'avons trouvé aucune information publique sur une plateforme de prêt agréée à la date d'octobre 2026.\n\nC'est le don qui a produit le premier agrément visible. Selon un entretien publié par *La Presse* en juin 2026, **CnBees** a obtenu l'agrément de l'ACM en décembre 2025, après un dépôt de dossier en mai 2024, et se présente comme la première plateforme de crowdfunding agréée du pays. Elle ne fait que du don et visait le troisième trimestre 2026 pour ses premiers projets financés.\n\n## Pourquoi le marché a mis autant de temps\n\nLes textes sont arrivés par étapes : la loi en 2020, les décrets en octobre 2022, la circulaire de la BCT en 2023, le règlement du CMF fin 2024. En février 2023, le responsable de la communication du CMF expliquait lors d'un séminaire que de nombreux porteurs de projets s'étaient renseignés, mais qu'aucune demande d'agrément formelle n'avait encore été déposée.\n\nLa structure même du régime pèse aussi sur le modèle économique. Licence limitée à une catégorie, capital plancher de 100 000 dinars, interdiction du démarchage et plafond de 1 million de dinars par projet : une plateforme en capital reste une activité de niche, aux tickets modestes. Pour une fintech, il faut ajouter aux coûts technologiques ceux de la conformité, du séquestre et de la protection des investisseurs.\n\n## Ce que cela change pour les fondateurs\n\nPour une startup qui étudie [les façons de lever des fonds](post:how-to-raise-funding-tunisian-fintech), le crowdfunding en capital vient compléter les business angels et le capital-risque, sans les remplacer :\n\n- **Taille du ticket** : 1 million de dinars convient à un tour d'amorçage, pas à une levée de croissance.\n- **Table de capitalisation** : à 10 000 dinars par personne, un tour complet signifie de nombreux petits actionnaires. Il faut anticiper la gouvernance et le pacte d'actionnaires.\n- **Instruments** : l'option sukuk peut séduire une épargne attentive à la conformité charaïque (voir [la finance islamique et la fintech](post:islamic-fintech-tunisia)).\n- **Diaspora** : les non-résidents peuvent contribuer, ce qui ouvre une porte vers [les Tunisiens de l'étranger](post:diaspora-remittances-tunisia).\n\nAvant de s'engager avec une plateforme, il faut vérifier les listes des prestataires agréés que le CMF et la BCT sont tenus de tenir et de publier.",
+    "faq": [
+      {
+        "q": "Le crowdfunding est-il légal en Tunisie ?",
+        "a": "Oui. La loi n° 2020-37 du 6 août 2020 encadre le financement participatif sous trois formes : investissement en valeurs mobilières, prêt et don. Les plateformes doivent être des sociétés anonymes tunisiennes agréées par le régulateur compétent et n'exercer qu'une seule catégorie."
+      },
+      {
+        "q": "Combien une startup peut-elle lever en crowdfunding en capital ?",
+        "a": "Le décret n° 2022-765 plafonne à 1 million de dinars le montant collecté pour un projet sur une plateforme en valeurs mobilières. Chaque contributeur ne peut pas investir plus de 10 000 dinars par projet."
+      },
+      {
+        "q": "Qui délivre les agréments de crowdfunding en Tunisie ?",
+        "a": "Le CMF agrée les plateformes en valeurs mobilières et le gouverneur de la BCT celles de prêt. Les plateformes de dons relèvent de l'ACM, qui a agréé CnBees en décembre 2025 selon La Presse."
+      },
+      {
+        "q": "Les Tunisiens résidant à l'étranger peuvent-ils investir ?",
+        "a": "Oui. La loi et la fiche du CMF admettent les contributeurs résidents et non résidents. Les versements doivent passer par virement électronique ou un autre moyen de paiement autorisé par la BCT."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Law No. 2020-37 of August 6, 2020 on crowdfunding (text)",
+      "publisher": "RegAlert",
+      "url": "https://regalert.today/document/law-no-2020-37-of-august-6-2020-on-crowdfunding-887da7f1-27f5-4dd6-ba98-5fd02cce47c4/text"
+    },
+    {
+      "title": "Decree No. 2022-765 regulating crowdfunding in securities (text)",
+      "publisher": "RegAlert",
+      "url": "https://regalert.today/document/1f331303-b347-42af-b6d6-c6f31c7fc3ba/text"
+    },
+    {
+      "title": "Fiche thématique : le crowdfunding en investissement dans des valeurs mobilières",
+      "publisher": "Conseil du marché financier",
+      "url": "https://cmf.tn/sites/default/files/crowdfunding_fr.pdf"
+    },
+    {
+      "title": "Tunisie : le crowdfunding en prêts commence à s'organiser",
+      "publisher": "Webdo",
+      "url": "https://www.webdo.tn/fr/actualite/national/tunisie-le-crowdfunding-en-prets-commence-a-s-organiser/209866/"
+    },
+    {
+      "title": "CMF : beaucoup de personnes désirent lancer leur plateforme de crowdfunding, mais…",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2023/02/17/cmf-beaucoup-de-personnes-desirent-lancer-leur-plateforme-de-crowdfunding-mais"
+    },
+    {
+      "title": "CnBees, première plateforme de crowdfunding agréée (entretien)",
+      "publisher": "La Presse / allAfrica",
+      "url": "https://fr.allafrica.com/stories/202606020385.html"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "anava-fund-of-funds",
+  "category": "funding",
+  "cover_motif": "network-nodes",
+  "stats": [
+    {
+      "value": "€60M",
+      "label_en": "first close (CDC €40M + KfW €20M), target €100M",
+      "label_fr": "premier closing (CDC 40 M€ + KfW 20 M€), objectif 100 M€",
+      "source": "L'Économiste Maghrébin, 2022"
+    },
+    {
+      "value": "€45M",
+      "label_en": "committed to 10 venture funds by early 2025",
+      "label_fr": "engagés dans 10 fonds de capital-risque début 2025",
+      "source": "Launch Base Africa / The Condia, 2025"
+    },
+    {
+      "value": "45",
+      "label_en": "startups funded by ANAVA-backed funds in 12 African countries",
+      "label_fr": "startups financées par les fonds d'ANAVA dans 12 pays africains",
+      "source": "The Condia, 2025"
+    }
+  ],
+  "chart": {
+    "title_en": "Selected ANAVA commitments to venture funds (€ million)",
+    "title_fr": "Engagements d'ANAVA dans des fonds de capital-risque (millions d'euros)",
+    "unit": "€M",
+    "bars": [
+      {
+        "label_en": "216 Capital Fund I (2022)",
+        "label_fr": "216 Capital Fund I (2022)",
+        "value": 6.0
+      },
+      {
+        "label_en": "Titan Seed Fund I (2023)",
+        "label_fr": "Titan Seed Fund I (2023)",
+        "value": 5.0
+      },
+      {
+        "label_en": "Go Live Fund (2024)",
+        "label_fr": "Go Live Fund (2024)",
+        "value": 4.5
+      },
+      {
+        "label_en": "Janngo Startup Fund (2024)",
+        "label_fr": "Janngo Startup Fund (2024)",
+        "value": 4.0
+      },
+      {
+        "label_en": "New Era Fund I (2025)",
+        "label_fr": "New Era Fund I (2025)",
+        "value": 3.5
+      }
+    ],
+    "source_name": "Smart Capital announcements reported by Wamda, The Condia, Kapitalis and Webmanagercenter (2022–2025)",
+    "source_url": "https://thecondia.com/anava-fund-tunisia-startup-investment"
+  },
+  "en": {
+    "title": "ANAVA Fund of Funds Explained: Tunisia's VC Engine",
+    "meta_description": "ANAVA, Tunisia's €100M-target fund of funds run by Smart Capital, has committed about €45M to ten VC funds. How it works, who it backs and its limits.",
+    "excerpt": "Backed by the World Bank, CDC and KfW, the ANAVA fund of funds is behind most seed capital in Tunisia. Here is how it works and who it backs.",
+    "keywords": [
+      "ANAVA fund of funds",
+      "ANAVA Tunisia",
+      "Smart Capital Tunisia",
+      "Startup Tunisia fund of funds",
+      "Tunisia venture capital funds",
+      "KfW CDC ANAVA"
+    ],
+    "tags": [
+      "ANAVA",
+      "Venture capital",
+      "Smart Capital",
+      "Startup Tunisia"
+    ],
+    "key_takeaways": [
+      "ANAVA is a euro-denominated fund of funds managed by Smart Capital with a €60M first close (CDC €40M via a World Bank loan, KfW €20M) and a €100M target.",
+      "It has committed about €45M to ten funds, including 216 Capital, Go Big Partners, Medin, UGFS, Janngo and LoftyInc.",
+      "Its funds had backed 45 startups in 12 African countries by early 2025, so part of the money goes outside Tunisia.",
+      "For founders, ANAVA-backed funds are now the main source of local seed capital."
+    ],
+    "body": "ANAVA is the fund of funds behind most venture capital now raised in Tunisia. It does not invest in startups directly. It puts money into venture funds, and those funds invest in startups. Founders who understand how it works will know where local seed money comes from and what conditions come with it.\n\n## What the ANAVA fund of funds is\n\nANAVA is Tunisia's first euro-denominated fund of funds and a key part of the government's **Startup Tunisia** programme, which also runs the Startup Act label (see [the Startup Act explained](post:startup-act-tunisia-explained)). It is managed by **Smart Capital**, a management company licensed by the Conseil du Marché Financier (CMF) and mandated by the state to run Startup Tunisia.\n\nThe money comes from two sources:\n\n- **Caisse des Dépôts et Consignations (CDC)**, the anchor investor, with **€40 million**. This money comes from a World Bank loan to Tunisia under the \"Innovative Startups and SMEs\" project, a **$75 million** operation announced in June 2019 with the CDC as implementing agency.\n- **KfW**, the German development bank, which signed a **€20 million** subscription on 1 December 2022, along with a separate €4 million technical assistance agreement.\n\nTogether these give a first close of **€60 million**, against an initial target of **€100 million**. Some press reports give the fund's size as \"$60 million\". The figures in Smart Capital's announcements are in euros.\n\n## How a fund of funds works\n\nANAVA acts as a limited partner (LP). It commits capital to private venture funds managed by independent teams. Those managers pick startups, sit on boards and raise money from other investors. ANAVA usually covers part of each fund, so every euro it commits can bring in money from other LPs.\n\nThe approach is sector- and stage-agnostic, covering seed through growth. When KfW signed in 2022, the plan was for **13 underlying funds by 2025**. By early 2025, Launch Base Africa and The Condia reported about **€45 million committed across ten funds**: seven focused on Tunisia and three pan-African. Some regional funds only have to invest part of their capital in Tunisia. For example, about 15% of ANAVA's commitment to Silicon Badia's fund was earmarked for Tunisia-based startups, according to Africa Private Equity News.\n\n## Who ANAVA has backed\n\nCommitments announced by Smart Capital and reported by the Tunisian and African press:\n\n- **216 Capital Fund I** (216 Capital Ventures): €6 million, May 2022, ANAVA's first underlying fund. It targets about 50 pre-seed and seed startups with average tickets of about €100,000.\n- **Badia Impact Squared Fund (BIF2)** (Silicon Badia): $5.2 million, July 2022. BIF2's first investment was Tunisian fintech Expensya.\n- **Titan Seed Fund I** (Medin): about 5 million (reported in both dollars and euros), October 2023. It invests in deep tech at seed stage, with roughly 20 startups and tickets of €300,000–650,000.\n- **Janngo Capital Startup Fund**: €4 million, March 2024. ANAVA's first pan-African commitment, for a fund targeting €60 million.\n- **Go Live Fund** (Go Big Partners): €4.5 million, July 2024, for an €8 million fund aiming at 36 early-stage B2B startups.\n- **LoftyInc Alpha Fund I**: $2.5 million, March 2025.\n- **New Era Fund I** (UGFS-VC): €3.5 million, April 2025, for a fund targeting €15 million and Series A companies in AI, biotech and green tech.\n- **Rasmal Innovation Fund I** (Qatar): $4 million, September 2025, to connect Tunisian startups with Gulf investors.\n\nFlat6Labs' Tunisia Seed Fund II, launched with Smart Capital in 2024, and a second 216 Capital fund are also listed among ANAVA's funds. The amounts are not consistently reported, so they are not in the chart.\n\n## What it has achieved so far\n\nThe Condia reported in early 2025 that ANAVA's underlying funds had invested in **45 startups across 12 African countries**, and that the programme targets **230 beneficiary startups by 2027**. A companion programme, **DEAL 2.0**, offers investment-readiness support to more than 200 startups.\n\nThe clearest effect is on the market's structure. Five years ago, Tunisia had very few active seed funds. Now there are several local managers with fresh capital, and they made most of the deals reported in 2025–2026 (see [funding trends](post:tunisia-startup-funding-trends)). 216 Capital, for example, invested in Juridoc.tn, Addvocate.AI, EYST and RoboCare and launched an accelerator with Plug and Play in September 2025.\n\n## Limits and criticisms\n\n- **Scale.** Even at €100 million, ANAVA is small next to Egypt's or Morocco's markets. Tunisia's total venture funding in 2025 was about $39 million (AVCA).\n- **Leakage to other countries.** Several of the 45 startups are outside Tunisia. That is the price of attracting pan-African managers, and Launch Base Africa notes that it limits ANAVA's impact on Tunisia itself.\n- **Timing.** In the first half of 2026, Launch Base Africa found almost no disclosed equity deals in Tunisia. This suggests ANAVA-backed funds alone cannot offset weak macroeconomic conditions, FX restrictions and the 2025 labour law.\n- **Reporting.** Public data is scattered across press releases, sometimes with conflicting currencies. A consolidated portfolio report would help founders and LPs.\n\n## What it means for fintech founders\n\n- Most local seed cheques now come from an ANAVA-backed fund. Find out which funds invest in fintech and at what ticket size (see [VC firms in Tunisia](post:venture-capital-tunisia)).\n- Pan-African funds such as Janngo, LoftyInc and Rasmal can now invest in Tunisia more easily. They are worth approaching for a seed or Series A round.\n- Regulated fintechs should expect investors to check their licensing route closely. Few funds will take on unlimited regulatory risk.",
+    "faq": [
+      {
+        "q": "What is ANAVA in Tunisia?",
+        "a": "ANAVA is a fund of funds managed by Smart Capital as part of the Startup Tunisia programme. It invests in venture capital funds, which then invest in startups. It does not fund startups directly."
+      },
+      {
+        "q": "How big is the ANAVA fund of funds?",
+        "a": "Its first close is €60 million: €40 million from the Caisse des Dépôts et Consignations, financed by a World Bank loan, and €20 million from KfW. The target size is €100 million."
+      },
+      {
+        "q": "Can a startup apply directly to ANAVA?",
+        "a": "No. Startups should approach the venture funds ANAVA has backed, such as 216 Capital, Go Big Partners, Medin's Titan Seed Fund, Flat6Labs or UGFS. Each fund has its own investment criteria and ticket sizes."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Fonds de fonds ANAVA : le moteur du capital-risque tunisien",
+    "meta_description": "ANAVA, fonds de fonds géré par Smart Capital (objectif 100 M€), a engagé environ 45 M€ dans dix fonds. Son fonctionnement, ses fonds et ses limites.",
+    "excerpt": "Soutenu par la Banque mondiale, la CDC et KfW, le fonds de fonds ANAVA finance l'essentiel de l'amorçage en Tunisie. Fonctionnement et bénéficiaires.",
+    "keywords": [
+      "fonds de fonds ANAVA",
+      "ANAVA Tunisie",
+      "Smart Capital Tunisie",
+      "Startup Tunisia fonds de fonds",
+      "fonds capital-risque Tunisie",
+      "KfW CDC ANAVA"
+    ],
+    "tags": [
+      "ANAVA",
+      "Capital-risque",
+      "Smart Capital",
+      "Startup Tunisia"
+    ],
+    "key_takeaways": [
+      "ANAVA est un fonds de fonds en euros géré par Smart Capital, avec un premier closing de 60 M€ (CDC 40 M€ via un prêt de la Banque mondiale, KfW 20 M€) et un objectif de 100 M€.",
+      "Il a engagé environ 45 M€ dans dix fonds, dont 216 Capital, Go Big Partners, Medin, UGFS, Janngo et LoftyInc.",
+      "Début 2025, ses fonds avaient financé 45 startups dans 12 pays africains : une partie de l'argent sort donc de Tunisie.",
+      "Pour les fondateurs, les fonds soutenus par ANAVA sont désormais la principale source d'amorçage local."
+    ],
+    "body": "ANAVA est le fonds de fonds derrière la majeure partie du capital-risque levé aujourd'hui en Tunisie. Il n'investit pas directement dans les startups : il apporte de l'argent à des fonds de capital-risque, qui eux investissent dans les startups. Les fondateurs qui comprennent son fonctionnement savent d'où vient l'argent de l'amorçage local et à quelles conditions.\n\n## Qu'est-ce que le fonds de fonds ANAVA ?\n\nANAVA est le premier fonds de fonds tunisien libellé en euros et un pilier du programme public **Startup Tunisia**, qui gère aussi le label Startup Act (voir [le Startup Act expliqué](post:startup-act-tunisia-explained)). Il est géré par **Smart Capital**, société de gestion agréée par le Conseil du Marché Financier (CMF) et mandatée par l'État pour conduire Startup Tunisia.\n\nL'argent vient de deux sources :\n\n- **La Caisse des Dépôts et Consignations (CDC)**, investisseur de référence, avec **40 millions d'euros**. Ces fonds proviennent d'un prêt de la Banque mondiale à la Tunisie dans le cadre du projet « Startups et PME innovantes », une opération de **75 millions de dollars** annoncée en juin 2019 et dont la CDC est l'agence d'exécution.\n- **KfW**, la banque publique de développement allemande, qui a souscrit **20 millions d'euros** le 1er décembre 2022 et signé à part une convention d'assistance technique de 4 millions d'euros.\n\nLe premier closing atteint ainsi **60 millions d'euros**, pour un objectif initial de **100 millions d'euros**. Certains médias évoquent « 60 millions de dollars », mais les montants figurant dans les annonces de Smart Capital sont en euros.\n\n## Comment fonctionne un fonds de fonds\n\nANAVA agit comme souscripteur (LP). Il s'engage dans des fonds de capital-risque privés, gérés par des équipes indépendantes. Ces gérants choisissent les startups, siègent à leurs conseils et lèvent de l'argent auprès d'autres investisseurs. ANAVA ne finance généralement qu'une partie de chaque fonds, si bien que chaque euro engagé peut attirer de l'argent d'autres souscripteurs.\n\nL'approche ne cible ni secteur ni stade particulier, de l'amorçage à la croissance. Lors de la signature avec KfW en 2022, l'objectif était de **13 fonds sous-jacents d'ici 2025**. Début 2025, Launch Base Africa et The Condia faisaient état d'environ **45 millions d'euros engagés dans dix fonds** : sept centrés sur la Tunisie et trois panafricains. Certains fonds régionaux ne doivent investir qu'une partie de leur capital en Tunisie. Par exemple, environ 15 % de l'engagement d'ANAVA dans le fonds de Silicon Badia était réservé aux startups basées en Tunisie, selon Africa Private Equity News.\n\n## Les fonds soutenus par ANAVA\n\nEngagements annoncés par Smart Capital et rapportés par la presse tunisienne et africaine :\n\n- **216 Capital Fund I** (216 Capital Ventures) : 6 millions d'euros, mai 2022. C'est le premier fonds sous-jacent d'ANAVA. Il vise une cinquantaine de startups en pré-amorçage et amorçage, avec des tickets moyens d'environ 100 000 euros.\n- **Badia Impact Squared Fund (BIF2)** (Silicon Badia) : 5,2 millions de dollars, juillet 2022. Le premier investissement de BIF2 a été la fintech tunisienne Expensya.\n- **Titan Seed Fund I** (Medin) : environ 5 millions (montant rapporté tantôt en dollars, tantôt en euros), octobre 2023. Il investit dans la deeptech en amorçage, pour une vingtaine de startups et des tickets de 300 000 à 650 000 euros.\n- **Janngo Capital Startup Fund** : 4 millions d'euros, mars 2024. C'est le premier engagement panafricain d'ANAVA, dans un fonds qui vise 60 millions d'euros.\n- **Go Live Fund** (Go Big Partners) : 4,5 millions d'euros, juillet 2024, dans un fonds de 8 millions d'euros qui vise 36 startups B2B en phase de démarrage.\n- **LoftyInc Alpha Fund I** : 2,5 millions de dollars, mars 2025.\n- **New Era Fund I** (UGFS-VC) : 3,5 millions d'euros, avril 2025, dans un fonds qui vise 15 millions d'euros et cible des entreprises en série A dans l'IA, la biotech et les technologies vertes.\n- **Rasmal Innovation Fund I** (Qatar) : 4 millions de dollars, septembre 2025, pour relier les startups tunisiennes aux investisseurs du Golfe.\n\nLe Tunisia Seed Fund II de Flat6Labs, lancé avec Smart Capital en 2024, et un second fonds de 216 Capital figurent aussi parmi les fonds d'ANAVA. Leurs montants ne sont pas rapportés de façon cohérente, ils ne figurent donc pas dans le graphique.\n\n## Les résultats à ce jour\n\nThe Condia indiquait début 2025 que les fonds sous-jacents d'ANAVA avaient investi dans **45 startups de 12 pays africains**, et que le programme vise **230 startups bénéficiaires d'ici 2027**. Un programme associé, **DEAL 2.0**, offre un accompagnement à la levée de fonds à plus de 200 startups.\n\nL'effet le plus net porte sur la structure du marché. Il y a cinq ans, la Tunisie ne comptait que très peu de fonds d'amorçage actifs. Elle dispose désormais de plusieurs gérants locaux avec des capitaux frais, et ce sont eux qui ont réalisé la plupart des opérations annoncées en 2025-2026 (voir [les tendances du financement](post:tunisia-startup-funding-trends)). 216 Capital, par exemple, a investi dans Juridoc.tn, Addvocate.AI, EYST et RoboCare, et a lancé un accélérateur avec Plug and Play en septembre 2025.\n\n## Limites et critiques\n\n- **La taille.** Même à 100 millions d'euros, ANAVA reste petit face aux marchés égyptien ou marocain. Le capital-risque levé en Tunisie en 2025 avoisine 39 millions de dollars (AVCA).\n- **Les fuites vers d'autres pays.** Plusieurs des 45 startups sont hors de Tunisie. C'est le prix à payer pour attirer des gérants panafricains, et Launch Base Africa note que cela limite l'impact d'ANAVA sur la Tunisie elle-même.\n- **Le contexte.** Au premier semestre 2026, Launch Base Africa n'a recensé presque aucune levée en capital annoncée en Tunisie. Les fonds soutenus par ANAVA ne suffisent donc pas à compenser une conjoncture difficile, les restrictions de change et la loi sur le travail de 2025.\n- **La transparence.** Les données publiques sont éparpillées entre communiqués, parfois avec des devises contradictoires. Un rapport de portefeuille consolidé aiderait fondateurs et souscripteurs.\n\n## Ce que cela change pour les fondateurs de fintech\n\n- La plupart des tickets d'amorçage locaux viennent désormais d'un fonds soutenu par ANAVA. Renseignez-vous sur les fonds qui investissent dans la fintech et sur leurs tailles de ticket (voir [les fonds de capital-risque en Tunisie](post:venture-capital-tunisia)).\n- Les fonds panafricains comme Janngo, LoftyInc ou Rasmal peuvent désormais investir plus facilement en Tunisie. Ils valent la peine d'être approchés pour un tour d'amorçage ou de série A.\n- Les fintech régulées doivent s'attendre à ce que les investisseurs examinent de près leur parcours d'agrément. Peu de fonds accepteront un risque réglementaire illimité.",
+    "faq": [
+      {
+        "q": "Qu'est-ce qu'ANAVA en Tunisie ?",
+        "a": "ANAVA est un fonds de fonds géré par Smart Capital dans le cadre du programme Startup Tunisia. Il investit dans des fonds de capital-risque, qui investissent ensuite dans des startups. Il ne finance pas directement les startups."
+      },
+      {
+        "q": "Quelle est la taille du fonds de fonds ANAVA ?",
+        "a": "Son premier closing atteint 60 millions d'euros : 40 millions de la Caisse des Dépôts et Consignations, financés par un prêt de la Banque mondiale, et 20 millions de KfW. L'objectif est de 100 millions d'euros."
+      },
+      {
+        "q": "Une startup peut-elle solliciter directement ANAVA ?",
+        "a": "Non. Les startups doivent s'adresser aux fonds de capital-risque soutenus par ANAVA, comme 216 Capital, Go Big Partners, le Titan Seed Fund de Medin, Flat6Labs ou UGFS. Chaque fonds a ses propres critères et tailles de ticket."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "KfW investit 20 millions d'euros au fonds ANAVA",
+      "publisher": "L'Économiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2022/12/01/kfw-investit-20-millions-deuros-au-fonds-anava/"
+    },
+    {
+      "title": "Meet the VC funds deploying Tunisia's ANAVA fund of funds",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/02/10/meet-the-vc-funds-deploying-tunisias-60m-anava-fund-of-funds/"
+    },
+    {
+      "title": "How ANAVA fund of funds sparked a startup investment wave in Tunisia",
+      "publisher": "The Condia",
+      "url": "https://thecondia.com/anava-fund-tunisia-startup-investment"
+    },
+    {
+      "title": "Tunisia takes a step closer to a new economy and digital transformation",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/news/press-release/2019/06/14/tunisia-takes-a-step-closer-to-a-new-economy-and-digital-transformation"
+    },
+    {
+      "title": "Janngo Capital Startup Fund : le fonds ANAVA investit 4 millions d'euros",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2024/03/25/522547/janngo-capital-startup-fund-le-fonds-anava-investit-4-millions-deuros-pour-soutenir-les-startups-africaines/"
+    },
+    {
+      "title": "Go Live Fund va investir 8 millions d'euros dans 36 startups tunisiennes",
+      "publisher": "Kapitalis",
+      "url": "https://kapitalis.com/tunisie/2024/07/04/go-live-fund-va-investir-8-millions-deuros-dans-36-startups-tunisiennes/"
+    }
+  ]
+}

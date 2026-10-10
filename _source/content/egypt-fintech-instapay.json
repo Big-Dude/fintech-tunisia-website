@@ -1,0 +1,178 @@
+{
+  "slug": "egypt-fintech-instapay",
+  "category": "africa",
+  "cover_motif": "chart-up",
+  "stats": [
+    {
+      "value": "22M",
+      "label_en": "registered InstaPay customers (CBE, Q2 2026)",
+      "label_fr": "clients inscrits sur InstaPay (CBE, T2 2026)",
+      "source": "Egypt Today citing CBE, 2026"
+    },
+    {
+      "value": "EGP 2.89bn",
+      "label_en": "Fawry net profit after minorities in FY2025, up 79.8%",
+      "label_fr": "bénéfice net part du groupe de Fawry en 2025, +79,8 %",
+      "source": "Fawry FY2025 results, 2026"
+    },
+    {
+      "value": "$1.4bn",
+      "label_en": "MNT-Halan valuation after its June 2026 round",
+      "label_fr": "valorisation de MNT-Halan après son tour de juin 2026",
+      "source": "Wamda, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Fawry revenue by segment, FY2025 (EGP million)",
+    "title_fr": "Chiffre d'affaires de Fawry par segment, 2025 (millions EGP)",
+    "unit": "EGP m",
+    "bars": [
+      {
+        "label_en": "Banking services",
+        "label_fr": "Services bancaires",
+        "value": 3514.7
+      },
+      {
+        "label_en": "Financial services (lending, BNPL, insurance)",
+        "label_fr": "Services financiers (crédit, BNPL, assurance)",
+        "value": 2382.0
+      },
+      {
+        "label_en": "Alternative digital payments",
+        "label_fr": "Paiements numériques alternatifs",
+        "value": 2008.3
+      },
+      {
+        "label_en": "Supply chain solutions",
+        "label_fr": "Solutions de chaîne d'approvisionnement",
+        "value": 496.1
+      }
+    ],
+    "source_name": "Fawry FY2025 results (Zawya press release)",
+    "source_url": "https://www.zawya.com/en/press-release/companies-news/fawry-releases-fy2025-results-356861"
+  },
+  "en": {
+    "title": "Egypt Fintech: InstaPay, MNT-Halan and Fawry Explained",
+    "meta_description": "How InstaPay, Fawry and MNT-Halan made Egypt fintech the largest in North Africa, from a 0.1% transfer fee to a $1.4bn valuation, and what Tunisia can learn.",
+    "excerpt": "A central-bank payment rail, a listed incumbent and a unicorn lender: how Egypt built North Africa's biggest fintech market, and what Tunisia can take from it.",
+    "keywords": [
+      "Egypt fintech",
+      "InstaPay Egypt",
+      "InstaPay fees",
+      "MNT-Halan valuation",
+      "Fawry results 2025",
+      "Egypt instant payments",
+      "Egypt fintech lessons Tunisia"
+    ],
+    "tags": [
+      "Egypt",
+      "InstaPay",
+      "Fawry",
+      "MNT-Halan",
+      "Instant payments"
+    ],
+    "key_takeaways": [
+      "InstaPay, launched by the Central Bank of Egypt in 2022, had around 22 million registered customers by mid-2026.",
+      "InstaPay has charged 0.1% per transfer (EGP 0.50 to EGP 20) since April 2025 and became profitable without losing users, according to a CBE official.",
+      "Fawry's FY2025 revenue grew 57% to EGP 8.65 billion, with lending and BNPL growing fastest.",
+      "MNT-Halan reached a $1.4 billion valuation in June 2026 in a round led by state-owned National Bank of Egypt's investment arm."
+    ],
+    "body": "Egypt has become North Africa's largest fintech market, built on three very different engines: a central-bank payment rail, a listed payments incumbent and a venture-backed lender. **Egypt fintech** is now a case study in how public infrastructure and private companies can grow each other. For Tunisian founders, regulators and bankers, the Egyptian model offers practical lessons, as well as a few warnings.\n\n## InstaPay: the public rail behind Egypt fintech growth\n\nThe Central Bank of Egypt (CBE) launched its Instant Payment Network, and the InstaPay app that sits on top of it, in April 2022. InstaPay links all of Egypt's banks in one system and lets their customers send money instantly, 24 hours a day. Recent updates let users share a QR code or payment link that fills in the beneficiary's details.\n\nAdoption was fast. According to [Egyptian Streets](https://egyptianstreets.com/2025/04/03/instapay-now-charging-transfer-fees), InstaPay recorded 2.16 million users, 20.3 million transactions and EGP 112.7 billion in value in its first year, and its transactions in 2024 were worth EGP 2.9 trillion. In October 2026, CBE Governor Hassan Abdalla said the network had reached around 22 million registered customers, with 1.47 billion transactions worth about EGP 4.33 trillion by the end of the second quarter of 2026, as reported by [Egypt Today](https://www.egypttoday.com/Article/3/149807/Egypt’s-instant-payment-transactions-reach-LE-4-33TN-in-Q2).\n\n### From free to paid\n\nInstaPay was free at launch. Since 1 April 2025, it charges 0.1% of each transfer, with a minimum of EGP 0.50 and a maximum of EGP 20. Users get ten free balance inquiries a month. Transfers are capped at EGP 70,000 per transaction and EGP 400,000 per month.\n\nA senior CBE official, cited by EnterpriseAM and reported by [Zawya](https://www.zawya.com/en/economy/north-africa/egypt-instapay-turns-profitable-a-year-after-transfer-fee-rollout-rt18pyrt), said that InstaPay became profitable after the fee was introduced and that usage kept growing. A small, capped fee did not slow adoption; it paid for the infrastructure.\n\n## Fawry: the incumbent that became a lender\n\nFawry started in 2008 as an electronic bill payment network linking utilities and telecom operators with consumers through retail agents. It is now one of Egypt's most profitable fintechs. Its [FY2025 results](https://www.zawya.com/en/press-release/companies-news/fawry-releases-fy2025-results-356861) show:\n\n- revenue of EGP 8.65 billion, up 57%;\n- net profit after minority interests of EGP 2.89 billion, up 79.8%;\n- throughput of EGP 943.6 billion;\n- 54.8 million active network customers and about 376,600 POS terminals.\n\nThe biggest change is in the revenue mix. Financial services, which include consumer finance (buy now, pay later) and loans to small businesses, grew 135% to EGP 2.38 billion and now make up 27.5% of revenue. Banking services, which include acceptance and agent banking, remain the largest segment. The agent network that once collected utility bills now distributes credit.\n\n## MNT-Halan: Egypt's fintech unicorn\n\nMNT-Halan, founded by Mounir Nakhla, became Egypt's first fintech unicorn in 2023. In June 2026, it reached a $1.4 billion valuation after the first close of a round led by Al Ahly Capital, the investment arm of the state-owned National Bank of Egypt, according to [Wamda](https://www.wamda.com/2026/06/mnt-halan-reaches-1-4-billion-valuation-investment-round-led-al-ahly-capital). The amount was not disclosed.\n\nThe group combines consumer and business lending, payments, e-wallets, savings, investment and e-commerce. It operates in Egypt and Türkiye, owns a microfinance bank in Pakistan and entered the UAE in 2024. Most of the new money is earmarked for Egypt.\n\n## What made the Egyptian model work\n\nSeveral features stand out:\n\n- **A central bank that builds.** The CBE did not just regulate payments; it launched a national instant payment network and app that link every bank.\n- **Pricing that pays for the rail.** InstaPay moved from free to a small, capped fee once habits were in place.\n- **Payments as a route to credit.** Both Fawry and MNT-Halan use payment data and distribution networks to lend.\n- **Domestic capital.** A state bank's investment arm led MNT-Halan's round.\n\nThere are risks too. InstaPay transfers are irreversible, which puts the burden of fraud prevention on users and banks. Rapid lending growth through fintech channels also needs close supervision of credit quality.\n\n## Lessons for Tunisia\n\nThe difference in scale is large. Tunisia recorded 8.4 million mobile payment transactions in 2025, worth 1.769 billion dinars, according to Central Bank of Tunisia (BCT) data reported by [Ecofin Agency](https://www.ecofinagency.com/news-digital/0905-55414-tunisia-introduces-tunpay-label-to-regulate-and-unify-mobile-payment-sector). Egypt's population is much larger, but the gap is also about infrastructure.\n\nFor Tunisia, the useful lessons are:\n\n1. **Build a shared rail with a simple user experience.** Instant transfers with a QR code or payment link work when every bank is connected. Our article on [instant payments and interoperability in Tunisia](post:instant-payments-tunisia) looks at where the country stands.\n2. **Charge a little, transparently.** A capped fee can make a public rail self-financing without driving users back to cash.\n3. **Let payment companies grow into credit, under supervision.** Fawry's shift shows where the margins are. In Tunisia, this touches the [microfinance framework](post:microfinance-tunisia) and the payment institution regime.\n4. **Mobilise local institutional capital.** Al Ahly Capital's role is a reminder that banks and public funds can back fintechs. Tunisia has its own tools, such as the [ANAVA fund of funds](post:anava-fund-of-funds).\n\nFor a side-by-side view of the region, see our [comparison of Tunisia, Morocco and Egypt](post:tunisia-morocco-egypt-fintech-comparison).",
+    "faq": [
+      {
+        "q": "How much does InstaPay charge per transfer?",
+        "a": "Since 1 April 2025, InstaPay charges 0.1% of the amount transferred, with a minimum of EGP 0.50 and a maximum of EGP 20 per transaction. Ten balance inquiries per month are free, then each costs EGP 0.50."
+      },
+      {
+        "q": "What is the InstaPay transfer limit?",
+        "a": "Transfers are capped at EGP 70,000 per transaction and EGP 400,000 per month, according to reporting in 2025. Limits can change, so users should check with their bank."
+      },
+      {
+        "q": "Is MNT-Halan a unicorn?",
+        "a": "Yes. MNT-Halan became Egypt's first fintech unicorn in 2023 and reached a $1.4 billion valuation in June 2026 after a round led by Al Ahly Capital."
+      },
+      {
+        "q": "Does Tunisia have an equivalent of InstaPay?",
+        "a": "Tunisia does not have a national app at InstaPay's scale. In 2026 the Central Bank of Tunisia and Monétique Tunisie introduced the TUNPAY label to unify mobile payments and improve interoperability."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Fintech en Égypte : InstaPay, MNT-Halan et Fawry",
+    "meta_description": "InstaPay, Fawry et MNT-Halan ont fait de l'Égypte le premier marché fintech d'Afrique du Nord. Frais de 0,1 %, licorne à 1,4 Md$ : les leçons pour la Tunisie.",
+    "excerpt": "Un réseau de paiement de la banque centrale, un acteur historique coté et une licorne du crédit : comment l'Égypte a bâti le premier marché fintech d'Afrique du Nord.",
+    "keywords": [
+      "fintech Égypte",
+      "InstaPay Égypte",
+      "frais InstaPay",
+      "MNT-Halan valorisation",
+      "Fawry résultats 2025",
+      "paiement instantané Égypte",
+      "fintech Égypte Tunisie"
+    ],
+    "tags": [
+      "Égypte",
+      "InstaPay",
+      "Fawry",
+      "MNT-Halan",
+      "Paiement instantané"
+    ],
+    "key_takeaways": [
+      "InstaPay, lancé par la Banque centrale d'Égypte en 2022, comptait environ 22 millions de clients inscrits à la mi-2026.",
+      "Depuis avril 2025, InstaPay prélève 0,1 % par transfert (de 0,50 à 20 livres) et serait devenu rentable sans perdre d'utilisateurs, selon un responsable de la CBE.",
+      "Le chiffre d'affaires 2025 de Fawry a progressé de 57 %, à 8,65 milliards de livres, porté par le crédit et le paiement fractionné.",
+      "MNT-Halan a atteint une valorisation de 1,4 milliard de dollars en juin 2026, lors d'un tour mené par le bras d'investissement de la Banque nationale d'Égypte."
+    ],
+    "body": "L'Égypte est devenue le premier marché fintech d'Afrique du Nord, porté par trois moteurs très différents : un réseau de paiement de la banque centrale, un acteur historique coté en bourse et un prêteur financé par le capital-risque. La **fintech en Égypte** montre comment infrastructures publiques et entreprises privées peuvent se renforcer mutuellement. Pour les fondateurs, régulateurs et banquiers tunisiens, le modèle égyptien offre des leçons concrètes, et quelques mises en garde.\n\n## InstaPay : le réseau public au cœur de la fintech en Égypte\n\nLa Banque centrale d'Égypte (CBE) a lancé en avril 2022 son réseau de paiement instantané et l'application InstaPay qui l'utilise. InstaPay relie toutes les banques égyptiennes dans un même système et permet à leurs clients d'envoyer de l'argent instantanément, 24 h/24. Les dernières mises à jour permettent aussi de partager un QR code ou un lien de paiement qui remplit automatiquement les coordonnées du bénéficiaire.\n\nL'adoption a été rapide. Selon [Egyptian Streets](https://egyptianstreets.com/2025/04/03/instapay-now-charging-transfer-fees), InstaPay a compté 2,16 millions d'utilisateurs, 20,3 millions de transactions et 112,7 milliards de livres égyptiennes la première année, et ses transactions ont atteint 2 900 milliards de livres en 2024. En octobre 2026, le gouverneur de la CBE, Hassan Abdalla, a fait état d'environ 22 millions de clients inscrits et de 1,47 milliard de transactions pour quelque 4 330 milliards de livres à fin juin 2026, selon [Egypt Today](https://www.egypttoday.com/Article/3/149807/Egypt’s-instant-payment-transactions-reach-LE-4-33TN-in-Q2).\n\n### Du gratuit au payant\n\nInstaPay était gratuit à son lancement. Depuis le 1er avril 2025, il prélève 0,1 % de chaque transfert, avec un minimum de 0,50 livre et un maximum de 20 livres. Les utilisateurs disposent de dix consultations de solde gratuites par mois. Les transferts sont plafonnés à 70 000 livres par opération et 400 000 livres par mois.\n\nUn haut responsable de la CBE, cité par EnterpriseAM et repris par [Zawya](https://www.zawya.com/en/economy/north-africa/egypt-instapay-turns-profitable-a-year-after-transfer-fee-rollout-rt18pyrt), affirme qu'InstaPay est devenu rentable après l'introduction de ces frais et que l'usage a continué de progresser. Des frais faibles et plafonnés n'ont pas freiné l'adoption : ils financent l'infrastructure.\n\n## Fawry : l'acteur historique devenu prêteur\n\nFawry a démarré en 2008 comme réseau de paiement électronique de factures, reliant les fournisseurs d'eau, d'électricité et de télécoms aux consommateurs via des agents. C'est aujourd'hui l'une des fintechs les plus rentables du pays. Ses [résultats 2025](https://www.zawya.com/en/press-release/companies-news/fawry-releases-fy2025-results-356861) affichent :\n\n- un chiffre d'affaires de 8,65 milliards de livres, en hausse de 57 % ;\n- un bénéfice net part du groupe de 2,89 milliards de livres, en hausse de 79,8 % ;\n- 943,6 milliards de livres de flux traités ;\n- 54,8 millions de clients actifs et environ 376 600 terminaux de paiement.\n\nLe changement majeur porte sur la structure des revenus. Les services financiers, qui regroupent le crédit à la consommation (paiement fractionné) et les prêts aux petites entreprises, ont bondi de 135 %, à 2,38 milliards de livres, soit 27,5 % du total. Les services bancaires, qui incluent l'acceptation et l'agent bancaire, restent le premier segment. Le réseau d'agents qui encaissait hier les factures distribue aujourd'hui du crédit.\n\n## MNT-Halan : la licorne égyptienne\n\nMNT-Halan, fondée par Mounir Nakhla, est devenue en 2023 la première licorne fintech d'Égypte. En juin 2026, elle a atteint une valorisation de 1,4 milliard de dollars après le premier closing d'un tour mené par Al Ahly Capital, bras d'investissement de la Banque nationale d'Égypte, selon [Wamda](https://www.wamda.com/2026/06/mnt-halan-reaches-1-4-billion-valuation-investment-round-led-al-ahly-capital). Le montant n'a pas été communiqué.\n\nLe groupe combine crédit aux particuliers et aux entreprises, paiements, portefeuilles électroniques, épargne, investissement et e-commerce. Il opère en Égypte et en Turquie, détient une banque de microfinance au Pakistan et s'est implanté aux Émirats en 2024. L'essentiel des fonds doit financer l'Égypte.\n\n## Pourquoi le modèle égyptien fonctionne\n\nPlusieurs éléments ressortent :\n\n- **Une banque centrale qui construit.** La CBE ne s'est pas contentée de réguler : elle a lancé un réseau et une application nationale de paiement instantané qui relient toutes les banques.\n- **Un prix qui finance le réseau.** InstaPay est passé du gratuit à des frais faibles et plafonnés une fois les habitudes installées.\n- **Le paiement comme porte d'entrée vers le crédit.** Fawry et MNT-Halan utilisent leurs données de paiement et leurs réseaux de distribution pour prêter.\n- **Des capitaux domestiques.** Le bras d'investissement d'une banque publique a mené le tour de MNT-Halan.\n\nIl y a aussi des risques. Les virements InstaPay sont irrévocables, ce qui fait peser la prévention de la fraude sur les utilisateurs et les banques. La croissance rapide du crédit distribué par les fintechs exige par ailleurs une supervision étroite de la qualité des portefeuilles.\n\n## Les leçons pour la Tunisie\n\nL'écart d'échelle est important. La Tunisie a enregistré 8,4 millions de transactions de paiement mobile en 2025, pour 1,769 milliard de dinars, selon les données de la Banque centrale de Tunisie (BCT) relayées par [Ecofin Agency](https://www.ecofinagency.com/news-digital/0905-55414-tunisia-introduces-tunpay-label-to-regulate-and-unify-mobile-payment-sector). La population égyptienne est bien plus nombreuse, mais l'écart tient aussi aux infrastructures.\n\nPour la Tunisie, les leçons utiles sont les suivantes :\n\n1. **Construire un réseau commun et simple d'usage.** Le virement instantané par QR code ou lien de paiement fonctionne lorsque toutes les banques sont connectées. Notre article sur [le paiement instantané et l'interopérabilité en Tunisie](post:instant-payments-tunisia) fait le point.\n2. **Facturer peu, en toute transparence.** Des frais plafonnés peuvent rendre un réseau public autofinancé sans renvoyer les usagers vers le cash.\n3. **Laisser les acteurs du paiement aller vers le crédit, sous supervision.** Le virage de Fawry montre où se trouvent les marges. En Tunisie, cela touche au [cadre de la microfinance](post:microfinance-tunisia) et au régime des établissements de paiement.\n4. **Mobiliser le capital institutionnel local.** Le rôle d'Al Ahly Capital rappelle que banques et fonds publics peuvent soutenir les fintechs. La Tunisie a ses propres outils, comme le [fonds de fonds ANAVA](post:anava-fund-of-funds).\n\nPour une vue d'ensemble de la région, consultez notre [comparaison Tunisie, Maroc, Égypte](post:tunisia-morocco-egypt-fintech-comparison).",
+    "faq": [
+      {
+        "q": "Combien coûte un virement InstaPay ?",
+        "a": "Depuis le 1er avril 2025, InstaPay prélève 0,1 % du montant transféré, avec un minimum de 0,50 livre et un maximum de 20 livres par opération. Dix consultations de solde par mois sont gratuites, puis chacune coûte 0,50 livre."
+      },
+      {
+        "q": "Quel est le plafond des transferts InstaPay ?",
+        "a": "Les transferts sont plafonnés à 70 000 livres par opération et 400 000 livres par mois, selon les informations publiées en 2025. Ces limites peuvent évoluer : mieux vaut vérifier auprès de sa banque."
+      },
+      {
+        "q": "MNT-Halan est-elle une licorne ?",
+        "a": "Oui. MNT-Halan est devenue la première licorne fintech égyptienne en 2023 et a atteint une valorisation de 1,4 milliard de dollars en juin 2026, après un tour mené par Al Ahly Capital."
+      },
+      {
+        "q": "La Tunisie a-t-elle un équivalent d'InstaPay ?",
+        "a": "La Tunisie ne dispose pas d'une application nationale de cette envergure. En 2026, la Banque centrale de Tunisie et Monétique Tunisie ont lancé le label TUNPAY pour unifier le paiement mobile et améliorer l'interopérabilité."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "InstaPay now charging transfer fees",
+      "publisher": "Egyptian Streets",
+      "url": "https://egyptianstreets.com/2025/04/03/instapay-now-charging-transfer-fees"
+    },
+    {
+      "title": "Egypt's instant payment transactions reach LE 4.33TN in Q2 2026",
+      "publisher": "Egypt Today",
+      "url": "https://www.egypttoday.com/Article/3/149807/Egypt’s-instant-payment-transactions-reach-LE-4-33TN-in-Q2"
+    },
+    {
+      "title": "Egypt: Instapay turns profitable a year after transfer fee rollout",
+      "publisher": "Zawya",
+      "url": "https://www.zawya.com/en/economy/north-africa/egypt-instapay-turns-profitable-a-year-after-transfer-fee-rollout-rt18pyrt"
+    },
+    {
+      "title": "Fawry releases FY2025 results",
+      "publisher": "Zawya (press release)",
+      "url": "https://www.zawya.com/en/press-release/companies-news/fawry-releases-fy2025-results-356861"
+    },
+    {
+      "title": "MNT-Halan reaches $1.4 billion valuation in investment round led by Al Ahly Capital",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/2026/06/mnt-halan-reaches-1-4-billion-valuation-investment-round-led-al-ahly-capital"
+    },
+    {
+      "title": "Tunisia introduces TUNPAY label to regulate and unify mobile payment sector",
+      "publisher": "Ecofin Agency",
+      "url": "https://www.ecofinagency.com/news-digital/0905-55414-tunisia-introduces-tunpay-label-to-regulate-and-unify-mobile-payment-sector"
+    }
+  ]
+}

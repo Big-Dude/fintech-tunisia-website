@@ -1,0 +1,170 @@
+{
+  "slug": "payment-institutions-tunisia",
+  "category": "regulation",
+  "cover_motif": "document",
+  "stats": [
+    {
+      "value": "TND 20,000",
+      "label_en": "maximum balance on a level-3 payment account",
+      "label_fr": "solde maximal d'un compte de paiement de niveau 3",
+      "source": "BCT Circular 2026-10, via La Presse, 2026"
+    },
+    {
+      "value": "3 months",
+      "label_en": "until Circular 2026-10 enters into force (published 25 Sept 2026)",
+      "label_fr": "avant l'entrée en vigueur de la circulaire 2026-10 (publiée le 25 sept. 2026)",
+      "source": "La Presse de Tunisie, 2026"
+    },
+    {
+      "value": "Next day",
+      "label_en": "deadline to place client funds in a bank global account",
+      "label_fr": "délai pour déposer les fonds clients sur un compte global bancaire",
+      "source": "Managers, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Payment account balance caps under BCT Circular 2026-10",
+    "title_fr": "Plafonds de solde des comptes de paiement (circulaire BCT 2026-10)",
+    "unit": "TND",
+    "bars": [
+      {
+        "label_en": "Level 1 (individuals)",
+        "label_fr": "Niveau 1 (particuliers)",
+        "value": 1500.0
+      },
+      {
+        "label_en": "Level 2",
+        "label_fr": "Niveau 2",
+        "value": 5000.0
+      },
+      {
+        "label_en": "Level 3",
+        "label_fr": "Niveau 3",
+        "value": 20000.0
+      }
+    ],
+    "source_name": "Managers, summary of BCT Circular 2026-10 (Sept. 2026)",
+    "source_url": "https://managers.tn/2026/09/26/nouvelle-circulaire-de-la-bct-voici-ce-qui-change-pour-les-etablissements-de-paiement/"
+  },
+  "en": {
+    "title": "Payment Institutions in Tunisia: Licensing and the 2026 Rules",
+    "meta_description": "How payment institution licensing works in Tunisia under Law 2016-48, who holds a licence, and what BCT Circular 2026-10 changes for fintech founders.",
+    "excerpt": "The Central Bank of Tunisia has replaced its 2018 payment institution rules with a far stricter circular. Here is how the licence works and what changes.",
+    "keywords": [
+      "payment institutions Tunisia",
+      "établissement de paiement Tunisie",
+      "BCT Circular 2026-10",
+      "Law 2016-48 payment institution",
+      "e-money Tunisia",
+      "payment licence Tunisia",
+      "BCT payment account levels"
+    ],
+    "tags": [
+      "Payment institutions",
+      "BCT",
+      "Licensing",
+      "E-money"
+    ],
+    "key_takeaways": [
+      "Payment institutions were created by Law 2016-48 and are licensed and supervised by the Central Bank of Tunisia.",
+      "Payment institutions can distribute e-money but not issue it: issuance is reserved to banks and La Poste Tunisienne.",
+      "Circular 2026-10, published on 25 September 2026, replaces Circular 2018-16 and keeps the TND 1,500 / 5,000 / 20,000 account caps.",
+      "The new rules add bank-style governance, certified cybersecurity audits, client-fund segregation and prior BCT approval for partnerships."
+    ],
+    "body": "Tunisia's payment institution licence is the main legal route for a non-bank to hold customer payment accounts, move money and accept card or mobile payments. On 25 September 2026 the Central Bank of Tunisia (BCT) rewrote the rulebook with Circular No. 2026-10, which replaces the 2018 framework and takes effect three months after publication. For fintech founders, the bar to run a licensed payments business just got higher.\n\n## The legal basis: Law 2016-48\n\nPayment institutions (*établissements de paiement*) were created by **Law No. 2016-48 of 11 July 2016** on banks and financial institutions. The law lists the payment services they may provide and makes the BCT their licensing and supervisory authority. Recent licence decisions published in the Official Journal (JORT) cite article 10 of the law for the scope of services and article 20 for the payment institution authorisation itself.\n\nThe operating rules were set by **BCT Circular No. 2018-16 of 31 December 2018**. That text, which introduced tiered payment accounts, is now repealed and replaced by Circular No. 2026-10.\n\n## Payment institution vs e-money: who can do what\n\nA frequent point of confusion for founders: in Tunisia, a payment institution is not an e-money issuer. Under the new circular, a payment institution may **distribute** prepaid electronic money, but that e-money must be **issued by a bank or by the Office National des Postes** (La Poste Tunisienne, which runs [e-Dinar and D17](post:la-poste-tunisienne-e-dinar-d17)).\n\nAccording to La Presse's summary of Circular 2026-10, a licensed payment institution may:\n\n- open payment accounts in Tunisian dinars;\n- accept cash deposits and withdrawals on those accounts;\n- execute direct debits, electronic transfers and cash-funded transfers;\n- process remote and proximity payments, including mobile payments;\n- issue payment instruments linked to its accounts;\n- sell prepaid e-money issued by banks or La Poste;\n- receive funds from abroad, by transfer or via money transfer operators;\n- carry out manual currency exchange under BCT rules.\n\nAll of this must be done **in dinars and inside Tunisia**. A payment institution cannot take deposits, lend, or let accounts go overdrawn.\n\n## Who holds a licence\n\nThe BCT does not publish an easy-to-find register, and press coverage gives no total count. Two recent decisions illustrate the process:\n\n- **First Pay**, a subsidiary of Amen Bank, was licensed as a resident payment institution by BCT licensing committee decision No. 59 of 1 July 2024, published in the JORT on 9 August 2024. It had six months from notification to start operating.\n- **OFT Tunisie**, a subsidiary of Ooredoo FinTech International, received a BCT authorisation to set up a payment institution in December 2024, then a definitive licence by decision of 29 January 2026, published in the JORT (No. 65 of 2026). It also had six months to start operating, or risk losing the approval.\n\nBoth are backed by large groups — a bank and a telecom operator. That pattern is worth noting for startups weighing the licence route against partnering with a licensed institution. For the wider landscape, see our guide to [mobile payments in Tunisia](post:mobile-payments-tunisia).\n\n## Circular 2026-10: account tiers and limits\n\nThe new circular keeps the three-level account structure from 2018. Several outlets, including Business News, stressed that the ceilings are unchanged:\n\n| Account level | Holders | Max balance | Daily cash withdrawal |\n|---|---|---|---|\n| Level 1 | Individuals only | TND 1,500 | not specified |\n| Level 2 | Individuals and businesses | TND 5,000 | TND 3,000 |\n| Level 3 | Individuals and businesses | TND 20,000 | TND 10,000 |\n\nOther limits include TND 3,000 per cash-funded transfer and the equivalent of TND 20,000 per incoming transfer from abroad, which must be justified. Each person may hold only one payment account per institution. **Merchant accounts** sit outside the tiers: they can only be credited with proceeds of accepted payments and require a written agreement with the merchant.\n\n## What is new: governance, cyber, partners, agents\n\nThe bigger change is in how payment institutions must be run.\n\n### Governance\n\nBoards must set up an **audit and risk committee**, and audit, risk and compliance functions must be independent from operations. According to Challenges.tn, senior appointments must be notified to the BCT, which has one month to object.\n\n### Client funds\n\nCustomer and merchant money must be placed in a single **global account at a bank** no later than the next business day, kept fully separate from the institution's own funds, and reconciled so that the balance equals the sum of all customer balances. These funds cannot finance operations.\n\n### Remote onboarding and cybersecurity\n\nAccounts can be opened remotely if the process is at least as strict as in-branch identification: document checks, proof of life (such as facial recognition) and at least two-factor authentication. Systems must be audited by firms certified by the national cybersecurity agency before launch and periodically, with an annual security audit sent to the BCT. Attacks or intrusions must be reported immediately. See our explainer on [e-KYC and AML rules](post:ekyc-aml-tunisia).\n\n### Partnerships and agents\n\nAny commercial or technical partnership — distribution network, technology provider, specialist skills — needs **prior BCT approval**, backed by a file that includes a three-year business plan and a risk map. Information systems must stay segregated from the partner's. The circular distinguishes **principal agents** from **retail agents**, and the institution remains responsible for everything its network does.\n\n## What it means for founders\n\nThe 2026 circular pushes Tunisian payment institutions closer to bank-style supervision. For a startup, the practical consequences are:\n\n- **Compliance costs rise.** Independent control functions, certified security audits and monthly-to-annual reporting require staff and budget before revenue.\n- **Partnerships slow down.** White-label deals, co-branded cards and telecom tie-ups now need BCT sign-off in advance.\n- **Product design is constrained.** Dinar-only, domestic-only, capped balances and no credit limit what a wallet can be.\n- **Timing matters.** Existing institutions have until roughly late December 2026 to comply. Only the French text published on the BCT website on 28 September 2026 is authoritative; the bank issued a corrected version that day to fix numbering in two articles.\n\nFounders who want to test a model before committing to a licence can look at the [BCT regulatory sandbox](post:bct-regulatory-sandbox). Those planning to operate at scale should budget for the 2026 requirements from day one.",
+    "faq": [
+      {
+        "q": "What is a payment institution in Tunisia?",
+        "a": "It is a non-bank company licensed by the Central Bank of Tunisia under Law 2016-48 to open dinar payment accounts, handle transfers, cash-in and cash-out, and remote or proximity payments. It cannot take deposits or grant credit."
+      },
+      {
+        "q": "Can a Tunisian fintech issue electronic money?",
+        "a": "Not as a payment institution. Under BCT Circular 2026-10, payment institutions may distribute prepaid e-money, but that e-money must be issued by a bank or by the Office National des Postes."
+      },
+      {
+        "q": "What are the payment account limits in Tunisia?",
+        "a": "Under Circular 2026-10, level-1 accounts (individuals only) are capped at TND 1,500, level-2 at TND 5,000 and level-3 at TND 20,000. Daily cash withdrawals are capped at TND 3,000 for level 2 and TND 10,000 for level 3."
+      },
+      {
+        "q": "When does BCT Circular 2026-10 apply?",
+        "a": "It was published on 25 September 2026 and enters into force three months after publication, so around late December 2026. The BCT says the corrected French version published on 28 September 2026 is the authoritative text."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Établissements de paiement en Tunisie : agrément et règles 2026",
+    "meta_description": "Agrément d'établissement de paiement en Tunisie : loi 2016-48, acteurs agréés et nouveautés de la circulaire BCT 2026-10 pour les fondateurs de fintech.",
+    "excerpt": "La BCT a remplacé ses règles de 2018 sur les établissements de paiement par une circulaire bien plus exigeante. Fonctionnement de l'agrément et principaux changements.",
+    "keywords": [
+      "établissement de paiement Tunisie",
+      "circulaire BCT 2026-10",
+      "agrément BCT fintech",
+      "loi 2016-48 établissement de paiement",
+      "monnaie électronique Tunisie",
+      "compte de paiement niveau 1 2 3"
+    ],
+    "tags": [
+      "Établissements de paiement",
+      "BCT",
+      "Agrément",
+      "Monnaie électronique"
+    ],
+    "key_takeaways": [
+      "Les établissements de paiement ont été créés par la loi 2016-48 et sont agréés et supervisés par la Banque centrale de Tunisie.",
+      "Ils peuvent distribuer de la monnaie électronique mais pas l'émettre : l'émission est réservée aux banques et à La Poste Tunisienne.",
+      "La circulaire 2026-10, publiée le 25 septembre 2026, remplace la circulaire 2018-16 et maintient les plafonds de 1 500, 5 000 et 20 000 TND.",
+      "Les nouvelles règles imposent une gouvernance de type bancaire, des audits de cybersécurité certifiés, le cantonnement des fonds et l'autorisation préalable des partenariats."
+    ],
+    "body": "L'agrément d'établissement de paiement est la principale voie légale permettant à un acteur non bancaire de tenir des comptes de paiement, de transférer des fonds et d'accepter des paiements par carte ou mobile en Tunisie. Le 25 septembre 2026, la Banque centrale de Tunisie (BCT) a réécrit les règles avec la circulaire n° 2026-10, qui remplace le cadre de 2018 et entre en vigueur trois mois après sa publication. Pour les fondateurs de fintech, la barre vient de monter.\n\n## Le socle juridique : la loi 2016-48\n\nLes établissements de paiement ont été créés par la **loi n° 2016-48 du 11 juillet 2016** relative aux banques et aux établissements financiers. Ce texte énumère les services de paiement qu'ils peuvent fournir et fait de la BCT leur autorité d'agrément et de supervision. Les décisions d'agrément récentes publiées au JORT visent l'article 10 de la loi pour le périmètre des services et l'article 20 pour l'agrément d'établissement de paiement proprement dit.\n\nLes règles d'exercice étaient fixées par la **circulaire de la BCT n° 2018-16 du 31 décembre 2018**, qui avait introduit les comptes de paiement par niveaux. Elle est désormais abrogée et remplacée par la circulaire n° 2026-10.\n\n## Établissement de paiement et monnaie électronique : qui fait quoi ?\n\nUne confusion fréquente chez les fondateurs : en Tunisie, un établissement de paiement n'est pas un émetteur de monnaie électronique. Selon la nouvelle circulaire, il peut **distribuer** de la monnaie électronique prépayée, mais celle-ci doit être **émise par une banque ou par l'Office national des postes** (La Poste Tunisienne, qui exploite [e-Dinar et D17](post:la-poste-tunisienne-e-dinar-d17)).\n\nD'après la synthèse de La Presse, un établissement de paiement agréé peut :\n\n- ouvrir des comptes de paiement en dinars ;\n- recevoir des dépôts et effectuer des retraits d'espèces sur ces comptes ;\n- exécuter des prélèvements, des virements électroniques et des transferts alimentés en espèces ;\n- traiter des paiements à distance et de proximité, y compris par mobile ;\n- émettre des instruments de paiement adossés à ses comptes ;\n- commercialiser de la monnaie électronique prépayée émise par les banques ou La Poste ;\n- recevoir des fonds de l'étranger, par virement ou via des sociétés de transfert ;\n- réaliser des opérations de change manuel selon les règles de la BCT.\n\nLe tout **exclusivement en dinars et sur le territoire tunisien**. Un établissement de paiement ne peut ni collecter de dépôts, ni accorder de crédit, ni laisser un compte devenir débiteur.\n\n## Qui détient un agrément ?\n\nLa BCT ne publie pas de registre facilement accessible et la presse ne donne aucun décompte global. Deux décisions récentes illustrent la procédure :\n\n- **First Pay**, filiale d'Amen Bank, a été agréée comme établissement de paiement résident par la décision n° 59 du comité d'agrément de la BCT du 1er juillet 2024, publiée au JORT le 9 août 2024. Elle disposait de six mois à compter de la notification pour démarrer.\n- **OFT Tunisie**, filiale d'Ooredoo FinTech International, a obtenu en décembre 2024 l'autorisation de créer un établissement de paiement, puis un agrément définitif par décision du 29 janvier 2026, publiée au JORT (n° 65 de 2026). Elle avait elle aussi six mois pour entrer en activité, sous peine de caducité.\n\nDans les deux cas, l'agrément est porté par un grand groupe — une banque, un opérateur télécom. Un constat utile pour les startups qui hésitent entre demander leur propre agrément et s'adosser à un établissement agréé. Pour le panorama complet, voir notre dossier sur le [paiement mobile en Tunisie](post:mobile-payments-tunisia).\n\n## Circulaire 2026-10 : niveaux de comptes et plafonds\n\nLa nouvelle circulaire conserve l'architecture à trois niveaux de 2018. Plusieurs médias, dont Business News, ont souligné que les plafonds restent inchangés :\n\n| Niveau | Titulaires | Solde maximal | Retrait d'espèces quotidien |\n|---|---|---|---|\n| Niveau 1 | Personnes physiques uniquement | 1 500 TND | non précisé |\n| Niveau 2 | Personnes physiques et morales | 5 000 TND | 3 000 TND |\n| Niveau 3 | Personnes physiques et morales | 20 000 TND | 10 000 TND |\n\nS'y ajoutent un plafond de 3 000 TND par transfert alimenté en espèces et l'équivalent de 20 000 TND par opération reçue de l'étranger, sur justificatif. Chaque personne ne peut détenir qu'un compte de paiement par établissement. Les **comptes marchands** échappent à ces niveaux : ils ne peuvent être crédités que par les encaissements de paiements acceptés et supposent une convention écrite avec le commerçant.\n\n## Ce qui change : gouvernance, cybersécurité, partenaires, agents\n\nLe vrai tournant porte sur la manière dont les établissements doivent être gérés.\n\n### Gouvernance\n\nLe conseil doit se doter d'un **comité d'audit et des risques**, et les fonctions d'audit, de gestion des risques et de conformité doivent être indépendantes des opérations. Selon Challenges.tn, les nominations de dirigeants doivent être notifiées à la BCT, qui dispose d'un mois pour s'y opposer.\n\n### Fonds des clients\n\nL'argent des clients et des marchands doit être déposé sur un **compte global unique ouvert auprès d'une banque** au plus tard le jour ouvrable suivant, totalement séparé des fonds propres de l'établissement, et rapproché de sorte que son solde égale la somme des soldes clients. Ces fonds ne peuvent pas financer l'exploitation.\n\n### Ouverture à distance et cybersécurité\n\nL'ouverture de compte à distance est permise si le dispositif est au moins aussi rigoureux qu'en agence : contrôle des pièces d'identité, preuve de vie (reconnaissance faciale ou équivalent) et authentification à deux facteurs au minimum. Les systèmes doivent être audités par des cabinets certifiés par l'agence nationale de cybersécurité avant lancement puis périodiquement, avec un audit de sécurité annuel transmis à la BCT. Toute attaque ou intrusion doit être signalée sans délai. Voir notre article sur l'[e-KYC et la lutte anti-blanchiment](post:ekyc-aml-tunisia).\n\n### Partenariats et agents\n\nTout partenariat commercial ou technique — réseau de distribution, prestataire technologique, compétences spécialisées — exige une **autorisation préalable de la BCT**, sur la base d'un dossier comprenant un business plan à trois ans et une cartographie des risques. Les systèmes d'information doivent rester séparés de ceux du partenaire. La circulaire distingue les **agents principaux** des **agents de détail**, l'établissement restant responsable de l'ensemble de son réseau.\n\n## Ce que cela implique pour les fondateurs\n\nLa circulaire de 2026 rapproche la supervision des établissements de paiement de celle des banques. Concrètement, pour une startup :\n\n- **les coûts de conformité augmentent** : fonctions de contrôle indépendantes, audits de sécurité certifiés et reporting mensuel à annuel exigent des équipes et un budget avant tout chiffre d'affaires ;\n- **les partenariats ralentissent** : marque blanche, cartes co-brandées et alliances avec les opérateurs télécoms nécessitent un feu vert préalable de la BCT ;\n- **la conception des produits est encadrée** : dinar uniquement, marché domestique uniquement, soldes plafonnés et aucun crédit ;\n- **le calendrier compte** : les établissements existants ont jusqu'à fin décembre 2026 environ pour se conformer. Seule la version française publiée sur le site de la BCT le 28 septembre 2026 fait foi ; la Banque centrale l'a rectifiée ce jour-là pour corriger la numérotation de deux articles.\n\nLes fondateurs qui veulent éprouver leur modèle avant de s'engager dans un agrément peuvent se tourner vers la [sandbox réglementaire de la BCT](post:bct-regulatory-sandbox). Ceux qui visent une activité à grande échelle ont intérêt à budgéter dès le départ les exigences de 2026.",
+    "faq": [
+      {
+        "q": "Qu'est-ce qu'un établissement de paiement en Tunisie ?",
+        "a": "C'est une société non bancaire agréée par la BCT au titre de la loi 2016-48 pour ouvrir des comptes de paiement en dinars, effectuer des transferts, des dépôts et retraits d'espèces et des paiements à distance ou de proximité. Il ne peut ni collecter de dépôts ni accorder de crédit."
+      },
+      {
+        "q": "Une fintech tunisienne peut-elle émettre de la monnaie électronique ?",
+        "a": "Pas en tant qu'établissement de paiement. Selon la circulaire 2026-10, il peut distribuer de la monnaie électronique prépayée, mais celle-ci doit être émise par une banque ou par l'Office national des postes."
+      },
+      {
+        "q": "Quels sont les plafonds des comptes de paiement ?",
+        "a": "Selon la circulaire 2026-10, le solde est plafonné à 1 500 TND au niveau 1 (particuliers uniquement), 5 000 TND au niveau 2 et 20 000 TND au niveau 3. Les retraits d'espèces quotidiens sont limités à 3 000 TND au niveau 2 et 10 000 TND au niveau 3."
+      },
+      {
+        "q": "Quand la circulaire 2026-10 s'applique-t-elle ?",
+        "a": "Publiée le 25 septembre 2026, elle entre en vigueur trois mois plus tard, soit vers fin décembre 2026. Selon la BCT, seule la version française rectifiée publiée le 28 septembre 2026 fait foi."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "BCT : de nouvelles règles pour les établissements de paiement",
+      "publisher": "La Presse de Tunisie",
+      "url": "https://www.lapresse.tn/2026/09/27/bct-de-nouvelles-regles-pour-les-etablissements-de-paiement/"
+    },
+    {
+      "title": "Nouvelle circulaire de la BCT : voici ce qui change pour les établissements de paiement",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/09/26/nouvelle-circulaire-de-la-bct-voici-ce-qui-change-pour-les-etablissements-de-paiement/"
+    },
+    {
+      "title": "Paiement mobile en Tunisie : la BCT resserre les règles avec sa nouvelle circulaire n°2026-10",
+      "publisher": "Challenges TN",
+      "url": "https://www.challenges.tn/economie/paiement-mobile-en-tunisie-la-bct-resserre-les-regles-avec-sa-nouvelle-circulaire-n2026-10/"
+    },
+    {
+      "title": "Circulaire sur les établissements de paiement : la BCT publie une version rectifiée",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/09/28/circulaire-sur-les-etablissements-de-paiement-la-bct-publie-une-version-rectifiee/"
+    },
+    {
+      "title": "« First Pay » obtient l'agrément pour devenir un établissement de paiement résident en Tunisie",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2024/08/12/first-pay-obtient-lagrement-pour-devenir-un-etablissement-de-paiement-resident-en-tunisie/"
+    },
+    {
+      "title": "La Banque centrale accorde une nouvelle licence définitive d'établissement de paiement",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/03/16/la-banque-centrale-accorde-une-nouvelle-licence-definitive-detablissement-de-paiement/"
+    }
+  ]
+}

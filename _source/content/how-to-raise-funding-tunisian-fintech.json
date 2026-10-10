@@ -1,0 +1,140 @@
+{
+  "slug": "how-to-raise-funding-tunisian-fintech",
+  "category": "funding",
+  "cover_motif": "rocket",
+  "stats": [
+    {
+      "value": "8 years",
+      "label_en": "maximum company age to hold the Startup Act label",
+      "label_fr": "âge maximal de l'entreprise pour le label Startup Act",
+      "source": "BK Associés, 2022"
+    },
+    {
+      "value": "TND 200k",
+      "label_en": "Flat6Labs Tunis entry funding, before follow-on",
+      "label_fr": "financement d'entrée Flat6Labs Tunis, hors suivi",
+      "source": "Launch Base Africa, 2024"
+    },
+    {
+      "value": "€50k",
+      "label_en": "per startup in the 216 Capital and Plug and Play accelerator",
+      "label_fr": "par startup dans l'accélérateur 216 Capital-Plug and Play",
+      "source": "The Condia, 2025"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "How to Raise Funding as a Tunisian Fintech: A 2026 Guide",
+    "meta_description": "A practical guide to raising funding as a Tunisian fintech: the Startup Act label, regulation, accelerators, ANAVA-backed seed funds, Series A and structure.",
+    "excerpt": "From the Startup Act label to Series A, a step-by-step guide to raising money as a Tunisian fintech, with real ticket sizes and pitfalls.",
+    "keywords": [
+      "raise funding Tunisia",
+      "Tunisian fintech fundraising",
+      "startup funding Tunisia guide",
+      "seed funding Tunisia",
+      "Startup Act label benefits",
+      "fintech investors Tunisia",
+      "Series A Tunisia"
+    ],
+    "tags": [
+      "Fundraising",
+      "Fintech",
+      "Startup Act",
+      "Guide"
+    ],
+    "key_takeaways": [
+      "Most Tunisian rounds are pre-seed or seed, and a Series A usually needs foreign co-investors.",
+      "The Startup Act label (company under 8 years old, up to 100 staff) brings grants, tax breaks and a foreign-currency account.",
+      "For fintechs, a clear licensing path or sandbox status is often what convinces investors.",
+      "Plan your legal structure and FX constraints early; many founders use a holding company abroad."
+    ],
+    "body": "Raising money as a Tunisian fintech in 2026 means dealing with a small investor base, a regulator that controls your licence, and foreign-exchange rules that shape your corporate structure. This guide sets out the options in order, from non-dilutive support to Series A, using the figures funds and institutions have published.\n\n## Know the market before you raise funding\n\nBe realistic about the numbers. Tunisian startups raised a little over $24 million in 2024 (Startup Genome, via La Presse) and $39 million across 17 deals in 2025 (AVCA). In the first half of 2026, Launch Base Africa found almost no disclosed equity rounds. In practice:\n\n- Most local rounds are **pre-seed or seed**, from tens of thousands to a few hundred thousand euros.\n- A Series A almost always needs **foreign co-investors**.\n- Expect a long process, and raise before you run short of cash.\n\n## Step 1: Get the Startup Act label\n\nThe label created by **Law No. 2018-20** and Decree 2018-840 is the starting point for most local investors and programmes (see [the Startup Act explained](post:startup-act-tunisia-explained)). According to a 2022 legal summary by BK Associés, the main criteria are:\n\n- the company is **no more than 8 years old**, with **up to 100 employees** and total assets and turnover of **TND 15 million or less** each;\n- more than two-thirds of the capital is held by individuals, VC funds or similar investors;\n- the business model is innovative and has strong growth potential.\n\nBenefits relevant to fundraising include a **founder grant of TND 1,000–5,000 for up to a year**, corporate tax exemption and coverage of social contributions, a **special foreign-currency account**, an international technology card of up to TND 100,000 a year, patent-fee coverage, the ability to issue convertible bonds, a capital-gains tax exemption for investors and a guarantee fund that covers part of VC investments. The labelling committee is supposed to give its opinion within 30 days. Check current rules on startup.gov.tn, since circulars change.\n\n## Step 2: Clarify your regulatory path\n\nFor a fintech, regulation often decides whether you can raise at all. Investors will ask:\n\n- Do you need a **payment institution** or e-money licence, or can you partner with a licensed bank or PSP (see [payment institutions](post:payment-institutions-tunisia))?\n- Are you eligible for the **BCT regulatory sandbox**, and what can you test there?\n- How will you meet AML/CFT and e-KYC requirements?\n\nA one-page \"regulatory roadmap\" with milestones and capital requirements reduces investors' perceived risk more than any growth chart.\n\n## Step 3: Pre-seed: accelerators and small cheques\n\n- **Flat6Labs Tunis**: up to **TND 200,000** at entry, with possible follow-on of TND 200,000–800,000.\n- **216 Capital Venture Accelerator by Plug and Play** (launched September 2025): up to 20 startups, **€50,000** each.\n- **Corporate fintech programmes** such as Visa's Africa Fintech Accelerator, which Konnect Networks joined before its 2025 round.\n\nAt this stage, angels and former startup employees also matter. After the Expensya exit, some of its employees invested in the founders' next company.\n\n## Step 4: Seed: the ANAVA-backed funds\n\nMost local seed capital now comes through funds backed by the **ANAVA** fund of funds:\n\n- **216 Capital Fund I**: generalist, about 50 startups, average tickets of about **€100,000**.\n- **Go Live Fund** (Go Big Partners): €8 million for 36 early-stage B2B startups.\n- **Titan Seed Fund I** (Medin): deep tech, tickets of **€300,000–650,000**.\n- **New Era Fund I** (UGFS): aimed at Series A in AI, biotech and green tech. UGFS also led fintech PAYDAY's pre-seed round in 2025.\n\nSee [venture capital in Tunisia](post:venture-capital-tunisia) for the full list, including regional funds such as Janngo, LoftyInc, Silicon Badia and Rasmal that ANAVA has backed.\n\n## Step 5: Series A: go regional, structure early\n\nAt Series A, Tunisian fintechs usually raise from abroad. Konnect's 2025 round included Moroccan bank-owned **Attijariwafa Ventures** alongside other international investors. Many founders set up a holding company abroad. Expensya was based in Paris and InstaDeep in London. That makes foreign investment, employee stock options and exits easier, but it costs money and has tax and BCT implications. Get advice early, because restructuring after a term sheet is slow and expensive.\n\nFX rules matter here. A December 2025 amendment would let residents hold foreign-currency accounts, but in July 2026 Launch Base Africa reported that it still depended on central bank circulars that had not been issued.\n\n## What about crowdfunding and debt?\n\nTunisia passed a crowdfunding law, **Law No. 2020-37 of 6 August 2020**, under which the CMF supervises equity crowdfunding (see [crowdfunding law](post:crowdfunding-law-tunisia)). Implementing texts followed in 2022, and caps reach TND 2 million per project. In practice it is still early. In June 2026, CnBees described itself to La Presse as Tunisia's first approved crowdfunding platform, approved in December 2025 for donations only. Bank debt is rarely available to early-stage startups. A Flat6Labs executive told Enterprise in 2026 that only two of its 75 investees had dealt with banks or private equity.\n\n## A practical checklist\n\n- Startup label obtained, or the application filed.\n- Regulatory roadmap: licence, partner bank or PSP, sandbox status.\n- Clean cap table, with founder vesting and an option pool.\n- Data room: financials, unit economics, contracts, IP, compliance policies.\n- Target list matched to stage and ticket size, with 20–30 relevant funds.\n- Legal advice on holding structure and FX before signing a term sheet.\n- Enough runway to cover a long, uncertain process.",
+    "faq": [
+      {
+        "q": "Where can a Tunisian fintech raise seed funding?",
+        "a": "Mainly from ANAVA-backed funds such as 216 Capital, Go Big Partners, Medin's Titan Seed Fund, Flat6Labs and UGFS, plus regional funds like Janngo, LoftyInc and Silicon Badia. Accelerators such as Flat6Labs Tunis and the 216 Capital and Plug and Play programme offer smaller first cheques."
+      },
+      {
+        "q": "Do I need the Startup Act label to raise money in Tunisia?",
+        "a": "It is not legally required, but most local investors and programmes expect it. It brings tax exemptions, a founder grant, a special foreign-currency account and capital-gains exemptions for investors."
+      },
+      {
+        "q": "Can Tunisian startups use equity crowdfunding?",
+        "a": "Law No. 2020-37 created a crowdfunding framework supervised by the CMF, and implementing texts followed in 2022. As of mid-2026, the first platform reported as approved, CnBees, offers donations only, so equity crowdfunding is not yet a practical option."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Lever des fonds pour une fintech tunisienne : le guide 2026",
+    "meta_description": "Guide pratique de la levée de fonds pour une fintech tunisienne : label Startup Act, réglementation, accélérateurs, fonds d'amorçage ANAVA, série A, holding.",
+    "excerpt": "Du label Startup Act à la série A, un guide étape par étape pour lever des fonds en tant que fintech tunisienne, avec des tailles de ticket réelles.",
+    "keywords": [
+      "lever des fonds Tunisie",
+      "levée de fonds fintech tunisienne",
+      "guide financement startup Tunisie",
+      "amorçage Tunisie",
+      "avantages label Startup Act",
+      "investisseurs fintech Tunisie",
+      "série A Tunisie"
+    ],
+    "tags": [
+      "Levée de fonds",
+      "Fintech",
+      "Startup Act",
+      "Guide"
+    ],
+    "key_takeaways": [
+      "La plupart des tours tunisiens sont des pré-amorçages ou des amorçages, et une série A exige généralement des co-investisseurs étrangers.",
+      "Le label Startup Act (entreprise de moins de 8 ans, 100 salariés au plus) apporte une bourse, des avantages fiscaux et un compte en devises.",
+      "Pour une fintech, un parcours d'agrément clair ou l'admission au bac à sable est souvent ce qui convainc les investisseurs.",
+      "Anticipez la structure juridique et les contraintes de change : beaucoup de fondateurs passent par une holding à l'étranger."
+    ],
+    "body": "Lever des fonds pour une fintech tunisienne en 2026 implique de composer avec peu d'investisseurs, un régulateur qui contrôle votre agrément et une réglementation des changes qui influe sur votre structure juridique. Ce guide présente les options dans l'ordre, du soutien non dilutif à la série A, à partir des chiffres publiés par les fonds et les institutions.\n\n## Connaître le marché avant de lever des fonds\n\nSoyez réaliste sur les chiffres. Les startups tunisiennes ont levé un peu plus de 24 millions de dollars en 2024 (Startup Genome, via La Presse) et 39 millions en 17 opérations en 2025 (AVCA). Au premier semestre 2026, Launch Base Africa n'a recensé presque aucune levée en capital annoncée. Concrètement :\n\n- La plupart des tours locaux sont des **pré-amorçages ou des amorçages**, de quelques dizaines de milliers à quelques centaines de milliers d'euros.\n- Une série A exige presque toujours des **co-investisseurs étrangers**.\n- Le processus est long : levez avant de manquer de trésorerie.\n\n## Étape 1 : obtenir le label Startup Act\n\nLe label créé par la **loi n° 2018-20** et le décret 2018-840 est le point de départ de la plupart des investisseurs et programmes locaux (voir [le Startup Act expliqué](post:startup-act-tunisia-explained)). Selon une synthèse juridique de BK Associés publiée en 2022, les principaux critères sont :\n\n- une entreprise de **8 ans au plus**, avec **100 salariés au maximum** et un total de bilan et un chiffre d'affaires de **15 millions de dinars au plus** chacun ;\n- plus des deux tiers du capital détenus par des personnes physiques, des fonds de capital-risque ou des investisseurs assimilés ;\n- un modèle économique innovant et un fort potentiel de croissance.\n\nParmi les avantages utiles à la levée : une **bourse de 1 000 à 5 000 dinars pour le fondateur, pendant un an au plus**, l'exonération de l'impôt sur les sociétés et la prise en charge des cotisations sociales, un **compte spécial en devises**, une carte technologique internationale jusqu'à 100 000 dinars par an, la prise en charge des frais de brevet, la possibilité d'émettre des obligations convertibles, l'exonération des plus-values pour les investisseurs et un fonds de garantie qui couvre une partie des investissements des fonds. Le comité de labellisation doit rendre son avis sous 30 jours. Vérifiez les règles en vigueur sur startup.gov.tn, car les circulaires évoluent.\n\n## Étape 2 : clarifier son parcours réglementaire\n\nPour une fintech, la réglementation décide souvent de la possibilité même de lever des fonds. Les investisseurs demanderont :\n\n- Avez-vous besoin d'un agrément d'**établissement de paiement** ou de monnaie électronique, ou pouvez-vous vous adosser à une banque ou un PSP agréé (voir [les établissements de paiement](post:payment-institutions-tunisia)) ?\n- Êtes-vous éligible au **bac à sable réglementaire de la BCT**, et que pouvez-vous y tester ?\n- Comment respecterez-vous les exigences LBC/FT et d'e-KYC ?\n\nUne « feuille de route réglementaire » d'une page, avec les étapes et les exigences de capital, réduit davantage le risque perçu par les investisseurs que n'importe quelle courbe de croissance.\n\n## Étape 3 : le pré-amorçage, accélérateurs et petits tickets\n\n- **Flat6Labs Tunis** : jusqu'à **200 000 dinars** à l'entrée, avec un financement complémentaire possible de 200 000 à 800 000 dinars.\n- **216 Capital Venture Accelerator by Plug and Play** (lancé en septembre 2025) : jusqu'à 20 startups, **50 000 euros** chacune.\n- **Les programmes fintech des grands groupes**, comme l'Africa Fintech Accelerator de Visa, qu'a intégré Konnect Networks avant son tour de 2025.\n\nÀ ce stade, les business angels et les anciens salariés de startups comptent aussi. Après la sortie d'Expensya, certains de ses salariés ont investi dans la nouvelle entreprise des fondateurs.\n\n## Étape 4 : l'amorçage, les fonds soutenus par ANAVA\n\nL'essentiel de l'amorçage local passe désormais par des fonds soutenus par le fonds de fonds **ANAVA** :\n\n- **216 Capital Fund I** : généraliste, une cinquantaine de startups, tickets moyens d'environ **100 000 euros**.\n- **Go Live Fund** (Go Big Partners) : 8 millions d'euros pour 36 startups B2B en phase de démarrage.\n- **Titan Seed Fund I** (Medin) : deeptech, tickets de **300 000 à 650 000 euros**.\n- **New Era Fund I** (UGFS) : orienté série A dans l'IA, la biotech et les technologies vertes. UGFS a aussi mené le pré-amorçage de la fintech PAYDAY en 2025.\n\nVoir [le capital-risque en Tunisie](post:venture-capital-tunisia) pour la liste complète, y compris les fonds régionaux soutenus par ANAVA comme Janngo, LoftyInc, Silicon Badia et Rasmal.\n\n## Étape 5 : la série A, s'ouvrir à la région et structurer tôt\n\nEn série A, les fintech tunisiennes lèvent généralement à l'étranger. Le tour de Konnect en 2025 réunissait **Attijariwafa Ventures**, filiale d'investissement d'un groupe bancaire marocain, et d'autres investisseurs internationaux. Beaucoup de fondateurs créent une holding à l'étranger : Expensya était basée à Paris, InstaDeep à Londres. Cela facilite l'investissement étranger, les stock-options et la sortie, mais cela a un coût et des conséquences fiscales et vis-à-vis de la BCT. Faites-vous conseiller tôt : restructurer après une lettre d'intention est lent et coûteux.\n\nLa réglementation des changes compte ici. Un amendement de décembre 2025 autoriserait les résidents à détenir des comptes en devises, mais en juillet 2026, Launch Base Africa indiquait qu'il dépendait toujours de circulaires de la BCT non publiées.\n\n## Et le crowdfunding ou la dette ?\n\nLa Tunisie a adopté une loi sur le financement participatif, la **loi n° 2020-37 du 6 août 2020**, qui confie au CMF la supervision du crowdfunding en capital (voir [la loi sur le crowdfunding](post:crowdfunding-law-tunisia)). Les textes d'application ont suivi en 2022, et les plafonds atteignent 2 millions de dinars par projet. En pratique, tout reste à construire. En juin 2026, CnBees se présentait dans La Presse comme la première plateforme tunisienne de crowdfunding agréée, en décembre 2025 et pour le don uniquement. La dette bancaire est rarement accessible aux jeunes startups. Une responsable de Flat6Labs indiquait à Enterprise en 2026 que seules deux des 75 startups de son portefeuille avaient eu affaire à des banques ou à du capital-investissement.\n\n## Liste de contrôle pratique\n\n- Label Startup obtenu, ou demande déposée.\n- Feuille de route réglementaire : agrément, banque ou PSP partenaire, statut dans le bac à sable.\n- Table de capitalisation propre, avec acquisition progressive des parts des fondateurs et réserve de stock-options.\n- Data room : états financiers, économie unitaire, contrats, propriété intellectuelle, politiques de conformité.\n- Liste de 20 à 30 fonds ciblés selon le stade et la taille du ticket.\n- Conseil juridique sur la holding et le change avant de signer une lettre d'intention.\n- Assez de trésorerie pour tenir pendant un processus long et incertain.",
+    "faq": [
+      {
+        "q": "Où une fintech tunisienne peut-elle lever un amorçage ?",
+        "a": "Surtout auprès des fonds soutenus par ANAVA, comme 216 Capital, Go Big Partners, le Titan Seed Fund de Medin, Flat6Labs et UGFS, ainsi que de fonds régionaux comme Janngo, LoftyInc ou Silicon Badia. Les accélérateurs comme Flat6Labs Tunis et le programme de 216 Capital et Plug and Play offrent de premiers tickets plus modestes."
+      },
+      {
+        "q": "Le label Startup Act est-il nécessaire pour lever des fonds ?",
+        "a": "Il n'est pas obligatoire, mais la plupart des investisseurs et programmes locaux l'attendent. Il apporte des exonérations fiscales, une bourse pour le fondateur, un compte spécial en devises et l'exonération des plus-values pour les investisseurs."
+      },
+      {
+        "q": "Le crowdfunding en capital est-il possible en Tunisie ?",
+        "a": "La loi n° 2020-37 a créé un cadre de financement participatif supervisé par le CMF, et les textes d'application ont suivi en 2022. Mi-2026, la première plateforme présentée comme agréée, CnBees, ne propose que le don : le crowdfunding en capital n'est donc pas encore une option concrète."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Legal framework for startups in Tunisia",
+      "publisher": "BK Associés",
+      "url": "https://bkassocies.tn/wp-content/uploads/2022/07/Legal-framework-for-startups-in-Tunisia.pdf"
+    },
+    {
+      "title": "Loi n° 2020-37 du 6 août 2020 relative au financement participatif",
+      "publisher": "Conseil du Marché Financier",
+      "url": "https://www.cmf.tn/sites/default/files/pdfs/reglementation/textes-reference/loi_crowfunding_37_06082020_fr.pdf"
+    },
+    {
+      "title": "216 Capital and Plug and Play partner to launch accelerator",
+      "publisher": "The Condia",
+      "url": "https://thecondia.com/216-capital-plug-play-partner-accelerator/"
+    },
+    {
+      "title": "Why Tunisia has produced two of Africa's largest tech exits",
+      "publisher": "Enterprise",
+      "url": "https://enterpriseam.com/menaplus/2026/06/01/why-tunisia-has-produced-two-of-africas-largest-tech-exits/"
+    },
+    {
+      "title": "CnBees, première plateforme tunisienne de crowdfunding agréée",
+      "publisher": "La Presse via AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202606020385.html"
+    },
+    {
+      "title": "Near Zero Equity Deals in H1: What Happened to Tunisia's Startup Ecosystem?",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2026/07/29/near-zero-equity-deals-in-h1-what-happened-to-tunisias-startup-ecosystem/"
+    }
+  ]
+}

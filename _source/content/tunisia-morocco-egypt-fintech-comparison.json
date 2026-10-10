@@ -1,0 +1,168 @@
+{
+  "slug": "tunisia-morocco-egypt-fintech-comparison",
+  "category": "ecosystem",
+  "cover_motif": "map-africa",
+  "stats": [
+    {
+      "value": "37.8%",
+      "label_en": "Tunisian adults with an account, vs 44.4% Morocco, 43.1% Egypt",
+      "label_fr": "adultes tunisiens avec un compte, contre 44,4 % au Maroc et 43,1 % en Égypte",
+      "source": "World Bank Global Findex 2025"
+    },
+    {
+      "value": "22M",
+      "label_en": "registered InstaPay customers in Egypt (Q2 2026)",
+      "label_fr": "clients inscrits à InstaPay en Égypte (T2 2026)",
+      "source": "Central Bank of Egypt via Ahram Online, 2026"
+    },
+    {
+      "value": "$358M",
+      "label_en": "equity raised by Egyptian startups in 2025",
+      "label_fr": "levés en fonds propres par les startups égyptiennes en 2025",
+      "source": "Partech Africa, 2025 report"
+    }
+  ],
+  "chart": {
+    "title_en": "Adults with an account, 2024",
+    "title_fr": "Adultes détenant un compte, 2024",
+    "unit": "%",
+    "bars": [
+      {
+        "label_en": "Morocco",
+        "label_fr": "Maroc",
+        "value": 44.4
+      },
+      {
+        "label_en": "Egypt",
+        "label_fr": "Égypte",
+        "value": 43.1
+      },
+      {
+        "label_en": "Tunisia",
+        "label_fr": "Tunisie",
+        "value": 37.8
+      },
+      {
+        "label_en": "Algeria",
+        "label_fr": "Algérie",
+        "value": 35.3
+      }
+    ],
+    "source_name": "World Bank, Global Findex 2025 (indicator FX.OWN.TOTL.ZS)",
+    "source_url": "https://api.worldbank.org/v2/country/TUN;MAR;EGY;DZA/indicator/FX.OWN.TOTL.ZS?format=json&date=2011:2024"
+  },
+  "en": {
+    "title": "Tunisia vs Morocco vs Egypt: North African Fintech Compared",
+    "meta_description": "Tunisia, Morocco and Egypt fintech compared: account ownership, gender gaps, InstaPay, payment institutions, startup funding and lessons for Tunisia.",
+    "excerpt": "Egypt has scale and InstaPay, Morocco has 16 million payment accounts, Tunisia trails on inclusion. A data-driven comparison of North Africa's fintech markets.",
+    "keywords": [
+      "Tunisia Morocco Egypt fintech comparison",
+      "North Africa fintech",
+      "Maghreb fintech",
+      "Findex North Africa",
+      "InstaPay Egypt",
+      "Morocco payment institutions",
+      "fintech funding Egypt Morocco Tunisia"
+    ],
+    "tags": [
+      "North Africa",
+      "Comparison",
+      "Financial inclusion",
+      "Payments"
+    ],
+    "key_takeaways": [
+      "In 2024, 37.8% of Tunisian adults had an account, compared with 44.4% in Morocco and 43.1% in Egypt, according to Findex.",
+      "Egypt's rate jumped from 27.4% in 2021 as InstaPay scaled to about 22 million registered customers.",
+      "Morocco had 20 payment institutions and 16.3 million payment accounts in 2025, but low activation shows that licences alone are not enough.",
+      "Egyptian startups raised $358 million in equity in 2025 and Moroccan startups $79 million; Partech gives no total for Tunisia."
+    ],
+    "body": "Tunisia, Morocco and Egypt are often grouped together as \"North African fintech\", but they are very different markets. Egypt has scale and a national instant-payment system with more than 20 million users. Morocco has built a large base of payment accounts and licensed payment institutions. Tunisia has a well-educated, connected population but lags on account ownership and mobile money. This comparison uses the latest data available in October 2026.\n\n## Market size: three very different scales\n\nAccording to the World Bank, Egypt had about **116.5 million** inhabitants in 2024, Morocco **38.1 million** and Tunisia **12.3 million**. Egypt is almost ten times Tunisia's size, and that difference explains much of the gap in investor interest. A Tunisian fintech that wants to raise large rounds usually needs a regional story from early on.\n\n## Account ownership: Tunisia is behind\n\nThe World Bank's Global Findex 2025, based on 2024 surveys, gives comparable figures for the share of adults with an account at a financial institution or mobile-money provider:\n\n| | Tunisia | Morocco | Egypt |\n|---|---|---|---|\n| All adults | 37.8% | 44.4% | 43.1% |\n| Men | 49.6% | 54.6% | 46.0% |\n| Women | 26.6% | 34.7% | 40.2% |\n\nThree points stand out:\n\n- **Egypt moved fastest.** Its rate rose from 27.4% in 2021 to 43.1% in 2024. Tunisia barely moved, from 36.9% to 37.8%, and Morocco was flat at 44.4%.\n- **Tunisia's gender gap is the widest.** It is 23 points, compared with about 20 in Morocco and fewer than 6 in Egypt.\n- **National figures are higher.** The Central Bank of Egypt reports 76.3% financial inclusion for December 2024, and Bank Al-Maghrib reports that 62% of resident adults held an account in 2025. These use broader definitions, so compare them only with each other over time, not with Findex.\n\nMore detail on Tunisia is in our article on [financial inclusion](post:financial-inclusion-tunisia).\n\n## Payments infrastructure\n\n### Egypt: instant payments at scale\n\nEgypt's Instant Payment Network, branded **InstaPay**, was launched by the Central Bank of Egypt in 2022. In September 2026, CBE governor Hassan Abdalla said the network had about **22 million registered customers** and recorded **1.47 billion transactions worth EGP 4.33 trillion** in the second quarter of 2026, according to Ahram Online. Mobile wallets also grew fast: transaction value reached EGP 943 billion in Q2 2025, up 72% year on year. See [Egypt's fintech boom](post:egypt-fintech-instapay).\n\n### Morocco: payment institutions and accounts\n\nAccording to Bank Al-Maghrib's 2025 banking supervision data, reported by Médias24, Morocco had **20 payment institutions** and **24 banks**, and **16.3 million payment accounts** had been opened. Activity is lower than these totals suggest. At the end of 2024, only 28% of payment accounts had been used in the previous quarter, and 86% of card operations were still cash withdrawals. See [Morocco's fintech scene](post:morocco-fintech).\n\n### Tunisia: card-led and still cash-heavy\n\nThe Central Bank of Tunisia's 2025 annual report counted **5.85 million** bank cards and **6 payment institutions** at the end of 2025. Ooredoo's OFT Tunisie was licensed in March 2026. There were **469,000 mobile wallets** and **8.4 million mobile payment transactions** in 2025, up 80.5%, a high growth rate from a low base. Tunisia does not yet have a retail instant payment system with InstaPay's reach (see [instant payments in Tunisia](post:instant-payments-tunisia)).\n\n## Startup funding\n\nPartech's 2025 Africa Tech Venture Capital report, published in early 2026, shows the gap in capital:\n\n- **Egypt:** $358 million in equity across 80 deals (+21%), or $604 million including debt. It ranked fourth in Africa by equity funding.\n- **Morocco:** $79 million in equity across 26 deals.\n- **Tunisia:** the report gives no funding total. It counts 31 active investors, up 24%.\n\nFintech accounted for 32% of equity funding in Africa as a whole. Egypt's fintechs benefit from a domestic market large enough to justify Series A and B rounds. Tunisian founders more often raise seed rounds from funds backed by the state-supported ANAVA fund of funds.\n\n## Connectivity is not the problem\n\nAccording to World Bank data based on ITU estimates, internet use in 2024 was **76.5%** in Tunisia, **91.2%** in Morocco and **74.6%** in Egypt. DataReportal estimates Tunisia at 84.3% in October 2025. All three countries are connected enough for mobile-first finance. The differences come from regulation, distribution and trust.\n\n## What Tunisia can learn\n\n- **Interoperable instant payments drive adoption.** Egypt's account ownership jumped in the same years that InstaPay and mobile wallets scaled up. A low-cost, phone-number-based instant transfer system is the clearest missing piece in Tunisia.\n- **Licences need to turn into active users.** Morocco's experience shows that opening millions of payment accounts is not enough; activation and merchant acceptance matter.\n- **Women are the biggest opportunity.** Tunisia's 23-point gender gap is the widest of the three. Egypt's narrow gap shows it can be closed.\n- **Scale requires a regional plan.** With 12 million people, Tunisian fintechs that want large funding rounds need products that can travel, within the limits of foreign-exchange rules.",
+    "faq": [
+      {
+        "q": "Which North African country has the most developed fintech sector?",
+        "a": "By funding and scale, Egypt leads: its startups raised $358 million in equity in 2025 according to Partech, and InstaPay had about 22 million registered customers by mid-2026. Morocco has a large payment-institution sector, while Tunisia is smaller and earlier-stage."
+      },
+      {
+        "q": "How does financial inclusion in Tunisia compare with Morocco and Egypt?",
+        "a": "According to the Global Findex 2025, 37.8% of Tunisian adults had an account in 2024, compared with 44.4% in Morocco and 43.1% in Egypt. Tunisia also has the widest gender gap of the three, at 23 percentage points."
+      },
+      {
+        "q": "Why are national inclusion rates higher than Findex figures?",
+        "a": "Central banks such as the CBE (76.3%) and Bank Al-Maghrib (62%) use their own definitions and administrative data, which count accounts differently from the World Bank's survey. Findex is the better tool for comparing countries."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Tunisie, Maroc, Égypte : la fintech nord-africaine comparée",
+    "meta_description": "Fintech en Tunisie, au Maroc et en Égypte comparée : bancarisation, écart hommes-femmes, InstaPay, établissements de paiement, financement et leçons.",
+    "excerpt": "L'Égypte a la taille et InstaPay, le Maroc 16 millions de comptes de paiement, la Tunisie reste en retrait sur l'inclusion. Une comparaison chiffrée.",
+    "keywords": [
+      "comparaison fintech Tunisie Maroc Égypte",
+      "fintech Afrique du Nord",
+      "fintech Maghreb",
+      "Findex Maghreb",
+      "InstaPay Égypte",
+      "établissements de paiement Maroc",
+      "financement startups Égypte Maroc Tunisie"
+    ],
+    "tags": [
+      "Afrique du Nord",
+      "Comparaison",
+      "Inclusion financière",
+      "Paiements"
+    ],
+    "key_takeaways": [
+      "En 2024, 37,8 % des adultes tunisiens avaient un compte, contre 44,4 % au Maroc et 43,1 % en Égypte, selon le Findex.",
+      "Le taux égyptien a bondi depuis 27,4 % en 2021, tandis qu'InstaPay atteignait environ 22 millions de clients inscrits.",
+      "Le Maroc comptait 20 établissements de paiement et 16,3 millions de comptes de paiement en 2025, mais leur faible activation montre que l'agrément ne suffit pas.",
+      "Les startups égyptiennes ont levé 358 millions de dollars en fonds propres en 2025, les marocaines 79 millions ; Partech ne donne pas de total pour la Tunisie."
+    ],
+    "body": "La Tunisie, le Maroc et l'Égypte sont souvent rangés ensemble sous l'étiquette « fintech nord-africaine », mais ce sont des marchés très différents. L'Égypte a la taille et un système national de paiement instantané qui compte plus de 20 millions d'utilisateurs. Le Maroc s'est doté d'un large parc de comptes de paiement et d'établissements de paiement agréés. La Tunisie dispose d'une population instruite et connectée, mais accuse un retard sur la détention de comptes et le mobile money. Cette comparaison s'appuie sur les données disponibles en octobre 2026.\n\n## Taille de marché : trois échelles très différentes\n\nSelon la Banque mondiale, l'Égypte comptait environ **116,5 millions** d'habitants en 2024, le Maroc **38,1 millions** et la Tunisie **12,3 millions**. L'Égypte est près de dix fois plus peuplée que la Tunisie, ce qui explique une bonne partie de l'écart d'intérêt des investisseurs. Une fintech tunisienne qui vise de gros tours de table doit généralement présenter très tôt une ambition régionale.\n\n## Détention d'un compte : la Tunisie à la traîne\n\nLe Global Findex 2025 de la Banque mondiale, fondé sur les enquêtes de 2024, fournit des chiffres comparables sur la part des adultes détenant un compte auprès d'une institution financière ou d'un prestataire de mobile money :\n\n| | Tunisie | Maroc | Égypte |\n|---|---|---|---|\n| Ensemble des adultes | 37,8 % | 44,4 % | 43,1 % |\n| Hommes | 49,6 % | 54,6 % | 46,0 % |\n| Femmes | 26,6 % | 34,7 % | 40,2 % |\n\nTrois enseignements :\n\n- **L'Égypte a progressé le plus vite.** Son taux est passé de 27,4 % en 2021 à 43,1 % en 2024. La Tunisie a à peine bougé (de 36,9 % à 37,8 %), et le Maroc est resté stable à 44,4 %.\n- **L'écart hommes-femmes est le plus large en Tunisie.** Il atteint 23 points, contre environ 20 au Maroc et moins de 6 en Égypte.\n- **Les chiffres nationaux sont plus élevés.** La Banque centrale d'Égypte annonce un taux d'inclusion financière de 76,3 % en décembre 2024. Bank Al-Maghrib indique que 62 % des adultes résidents détenaient un compte en 2025. Ces indicateurs reposent sur des définitions plus larges : on peut suivre leur évolution dans le temps, mais pas les comparer au Findex.\n\nPour le détail tunisien, voir notre article sur [l'inclusion financière](post:financial-inclusion-tunisia).\n\n## Infrastructures de paiement\n\n### Égypte : le paiement instantané à grande échelle\n\nLe réseau de paiement instantané égyptien, **InstaPay**, a été lancé par la Banque centrale d'Égypte en 2022. En septembre 2026, son gouverneur Hassan Abdalla a indiqué que le réseau comptait environ **22 millions de clients inscrits** et avait traité **1,47 milliard de transactions pour 4 330 milliards de livres égyptiennes** au deuxième trimestre 2026, selon Ahram Online. Les portefeuilles mobiles ont aussi décollé : 943 milliards de livres de transactions au deuxième trimestre 2025, en hausse de 72 % sur un an. Voir [le boom de la fintech égyptienne](post:egypt-fintech-instapay).\n\n### Maroc : établissements de paiement et comptes\n\nSelon les données de supervision bancaire 2025 de Bank Al-Maghrib, reprises par Médias24, le pays comptait **20 établissements de paiement** et **24 banques**, et **16,3 millions de comptes de paiement** avaient été ouverts. L'usage reste toutefois en deçà de ces totaux. Fin 2024, seuls 28 % des comptes de paiement avaient servi au cours du dernier trimestre, et 86 % des opérations par carte étaient encore des retraits d'espèces. Voir [la fintech au Maroc](post:morocco-fintech).\n\n### Tunisie : la carte d'abord, le cash toujours\n\nLe rapport annuel 2025 de la Banque centrale de Tunisie recensait **5,85 millions** de cartes bancaires et **6 établissements de paiement** fin 2025. OFT Tunisie, filiale d'Ooredoo, a été agréé en mars 2026. Le pays comptait **469 000 portefeuilles mobiles** et **8,4 millions d'opérations de paiement mobile** en 2025, en hausse de 80,5 %, un rythme élevé à partir d'une base étroite. La Tunisie ne dispose pas d'un système de paiement instantané grand public d'une portée comparable à InstaPay (voir [les paiements instantanés en Tunisie](post:instant-payments-tunisia)).\n\n## Financement des startups\n\nLe rapport 2025 de Partech sur le capital-risque tech en Afrique, publié début 2026, illustre l'écart :\n\n- **Égypte :** 358 millions de dollars en fonds propres sur 80 opérations (+21 %), et 604 millions en incluant la dette. Le pays se classe quatrième en Afrique pour les fonds propres levés.\n- **Maroc :** 79 millions de dollars en fonds propres sur 26 opérations.\n- **Tunisie :** le rapport ne donne pas de montant total. Il recense 31 investisseurs actifs, en hausse de 24 %.\n\nÀ l'échelle du continent, la fintech a capté 32 % des fonds propres levés. Les fintechs égyptiennes profitent d'un marché intérieur assez vaste pour justifier des séries A et B. Les fondateurs tunisiens lèvent plus souvent des tours d'amorçage auprès de fonds soutenus par le fonds de fonds public ANAVA.\n\n## La connectivité n'est pas le problème\n\nSelon les données de la Banque mondiale fondées sur les estimations de l'UIT, l'usage d'internet atteignait en 2024 **76,5 %** en Tunisie, **91,2 %** au Maroc et **74,6 %** en Égypte. DataReportal l'estime à 84,3 % en Tunisie en octobre 2025. Les trois pays sont assez connectés pour une finance pensée d'abord pour le mobile. Les différences tiennent à la réglementation, à la distribution et à la confiance.\n\n## Les leçons pour la Tunisie\n\n- **Le paiement instantané interopérable entraîne l'adoption.** En Égypte, la détention de comptes a bondi dans les années où InstaPay et les wallets ont pris de l'ampleur. Un système de virement instantané, peu coûteux et fondé sur le numéro de téléphone, est la pièce qui manque le plus clairement en Tunisie.\n- **Un agrément doit se traduire en utilisateurs actifs.** L'exemple marocain montre qu'ouvrir des millions de comptes de paiement ne suffit pas : l'activation et l'acceptation chez les commerçants sont décisives.\n- **Les femmes représentent le principal potentiel.** L'écart de 23 points en Tunisie est le plus large des trois pays. Le faible écart égyptien montre qu'il peut être comblé.\n- **Grandir suppose un plan régional.** Avec 12 millions d'habitants, une fintech tunisienne qui vise de gros tours de table doit concevoir des produits exportables, dans les limites de la réglementation des changes.",
+    "faq": [
+      {
+        "q": "Quel pays d'Afrique du Nord a le secteur fintech le plus développé ?",
+        "a": "Par le financement et la taille, l'Égypte : ses startups ont levé 358 millions de dollars en fonds propres en 2025 selon Partech, et InstaPay comptait environ 22 millions de clients inscrits mi-2026. Le Maroc dispose d'un secteur d'établissements de paiement étoffé, la Tunisie d'un marché plus petit et moins mûr."
+      },
+      {
+        "q": "Comment l'inclusion financière tunisienne se compare-t-elle à celle du Maroc et de l'Égypte ?",
+        "a": "Selon le Global Findex 2025, 37,8 % des adultes tunisiens avaient un compte en 2024, contre 44,4 % au Maroc et 43,1 % en Égypte. La Tunisie présente aussi l'écart hommes-femmes le plus large des trois, à 23 points."
+      },
+      {
+        "q": "Pourquoi les taux nationaux sont-ils plus élevés que ceux du Findex ?",
+        "a": "Les banques centrales, comme la CBE (76,3 %) ou Bank Al-Maghrib (62 %), utilisent leurs propres définitions et des données administratives, qui ne comptent pas les comptes de la même façon que l'enquête de la Banque mondiale. Le Findex reste l'outil le plus adapté aux comparaisons entre pays."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Account ownership at a financial institution or with a mobile-money-service provider (FX.OWN.TOTL.ZS)",
+      "publisher": "World Bank (Global Findex)",
+      "url": "https://api.worldbank.org/v2/country/TUN;MAR;EGY;DZA/indicator/FX.OWN.TOTL.ZS?format=json&date=2011:2024"
+    },
+    {
+      "title": "2025 Africa Tech Venture Capital Report",
+      "publisher": "Partech Africa",
+      "url": "https://cdn-website.partechpartners.com/africa-reports/2025-africa-tech-venture-capital-report"
+    },
+    {
+      "title": "Egypt's IPN records 1.47 bln transactions worth EGP 4.33 tln in 2Q 2026: CBE governor",
+      "publisher": "Ahram Online",
+      "url": "https://english.ahram.org.eg/News/577944.aspx"
+    },
+    {
+      "title": "Secteur bancaire : ce qu'il faut retenir du bilan 2025 présenté par Bank Al-Maghrib",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2026/07/21/secteur-bancaire-ce-quil-faut-retenir-du-bilan-2025-presente-par-bank-al-maghrib-1727065/"
+    },
+    {
+      "title": "Maroc : 13,8 millions de comptes de paiement ouverts en 2024",
+      "publisher": "Finances News Hebdo",
+      "url": "https://fnh.ma/article/actualite-economique/compte-paiement-bam-2024"
+    },
+    {
+      "title": "CIB Egypt special report: flourishing fintechs and young Egyptians shake up banking",
+      "publisher": "AGBI",
+      "url": "https://www.agbi.com/banking-finance/2025/11/cib-egypt-special-report-flourishing-fintechs-and-young-egyptians-shake-up-banking/"
+    }
+  ]
+}

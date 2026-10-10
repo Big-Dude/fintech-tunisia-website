@@ -1,0 +1,150 @@
+{
+ "slug": "m-pesa-lessons",
+ "category": "africa",
+ "cover_motif": "phone-wallet",
+ "stats": [
+  {
+   "value": "KSh 41.68tn",
+   "label_en": "value processed by M-Pesa in the 12 months to March 2026",
+   "label_fr": "montant traité par M-Pesa sur les 12 mois à fin mars 2026",
+   "source": "Capital FM, 2026"
+  },
+  {
+   "value": "40.99M",
+   "label_en": "one-month active M-Pesa customers in Kenya, FY2026",
+   "label_fr": "clients M-Pesa actifs sur un mois au Kenya, exercice 2026",
+   "source": "The Kenya Times, Safaricom FY2026 results"
+  },
+  {
+   "value": "512,000",
+   "label_en": "active mobile wallets in Tunisia, H1 2026",
+   "label_fr": "portefeuilles mobiles actifs en Tunisie, 1er semestre 2026",
+   "source": "BCT Payments Bulletin No. 17 via Challenges.tn, 2026"
+  }
+ ],
+ "chart": null,
+ "en": {
+  "title": "M-Pesa Lessons: What North Africa Can Learn From Kenya",
+  "meta_description": "M-Pesa lessons for North Africa: how Kenya's regulator let mobile money launch, why agents mattered, why it failed in South Africa and what Tunisia can take.",
+  "excerpt": "M-Pesa turned Kenya into a mobile money nation, then flopped in South Africa. The difference holds useful lessons for Tunisia's wallet market.",
+  "keywords": [
+   "M-Pesa lessons",
+   "M-Pesa Kenya",
+   "mobile money regulation",
+   "M-Pesa South Africa failure",
+   "mobile money Tunisia",
+   "agent network mobile money",
+   "Safaricom M-Pesa 2026"
+  ],
+  "tags": [
+   "Mobile money",
+   "Kenya",
+   "Regulation",
+   "Wallets",
+   "Tunisia"
+  ],
+  "key_takeaways": [
+   "M-Pesa launched in March 2007 after the Central Bank of Kenya issued a letter of no objection rather than waiting for a new law.",
+   "Customer funds were held in a trust account at a commercial bank, and agents pre-funded their own float, which limited risk from day one.",
+   "In FY2026, M-Pesa had about 41 million monthly active users and generated KSh 182.7 billion, 45.6% of Safaricom's Kenyan service revenue.",
+   "M-Pesa failed in South Africa, where most people were already banked; Tunisia must design for its own gaps, not copy Kenya."
+  ],
+  "body": "M-Pesa is the best-known fintech story to come out of Africa: a phone-based money transfer service that, in less than two decades, became the backbone of Kenya's economy. But it also failed when exported to a market that did not need it. The **M-Pesa lessons** that matter for North Africa are less about technology than about regulation, cash networks and fit with local needs.\n\n## How M-Pesa started\n\nSafaricom, the Kenyan operator partly owned by Vodafone, launched M-Pesa in March 2007. Kenya was then a largely unbanked country: according to the FinAccess survey cited by the [Alliance for Financial Inclusion (AFI)](https://new.afi-global.org/wp-content/uploads/publications/afi_casestudy_mpesa_en.pdf), only 19% of the population had a bank account in 2006, while 55% had access to a mobile phone.\n\nThe service let users deposit cash with an agent, send it by text message and let the recipient withdraw it from another agent. Early growth was fast. AFI's 2010 case study records 2.5 million active customers in May 2008 and more than 8.5 million customers and 12,000 agents by November 2009.\n\n## Lesson 1: the regulator chose to engage\n\nThe decisive step was regulatory. Kenya had no specific law for mobile money. In January 2007, the Central Bank of Kenya's (CBK) legal team concluded that M-Pesa was not banking business, because customer funds were not lent out and earned no interest. In February 2007, the acting governor issued a **letter of no objection** with conditions on system integrity, consumer protection, anti-money laundering and record keeping.\n\nCBK then supervised the service step by step. Safaricom had to seek approval for each new use case, such as bulk salary payments and merchant payments in 2008, and send monthly reports. Former governor Njuguna Ndung'u recalled in July 2026, as reported by [Capital FM](https://capitalfm.africa/ex-cbk-governor-ndungu-reveals-m-pesa-faced-initial-resistance/), that he initially found \"a very hostile central bank\", with some officials seeing the service as a money-laundering risk.\n\nFor Tunisia, the parallel is the Central Bank's [regulatory sandbox](post:bct-regulatory-sandbox) and its payment institution regime. The Kenyan case shows that a regulator can allow a new model under strict conditions and tighten rules as it learns.\n\n## Lesson 2: protect the money, then build the network\n\nTwo design choices limited risk from the start:\n\n- **Trust account.** Customer balances were held in a pooled trust account at a commercial bank, so the money backing electronic value was always there.\n- **Pre-funded agents.** Agents bought their electronic float in advance and Safaricom reconciled it daily. Neither customers nor Safaricom took credit risk on agents.\n\nThe agent network was the real product. People trusted M-Pesa because they could turn digital money back into cash nearby. A wallet without convenient cash-in and cash-out points stays marginal, a lesson Wave later applied in West Africa (see [how Wave disrupted mobile money pricing](post:wave-senegal-mobile-money)).\n\n## M-Pesa today\n\nNearly 20 years after launch, M-Pesa is Safaricom's main growth engine. According to Safaricom's results for the year to March 2026, reported by [HapaKenya](https://hapakenya.com/2026/05/07/safaricom-hits-historic-ksh-118-4b-net-profit-as-kenya-core-business-surges/) and The Kenya Times:\n\n- M-Pesa revenue reached KSh 182.7 billion, up 13.4%, or 45.6% of service revenue in Kenya;\n- the service had 40.99 million one-month active customers in Kenya;\n- merchants accepting M-Pesa rose 71% to 3.1 million;\n- M-Pesa Ethiopia reached 5.2 million 90-day active users.\n\nCapital FM reports that M-Pesa processed KSh 41.68 trillion in the 12 months to March 2026. Kenya also has one of the highest account ownership rates in Africa: 90.1% of adults in 2024, according to World Bank Findex data compiled by Intelpoint.\n\n## Lesson 3: it does not copy and paste\n\nVodacom launched M-Pesa in South Africa in 2010 with a target of 10 million users in five years. By March 2015 it had about one million registered users and only about 76,000 active ones, and Vodacom announced its closure in 2016, as [ITWeb reported](https://www.itweb.co.za/article/what-went-wrong-for-m-pesa-in-sa/lP3gQ2MG2897nRD1).\n\nAnalysts quoted by ITWeb gave clear reasons. South Africa already had high bank penetration and banks served low-income customers. M-Pesa added little beyond a USSD menu. Kenya, by contrast, combined a large unbanked population, a strong domestic remittance culture, regulatory openness and a dominant operator.\n\n## What it means for Tunisia and North Africa\n\nTunisia sits between the two cases. Many adults remain outside the banking system, but La Poste, banks and cards already cover part of the population. Mobile money is still small. According to the Central Bank's Payments Bulletin No. 17, reported by [Challenges.tn](https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/), Tunisia had 512,000 active mobile wallets and 18 licensed payment service providers in the first half of 2026. Mobile transactions totalled 5.0 million, worth 914.2 million dinars.\n\nThe market is also opening to telecom operators. In March 2026, Tunisie Telecom launched the Kashy wallet with Viamobile, a licensed payment institution, through about 30 outlets, according to Ecofin Agency.\n\nThe practical lessons for Tunisian founders and regulators:\n\n- **Start from a real need.** In Kenya it was sending money home. In Tunisia, candidates include domestic transfers, bill and school payments, and [diaspora remittances](post:diaspora-remittances-tunisia).\n- **Cash points decide adoption.** Post offices, shops and telecom outlets can serve as agents if rules allow it and float is managed.\n- **Proportionate rules.** Safeguarded funds and step-by-step approval can protect users without blocking new entrants.\n- **Interoperability matters.** Kenya's single dominant wallet is not a model to copy. Tunisia's [mobile payment landscape](post:mobile-payments-tunisia) is more fragmented, so shared rails and common standards will matter more.",
+  "faq": [
+   {
+    "q": "Why was M-Pesa so successful in Kenya?",
+    "a": "M-Pesa met a real need: sending money across the country in a market where few people had bank accounts. The Central Bank of Kenya allowed it to launch in 2007 under conditions, and a large agent network made it easy to turn cash into digital money and back."
+   },
+   {
+    "q": "Why did M-Pesa fail in South Africa?",
+    "a": "South Africa already had high bank penetration and banks served low-income customers, so M-Pesa offered little extra value. By March 2015 it had about one million registered users but only around 76,000 active ones, and Vodacom announced its closure in 2016."
+   },
+   {
+    "q": "How many people use M-Pesa?",
+    "a": "Safaricom reported 40.99 million one-month active M-Pesa customers in Kenya for the year to March 2026. M-Pesa Ethiopia had 5.2 million 90-day active users. M-Pesa also operates in other African markets through Vodacom."
+   },
+   {
+    "q": "Could an M-Pesa work in Tunisia?",
+    "a": "Not as a copy. Tunisia had only 512,000 active mobile wallets in H1 2026, and its market is split among banks, La Poste and payment institutions. The useful lessons are proportionate regulation, protected customer funds and a dense cash-in and cash-out network."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Les leçons de M-Pesa pour l'Afrique du Nord",
+  "meta_description": "Les leçons de M-Pesa : le régulateur kényan qui laisse naître le mobile money, le rôle des agents, l'échec sud-africain et ce qu'en tirer en Tunisie.",
+  "excerpt": "M-Pesa a fait du Kenya une nation du mobile money, puis a échoué en Afrique du Sud. Cet écart est riche d'enseignements pour le marché tunisien des wallets.",
+  "keywords": [
+   "leçons de M-Pesa",
+   "M-Pesa Kenya",
+   "réglementation mobile money",
+   "échec M-Pesa Afrique du Sud",
+   "mobile money Tunisie",
+   "réseau d'agents mobile money",
+   "Safaricom M-Pesa 2026"
+  ],
+  "tags": [
+   "Mobile money",
+   "Kenya",
+   "Réglementation",
+   "Wallets",
+   "Tunisie"
+  ],
+  "key_takeaways": [
+   "M-Pesa a été lancé en mars 2007 après une lettre de non-objection de la Banque centrale du Kenya, sans attendre une nouvelle loi.",
+   "Les fonds des clients étaient logés sur un compte fiduciaire dans une banque commerciale et les agents préfinançaient leur trésorerie, ce qui limitait les risques dès le départ.",
+   "Sur l'exercice 2026, M-Pesa comptait environ 41 millions d'utilisateurs actifs mensuels et 182,7 milliards de shillings de revenus, soit 45,6 % des revenus de services de Safaricom au Kenya.",
+   "M-Pesa a échoué en Afrique du Sud, où la population était déjà bancarisée : la Tunisie doit partir de ses propres manques, pas copier le Kenya."
+  ],
+  "body": "M-Pesa est la success story fintech africaine la plus connue : un service de transfert d'argent par téléphone devenu, en moins de vingt ans, la colonne vertébrale de l'économie kényane. Mais il a aussi échoué lorsqu'il a été exporté vers un marché qui n'en avait pas besoin. Les **leçons de M-Pesa** utiles à l'Afrique du Nord tiennent moins à la technologie qu'à la réglementation, aux réseaux de cash et à l'adéquation avec les besoins locaux.\n\n## Les débuts de M-Pesa\n\nSafaricom, l'opérateur kényan en partie détenu par Vodafone, a lancé M-Pesa en mars 2007. Le Kenya était alors très peu bancarisé : selon l'enquête FinAccess citée par l'[Alliance for Financial Inclusion (AFI)](https://new.afi-global.org/wp-content/uploads/publications/afi_casestudy_mpesa_en.pdf), 19 % seulement de la population avaient un compte bancaire en 2006, alors que 55 % avaient accès à un téléphone mobile.\n\nLe principe : déposer des espèces chez un agent, les envoyer par SMS, puis laisser le destinataire les retirer chez un autre agent. La croissance a été rapide. L'étude de cas publiée par l'AFI en 2010 relève 2,5 millions de clients actifs en mai 2008, puis plus de 8,5 millions de clients et 12 000 agents en novembre 2009.\n\n## Leçon n° 1 : un régulateur qui choisit de dialoguer\n\nL'étape décisive a été réglementaire. Le Kenya n'avait pas de loi sur le mobile money. En janvier 2007, le service juridique de la Banque centrale du Kenya (CBK) a conclu que M-Pesa ne relevait pas de l'activité bancaire, puisque les fonds n'étaient ni prêtés ni rémunérés. En février 2007, le gouverneur par intérim a délivré une **lettre de non-objection** assortie de conditions : intégrité du système, protection des consommateurs, lutte contre le blanchiment et tenue des registres.\n\nLa CBK a ensuite supervisé le service pas à pas. Safaricom devait obtenir son feu vert pour chaque nouvel usage, comme le versement groupé de salaires ou le paiement marchand en 2008, et transmettre des rapports mensuels. L'ancien gouverneur Njuguna Ndung'u a raconté en juillet 2026, selon [Capital FM](https://capitalfm.africa/ex-cbk-governor-ndungu-reveals-m-pesa-faced-initial-resistance/), avoir d'abord trouvé une banque centrale « très hostile », certains responsables y voyant un risque de blanchiment.\n\nEn Tunisie, le parallèle se trouve dans le [bac à sable réglementaire de la BCT](post:bct-regulatory-sandbox) et le régime des établissements de paiement. Le cas kényan montre qu'un régulateur peut autoriser un nouveau modèle sous conditions strictes, puis ajuster les règles au fil de l'expérience.\n\n## Leçon n° 2 : protéger l'argent, puis bâtir le réseau\n\nDeux choix de conception ont limité les risques dès l'origine :\n\n- **Un compte fiduciaire.** Les soldes des clients étaient logés sur un compte fiduciaire commun dans une banque commerciale : la monnaie électronique était toujours adossée à des fonds réels.\n- **Des agents préfinancés.** Les agents achetaient leur monnaie électronique à l'avance et Safaricom rapprochait les comptes chaque jour. Ni les clients ni l'opérateur ne portaient de risque de crédit sur les agents.\n\nLe réseau d'agents était le véritable produit. Les Kényans faisaient confiance à M-Pesa parce qu'ils pouvaient reconvertir leur argent numérique en espèces près de chez eux. Un wallet sans points de dépôt et de retrait accessibles reste marginal, une leçon que Wave a ensuite appliquée en Afrique de l'Ouest (voir [comment Wave a bousculé les prix du mobile money](post:wave-senegal-mobile-money)).\n\n## M-Pesa aujourd'hui\n\nPrès de vingt ans après son lancement, M-Pesa est le principal moteur de croissance de Safaricom. Selon les résultats de l'exercice clos en mars 2026, relayés par [HapaKenya](https://hapakenya.com/2026/05/07/safaricom-hits-historic-ksh-118-4b-net-profit-as-kenya-core-business-surges/) et The Kenya Times :\n\n- les revenus de M-Pesa ont atteint 182,7 milliards de shillings, en hausse de 13,4 %, soit 45,6 % des revenus de services au Kenya ;\n- le service comptait 40,99 millions de clients actifs sur un mois au Kenya ;\n- le nombre de commerçants acceptant M-Pesa a bondi de 71 %, à 3,1 millions ;\n- M-Pesa Éthiopie a atteint 5,2 millions d'utilisateurs actifs sur 90 jours.\n\nSelon Capital FM, M-Pesa a traité 41 680 milliards de shillings sur les douze mois à fin mars 2026. Le Kenya affiche aussi l'un des taux de détention de compte les plus élevés d'Afrique : 90,1 % des adultes en 2024, d'après les données Findex de la Banque mondiale compilées par Intelpoint.\n\n## Leçon n° 3 : un modèle qui ne se duplique pas\n\nVodacom a lancé M-Pesa en Afrique du Sud en 2010 avec un objectif de 10 millions d'utilisateurs en cinq ans. En mars 2015, le service comptait environ un million d'inscrits mais seulement quelque 76 000 utilisateurs actifs, et Vodacom a annoncé sa fermeture en 2016, comme l'a rapporté [ITWeb](https://www.itweb.co.za/article/what-went-wrong-for-m-pesa-in-sa/lP3gQ2MG2897nRD1).\n\nLes analystes cités par ITWeb sont clairs. L'Afrique du Sud était déjà largement bancarisée et les banques servaient les ménages modestes. M-Pesa n'apportait pas grand-chose de plus qu'un menu USSD. Le Kenya, lui, réunissait une large population non bancarisée, une forte culture des transferts entre ville et campagne, un régulateur ouvert et un opérateur dominant.\n\n## Ce que cela signifie pour la Tunisie et l'Afrique du Nord\n\nLa Tunisie se situe entre ces deux cas. Une grande partie des adultes reste hors du système bancaire, mais La Poste, les banques et les cartes couvrent déjà une partie de la population. Le mobile money reste modeste : selon le Bulletin des paiements n° 17 de la BCT, relayé par [Challenges.tn](https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/), le pays comptait 512 000 portefeuilles mobiles actifs et 18 prestataires de services de paiement agréés au premier semestre 2026, pour 5,0 millions d'opérations d'un montant de 914,2 millions de dinars.\n\nLe marché s'ouvre aussi aux opérateurs télécoms. En mars 2026, Tunisie Telecom a lancé le wallet Kashy avec Viamobile, établissement de paiement agréé, dans une trentaine de boutiques, selon Ecofin Agency.\n\nLes enseignements concrets pour les fondateurs et régulateurs tunisiens :\n\n- **Partir d'un besoin réel.** Au Kenya, c'était l'envoi d'argent à la famille. En Tunisie, les candidats sont les transferts domestiques, le paiement des factures et des frais scolaires, et les [transferts de la diaspora](post:diaspora-remittances-tunisia).\n- **Les points cash font l'adoption.** Bureaux de poste, commerces et boutiques télécoms peuvent servir d'agents si les règles le permettent et si la trésorerie est bien gérée.\n- **Des règles proportionnées.** Des fonds cantonnés et une approbation par étapes protègent les utilisateurs sans bloquer les nouveaux entrants.\n- **L'interopérabilité est essentielle.** Le wallet unique et dominant du Kenya n'est pas un modèle à copier. Le [paysage tunisien du paiement mobile](post:mobile-payments-tunisia) étant plus fragmenté, des infrastructures et des standards communs compteront davantage.",
+  "faq": [
+   {
+    "q": "Pourquoi M-Pesa a-t-il si bien réussi au Kenya ?",
+    "a": "M-Pesa répondait à un besoin réel : envoyer de l'argent à travers le pays dans un marché où peu de gens avaient un compte bancaire. La Banque centrale du Kenya l'a autorisé sous conditions en 2007, et un vaste réseau d'agents permettait de convertir facilement espèces et monnaie électronique."
+   },
+   {
+    "q": "Pourquoi M-Pesa a-t-il échoué en Afrique du Sud ?",
+    "a": "L'Afrique du Sud était déjà fortement bancarisée et les banques servaient les clients modestes : M-Pesa apportait peu de valeur ajoutée. En mars 2015, il comptait environ un million d'inscrits mais seulement quelque 76 000 actifs, et Vodacom a annoncé sa fermeture en 2016."
+   },
+   {
+    "q": "Combien de personnes utilisent M-Pesa ?",
+    "a": "Safaricom a déclaré 40,99 millions de clients M-Pesa actifs sur un mois au Kenya pour l'exercice clos en mars 2026. M-Pesa Éthiopie comptait 5,2 millions d'utilisateurs actifs sur 90 jours. Le service est aussi présent dans d'autres pays africains via Vodacom."
+   },
+   {
+    "q": "Un M-Pesa pourrait-il fonctionner en Tunisie ?",
+    "a": "Pas sous forme de copie. La Tunisie ne comptait que 512 000 wallets actifs au premier semestre 2026 et son marché est partagé entre banques, La Poste et établissements de paiement. Les leçons utiles sont une réglementation proportionnée, des fonds clients protégés et un réseau dense de points de dépôt et de retrait."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "title": "Case study: M-PESA and the Central Bank of Kenya (2010)",
+   "publisher": "Alliance for Financial Inclusion",
+   "url": "https://new.afi-global.org/wp-content/uploads/publications/afi_casestudy_mpesa_en.pdf"
+  },
+  {
+   "title": "Ex-CBK Governor Ndung'u reveals M-Pesa faced initial resistance",
+   "publisher": "Capital FM",
+   "url": "https://capitalfm.africa/ex-cbk-governor-ndungu-reveals-m-pesa-faced-initial-resistance/"
+  },
+  {
+   "title": "Safaricom hits historic KSh 118.4B net profit as Kenya core business surges",
+   "publisher": "HapaKenya",
+   "url": "https://hapakenya.com/2026/05/07/safaricom-hits-historic-ksh-118-4b-net-profit-as-kenya-core-business-surges/"
+  },
+  {
+   "title": "What went wrong for M-Pesa in SA?",
+   "publisher": "ITWeb",
+   "url": "https://www.itweb.co.za/article/what-went-wrong-for-m-pesa-in-sa/lP3gQ2MG2897nRD1"
+  },
+  {
+   "title": "Paiements en Tunisie : le mobile et le commerce en forte hausse au S1 2026 (BCT)",
+   "publisher": "Challenges.tn",
+   "url": "https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/"
+  },
+  {
+   "title": "Tunisia's state telecom operator enters digital services with Kashy mobile wallet",
+   "publisher": "Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news-digital/1903-53913-tunisia-s-state-telecom-operator-enters-digital-services-with-kashy-mobile-wallet"
+  }
+ ]
+}

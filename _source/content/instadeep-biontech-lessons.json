@@ -1,0 +1,161 @@
+{
+  "slug": "instadeep-biontech-lessons",
+  "category": "funding",
+  "cover_motif": "chip-ai",
+  "stats": [
+    {
+      "value": "£562M",
+      "label_en": "maximum deal value, including £200M in milestone payments",
+      "label_fr": "valeur maximale de l'opération, dont 200 M£ liés à des objectifs",
+      "source": "BioNTech via TechCrunch, 2023"
+    },
+    {
+      "value": "~290",
+      "label_en": "InstaDeep employees who joined BioNTech at closing",
+      "label_fr": "salariés d'InstaDeep ayant rejoint BioNTech à la finalisation",
+      "source": "InstaDeep / BioNTech, July 2023"
+    },
+    {
+      "value": "2014",
+      "label_en": "founded in Tunis with two laptops and $2,000",
+      "label_fr": "fondée à Tunis avec deux ordinateurs et 2 000 dollars",
+      "source": "TechCrunch, 2023"
+    }
+  ],
+  "chart": {
+    "title_en": "InstaDeep: from Series A to exit (US$ million)",
+    "title_fr": "InstaDeep : de la série A à la sortie (millions de dollars)",
+    "unit": "$M",
+    "bars": [
+      {
+        "label_en": "Series A (2019)",
+        "label_fr": "Série A (2019)",
+        "value": 8.5
+      },
+      {
+        "label_en": "Series B (2022)",
+        "label_fr": "Série B (2022)",
+        "value": 100.0
+      },
+      {
+        "label_en": "BioNTech deal, max. value (2023)",
+        "label_fr": "Rachat BioNTech, valeur max. (2023)",
+        "value": 682.0
+      }
+    ],
+    "source_name": "TechCrunch, 31 January 2023",
+    "source_url": "https://techcrunch.com/2023/01/31/instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global/"
+  },
+  "en": {
+    "title": "InstaDeep and BioNTech: Lessons for Tunisian Tech",
+    "meta_description": "InstaDeep went from a Tunis start in 2014 to a BioNTech deal worth up to £562M. How it raised, why it moved to London and what Tunisian founders can learn.",
+    "excerpt": "Founded in Tunis with two laptops, InstaDeep was bought by BioNTech for up to £562 million. What the deal teaches Tunisian tech and fintech founders.",
+    "keywords": [
+      "InstaDeep BioNTech",
+      "InstaDeep acquisition",
+      "InstaDeep Tunisia",
+      "Karim Beguir",
+      "largest African startup exit",
+      "Tunisian tech exits"
+    ],
+    "tags": [
+      "Exits",
+      "AI",
+      "InstaDeep",
+      "M&A"
+    ],
+    "key_takeaways": [
+      "BioNTech agreed in January 2023 to buy InstaDeep for up to £562M, including £200M in milestone payments; the deal closed on 31 July 2023.",
+      "InstaDeep was bootstrapped until 2018, then raised an $8.5M Series A led by AfricInvest (2019) and a $100M Series B (2022).",
+      "BioNTech was a client, then a partner, then an investor, then the acquirer.",
+      "The company was built largely in Tunis but headquartered in London, which made foreign fundraising and the sale easier."
+    ],
+    "body": "In January 2023, BioNTech agreed to buy InstaDeep, an AI company founded in Tunis in 2014, for up to £562 million (about $680 million). It is still the largest exit by an African-born tech startup. InstaDeep is not a fintech, but its story says a lot about how Tunisian tech companies can build value, raise money and sell.\n\n## From two laptops to a BioNTech deal\n\nInstaDeep was founded in **Tunis in 2014** by **Karim Beguir**, a former financial engineer at JPMorgan and Bank of America, and **Zohra Slim**, a self-taught technologist. Beguir has described the start as \"two laptops, $2,000, and a lot of enthusiasm,\" as he told TechCrunch.\n\nThe early years matter for founders today:\n\n- **No outside capital until 2018.** The company was bootstrapped.\n- **Research brought in clients.** Beguir's published AI research brought specialised clients to InstaDeep, and some of them, including Google and BioNTech, later became partners or investors.\n- **An early move to London.** InstaDeep moved its headquarters to London in 2015, according to Rest of World, while keeping a large team in Tunis.\n\n## The funding path\n\n- **2019 Series A:** **$8.5 million** at a reported $30 million valuation, led by **AfricInvest** with **Endeavor Catalyst** and AI angels. It was AfricInvest's first AI investment.\n- **2019–2020:** a partnership with **BioNTech**, followed by a joint AI innovation lab in 2020 to work on cancer and infectious-disease medicines.\n- **January 2022 Series B:** **$100 million**, led by **Alpha Intelligence Capital** and **CDIB**, with **Google** and **BioNTech** taking part. That was more than 12 times the size of the previous priced round.\n\nBy the time of the acquisition, InstaDeep had about 240 staff, according to TechCrunch, with offices in Tunis, London, Lagos, Dubai, Berlin, Cape Town, Paris, Boston and San Francisco.\n\n## The BioNTech acquisition: the numbers\n\nBioNTech announced the deal on **10 January 2023**:\n\n- Up to **£562 million** in total for the shares it did not already own.\n- About **£362 million** paid in cash and BioNTech shares.\n- Up to **£200 million** in further payments tied to performance milestones.\n\nThe deal **closed on 31 July 2023**. BioNTech put the total consideration at about **€500 million** and said around **290** InstaDeep employees were joining the group. InstaDeep became BioNTech's London-based AI subsidiary. It kept serving outside clients and makes tools such as DeepChain (protein design) and DeepPCB. Beguir remained CEO.\n\nAfricInvest's Khaled Ben Jilani told TechCrunch the firm estimated a conservative return of more than 10 times its investment.\n\n## Is InstaDeep Tunisian?\n\nThe question came up in Tunisia during the 2022 Series B. On Express FM, quoted by Webdo, Beguir said the company was founded by two Tunisian engineers and has an office in Tunis, even though its head office is in London. The two answers are not contradictory. InstaDeep was started and largely built in Tunisia, and it is legally a UK company. For founders, the point is that **where the company is incorporated and where it does its work can be in different countries**.\n\n## Lessons for Tunisian tech and fintech founders\n\n### 1. Build with Tunisian talent, sell to the world\nBeguir told Rest of World that InstaDeep moved toward US and European clients because few local customers wanted its products, while Tunisian universities made the country \"a great place to hire deep tech and software talent.\" Tunisian fintechs face a similar choice: the local market is small and regulated, while the talent pool is strong.\n\n### 2. Credibility can come from published work\nInstaDeep's published research brought it clients and partners. A B2B fintech can build credibility the same way, through technical work and well-known clients.\n\n### 3. A strategic partner can become the buyer\nBioNTech was a client, then a partner, then a Series B investor, then the acquirer. For fintechs, that partner is often a bank, a payments network or an international software vendor. The Expensya deal followed a similar logic (see [Expensya and Medius](post:expensya-medius-acquisition)).\n\n### 4. Structure is part of the strategy\nA UK headquarters made it easier to raise from foreign investors and to sell to a German listed company. Tunisian FX rules and the limited reach of local capital still push many founders to set up a holding abroad (see [how to raise funding](post:how-to-raise-funding-tunisian-fintech)).\n\n### 5. One exit does not make an ecosystem\nExcluding InstaDeep, Tunisian startups raised only about $17 million in 2022, according to Partech figures cited by TechCrunch. They raised $39 million in 2025 (AVCA), and disclosed deals nearly stopped in early 2026 (see [funding trends](post:tunisia-startup-funding-trends)). InstaDeep did not change the size of the Tunisian market.\n\n## The spillover\n\nSome of the money and experience is coming back. Beguir invested as an angel in **Thunder Code**, the AI startup launched in 2025 by Expensya's founders. InstaDeep has also supported events such as Deep Learning Indaba and AI Hack. In a 2024 interview reported by Al-Monitor, Beguir predicted \"10 InstaDeeps in 10 years\" if Africa channels its talent into high-level innovation, and cited limits on researchers' movement across the continent as an obstacle. Tunisia's tech talent, and its continued emigration (see [brain drain](post:tunisia-tech-talent-brain-drain)), will decide whether that happens.",
+    "faq": [
+      {
+        "q": "How much did BioNTech pay for InstaDeep?",
+        "a": "BioNTech agreed to pay up to £562 million (about $680 million) for the shares it did not already own: about £362 million in cash and shares plus up to £200 million tied to performance milestones. At closing in July 2023, BioNTech put the total consideration at about €500 million."
+      },
+      {
+        "q": "Is InstaDeep a Tunisian company?",
+        "a": "InstaDeep was founded in Tunis in 2014 by Tunisians Karim Beguir and Zohra Slim and kept an office there, but its headquarters moved to London in 2015 and it is now BioNTech's UK-based AI subsidiary."
+      },
+      {
+        "q": "Who invested in InstaDeep before the acquisition?",
+        "a": "AfricInvest led its $8.5 million Series A in 2019 with Endeavor Catalyst. The $100 million Series B in 2022 was led by Alpha Intelligence Capital and CDIB, with Google and BioNTech taking part."
+      }
+    ]
+  },
+  "fr": {
+    "title": "InstaDeep et BioNTech : les leçons pour la tech tunisienne",
+    "meta_description": "De Tunis en 2014 au rachat par BioNTech pour 562 M£ maximum : comment InstaDeep a levé des fonds, pourquoi elle est partie à Londres et les leçons à retenir.",
+    "excerpt": "Fondée à Tunis avec deux ordinateurs portables, InstaDeep a été rachetée par BioNTech pour 562 millions de livres maximum. Les leçons pour les fondateurs tunisiens.",
+    "keywords": [
+      "InstaDeep BioNTech",
+      "rachat InstaDeep",
+      "InstaDeep Tunisie",
+      "Karim Beguir",
+      "plus grosse sortie startup africaine",
+      "exits tech Tunisie"
+    ],
+    "tags": [
+      "Sorties",
+      "IA",
+      "InstaDeep",
+      "Fusions-acquisitions"
+    ],
+    "key_takeaways": [
+      "BioNTech a accepté en janvier 2023 de racheter InstaDeep pour 562 M£ maximum, dont 200 M£ liés à des objectifs ; l'opération a été finalisée le 31 juillet 2023.",
+      "InstaDeep s'est autofinancée jusqu'en 2018, puis a levé une série A de 8,5 M$ menée par AfricInvest (2019) et une série B de 100 M$ (2022).",
+      "BioNTech a été client, puis partenaire, puis investisseur, puis acquéreur.",
+      "L'entreprise a été construite en grande partie à Tunis mais avait son siège à Londres, ce qui a facilité la levée de fonds étrangers et la vente."
+    ],
+    "body": "En janvier 2023, BioNTech a accepté de racheter InstaDeep, une entreprise d'intelligence artificielle fondée à Tunis en 2014, pour un montant pouvant atteindre 562 millions de livres (environ 680 millions de dollars). Cela reste la plus grosse sortie d'une startup tech née en Afrique. InstaDeep n'est pas une fintech, mais son parcours en dit long sur la façon dont une entreprise tech tunisienne peut créer de la valeur, lever des fonds et se vendre.\n\n## De deux ordinateurs portables au rachat par BioNTech\n\nInstaDeep a été fondée à **Tunis en 2014** par **Karim Beguir**, ancien ingénieur financier chez JPMorgan et Bank of America, et **Zohra Slim**, informaticienne autodidacte. Beguir a décrit ce départ à TechCrunch avec « deux ordinateurs portables, 2 000 dollars et beaucoup d'enthousiasme ».\n\nLes premières années intéressent directement les fondateurs d'aujourd'hui :\n\n- **Aucun capital extérieur avant 2018.** L'entreprise s'est entièrement autofinancée.\n- **La recherche a fait venir les clients.** Les travaux de recherche en IA publiés par Beguir ont attiré des clients spécialisés, dont certains, comme Google et BioNTech, sont ensuite devenus partenaires ou investisseurs.\n- **Un départ précoce pour Londres.** InstaDeep a transféré son siège à Londres en 2015, selon Rest of World, tout en gardant une grande équipe à Tunis.\n\n## Le parcours de financement\n\n- **Série A en 2019 :** **8,5 millions de dollars** pour une valorisation rapportée de 30 millions, menée par **AfricInvest** avec **Endeavor Catalyst** et des business angels de l'IA. C'était le premier investissement d'AfricInvest dans l'IA.\n- **2019-2020 :** un partenariat avec **BioNTech**, puis un laboratoire commun d'innovation en IA en 2020 pour travailler sur des traitements contre le cancer et les maladies infectieuses.\n- **Série B en janvier 2022 :** **100 millions de dollars**, menée par **Alpha Intelligence Capital** et **CDIB**, avec la participation de **Google** et de **BioNTech**. C'était plus de douze fois le montant du tour précédent.\n\nAu moment du rachat, InstaDeep comptait environ 240 salariés selon TechCrunch, avec des bureaux à Tunis, Londres, Lagos, Dubaï, Berlin, Le Cap, Paris, Boston et San Francisco.\n\n## Le rachat par BioNTech : les chiffres\n\nBioNTech a annoncé l'opération le **10 janvier 2023** :\n\n- Jusqu'à **562 millions de livres** au total pour les actions qu'il ne détenait pas encore.\n- Environ **362 millions de livres** versés en numéraire et en actions BioNTech.\n- Jusqu'à **200 millions de livres** de paiements supplémentaires liés à des objectifs de performance.\n\nL'opération a été **finalisée le 31 juillet 2023**. BioNTech a évalué la contrepartie totale à environ **500 millions d'euros** et indiqué qu'environ **290** salariés d'InstaDeep rejoignaient le groupe. InstaDeep est devenue la filiale d'IA de BioNTech basée à Londres. Elle continue de servir des clients extérieurs et développe des outils comme DeepChain (conception de protéines) et DeepPCB. Karim Beguir est resté PDG.\n\nKhaled Ben Jilani, d'AfricInvest, a indiqué à TechCrunch que le fonds estimait de façon prudente son retour à plus de dix fois sa mise.\n\n## InstaDeep est-elle tunisienne ?\n\nLa question a été posée en Tunisie au moment de la série B de 2022. Sur Express FM, cité par Webdo, Beguir a rappelé que l'entreprise avait été fondée par deux ingénieurs tunisiens et qu'elle avait un bureau à Tunis, même si son siège est à Londres. Les deux réponses ne se contredisent pas. InstaDeep a été lancée et en grande partie construite en Tunisie, et c'est juridiquement une société britannique. Pour les fondateurs, l'essentiel est que **le pays où l'entreprise est immatriculée et celui où elle travaille peuvent être différents**.\n\n## Les leçons pour les fondateurs tech et fintech tunisiens\n\n### 1. Bâtir avec les talents tunisiens, vendre au monde\nBeguir a expliqué à Rest of World qu'InstaDeep s'était tournée vers des clients américains et européens parce que peu de clients locaux voulaient ses produits, tandis que les universités tunisiennes faisaient du pays un excellent vivier pour recruter des talents en deeptech et en logiciel. Les fintech tunisiennes font face au même choix : le marché local est petit et réglementé, mais le vivier de talents est solide.\n\n### 2. La crédibilité peut venir des travaux publiés\nLes travaux de recherche publiés par InstaDeep lui ont amené clients et partenaires. Une fintech B2B peut bâtir sa crédibilité de la même façon, par son travail technique et des clients reconnus.\n\n### 3. Un partenaire stratégique peut devenir l'acquéreur\nBioNTech a été client, puis partenaire, puis investisseur de la série B, puis acquéreur. Pour une fintech, ce partenaire est souvent une banque, un réseau de paiement ou un éditeur de logiciels international. Le rachat d'Expensya a suivi une logique proche (voir [Expensya et Medius](post:expensya-medius-acquisition)).\n\n### 4. La structure fait partie de la stratégie\nUn siège au Royaume-Uni a facilité la levée auprès d'investisseurs étrangers et la vente à une société allemande cotée. La réglementation tunisienne des changes et la faible capacité du capital local poussent encore beaucoup de fondateurs à créer une holding à l'étranger (voir [comment lever des fonds](post:how-to-raise-funding-tunisian-fintech)).\n\n### 5. Une sortie ne fait pas un écosystème\nHors InstaDeep, les startups tunisiennes n'ont levé qu'environ 17 millions de dollars en 2022, selon des données de Partech citées par TechCrunch. Elles ont levé 39 millions de dollars en 2025 (AVCA), et les opérations annoncées se sont presque arrêtées début 2026 (voir [les tendances du financement](post:tunisia-startup-funding-trends)). InstaDeep n'a pas changé la taille du marché tunisien.\n\n## Les retombées\n\nUne partie de l'argent et de l'expérience revient. Karim Beguir a investi comme business angel dans **Thunder Code**, la startup d'IA lancée en 2025 par les fondateurs d'Expensya. InstaDeep a aussi soutenu des événements comme Deep Learning Indaba et AI Hack. Dans un entretien de 2024 rapporté par Al-Monitor, Beguir prédisait « 10 InstaDeep en 10 ans » si l'Afrique oriente ses talents vers l'innovation de haut niveau, et citait les limites à la circulation des chercheurs sur le continent comme un obstacle. Les talents tech tunisiens, et leur émigration persistante (voir [la fuite des cerveaux](post:tunisia-tech-talent-brain-drain)), décideront si cela se réalise.",
+    "faq": [
+      {
+        "q": "Combien BioNTech a-t-il payé pour InstaDeep ?",
+        "a": "BioNTech s'est engagé à payer jusqu'à 562 millions de livres (environ 680 millions de dollars) pour les actions qu'il ne détenait pas encore : environ 362 millions en numéraire et en actions, plus jusqu'à 200 millions liés à des objectifs de performance. À la finalisation en juillet 2023, BioNTech a évalué la contrepartie totale à environ 500 millions d'euros."
+      },
+      {
+        "q": "InstaDeep est-elle une entreprise tunisienne ?",
+        "a": "InstaDeep a été fondée à Tunis en 2014 par les Tunisiens Karim Beguir et Zohra Slim et y a gardé un bureau, mais son siège a été transféré à Londres en 2015. Elle est aujourd'hui la filiale d'IA de BioNTech basée au Royaume-Uni."
+      },
+      {
+        "q": "Qui a investi dans InstaDeep avant le rachat ?",
+        "a": "AfricInvest a mené sa série A de 8,5 millions de dollars en 2019 avec Endeavor Catalyst. La série B de 100 millions de dollars, en 2022, a été menée par Alpha Intelligence Capital et CDIB, avec la participation de Google et de BioNTech."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "InstaDeep's acquisition is a classic case of an African startup gone global",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2023/01/31/instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global/"
+    },
+    {
+      "title": "BioNTech completes acquisition of InstaDeep",
+      "publisher": "InstaDeep",
+      "url": "https://instadeep.com/2023/07/biontech-completes-acquisition-of-instadeep/"
+    },
+    {
+      "title": "InstaDeep acquired by BioNTech",
+      "publisher": "Techpoint Africa",
+      "url": "https://techpoint.africa/2023/01/10/instadeep-acquired-by-biontech"
+    },
+    {
+      "title": "Tunisian tech startups find success in the West",
+      "publisher": "Rest of World",
+      "url": "https://restofworld.org/2023/tunisian-tech-startups-western-success/"
+    },
+    {
+      "title": "InstaDeep est-elle réellement tunisienne ? Son co-fondateur répond",
+      "publisher": "Webdo",
+      "url": "https://www.webdo.tn/fr/actualite/tech/instadeep-est-elle-reellement-tunisienne-son-co-fondateur-repond/179001/"
+    },
+    {
+      "title": "InstaDeep CEO takes AI from Tunis to London",
+      "publisher": "Al-Monitor",
+      "url": "https://www.al-monitor.com/index%2ephp/originals/2024/04/instadeep-ceo-takes-ai-tunis-london"
+    }
+  ]
+}

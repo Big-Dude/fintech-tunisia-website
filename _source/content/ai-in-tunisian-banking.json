@@ -1,0 +1,119 @@
+{
+  "slug": "ai-in-tunisian-banking",
+  "category": "banking",
+  "cover_motif": "chip-ai",
+  "stats": [],
+  "chart": null,
+  "en": {
+    "title": "AI in Tunisian Banking: Real Uses, Rules and Gaps",
+    "meta_description": "From chatbots to facial-recognition e-KYC and credit scoring, how AI in Tunisian banking is used today, what rules apply and where startups can find openings.",
+    "excerpt": "Chatbots, remote identity checks and credit scoring are the first AI uses in Tunisian banks. There is no AI-specific rulebook yet, and that cuts both ways for founders.",
+    "keywords": [
+      "AI in Tunisian banking",
+      "artificial intelligence banks Tunisia",
+      "AI credit scoring Tunisia",
+      "banking chatbot Tunisia",
+      "e-KYC facial recognition Tunisia",
+      "Tunisia national AI strategy"
+    ],
+    "tags": [
+      "Artificial intelligence",
+      "Banks",
+      "e-KYC",
+      "Credit scoring"
+    ],
+    "key_takeaways": [
+      "Documented AI uses in Tunisian finance include chatbots (Amen Bank's AmenBot, 2020), remote identity checks and digital credit scoring platforms.",
+      "BCT rules on electronic onboarding (2025) and payment institutions (2026) require strong remote identity checks, including facial recognition or equivalent for payment institutions.",
+      "Tunisia has no AI-specific banking regulation; data protection still rests on Organic Law 2004-63.",
+      "Public banks face older systems and tighter budgets, creating a two-speed adoption of AI."
+    ],
+    "body": "AI in Tunisian banking is real but still early. The most visible uses so far are chatbots, remote identity checks and credit scoring tools, often built with local tech firms, while the sector still has no AI-specific rules. For fintech founders, that gap is both an opportunity and a risk.\n\n## Where AI is already used in Tunisian banking\n\nPublic information on bank AI projects in Tunisia is limited, but several concrete cases are documented.\n\n### Customer service chatbots\n\nIn September 2020 Amen Bank launched **AmenBot**, presented as the first intelligent banking chatbot in Tunisia. Built by the bank's internal teams with Tunisian startup Deepera.AI, it used natural language processing to answer questions about products, collect complaints and guide users through online account opening with Amen First Bank, handing over to human agents when needed. It was launched on Facebook Messenger, available around the clock.\n\n### Remote identity checks\n\nRemote onboarding is the area where AI is moving from experiment to regulation. A BCT circular of 28 February 2025 allows banks to onboard customers electronically, provided identity verification is at least as strong as in person. For payment institutions, circular 2026-10, published on 25 September 2026, requires at least two-factor authentication and a presence check by facial recognition or an equivalent method, with the technology audited at least every two years, according to Challenges and Webdo. Liveness detection and document verification typically rely on computer vision models. Our guide to [e-KYC and AML rules](post:ekyc-aml-tunisia) covers the details.\n\n### Credit and risk tools\n\nLending is the next frontier. Islamic microfinance institution Zitouna Tamkeen put into production in June 2025 a credit management platform from Tunisian vendor Talys Solutions, covering scoring, screening and AML checks. Startup EasyBank, which raised TND 1.2 million in January 2025 according to Wamda, says it uses AI to personalise advice and streamline loan eligibility checks. As early as 2021, the BCT's first sandbox cohort included projects using AI for remote customer identification.\n\nSeveral banks are also signalling interest publicly. UBCI, for example, partnered with the Global AI Congress Africa held in Sousse in November 2025 and said it was relying on AI to strengthen its agility and innovation.\n\n## The policy backdrop\n\nTunisia does not yet have an AI law or a published sector rulebook for AI in finance.\n\n- **National AI strategy.** In February 2025 the Ministry of Communication Technologies said a national AI strategy was in the final drafting phase, with an operational plan to follow. We could not confirm its formal adoption as of October 2026.\n- **Development plan.** The 2026–2030 development plan lists digital transformation among its priorities, alongside financial inclusion and regional balance.\n- **Data protection.** The main constraint on bank AI is Organic Law 2004-63 on personal data, overseen by the INPDP. It predates modern machine learning and is widely described as under revision. See our article on [data protection for fintechs](post:data-protection-tunisia-fintech).\n\nIn opinion pieces published in L'Economiste Maghrébin and Business News in 2026, Abdelwaheb Ben Moussa, an IT manager at a Tunisian public bank, argued that the BCT and the Conseil Bancaire et Financier could issue AI-specific guidelines on model validation, stress testing and reporting. He suggested a gradual path: document automation and chatbots first, then fraud detection and alternative SME scoring, and only later dynamic credit allocation.\n\n## The two-speed problem\n\nThe same author describes a \"two-speed\" modernisation. Private banks have more room to invest in AI for scoring, fraud detection and predictive analytics. Public banks face ageing information systems, weak asset quality and limited budgets, and AI does nothing to fix non-performing loans or governance gaps.\n\nThere are also structural risks that apply to all banks:\n\n- **Dependence on foreign tools.** Most AI solutions used are developed abroad, which limits banks' ability to audit algorithms or detect bias.\n- **Explainability.** Automated credit decisions can be harder for customers, auditors and supervisors to understand.\n- **Data quality.** Models are only as good as core banking data, and many banks are still migrating to new systems.\n- **Cybersecurity.** More automation means more attack surface. See our article on [cybersecurity in Tunisia's financial sector](post:cybersecurity-financial-sector-tunisia).\n\n## Opportunities for Tunisian AI and fintech startups\n\nTunisia has a strong AI talent base, illustrated by the success of InstaDeep, acquired by BioNTech (see [lessons from InstaDeep](post:instadeep-biontech-lessons)). For founders, the openings in banking are practical:\n\n1. **Arabic, Tunisian dialect and French language models** for customer service, where foreign tools often perform poorly.\n2. **e-KYC and liveness detection** tailored to Tunisian ID documents and the new BCT audit requirements.\n3. **Alternative credit scoring** for small businesses, farmers and thin-file borrowers, using transaction and wallet data, within data protection limits.\n4. **Fraud detection** for fast-growing mobile payments, which rose 80.5% in transaction volume in 2025 according to the BCT.\n5. **Compliance tooling** for AML screening and regulatory reporting.\n\nTo sell to banks, startups should expect long procurement cycles, strict data-hosting requirements and questions about model explainability. Building with auditability in mind is likely to become a selling point once supervisors start issuing AI guidance.",
+    "faq": [
+      {
+        "q": "Do Tunisian banks use artificial intelligence?",
+        "a": "Yes, in specific areas. Documented examples include Amen Bank's AmenBot chatbot launched in 2020 and AI-based remote identity checks, while microfinance institutions and startups are deploying digital credit scoring tools. Comprehensive data on AI adoption across the sector is not publicly available."
+      },
+      {
+        "q": "Is there a law on AI in Tunisia?",
+        "a": "Not as of October 2026. A national AI strategy was reported in its final drafting phase in February 2025, and personal data processing is governed by Organic Law 2004-63. There are no BCT guidelines specific to AI."
+      },
+      {
+        "q": "Does the BCT allow facial recognition for opening accounts?",
+        "a": "Yes. A BCT circular of February 2025 allows electronic onboarding of bank customers, and circular 2026-10 requires payment institutions opening accounts remotely to use at least two-factor authentication plus a presence check by facial recognition or an equivalent method."
+      }
+    ]
+  },
+  "fr": {
+    "title": "IA dans les banques tunisiennes : usages, règles et limites",
+    "meta_description": "Chatbots, e-KYC par reconnaissance faciale, scoring : comment les banques tunisiennes utilisent l'IA, quel cadre s'applique, quelle place pour les startups.",
+    "excerpt": "Chatbots, vérification d'identité à distance et scoring sont les premiers usages de l'IA dans les banques tunisiennes. Aucune règle dédiée n'existe encore, ce qui joue dans les deux sens.",
+    "keywords": [
+      "intelligence artificielle banques tunisiennes",
+      "IA banque Tunisie",
+      "scoring crédit IA Tunisie",
+      "chatbot bancaire Tunisie",
+      "reconnaissance faciale e-KYC Tunisie",
+      "stratégie nationale IA Tunisie"
+    ],
+    "tags": [
+      "Intelligence artificielle",
+      "Banques",
+      "e-KYC",
+      "Scoring"
+    ],
+    "key_takeaways": [
+      "Les usages documentés de l'IA dans la finance tunisienne incluent les chatbots (AmenBot d'Amen Bank, 2020), la vérification d'identité à distance et des plateformes de scoring.",
+      "Les règles de la BCT sur l'enrôlement électronique (2025) et les établissements de paiement (2026) imposent une vérification d'identité robuste, avec reconnaissance faciale ou équivalent pour ces derniers.",
+      "Aucune réglementation bancaire spécifique à l'IA n'existe ; la protection des données repose toujours sur la loi organique 2004-63.",
+      "Les banques publiques, aux systèmes plus anciens et aux budgets serrés, avancent moins vite : l'adoption se fait à deux vitesses."
+    ],
+    "body": "L'intelligence artificielle dans les banques tunisiennes est une réalité, mais encore embryonnaire. Les usages les plus visibles sont les chatbots, la vérification d'identité à distance et les outils de scoring, souvent développés avec des entreprises tech locales, alors qu'aucune règle spécifique à l'IA n'encadre encore le secteur. Pour les fondateurs de fintech, ce vide est à la fois une opportunité et un risque.\n\n## Où l'IA est déjà utilisée dans la banque tunisienne\n\nLes informations publiques sur les projets d'IA des banques restent rares, mais plusieurs cas concrets sont documentés.\n\n### Les chatbots de service client\n\nEn septembre 2020, Amen Bank a lancé **AmenBot**, présenté comme le premier chatbot bancaire intelligent en Tunisie. Conçu par les équipes de la banque avec la startup tunisienne Deepera.AI, il s'appuyait sur le traitement automatique du langage pour renseigner sur les produits, recueillir les réclamations et accompagner l'ouverture de compte en ligne avec Amen First Bank, avec un relais vers des conseillers si nécessaire. Il a été lancé sur Facebook Messenger, disponible 24 heures sur 24.\n\n### La vérification d'identité à distance\n\nC'est le domaine où l'IA passe de l'expérimentation à la réglementation. Une circulaire de la BCT du 28 février 2025 autorise l'enrôlement électronique des clients des banques, à condition que la vérification soit au moins aussi fiable qu'en présentiel. Pour les établissements de paiement, la circulaire 2026-10, publiée le 25 septembre 2026, exige au moins deux facteurs d'authentification et une vérification de présence par reconnaissance faciale ou procédé équivalent, technologie à auditer au moins tous les deux ans, selon Challenges et Webdo. La détection du vivant et la vérification documentaire reposent généralement sur la vision par ordinateur. Notre dossier sur [l'e-KYC et la lutte anti-blanchiment](post:ekyc-aml-tunisia) détaille ces règles.\n\n### Crédit et gestion des risques\n\nLe crédit est le prochain chantier. L'institution de microfinance islamique Zitouna Tamkeen a mis en production en juin 2025 une plateforme de gestion du crédit de l'éditeur tunisien Talys Solutions, intégrant scoring, filtrage et contrôles anti-blanchiment. La startup EasyBank, qui a levé 1,2 million de dinars en janvier 2025 selon Wamda, dit utiliser l'IA pour personnaliser le conseil et fluidifier l'examen d'éligibilité aux prêts. Dès 2021, la première cohorte de la sandbox de la BCT comptait des projets recourant à l'IA pour l'identification à distance.\n\nPlusieurs banques affichent aussi leur intérêt. L'UBCI, par exemple, était partenaire du Global AI Congress Africa organisé à Sousse en novembre 2025 et a déclaré miser sur l'IA pour renforcer son agilité et son innovation.\n\n## Le cadre public\n\nLa Tunisie ne dispose encore ni d'une loi sur l'IA ni de règles sectorielles publiées pour l'IA en finance.\n\n- **Stratégie nationale.** En février 2025, le ministère des Technologies de la communication indiquait que la stratégie nationale d'IA était en phase finale d'élaboration, un plan opérationnel devant suivre. Nous n'avons pas pu confirmer son adoption formelle en octobre 2026.\n- **Plan de développement.** Le plan 2026-2030 place la transformation numérique parmi ses priorités, avec l'inclusion financière et l'équilibre régional.\n- **Protection des données.** La principale contrainte reste la loi organique 2004-63 sur les données personnelles, sous la supervision de l'INPDP. Antérieure à l'apprentissage automatique moderne, elle est présentée comme en cours de refonte. Voir notre article sur [la protection des données pour les fintechs](post:data-protection-tunisia-fintech).\n\nDans des tribunes publiées en 2026 par L'Economiste Maghrébin et Business News, Abdelwaheb Ben Moussa, cadre informatique dans une banque publique, estime que la BCT et le Conseil bancaire et financier pourraient édicter des lignes directrices propres à l'IA : validation des modèles, tests de résistance, reporting. Il propose une trajectoire graduelle : automatisation documentaire et chatbots d'abord, puis détection de fraude et scoring alternatif des PME, et seulement ensuite allocation dynamique du crédit.\n\n## Une modernisation à deux vitesses\n\nLe même auteur décrit une modernisation « à deux vitesses ». Les banques privées ont davantage de marges pour investir dans le scoring, la lutte contre la fraude et l'analyse prédictive. Les banques publiques composent avec des systèmes d'information vieillissants, la qualité de leurs actifs et des budgets contraints, et l'IA ne règle ni les créances douteuses ni les faiblesses de gouvernance.\n\nD'autres risques concernent toutes les banques :\n\n- **La dépendance aux outils étrangers.** La plupart des solutions sont développées à l'étranger, ce qui limite la capacité d'auditer les algorithmes ou de détecter les biais.\n- **L'explicabilité.** Une décision de crédit automatisée est plus difficile à comprendre pour le client, l'auditeur et le superviseur.\n- **La qualité des données.** Un modèle ne vaut que par les données du core banking, que beaucoup de banques sont encore en train de migrer.\n- **La cybersécurité.** Plus d'automatisation, c'est plus de surface d'attaque. Voir notre article sur [la cybersécurité du secteur financier](post:cybersecurity-financial-sector-tunisia).\n\n## Les opportunités pour les startups tunisiennes\n\nLa Tunisie dispose d'un vivier de talents en IA, comme l'illustre le parcours d'InstaDeep, rachetée par BioNTech (voir [les leçons d'InstaDeep](post:instadeep-biontech-lessons)). Côté banque, les débouchés sont concrets :\n\n1. **Des modèles de langage en arabe, en dialecte tunisien et en français** pour le service client, où les outils étrangers sont souvent faibles.\n2. **L'e-KYC et la détection du vivant**, adaptés aux pièces d'identité tunisiennes et aux nouvelles exigences d'audit de la BCT.\n3. **Le scoring alternatif** des petites entreprises, des agriculteurs et des emprunteurs sans historique, à partir des données de transactions et de wallets, dans le respect de la protection des données.\n4. **La détection de fraude** sur le paiement mobile, dont le nombre d'opérations a progressé de 80,5 % en 2025 selon la BCT.\n5. **Les outils de conformité** pour le filtrage anti-blanchiment et le reporting réglementaire.\n\nPour vendre aux banques, il faut s'attendre à des cycles d'achat longs, à des exigences strictes d'hébergement des données et à des questions sur l'explicabilité des modèles. Concevoir des solutions auditables deviendra sans doute un argument commercial dès que le superviseur publiera des orientations sur l'IA.",
+    "faq": [
+      {
+        "q": "Les banques tunisiennes utilisent-elles l'intelligence artificielle ?",
+        "a": "Oui, sur des usages ciblés. Parmi les exemples documentés figurent le chatbot AmenBot d'Amen Bank, lancé en 2020, et la vérification d'identité à distance, tandis que microfinance et startups déploient des outils de scoring. Aucune donnée publique ne mesure l'adoption à l'échelle du secteur."
+      },
+      {
+        "q": "Existe-t-il une loi sur l'IA en Tunisie ?",
+        "a": "Pas en octobre 2026. La stratégie nationale d'IA était présentée en phase finale d'élaboration en février 2025, et le traitement des données personnelles relève de la loi organique 2004-63. La BCT n'a pas publié de lignes directrices propres à l'IA."
+      },
+      {
+        "q": "La BCT autorise-t-elle la reconnaissance faciale pour ouvrir un compte ?",
+        "a": "Oui. Une circulaire de février 2025 autorise l'enrôlement électronique des clients des banques, et la circulaire 2026-10 impose aux établissements de paiement qui ouvrent des comptes à distance deux facteurs d'authentification et une vérification de présence par reconnaissance faciale ou équivalent."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Amen Bank lance AmenBot, le premier chatbot bancaire intelligent en Tunisie",
+      "publisher": "Ilboursa",
+      "url": "https://www.ilboursa.com/marches/amen-bank-lance-amenbot--le-premier-chatbot-bancaire-intelligent-en-tunisie_24326"
+    },
+    {
+      "title": "Intelligence artificielle : les banques tunisiennes à l'heure du cadrage national",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2026/02/10/ia-banques-tunisiennes-cadrage-national/"
+    },
+    {
+      "title": "IA et banques tunisiennes : une modernisation à deux vitesses",
+      "publisher": "Business News",
+      "url": "https://businessnews.com.tn/2026/04/24/ia-et-banques-tunisiennes-une-modernisation-a-deux-vitesses-sur-fond-de-fragilites-structurelles/1398423/"
+    },
+    {
+      "title": "Tunisie : stratégie nationale de l'intelligence artificielle",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2025/02/24/tunisie-strategie-nationale-intelligence-artificielle-ia/"
+    },
+    {
+      "title": "Paiement mobile en Tunisie : la BCT resserre les règles avec sa nouvelle circulaire n°2026-10",
+      "publisher": "Challenges",
+      "url": "https://www.challenges.tn/economie/paiement-mobile-en-tunisie-la-bct-resserre-les-regles-avec-sa-nouvelle-circulaire-n2026-10/"
+    },
+    {
+      "title": "Zitouna Tamkeen lance un nouveau système d'information (plateforme ICM de Talys)",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2025/06/19/zitouna-tamkeen-lance-nouveau-systeme-dinformation-plateforme-icm-talys-digitaliser-gestion-financements-microfinance-islamique/"
+    }
+  ]
+}

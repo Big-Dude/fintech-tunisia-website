@@ -1,0 +1,180 @@
+{
+  "slug": "digital-banking-tunisia",
+  "category": "banking",
+  "cover_motif": "bank-building",
+  "stats": [
+    {
+      "value": "+80.5%",
+      "label_en": "growth in mobile payment transactions in 2025 (8.4 million)",
+      "label_fr": "de hausse des paiements mobiles en 2025 (8,4 millions d'opérations)",
+      "source": "BCT via La Presse, 2026"
+    },
+    {
+      "value": "37.8%",
+      "label_en": "of Tunisian adults have an account",
+      "label_fr": "des adultes tunisiens ont un compte",
+      "source": "World Bank Global Findex 2025"
+    },
+    {
+      "value": "5.78M",
+      "label_en": "bank cards in circulation, end of June 2025",
+      "label_fr": "cartes bancaires en circulation fin juin 2025",
+      "source": "BCT via Tunisie Numérique, 2025"
+    }
+  ],
+  "chart": {
+    "title_en": "Digital payments in Tunisia: growth in 2025",
+    "title_fr": "Paiements numériques en Tunisie : croissance en 2025",
+    "unit": "%",
+    "bars": [
+      {
+        "label_en": "Mobile payments (number)",
+        "label_fr": "Paiement mobile (nombre)",
+        "value": 80.5
+      },
+      {
+        "label_en": "Mobile payments (value)",
+        "label_fr": "Paiement mobile (valeur)",
+        "value": 58.6
+      },
+      {
+        "label_en": "Online payments (value)",
+        "label_fr": "Paiement en ligne (valeur)",
+        "value": 31.0
+      },
+      {
+        "label_en": "E-wallets in circulation",
+        "label_fr": "Wallets en circulation",
+        "value": 26.8
+      },
+      {
+        "label_en": "Card payments (value)",
+        "label_fr": "Paiement par carte (valeur)",
+        "value": 12.3
+      },
+      {
+        "label_en": "Card payments (number)",
+        "label_fr": "Paiement par carte (nombre)",
+        "value": 8.9
+      }
+    ],
+    "source_name": "Banque centrale de Tunisie, reported by La Presse (AllAfrica), July 2026",
+    "source_url": "https://fr.allafrica.com/stories/202607080538.html"
+  },
+  "en": {
+    "title": "Digital Banking in Tunisia: Where Banks Stand in 2026",
+    "meta_description": "Mobile payments nearly doubled in 2025, yet only 37.8% of adults hold an account. How digital banking in Tunisia is changing, and what it means for founders.",
+    "excerpt": "Mobile payments grew 80.5% in 2025 and new rules allow remote onboarding, but most Tunisian adults still have no account. A look at banks' digital shift.",
+    "keywords": [
+      "digital banking Tunisia",
+      "Tunisian banks digital transformation",
+      "mobile banking Tunisia",
+      "BCT e-KYC circular 2025",
+      "TUNPAY Tunisia",
+      "Tunisia mobile payments 2025",
+      "remote account opening Tunisia"
+    ],
+    "tags": [
+      "Digital banking",
+      "BCT",
+      "Mobile payments",
+      "e-KYC",
+      "Banks"
+    ],
+    "key_takeaways": [
+      "According to BCT figures, mobile payments reached 8.4 million transactions in 2025, up 80.5%, but remain a small share of electronic payments.",
+      "Only 37.8% of Tunisian adults had an account in the 2025 Global Findex, almost unchanged since 2017.",
+      "A BCT circular of 28 February 2025 allows banks to onboard customers fully remotely under minimum security requirements.",
+      "The TUNPAY label (May 2026) and a new payment-institution circular (September 2026) are reshaping the mobile payment market."
+    ],
+    "body": "Digital banking in Tunisia is growing fast from a low base. Central Bank of Tunisia (BCT) data show mobile payments almost doubled in volume in 2025, yet fewer than four in ten adults have an account, and cash and cheques still dominate everyday life. For founders, the question is no longer whether banks will go digital, but how fast and on whose infrastructure.\n\n## Where digital banking in Tunisia stands\n\nThe clearest picture comes from the BCT's own payment statistics. According to the BCT's 2025 annual figures, as reported by La Presse:\n\n- **Mobile payments** reached 8.4 million transactions in 2025, up 80.5%, for a total of about TND 1,769 million (up 58.6%).\n- **E-wallets in circulation** rose 26.8% to 469,000.\n- **Online payments** totalled TND 1,375 million, up 31%.\n- **Card payments** reached 164.9 million transactions (up 8.9%) worth TND 29.5 billion (up 12.3%).\n- **Transfers** grew to 38.5 million operations worth TND 79.6 billion, now close to 60% of the value cleared.\n\nThe growth rates are high, but the absolute numbers are modest. Mobile payments are still a small slice of total electronic payment volume, and card use grows much more slowly than mobile.\n\nMid-year figures for 2025 published by the BCT show the same pattern. At the end of June 2025 Tunisia had 5.78 million bank cards (up 5.3% year on year), 40,600 payment terminals and 3,289 ATMs. The ATM network shrank slightly (down 0.5%), which the BCT linked to banks optimising their branch networks and shifting customers to digital channels.\n\n## Access is still the bottleneck\n\nDigital channels can only reach people who have an account. The World Bank's Global Findex 2025, based on 2024 survey data, puts account ownership at **37.8% of Tunisian adults**, barely changed from 36.9% in 2017. That stagnation is the main reason regulators now talk about digitalisation and [financial inclusion](post:financial-inclusion-tunisia) in the same breath.\n\nAt the 16th Africa Banking Forum in Tunis in February 2025, BCT Vice-Governor Mourad Abdessalem described digitalisation as strategic for inclusion and urged banks to embrace open banking and closer work with fintechs. Industry voices at the same event were blunter: Proxym Group founder Wassel Berrayana said Tunisian institutions lag behind several African peers in digital banking services.\n\n## The regulatory push: e-KYC, cheques and TUNPAY\n\nThree recent regulatory moves are reshaping how Tunisians bank.\n\n### Remote onboarding\n\nA BCT circular dated 28 February 2025 sets minimum requirements for the electronic onboarding of bank customers. Banks may now collect, verify and store identification data digitally, provided the process is at least as robust as in-person verification under circular 2017-08 and due diligence is proportionate to each client's risk. In practice, this opens the door to fully remote account opening. Our guide to [e-KYC and AML rules](post:ekyc-aml-tunisia) covers the details.\n\n### The cheque reform\n\nThe amended cheque law, described by the head of the interbank clearing company as the most important reform since the 1959 Commercial Code, comes with a new platform, Tunichèque, which lets payees check a cheque's validity and funding by scanning a QR code. When the platform was presented in February 2025, banks pointed customers without chequebooks towards cards, deferred-payment cards and mobile payments.\n\n### A single mobile payment brand\n\nOn 5 May 2026 the BCT issued Note 2026-132 creating **TUNPAY**, a single national label for mobile payment. Wallet issuers (banks, La Poste Tunisienne and payment institutions) are asked to adopt it, and merchants and agents to display it. The scheme runs on the national switch operated by Société Monétique Tunisie (SMT). See our overview of [mobile payments in Tunisia](post:mobile-payments-tunisia).\n\n## Banks rebuild their core systems\n\nDigital front-ends depend on modern back-ends. Several Tunisian banks are replacing ageing core banking systems; Arab Tunisian Bank, for example, has migrated to Temenos T24. Public banks face a harder path: commentators inside the sector point to old information systems, weak asset quality and limited investment capacity as constraints on how fast they can modernise.\n\nThe BCT has also announced infrastructure projects that matter for every bank: an overhaul of the national clearing system, migration to SWIFT MX standards and integration of the E-Houwiya digital identity into the Paysmart platform.\n\n## Non-banks are moving in\n\nBanks are no longer the only providers of digital accounts. Payment institutions licensed by the BCT offer wallets with tiered balance caps, and in February 2026 Ooredoo Fintech Tunisie received BCT authorisation to launch walletii. A new circular on payment institutions (2026-10, published 25 September 2026) tightens rules on governance, remote onboarding and cybersecurity, with a three-month compliance window.\n\nThis competition is healthy, but it also explains why banks are partnering with fintechs rather than building everything in-house.\n\n## What it means for founders and users\n\n- **For fintech founders**, banks need help with onboarding, credit scoring, payments acceptance and customer apps. Remote KYC rules and the TUNPAY label lower some barriers to scale.\n- **For users**, the practical gains are remote account opening, cheaper transfers and QR-based payments, but acceptance outside large cities remains uneven.\n- **For investors**, growth rates are strong but from a small base; the real upside depends on converting the roughly six in ten adults without an account.\n\nWhether Tunisia's banking system catches up will depend less on apps than on infrastructure, regulation and trust. The question of whether a fully digital bank can launch here is explored in our piece on [neobanks in Tunisia](post:neobanks-tunisia).",
+    "faq": [
+      {
+        "q": "Can I open a bank account online in Tunisia?",
+        "a": "Yes, in principle. A BCT circular dated 28 February 2025 sets minimum requirements for electronic onboarding, allowing banks to verify identity remotely if the process is at least as reliable as in-branch checks. Availability depends on each bank's rollout, so check with your bank."
+      },
+      {
+        "q": "How many Tunisians use mobile payments?",
+        "a": "The BCT counted 469,000 e-wallets in circulation at the end of 2025, up 26.8%, handling 8.4 million mobile payment transactions worth about TND 1.77 billion. That is fast growth, but still small compared with card payments."
+      },
+      {
+        "q": "What is TUNPAY?",
+        "a": "TUNPAY is a single national label for mobile payment created by the BCT through Note 2026-132 of 5 May 2026. Wallet issuers are asked to adopt it and merchants to display it so customers can recognise where mobile payment is accepted."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Banque digitale en Tunisie : où en sont les banques en 2026",
+    "meta_description": "Le paiement mobile a presque doublé en 2025, mais 37,8 % des adultes seulement ont un compte. État des lieux de la banque digitale en Tunisie et enjeux.",
+    "excerpt": "Le paiement mobile a bondi de 80,5 % en 2025 et l'e-KYC est désormais encadré, mais la majorité des adultes reste sans compte. Le virage numérique des banques.",
+    "keywords": [
+      "banque digitale Tunisie",
+      "transformation digitale banques tunisiennes",
+      "banque mobile Tunisie",
+      "circulaire BCT enrôlement électronique",
+      "TUNPAY",
+      "paiement mobile Tunisie 2025",
+      "ouverture de compte à distance Tunisie"
+    ],
+    "tags": [
+      "Banque digitale",
+      "BCT",
+      "Paiement mobile",
+      "e-KYC",
+      "Banques"
+    ],
+    "key_takeaways": [
+      "Selon la BCT, le paiement mobile a atteint 8,4 millions d'opérations en 2025, en hausse de 80,5 %, mais reste marginal dans la monétique.",
+      "Seuls 37,8 % des adultes tunisiens possèdent un compte selon le Global Findex 2025, un taux quasi inchangé depuis 2017.",
+      "Une circulaire de la BCT du 28 février 2025 autorise l'entrée en relation entièrement à distance, sous conditions.",
+      "Le label TUNPAY (mai 2026) et la nouvelle circulaire sur les établissements de paiement (septembre 2026) redessinent le marché du paiement mobile."
+    ],
+    "body": "La banque digitale en Tunisie progresse vite, mais elle part de loin. Selon les données de la Banque centrale de Tunisie (BCT), le paiement mobile a presque doublé en volume en 2025, alors que moins de quatre adultes sur dix possèdent un compte et que le cash et le chèque restent omniprésents. Pour les fondateurs, la question n'est plus de savoir si les banques passeront au numérique, mais à quel rythme et sur quelles infrastructures.\n\n## La banque digitale en Tunisie : état des lieux\n\nLes statistiques de paiement de la BCT donnent l'image la plus nette. D'après les chiffres annuels 2025 de la BCT, rapportés par La Presse :\n\n- **Paiement mobile** : 8,4 millions d'opérations en 2025, en hausse de 80,5 %, pour environ 1 769 millions de dinars (+58,6 %).\n- **Portefeuilles électroniques en circulation** : 469 000, en hausse de 26,8 %.\n- **Paiement en ligne** : 1 375 millions de dinars, en hausse de 31 %.\n- **Paiement par carte** : 164,9 millions d'opérations (+8,9 %) pour 29,5 milliards de dinars (+12,3 %).\n- **Virements** : 38,5 millions d'opérations pour 79,6 milliards de dinars, soit près de 60 % de la valeur compensée.\n\nLes taux de croissance impressionnent, les montants beaucoup moins. Le mobile ne pèse encore qu'une petite part de la monétique, et la carte progresse bien plus lentement.\n\nLes chiffres semestriels publiés par la BCT confirment la tendance. Fin juin 2025, la Tunisie comptait 5,78 millions de cartes bancaires (+5,3 % sur un an), 40 600 terminaux de paiement et 3 289 distributeurs automatiques. Le parc de DAB recule légèrement (-0,5 %), ce que la BCT attribue à l'optimisation des réseaux d'agences et au basculement vers les canaux numériques.\n\n## L'accès au compte, vrai goulot d'étranglement\n\nLe digital ne touche que ceux qui ont un compte. Selon le Global Findex 2025 de la Banque mondiale (enquête menée en 2024), **37,8 % des adultes tunisiens** détiennent un compte, contre 36,9 % en 2017. Cette quasi-stagnation explique pourquoi le régulateur associe désormais numérisation et [inclusion financière](post:financial-inclusion-tunisia).\n\nLors du 16e Africa Banking Forum, à Tunis en février 2025, le vice-gouverneur de la BCT Mourad Abdessalem a présenté la digitalisation comme un levier stratégique d'inclusion et invité les banques à s'ouvrir à l'open banking et aux fintechs. Côté industrie, le fondateur de Proxym Group, Wassel Berrayana, a estimé que les établissements tunisiens accusent un retard sur plusieurs homologues africains en matière de services bancaires numériques.\n\n## Le levier réglementaire : e-KYC, chèque et TUNPAY\n\nTrois chantiers récents modifient la relation bancaire.\n\n### L'entrée en relation à distance\n\nUne circulaire de la BCT du 28 février 2025 fixe les exigences minimales de l'enrôlement électronique des clients. Les banques peuvent désormais collecter, vérifier et conserver les données d'identification de façon numérique, à condition que le dispositif soit au moins aussi fiable que la vérification en présentiel prévue par la circulaire 2017-08 et que la vigilance soit proportionnée au risque du client. Concrètement, l'ouverture de compte entièrement à distance devient possible. Notre dossier sur [l'e-KYC et la lutte anti-blanchiment](post:ekyc-aml-tunisia) détaille ces règles.\n\n### La réforme du chèque\n\nL'amendement de la loi sur le chèque, qualifié par le directeur général de la société de télécompensation de réforme la plus importante depuis le Code de commerce de 1959, s'accompagne d'une plateforme, Tunichèque, qui permet de vérifier la validité et la provision d'un chèque en scannant un QR code. Lors de sa présentation en février 2025, les banques ont orienté les clients privés de chéquier vers la carte, le paiement différé et le mobile.\n\n### Une marque unique pour le paiement mobile\n\nLe 5 mai 2026, la BCT a publié la note n° 2026-132 instituant **TUNPAY**, label national unique du paiement mobile. Les émetteurs de wallets (banques, La Poste Tunisienne, établissements de paiement) sont appelés à l'adopter et les commerçants et agents à l'afficher. Le dispositif s'appuie sur le switch national géré par la Société Monétique Tunisie (SMT). Voir notre panorama du [paiement mobile en Tunisie](post:mobile-payments-tunisia).\n\n## Les banques refondent leurs systèmes centraux\n\nUne application moderne exige un back-office moderne. Plusieurs banques remplacent leur core banking vieillissant : l'Arab Tunisian Bank a ainsi migré vers Temenos T24. Pour les banques publiques, le chemin est plus ardu : des cadres du secteur citent des systèmes d'information anciens, la qualité des actifs et des capacités d'investissement limitées.\n\nLa BCT a aussi annoncé des projets structurants pour toute la place : refonte de la télécompensation, migration vers les standards SWIFT MX et intégration de l'identité numérique E-Houwiya à la plateforme Paysmart.\n\n## Les acteurs non bancaires s'installent\n\nLes banques ne sont plus seules à ouvrir des comptes numériques. Les établissements de paiement agréés par la BCT proposent des wallets à plafonds par niveau, et Ooredoo Fintech Tunisie a obtenu en février 2026 l'agrément de la BCT pour lancer walletii. Une nouvelle circulaire sur les établissements de paiement (n° 2026-10, publiée le 25 septembre 2026) durcit les exigences de gouvernance, d'entrée en relation à distance et de cybersécurité, avec trois mois pour s'y conformer.\n\nCette concurrence stimule le marché, et explique pourquoi les banques préfèrent souvent s'associer à des fintechs plutôt que tout développer en interne.\n\n## Ce que cela change pour les fondateurs et les usagers\n\n- **Pour les fondateurs**, les besoins des banques sont clairs : enrôlement, scoring, acceptation des paiements, applications clients. L'e-KYC et le label TUNPAY lèvent une partie des freins au passage à l'échelle.\n- **Pour les usagers**, les gains concrets sont l'ouverture de compte à distance, des virements moins coûteux et le paiement par QR code, même si l'acceptation reste inégale hors des grandes villes.\n- **Pour les investisseurs**, la croissance est forte mais part d'une base étroite ; le vrai potentiel tient à la bancarisation des quelque six adultes sur dix encore sans compte.\n\nLe rattrapage dépendra moins des applications que des infrastructures, de la réglementation et de la confiance. La possibilité d'une banque 100 % numérique en Tunisie est examinée dans notre article sur les [néobanques](post:neobanks-tunisia).",
+    "faq": [
+      {
+        "q": "Peut-on ouvrir un compte bancaire en ligne en Tunisie ?",
+        "a": "Oui, en principe. Une circulaire de la BCT du 28 février 2025 fixe les exigences minimales de l'enrôlement électronique, ce qui permet aux banques de vérifier l'identité à distance si le dispositif est aussi fiable qu'en agence. Le déploiement dépend de chaque banque."
+      },
+      {
+        "q": "Combien de Tunisiens utilisent le paiement mobile ?",
+        "a": "La BCT recensait 469 000 portefeuilles électroniques en circulation fin 2025 (+26,8 %), pour 8,4 millions d'opérations et environ 1,77 milliard de dinars. La croissance est rapide, mais les volumes restent faibles face à la carte."
+      },
+      {
+        "q": "Qu'est-ce que TUNPAY ?",
+        "a": "TUNPAY est le label national unique du paiement mobile, créé par la BCT via la note n° 2026-132 du 5 mai 2026. Les émetteurs de wallets doivent l'adopter et les commerçants l'afficher afin que les clients repèrent facilement les points d'acceptation."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "BCT - Le paiement mobile bondit de 80,5 % en 2025",
+      "publisher": "La Presse / AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202607080538.html"
+    },
+    {
+      "title": "Tunisie : un écosystème financier en pleine modernisation",
+      "publisher": "Tunisie Numérique",
+      "url": "https://www.tunisienumerique.com/tunisie-un-ecosysteme-financier-en-pleine-modernisation/"
+    },
+    {
+      "title": "Banques : la BCT fixe les exigences minimales régissant l'enrôlement électronique des clients",
+      "publisher": "Tunisie Numérique",
+      "url": "https://www.tunisienumerique.com/banques-la-bct-fixe-les-exigences-minimales-regissant-lenrolement-electronique-des-clients-2/"
+    },
+    {
+      "title": "La BCT lance le label unifié TUNPAY pour le paiement mobile",
+      "publisher": "Business News",
+      "url": "https://businessnews.com.tn/2026/05/06/la-bct-lance-le-label-unifie-tunpay-pour-le-paiement-mobile/1400181/"
+    },
+    {
+      "title": "Africa Banking Forum 2025: The Future of Digital Finance in Tunisia",
+      "publisher": "Challenges",
+      "url": "https://en.challenges.tn/economy/africa-banking-forum-2025-the-future-of-digital-finance-in-tunisia/"
+    },
+    {
+      "title": "Account ownership (% of population ages 15+), Tunisia",
+      "publisher": "World Bank Global Findex",
+      "url": "https://api.worldbank.org/v2/country/TUN/indicator/FX.OWN.TOTL.ZS?format=json&per_page=20"
+    }
+  ]
+}

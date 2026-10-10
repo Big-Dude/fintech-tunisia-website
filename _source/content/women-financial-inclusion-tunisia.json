@@ -1,0 +1,166 @@
+{
+  "slug": "women-financial-inclusion-tunisia",
+  "category": "inclusion",
+  "cover_motif": "people",
+  "stats": [
+    {
+      "value": "26.6%",
+      "label_en": "of Tunisian women had an account in 2024 (men: 49.6%)",
+      "label_fr": "des Tunisiennes avaient un compte en 2024 (hommes : 49,6 %)",
+      "source": "World Bank Global Findex, 2025"
+    },
+    {
+      "value": "55%",
+      "label_en": "of working women surveyed in 7 governorates are paid in cash",
+      "label_fr": "des femmes actives interrogées dans 7 gouvernorats payées en espèces",
+      "source": "OIF / UNDP study, 2026"
+    },
+    {
+      "value": "46%",
+      "label_en": "of Taysir Microfinance's financing went to women",
+      "label_fr": "des financements de Taysir Microfinance destinés aux femmes",
+      "source": "Taysir bond prospectus summary, 2024"
+    }
+  ],
+  "chart": {
+    "title_en": "Women with an account, 2024 (% of women age 15+)",
+    "title_fr": "Femmes détenant un compte, 2024 (% des femmes de 15 ans et plus)",
+    "unit": "%",
+    "bars": [
+      {
+        "label_en": "Algeria",
+        "label_fr": "Algérie",
+        "value": 18.1
+      },
+      {
+        "label_en": "Tunisia",
+        "label_fr": "Tunisie",
+        "value": 26.6
+      },
+      {
+        "label_en": "Morocco",
+        "label_fr": "Maroc",
+        "value": 34.7
+      },
+      {
+        "label_en": "Egypt",
+        "label_fr": "Égypte",
+        "value": 40.2
+      },
+      {
+        "label_en": "World",
+        "label_fr": "Monde",
+        "value": 76.6
+      }
+    ],
+    "source_name": "World Bank, Global Findex 2025 (indicator FX.OWN.TOTL.FE.ZS)",
+    "source_url": "https://www.worldbank.org/en/publication/globalfindex"
+  },
+  "en": {
+    "title": "Women's Financial Inclusion in Tunisia: A Widening Gap",
+    "meta_description": "Only 26.6% of Tunisian women had an account in 2024, against 49.6% of men. What the Findex and a 2026 field study say about women's access to finance.",
+    "excerpt": "The gender gap in account ownership in Tunisia grew to 23 points in 2024. Cash wages, low incomes and distance keep women outside the financial system.",
+    "keywords": [
+      "women financial inclusion Tunisia",
+      "gender gap bank account Tunisia",
+      "Tunisian women access to finance",
+      "Findex Tunisia women",
+      "microfinance women Tunisia",
+      "women entrepreneurs Tunisia financing"
+    ],
+    "tags": [
+      "Women",
+      "Financial inclusion",
+      "Findex",
+      "Microfinance"
+    ],
+    "key_takeaways": [
+      "26.6% of Tunisian women had an account in 2024, against 49.6% of men, according to the Global Findex 2025.",
+      "The gender gap widened from 16.4 points in 2021 to 23 points in 2024, and Tunisia trails Egypt and Morocco.",
+      "A 2026 OIF/UNDP study in seven governorates found 55% of working women surveyed were paid in cash.",
+      "Microfinance reaches women better than banks, but at an average effective rate of 25.7%."
+    ],
+    "body": "Women's financial inclusion in Tunisia is moving in the wrong direction. According to the World Bank's Global Findex 2025, just 26.6% of Tunisian women had an account in 2024, against 49.6% of men, a gap of 23 percentage points that has widened since 2021. A 2026 field study in Tunisia's interior and south shows why: low incomes, cash wages, distance and distrust.\n\n## Women's financial inclusion in Tunisia: the Findex numbers\n\nThe Findex survey measures account ownership at banks, other financial institutions (including the post office) and mobile money providers. For Tunisian adults:\n\n| Year | Women | Men | Gap |\n|---|---|---|---|\n| 2014 | 20.7% | 34.2% | 13.5 pts |\n| 2017 | 28.4% | 45.7% | 17.4 pts |\n| 2021 | 28.7% | 45.1% | 16.4 pts |\n| 2024 | 26.6% | 49.6% | 23.0 pts |\n\nBetween 2021 and 2024, men's account ownership rose by about four points while women's fell by two. Survey estimates for sub-groups carry a margin of error, but the widening is large enough to be a warning sign.\n\n## How Tunisia compares\n\nTunisia is often cited as a regional pioneer on women's legal rights. On access to finance, it now lags most of its neighbours. In the 2024 Findex data, the share of women with an account was:\n\n- 40.2% in Egypt\n- 34.7% in Morocco\n- 26.6% in Tunisia\n- 18.1% in Algeria\n\nThe global average for women is 76.6%. Egypt's figure is notable: its overall account ownership tripled in a decade, and the gap between women and men there is now under six points.\n\n## What a 2026 field study found\n\nIn September 2026, the Observatoire de l'inclusion financière (OIF) and UNDP published a study on women and young people in seven governorates: Kairouan, Gabès, Médenine, Tataouine, Gafsa, Tozeur and Kébili. It surveyed 1,457 women, mostly aged 25 to 49, a third of them university graduates. The authors stress that the sample is not nationally representative and over-represents graduates, so the real picture for women in these regions may be worse.\n\nKey findings for women:\n\n- **Accounts:** 41% had a formal account. Postal accounts (27%) were more common than bank accounts (18%). Only 0.3% had an account with a payment institution.\n- **Cash wages:** 55% of working women were paid in cash, which the study links to the absence of any legal requirement to pay salaries into an account. 98% said they preferred cash.\n- **Income:** 58% of working women earned less than TND 500 a month.\n- **Credit:** 33% had borrowed from a bank or microfinance institution.\n- **Insurance:** 16% had private insurance, not counting the national health fund (CNAM). 45% found insurance products too complicated.\n- **Distance:** 32% of rural women could reach a financial institution within 15 minutes, against 54% of urban women.\n\nThe study also found that the most common reason for not using financial services was lack of money (51%), and that 22% of women distrusted microfinance institutions. On the supply side, products designed specifically for women were rare.\n\n## Microfinance: the channel that reaches women\n\nMicrofinance is one of the few channels where women are well represented. In the OIF/UNDP study, 6% of women were microfinance clients, against 4.5% of men. Taysir Microfinance reported in its 2024 bond prospectus summary that 46% of its financing went to women. Enda Tamweel, the largest institution, lists women entrepreneurs among its target groups, and a TND 160 million bank syndicate arranged in June 2026 was explicitly aimed at women business owners among others.\n\nThe trade-off is price. The average effective rate on microloans was 25.7% at the end of 2024, according to the regulator, far above bank lending rates. More detail in our [microfinance explainer](post:microfinance-tunisia).\n\n## Public programmes\n\nThe government runs a national programme for women's entrepreneurship and gender-sensitive investment. Its financing line, known as Raidet, supports women-led projects; in June 2025 a Burundian delegation led by Imelde Sabushimike visited one such project, a small workshop in La Soukra that employs four people and targets export markets. Public reporting on Raidet's overall volumes and terms is limited, so its reach is hard to assess.\n\n## What would move the needle\n\nThe data points to a few concrete levers:\n\n- **Salary accounts.** If 55% of working women in the study are paid in cash, payroll digitisation, whether mandated or encouraged, would bring many into the system at once.\n- **Low-cost accounts.** A 2024 BCT circular capped account fees at TND 36 a year for clients earning under TND 1,500 a month. Making such offers permanent and visible matters for women on low incomes.\n- **Agents and mobile wallets.** With rural women far from branches, cash-in and cash-out points and simple wallets can close the distance gap. See [mobile payments in Tunisia](post:mobile-payments-tunisia).\n- **Products built for women.** Savings, insurance and credit designed around irregular incomes and home-based businesses are almost absent today.\n\n## Why it matters for fintech founders\n\nWomen make up the largest unbanked group in Tunisia, and the trend is not improving on its own. For fintechs, this is a large, under-served market, but one where trust, simplicity and cost will decide success more than features. Founders working on wallets, micro-savings, digital credit or embedded insurance should treat the Findex gap as a design brief. For the wider context, see our overview of [financial inclusion in Tunisia](post:financial-inclusion-tunisia) and [the cash economy](post:cash-economy-tunisia).",
+    "faq": [
+      {
+        "q": "How many Tunisian women have a bank account?",
+        "a": "According to the World Bank's Global Findex 2025, 26.6% of Tunisian women aged 15 and over had an account in 2024, including postal and mobile money accounts. The figure for men was 49.6%."
+      },
+      {
+        "q": "Is the gender gap in financial inclusion growing in Tunisia?",
+        "a": "Yes. The gap between men and women in account ownership rose from 16.4 percentage points in 2021 to 23 points in 2024, as men's ownership increased and women's fell slightly."
+      },
+      {
+        "q": "Why are Tunisian women excluded from financial services?",
+        "a": "A 2026 study by the Observatoire de l'inclusion financière and UNDP points to low incomes, wages paid in cash, distance to branches in rural areas, complicated products and distrust. It covered seven interior and southern governorates and is not nationally representative."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Inclusion financière des femmes en Tunisie : l'écart se creuse",
+    "meta_description": "Seules 26,6 % des Tunisiennes avaient un compte en 2024, contre 49,6 % des hommes. Ce que disent le Findex et une étude de terrain menée en 2026.",
+    "excerpt": "L'écart entre femmes et hommes dans la détention d'un compte a atteint 23 points en 2024. Salaires en espèces, faibles revenus et éloignement tiennent les femmes à l'écart.",
+    "keywords": [
+      "inclusion financière des femmes Tunisie",
+      "écart de genre compte bancaire Tunisie",
+      "accès au financement femmes Tunisie",
+      "Findex Tunisie femmes",
+      "microfinance femmes Tunisie",
+      "financement femmes entrepreneures Tunisie"
+    ],
+    "tags": [
+      "Femmes",
+      "Inclusion financière",
+      "Findex",
+      "Microfinance"
+    ],
+    "key_takeaways": [
+      "26,6 % des Tunisiennes avaient un compte en 2024, contre 49,6 % des hommes, selon le Global Findex 2025.",
+      "L'écart est passé de 16,4 points en 2021 à 23 points en 2024, et la Tunisie est derrière l'Égypte et le Maroc.",
+      "Une étude OIF/PNUD de 2026 dans sept gouvernorats montre que 55 % des femmes actives interrogées sont payées en espèces.",
+      "La microfinance touche mieux les femmes que les banques, mais à un TEG moyen de 25,7 %."
+    ],
+    "body": "L'inclusion financière des femmes en Tunisie recule. Selon le Global Findex 2025 de la Banque mondiale, seules 26,6 % des Tunisiennes détenaient un compte en 2024, contre 49,6 % des hommes, soit un écart de 23 points qui s'est creusé depuis 2021. Une étude de terrain menée en 2026 dans l'intérieur et le Sud du pays en éclaire les raisons : revenus faibles, salaires en espèces, éloignement et méfiance.\n\n## Inclusion financière des femmes en Tunisie : les chiffres du Findex\n\nLe Findex mesure la détention d'un compte dans une banque, une autre institution financière (dont La Poste) ou auprès d'un fournisseur de mobile money. Pour les adultes tunisiens :\n\n| Année | Femmes | Hommes | Écart |\n|---|---|---|---|\n| 2014 | 20,7 % | 34,2 % | 13,5 pts |\n| 2017 | 28,4 % | 45,7 % | 17,4 pts |\n| 2021 | 28,7 % | 45,1 % | 16,4 pts |\n| 2024 | 26,6 % | 49,6 % | 23,0 pts |\n\nEntre 2021 et 2024, le taux des hommes a gagné environ quatre points tandis que celui des femmes en perdait deux. Les estimations par sous-groupe comportent une marge d'erreur, mais l'écart est suffisamment net pour constituer un signal d'alerte.\n\n## La Tunisie face à ses voisins\n\nLa Tunisie est souvent citée comme pionnière régionale des droits des femmes. En matière d'accès aux services financiers, elle est aujourd'hui derrière la plupart de ses voisins. Dans les données Findex 2024, la part des femmes disposant d'un compte était de :\n\n- 40,2 % en Égypte ;\n- 34,7 % au Maroc ;\n- 26,6 % en Tunisie ;\n- 18,1 % en Algérie.\n\nLa moyenne mondiale pour les femmes est de 76,6 %. Le cas égyptien est frappant : le taux global y a triplé en dix ans, et l'écart entre femmes et hommes y est désormais inférieur à six points.\n\n## Ce que révèle une étude de terrain de 2026\n\nEn septembre 2026, l'Observatoire de l'inclusion financière (OIF) et le PNUD ont publié une étude sur les femmes et les jeunes dans sept gouvernorats : Kairouan, Gabès, Médenine, Tataouine, Gafsa, Tozeur et Kébili. Elle porte sur 1 457 femmes, âgées pour la plupart de 25 à 49 ans, dont un tiers de diplômées du supérieur. Les auteurs soulignent que l'échantillon n'est pas représentatif et surreprésente les diplômées : la situation réelle des femmes de ces régions pourrait donc être plus difficile encore.\n\nPrincipaux résultats pour les femmes :\n\n- **Comptes :** 41 % ont un compte formel. Les comptes postaux (27 %) sont plus répandus que les comptes bancaires (18 %). Seules 0,3 % ont un compte auprès d'un établissement de paiement.\n- **Salaires en espèces :** 55 % des femmes actives sont payées en liquide, ce que l'étude relie à l'absence d'obligation légale de verser les salaires sur un compte. 98 % disent préférer le cash.\n- **Revenus :** 58 % des femmes actives gagnent moins de 500 dinars par mois.\n- **Crédit :** 33 % ont déjà emprunté auprès d'une banque ou d'une institution de microfinance.\n- **Assurance :** 16 % ont une assurance privée, hors CNAM, et 45 % jugent les produits d'assurance trop compliqués.\n- **Distance :** 32 % des femmes rurales peuvent rejoindre une institution financière en moins de 15 minutes, contre 54 % des citadines.\n\nLe manque de ressources est le premier frein cité (51 %), et 22 % des femmes se méfient des institutions de microfinance. Côté offre, les produits conçus spécifiquement pour les femmes restent rares.\n\n## La microfinance, canal qui atteint les femmes\n\nLa microfinance est l'un des rares canaux où les femmes sont bien représentées. Dans l'étude OIF/PNUD, 6 % des femmes sont clientes d'une IMF, contre 4,5 % des hommes. Taysir Microfinance indiquait dans le résumé de son prospectus obligataire de 2024 que 46 % de ses financements allaient aux femmes. Enda Tamweel, premier acteur du secteur, compte les femmes entrepreneures parmi ses publics prioritaires, et le financement bancaire de 160 millions de dinars monté en juin 2026 visait explicitement, entre autres, les femmes cheffes d'entreprise.\n\nLa contrepartie, c'est le prix. Le TEG moyen des microcrédits atteignait 25,7 % fin 2024 selon l'autorité de contrôle, bien au-delà des taux bancaires. Plus de détails dans notre [dossier sur la microfinance](post:microfinance-tunisia).\n\n## Les programmes publics\n\nL'État pilote un programme national pour l'entrepreneuriat féminin et l'investissement sensible au genre. Sa ligne de financement, baptisée Raidet, soutient des projets portés par des femmes ; en juin 2025, une délégation burundaise conduite par Imelde Sabushimike a visité l'un d'eux, un petit atelier de La Soukra qui emploie quatre personnes et vise l'export. Les données publiques sur les volumes et les conditions de Raidet restent limitées, ce qui rend sa portée difficile à évaluer.\n\n## Les leviers qui feraient la différence\n\nLes données suggèrent quelques leviers concrets :\n\n- **La domiciliation des salaires.** Si 55 % des femmes actives de l'étude sont payées en espèces, la digitalisation de la paie, imposée ou encouragée, ferait entrer d'un coup beaucoup de femmes dans le système.\n- **Des comptes à bas coût.** Une circulaire de la BCT de 2024 a plafonné les frais de tenue de compte à 36 dinars par an pour les clients gagnant moins de 1 500 dinars par mois. Pérenniser et faire connaître ces offres compte pour les femmes aux revenus modestes.\n- **Agents et portefeuilles mobiles.** Les femmes rurales étant loin des agences, les points de dépôt et de retrait et des portefeuilles simples peuvent réduire la distance. Voir [le paiement mobile en Tunisie](post:mobile-payments-tunisia).\n- **Des produits pensés pour les femmes.** Épargne, assurance et crédit adaptés aux revenus irréguliers et aux activités à domicile sont quasi absents aujourd'hui.\n\n## Ce que cela signifie pour les fondateurs de fintech\n\nLes femmes forment le premier groupe de non-bancarisés en Tunisie, et la tendance ne s'améliore pas d'elle-même. Pour les fintechs, c'est un marché vaste et mal servi, où la confiance, la simplicité et le coût compteront plus que les fonctionnalités. Les fondateurs qui travaillent sur les portefeuilles, la micro-épargne, le crédit numérique ou l'assurance intégrée devraient lire l'écart du Findex comme un cahier des charges. Pour le contexte général, voir notre panorama de [l'inclusion financière en Tunisie](post:financial-inclusion-tunisia) et notre analyse de [l'économie du cash](post:cash-economy-tunisia).",
+    "faq": [
+      {
+        "q": "Combien de Tunisiennes ont un compte bancaire ?",
+        "a": "Selon le Global Findex 2025 de la Banque mondiale, 26,6 % des Tunisiennes de 15 ans et plus détenaient un compte en 2024, comptes postaux et mobile money compris. Le taux des hommes était de 49,6 %."
+      },
+      {
+        "q": "L'écart entre femmes et hommes s'aggrave-t-il ?",
+        "a": "Oui. L'écart de détention d'un compte est passé de 16,4 points en 2021 à 23 points en 2024 : le taux des hommes a progressé tandis que celui des femmes a légèrement reculé."
+      },
+      {
+        "q": "Pourquoi les Tunisiennes sont-elles exclues des services financiers ?",
+        "a": "Une étude de 2026 de l'Observatoire de l'inclusion financière et du PNUD pointe la faiblesse des revenus, les salaires versés en espèces, l'éloignement des agences en zone rurale, la complexité des produits et la méfiance. Elle porte sur sept gouvernorats de l'intérieur et du Sud et n'est pas représentative à l'échelle nationale."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "The Global Findex Database 2025",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/publication/globalfindex"
+    },
+    {
+      "title": "Account ownership, female (% of population ages 15+), Tunisia — API data",
+      "publisher": "World Bank",
+      "url": "https://api.worldbank.org/v2/country/TUN/indicator/FX.OWN.TOTL.FE.ZS?format=json"
+    },
+    {
+      "title": "Femmes et jeunes tunisiens face aux services financiers : le cash reste roi",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2026/09/22/inclusion-financiere-femmes-jeunes-tunisiens-services-financiers-cash/"
+    },
+    {
+      "title": "Taysir Microfinance en quête de 40 MTND sur le marché obligataire",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2024/07/24/taysir-microfinance-en-quete-de-40-mtnd-sur-le-marche-obligataire/"
+    },
+    {
+      "title": "Coopération Tunisie-Burundi : Imelde Sabushimike visite le projet « Raidet » à La Soukra",
+      "publisher": "L'Economiste Maghrébin",
+      "url": "https://www.leconomistemaghrebin.com/2025/06/25/tunisie-burundi-imelde-sabushimike-visite-raidet/"
+    }
+  ]
+}

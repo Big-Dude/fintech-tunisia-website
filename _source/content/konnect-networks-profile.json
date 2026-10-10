@@ -1,0 +1,148 @@
+{
+  "slug": "konnect-networks-profile",
+  "category": "startups",
+  "cover_motif": "network-nodes",
+  "stats": [
+    {
+      "value": "$1.5M",
+      "label_en": "round announced in December 2024",
+      "label_fr": "levés lors du tour annoncé en décembre 2024",
+      "source": "Launch Base Africa, 2024"
+    },
+    {
+      "value": "2021",
+      "label_en": "year Konnect Networks was founded",
+      "label_fr": "année de création de Konnect Networks",
+      "source": "Launch Base Africa, 2024"
+    },
+    {
+      "value": "6",
+      "label_en": "international remittance corridors in production, per the company",
+      "label_fr": "corridors de transfert internationaux en production, selon l'entreprise",
+      "source": "Konnect Networks website, 2026"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Konnect Networks: Profile of a Tunisian Payments Startup",
+    "meta_description": "Konnect Networks began as a Tunisian payment gateway and now sells wallet and payment infrastructure. Its founder, funding, licence and 2026 strategy.",
+    "excerpt": "Founded in 2021, Konnect Networks built a payment gateway for Tunisian merchants, raised money from Visa and Attijariwafa Ventures, and now pitches itself as infrastructure for banks, payment institutions and telcos.",
+    "keywords": [
+      "Konnect Networks",
+      "Konnect Tunisia",
+      "Konnect payment gateway",
+      "payment facilitator Tunisia",
+      "Amin Ben Abderrahman",
+      "Tunisian fintech startup",
+      "Kashy wallet"
+    ],
+    "tags": [
+      "Konnect",
+      "Payment gateway",
+      "Infrastructure",
+      "Startups"
+    ],
+    "key_takeaways": [
+      "Konnect Networks was founded in 2021 by Amin Ben Abderrahman and started as a payment gateway for Tunisian businesses.",
+      "Launch Base Africa reported a $1.5 million round in December 2024; Wamda later named Attijariwafa Ventures, Visa and six other backers.",
+      "Konnect says it was the first company to receive a payment facilitator licence from the Central Bank of Tunisia.",
+      "Its website now presents Konnect as white-label wallet and payment infrastructure, naming Tunisie Telecom's Kashy wallet as a client."
+    ],
+    "body": "Konnect Networks is a Tunis-born fintech that began by helping Tunisian merchants accept online payments and has since repositioned itself as a supplier of payment infrastructure to banks, payment institutions and telecom operators. Its trajectory shows how Tunisian payment startups adapt to a market where the central bank tightly controls who can hold customer money.\n\n## Konnect Networks at a glance\n\n- **Founded:** 2021, by Amin Ben Abderrahman, who is also CEO.\n- **Base:** Tunis; the company's website also lists offices in Paris and New York.\n- **Investors:** Attijariwafa Ventures, Visa, Renew Capital, Digital Africa Ventures, Utopia Capital Management, 54 Collective, Plug and Play and Sunny Side Venture Partners, according to Wamda and Daba Finance.\n- **Regulatory status:** describes itself as a payment facilitator licensed by the Banque Centrale de Tunisie (BCT), and the first to receive that licence.\n\n## From payment gateway to orchestration\n\nKonnect's first product was a payment gateway for Tunisian businesses. Merchants could accept local and international cards, e-Dinar postal cards and Konnect's own wallet, through:\n\n- payment links sent by SMS, email or messaging apps;\n- e-commerce plugins for platforms such as WooCommerce and PrestaShop;\n- an API for custom integrations.\n\nBy 2025 the company described itself as a **payment orchestration** platform covering online and point-of-sale payments, payment aggregation and real-time transactions. Speaking to Wamda in May 2025, it claimed month-on-month growth of over 20% and a 4% share of Tunisia's e-commerce market within three years. These are company figures that we could not check independently.\n\nFor the wider merchant landscape, see our guide to [e-commerce payments in Tunisia](post:ecommerce-payments-tunisia).\n\n## Funding\n\nKonnect's funding came in several steps:\n\n- **July 2024:** an undisclosed investment from Fuzé, the early-stage programme of Digital Africa, backed by the French development finance institution Proparco.\n- **December 2024:** a **$1.5 million** round reported by Launch Base Africa, led by a consortium including Attijariwafa Ventures, Renew Capital, Digital Africa Ventures, Sunny Side Venture Partners, Plug and Play Africa and 54 Collective. It was Renew Capital's first investment in Tunisia.\n- **May 2025:** Wamda reported Attijariwafa Ventures' participation in a multi-investor round alongside Utopia Capital Management, Visa and others, without giving an amount. It is not clear from public reporting whether this is the same round as December 2024 or an extension.\n\nVisa's presence on the cap table matters: Konnect also announced a partnership with Visa to extend payment services to unbanked and underserved users. For the broader funding picture, see our [startup funding trends](post:tunisia-startup-funding-trends).\n\n## The licence question\n\nKonnect says it was the first company to receive a **payment facilitator** licence from the BCT. That status sits below a full payment institution licence. In January 2024, the BCT published guidelines for payment facilitators that require them to work in partnership with a licensed acquirer (a bank, La Poste or a payment institution) and to report quarterly to the central bank. The guidelines cover governance, risk management, anti-money laundering, sub-merchant relations and guarantee mechanisms.\n\nIn practice, a facilitator signs up and serves small merchants while settlement runs through a licensed partner. It is a lighter path into the market, but it keeps the startup dependent on banks. Our explainer on [payment institutions in Tunisia](post:payment-institutions-tunisia) sets out the difference.\n\n## The 2026 pivot: infrastructure for others\n\nKonnect's current website reads less like a merchant gateway and more like a software vendor. It presents the company as \"sovereign payment infrastructure\" for banks, payment service providers and payment institutions, offering:\n\n- white-label wallets and ledgers with regulatory limits by customer profile;\n- agent banking tools for cash-in and cash-out networks;\n- international remittance connectors (the company lists Western Union, MoneyGram, Ria, Zepz, TapTapSend and MyEasy Transfer);\n- KYC, compliance reporting and reconciliation tools.\n\nThe site names Tunisie Telecom's **Kashy** wallet and the payment institution Viamobile as production clients. Press coverage of Kashy's launch in March 2026 credits Tunisie Telecom and Viamobile, which holds the BCT licence, but does not mention Konnect, so its role rests on the company's own account. Clients operate under their own licences, and Konnect supplies the technology.\n\n## Why it matters\n\nKonnect's shift reflects a pattern seen elsewhere in Africa: in heavily regulated markets, selling software to licence holders can be easier than holding the licence yourself. Several developments in 2026 make that strategy timely:\n\n- telecom operators are entering mobile money (Tunisie Telecom's Kashy, Ooredoo's OFT Tunisie);\n- the BCT's TUNPAY label pushes wallet issuers toward common standards;\n- the number of licensed payment service providers keeps rising.\n\nThe risk is concentration: a vendor that depends on a few large clients is exposed if any of them change course. Figures here reflect public information available as of October 2026.",
+    "faq": [
+      {
+        "q": "What does Konnect Networks do?",
+        "a": "Konnect started as a payment gateway for Tunisian merchants, with payment links, plugins and an API. It now presents itself mainly as white-label wallet and payment infrastructure for banks, payment institutions and telecom operators."
+      },
+      {
+        "q": "Who founded Konnect Networks?",
+        "a": "Konnect Networks was founded in 2021 by Amin Ben Abderrahman, who serves as CEO."
+      },
+      {
+        "q": "How much has Konnect raised?",
+        "a": "Launch Base Africa reported a $1.5 million round in December 2024. Wamda reported in May 2025 that Attijariwafa Ventures, Visa and others had invested, without giving an amount."
+      },
+      {
+        "q": "Is Konnect licensed by the Central Bank of Tunisia?",
+        "a": "Konnect says it holds a payment facilitator licence from the BCT and was the first company to receive one. That is distinct from a full payment institution licence."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Konnect Networks : portrait d'une startup tunisienne du paiement",
+    "meta_description": "Konnect Networks, passerelle de paiement tunisienne, vend désormais une infrastructure de wallets. Fondateur, levées de fonds, agrément et stratégie 2026.",
+    "excerpt": "Créée en 2021, Konnect Networks a bâti une passerelle de paiement pour les commerçants tunisiens, levé des fonds auprès de Visa et d'Attijariwafa Ventures, et se présente désormais comme fournisseur d'infrastructure.",
+    "keywords": [
+      "Konnect Networks",
+      "Konnect Tunisie",
+      "passerelle de paiement Konnect",
+      "facilitateur de paiement Tunisie",
+      "Amin Ben Abderrahman",
+      "startup fintech tunisienne",
+      "wallet Kashy"
+    ],
+    "tags": [
+      "Konnect",
+      "Passerelle de paiement",
+      "Infrastructure",
+      "Startups"
+    ],
+    "key_takeaways": [
+      "Konnect Networks a été fondée en 2021 par Amin Ben Abderrahman et a démarré comme passerelle de paiement pour les entreprises tunisiennes.",
+      "Launch Base Africa a annoncé un tour de 1,5 million de dollars en décembre 2024 ; Wamda a ensuite cité Attijariwafa Ventures, Visa et six autres investisseurs.",
+      "Konnect affirme avoir été la première société à obtenir un agrément de facilitateur de paiement de la Banque Centrale de Tunisie.",
+      "Son site la présente aujourd'hui comme fournisseur d'infrastructure de wallets en marque blanche, avec le wallet Kashy de Tunisie Telecom comme client."
+    ],
+    "body": "Konnect Networks est une fintech née à Tunis. Elle a d'abord aidé les commerçants tunisiens à encaisser en ligne, avant de se repositionner comme fournisseur d'infrastructure de paiement pour les banques, les établissements de paiement et les opérateurs télécoms. Son parcours illustre la façon dont les startups du paiement s'adaptent à un marché où la Banque centrale contrôle étroitement qui peut détenir l'argent des clients.\n\n## Konnect Networks en bref\n\n- **Création :** 2021, par Amin Ben Abderrahman, également directeur général.\n- **Implantation :** Tunis ; le site de l'entreprise mentionne aussi des bureaux à Paris et New York.\n- **Investisseurs :** Attijariwafa Ventures, Visa, Renew Capital, Digital Africa Ventures, Utopia Capital Management, 54 Collective, Plug and Play et Sunny Side Venture Partners, selon Wamda et Daba Finance.\n- **Statut :** se présente comme facilitateur de paiement agréé par la Banque Centrale de Tunisie (BCT), et le premier à l'avoir été.\n\n## De la passerelle à l'orchestration\n\nLe premier produit de Konnect était une passerelle de paiement pour les entreprises tunisiennes. Les commerçants pouvaient accepter les cartes locales et internationales, les cartes postales e-Dinar et le wallet Konnect, via :\n\n- des liens de paiement envoyés par SMS, e-mail ou messagerie ;\n- des modules e-commerce pour WooCommerce, PrestaShop et d'autres plateformes ;\n- une API pour les intégrations sur mesure.\n\nEn 2025, l'entreprise se décrivait comme une plateforme d'**orchestration des paiements** couvrant le paiement en ligne et en point de vente, l'agrégation et le traitement en temps réel. Interrogée par Wamda en mai 2025, elle revendiquait une croissance mensuelle supérieure à 20 % et 4 % du marché tunisien de l'e-commerce en trois ans. Ces chiffres émanent de l'entreprise et n'ont pas pu être vérifiés.\n\nPour le panorama côté commerçants, voir notre guide du [paiement e-commerce en Tunisie](post:ecommerce-payments-tunisia).\n\n## Financement\n\nLe financement s'est fait par étapes :\n\n- **Juillet 2024 :** un investissement non divulgué de Fuzé, le programme d'amorçage de Digital Africa soutenu par Proparco.\n- **Décembre 2024 :** un tour de **1,5 million de dollars** annoncé par Launch Base Africa, mené par un consortium réunissant Attijariwafa Ventures, Renew Capital, Digital Africa Ventures, Sunny Side Venture Partners, Plug and Play Africa et 54 Collective. C'était le premier investissement de Renew Capital en Tunisie.\n- **Mai 2025 :** Wamda fait état de la participation d'Attijariwafa Ventures à un tour multi-investisseurs aux côtés d'Utopia Capital Management, de Visa et d'autres, sans montant. Les informations publiques ne permettent pas de savoir s'il s'agit du même tour qu'en décembre 2024 ou d'une extension.\n\nLa présence de Visa compte : Konnect a aussi annoncé un partenariat avec le réseau pour étendre ses services aux populations non bancarisées. Pour le contexte, voir nos [tendances du financement des startups](post:tunisia-startup-funding-trends).\n\n## La question de l'agrément\n\nKonnect affirme avoir obtenu le premier agrément de **facilitateur de paiement** délivré par la BCT. Ce statut est plus léger que celui d'établissement de paiement. En janvier 2024, la BCT a publié des lignes directrices imposant aux facilitateurs de travailler avec un acquéreur agréé (banque, La Poste ou établissement de paiement) et de rendre compte chaque trimestre à la Banque centrale. Elles couvrent la gouvernance, la gestion des risques, la LBC/FT, la relation avec les sous-commerçants et les mécanismes de garantie.\n\nConcrètement, le facilitateur recrute et sert les petits commerçants, tandis que le règlement passe par un partenaire agréé. C'est une porte d'entrée plus accessible, mais qui maintient la dépendance aux banques. Notre dossier sur [les établissements de paiement en Tunisie](post:payment-institutions-tunisia) détaille la différence.\n\n## Le virage de 2026 : l'infrastructure pour les autres\n\nLe site actuel de Konnect ressemble moins à celui d'une passerelle marchande qu'à celui d'un éditeur. L'entreprise s'y présente comme une « infrastructure de paiement souveraine » pour banques, PSP et établissements de paiement, avec :\n\n- des wallets et registres en marque blanche, plafonds réglementaires par profil inclus ;\n- des outils d'agency banking pour les réseaux de cash-in et cash-out ;\n- des connecteurs de transferts internationaux (Western Union, MoneyGram, Ria, Zepz, TapTapSend et MyEasy Transfer, selon l'entreprise) ;\n- des outils de KYC, de reporting réglementaire et de rapprochement.\n\nLe site cite le wallet **Kashy** de Tunisie Telecom et l'établissement de paiement Viamobile comme clients en production. La couverture presse du lancement de Kashy en mars 2026 mentionne Tunisie Telecom et Viamobile, titulaire de l'agrément BCT, mais pas Konnect : son rôle repose donc sur ses propres déclarations. Les clients opèrent sous leur propre agrément, Konnect fournissant la technologie.\n\n## Pourquoi c'est important\n\nCe virage reflète une logique observée ailleurs en Afrique : dans un marché très régulé, vendre du logiciel aux titulaires d'agrément peut être plus simple que de détenir l'agrément soi-même. Plusieurs évolutions de 2026 vont dans ce sens :\n\n- les opérateurs télécoms entrent dans le mobile money (Kashy chez Tunisie Telecom, OFT Tunisie chez Ooredoo) ;\n- le label TUNPAY de la BCT pousse les émetteurs de wallets vers des standards communs ;\n- le nombre de prestataires de services de paiement agréés continue d'augmenter.\n\nLe risque est la concentration : un fournisseur qui dépend de quelques grands clients est exposé si l'un d'eux change de cap. Les informations ci-dessus sont à jour en octobre 2026.",
+    "faq": [
+      {
+        "q": "Que fait Konnect Networks ?",
+        "a": "Konnect a commencé comme passerelle de paiement pour les commerçants tunisiens (liens de paiement, modules, API). Elle se présente aujourd'hui surtout comme fournisseur d'infrastructure de wallets et de paiement en marque blanche pour banques, établissements de paiement et opérateurs."
+      },
+      {
+        "q": "Qui a fondé Konnect Networks ?",
+        "a": "Konnect Networks a été fondée en 2021 par Amin Ben Abderrahman, qui la dirige."
+      },
+      {
+        "q": "Combien Konnect a-t-elle levé ?",
+        "a": "Launch Base Africa a annoncé un tour de 1,5 million de dollars en décembre 2024. En mai 2025, Wamda a fait état d'investissements d'Attijariwafa Ventures, de Visa et d'autres, sans montant."
+      },
+      {
+        "q": "Konnect est-elle agréée par la BCT ?",
+        "a": "Konnect affirme détenir un agrément de facilitateur de paiement de la BCT, le premier délivré. C'est un statut distinct de celui d'établissement de paiement."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tunisia's Konnect Networks raises $1.5M to simplify online transactions for businesses",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2024/12/17/tunisias-konnect-networks-raises-1-5m-to-simplify-online-transactions-for-businesses"
+    },
+    {
+      "title": "Attijariwafa Ventures backs Tunisian fintech Konnect in multi-investor round",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/2025/05/attijariwafa-ventures-backs-tunisian-fintech-konnect-multi-investor-round"
+    },
+    {
+      "title": "Tunisia's Konnect Networks secures funding to scale fintech platform",
+      "publisher": "Daba Finance",
+      "url": "https://www.dabafinance.com/en/news/tunisia-s-konnect-networks-secures-funding-to-scale-fintech-platform"
+    },
+    {
+      "title": "Fuzé investment series: Tunisian fintech Konnect Networks gets funding boost",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2024/07/16/fuze-investment-series-tunisian-fintech-konnect-networks-gets-funding-boost/?amp=1"
+    },
+    {
+      "title": "Konnect Networks · Infrastructure de paiement souveraine",
+      "publisher": "Konnect Networks",
+      "url": "https://new.konnect.network/"
+    },
+    {
+      "title": "La BCT publie les directives pour l'exercice de l'activité de facilitateur de paiement",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2024/01/12/la-bct-publie-les-directives-pour-lexercice-de-lactivite-de-facilitateur-de-paiement/"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "slug": "morocco-fintech",
+  "category": "africa",
+  "cover_motif": "scales-law",
+  "stats": [
+    {
+      "value": "13.8M",
+      "label_en": "mobile wallet accounts in Morocco at end-2024, up from 10.3M",
+      "label_fr": "comptes de portefeuille mobile au Maroc fin 2024, contre 10,3 M",
+      "source": "Bank Al-Maghrib via North Africa Post, 2025"
+    },
+    {
+      "value": "86%",
+      "label_en": "share of card uses that were cash withdrawals in 2024",
+      "label_fr": "des usages de cartes bancaires étaient des retraits en 2024",
+      "source": "Bank Al-Maghrib via Hespress, 2025"
+    },
+    {
+      "value": "$12M",
+      "label_en": "Chari's Series A, described as Morocco's largest (Oct 2025)",
+      "label_fr": "série A de Chari, présentée comme la plus importante du Maroc (oct. 2025)",
+      "source": "Wamda, 2025"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Morocco Fintech: Wallets, Regulation and Startups",
+    "meta_description": "Morocco fintech explained: Bank Al-Maghrib's wallet push, payment licences, the 15-18 crowdfunding law and draft crypto bill 42.25, with lessons for Tunisia.",
+    "excerpt": "13.8 million wallets, a crowdfunding law and a MiCA-style crypto bill: how Morocco is regulating fintech, and what Tunisia can take from it.",
+    "keywords": [
+      "Morocco fintech",
+      "Bank Al-Maghrib fintech",
+      "Morocco mobile wallet",
+      "Morocco payment institution licence",
+      "Morocco crypto law 42.25",
+      "Morocco crowdfunding law 15-18",
+      "Chari Morocco"
+    ],
+    "tags": [
+      "Morocco",
+      "Regulation",
+      "Mobile wallets",
+      "Crypto",
+      "Crowdfunding"
+    ],
+    "key_takeaways": [
+      "Morocco had 22.6 million bank cards in 2024, but 86% of card uses were cash withdrawals.",
+      "Mobile wallet accounts reached 13.8 million at the end of 2024, driven mostly by social aid transfers.",
+      "Chari became the first VC-backed Moroccan startup to obtain a payment institution licence, alongside a $12 million Series A in October 2025.",
+      "Draft crypto Bill 42.25, modelled on MiCA, was still under review in July 2026, so the 2017 ban remains formally in force."
+    ],
+    "body": "Morocco is a market with a large card base and a cash habit that is hard to break, and its regulators are now moving on several fronts at once. **Morocco fintech** is shaped by Bank Al-Maghrib's push for mobile wallets, a crowdfunding law, a draft crypto-asset bill and a state-backed plan to fund startups. Because Morocco and Tunisia share a similar legal tradition and banking structure, each step is directly relevant to Tunisian founders and regulators.\n\n## A card market that still runs on cash\n\nOn paper, Moroccans are well equipped. According to Bank Al-Maghrib (BAM) data reported by [Hespress](https://en.hespress.com/116580-morocco-reaches-22-6-million-bank-cards-in-2024.html), 22.6 million bank cards were in circulation in 2024, up 12% in a year. But cards are mostly used to take cash out: withdrawals accounted for 86% of card uses in 2024, down only slightly from 88% in 2023.\n\nThe central bank has said cash demand remains above pre-pandemic levels, even though it fell in 2024. A tax amnesty absorbed about 37 billion dirhams of cash holdings, according to [North Africa Post](https://northafricapost.com/93475-moroccos-central-bank-pushes-mobile-payments-to-reduce-cash-prevalence.html). Reducing cash use is therefore an explicit BAM priority.\n\n## Payment institutions and the m-wallet\n\nMorocco's 2014 banking law opened the market to payment institutions, non-bank companies licensed to hold payment accounts and move money. In 2018 the country launched M-Wallet, an interoperable mobile payment solution.\n\nAdoption has been slow but is now accelerating, largely thanks to the state. According to BAM's 2024 report on payment systems, as reported by North Africa Post:\n\n- 21 mobile wallet offers were available by the end of 2024;\n- mobile wallet accounts rose to 13.8 million, from 10.3 million a year earlier;\n- wallet transactions nearly doubled to 19.7 million, worth 3.9 billion dirhams, mostly linked to social aid transfers;\n- mobile payments still account for only 0.1% of total transactions.\n\nBAM eased rules for payment institutions so they could help distribute social aid digitally, and it is working with the World Bank to map government-to-citizen payment flows. The lesson is clear: when the state pays benefits into wallets, wallets get opened.\n\n## Startups: the payment licence as a growth tool\n\nThe most visible example of a startup using the payment institution licence is **Chari**, a Casablanca company founded in 2020 that lets small grocery shops order stock and access financial services. In October 2025 it raised a $12 million Series A, which [Wamda](https://www.wamda.com/en/2025/10/chari-secures-12-million-series-payment-licence-bank-al-maghrib) described as the largest Series A ever raised in Morocco, led by SPE Capital and Orange Ventures. Chari also became the first venture-backed startup in Morocco to obtain a payment institution licence from BAM. The licence lets it issue payment accounts with Moroccan IBANs and debit cards, offer acquiring through POS terminals and handle transfers, remittances and bill payments.\n\nOn funding, the government is trying to fill the gap left by private investors. In November 2025, under the *Maroc Digital 2030* strategy, the digital transition ministry, the finance ministry, the Mohammed VI Investment Fund and the state-owned CDG signed an agreement on a facility to encourage new venture funds, according to [Ecofin Agency](https://www.ecofinagency.com/news-digital/2611-50840-morocco-launches-fund-program-for-its-startups). The stated targets for 2030 are at least 3,000 startups, one or two unicorns and up to 7 billion dirhams raised by the ecosystem.\n\n## Crowdfunding: a law, then licences\n\nMorocco adopted a dedicated crowdfunding law, Law 15-18, but implementation took time. By mid-2024, BAM had published its implementing circulars and granted three approvals to crowdfunding platforms, and the capital markets authority (AMMC) had opened a portal for licence applications, according to [Finances News Hebdo](https://fnh.ma/article/actualite-financiere-maroc/crowdfunding-maroc-financement). The split of roles between the central bank and the market regulator is a useful reference for Tunisia, which has its own [crowdfunding law](post:crowdfunding-law-tunisia).\n\n## Crypto: from a ban towards a licensing regime\n\nMorocco banned crypto ownership and trading in 2017, arguing it breached foreign exchange rules. In November 2025, the finance ministry published Draft Bill No. 42.25 on crypto-assets, prepared with BAM and the AMMC and closely modelled on the EU's MiCA regulation. According to [Morocco World News](https://www.moroccoworldnews.com/2026/07/330814/bam-confirms-progress-on-crypto-law-to-curb-moroccos-growing-underground-market/):\n\n- service providers would need prior approval and must meet capital, governance and risk-control standards;\n- the AMMC and BAM would share supervision, with BAM responsible for stablecoins, including their reserves and redemption;\n- central bank digital currencies, NFTs and mining are outside the bill's scope.\n\nIn July 2026, BAM said in its annual banking supervision report that the bill was still under review. As of that date it had not been adopted, so the 2017 ban technically remains in force.\n\n## What Tunisia can learn from Morocco\n\nTunisia and Morocco face similar problems: heavy cash use, a bank-centred system and strict foreign exchange laws. Morocco's experience suggests four lessons:\n\n- **Use public payments to build wallet habits.** Social transfers did more for Moroccan wallets than marketing did.\n- **Make the payment institution licence a real path for startups.** Chari shows what a startup can build once licensed. Tunisia's equivalent is covered in [payment institutions and e-money licensing](post:payment-institutions-tunisia).\n- **Replace a ban with rules.** Morocco is moving from prohibition to a MiCA-style licensing regime. Tunisia's debate is covered in [the legal status of crypto in Tunisia](post:crypto-regulation-tunisia).\n- **Pair regulation with funding.** Morocco's 2030 targets come with a state-backed facility for venture funds.\n\nFor figures side by side, see our [Tunisia, Morocco and Egypt comparison](post:tunisia-morocco-egypt-fintech-comparison).",
+    "faq": [
+      {
+        "q": "Is crypto legal in Morocco?",
+        "a": "Crypto trading has been banned in Morocco since 2017. A draft law, Bill 42.25, published in November 2025, would create a licensing regime supervised by the AMMC and Bank Al-Maghrib, but it was still under review as of July 2026."
+      },
+      {
+        "q": "Who regulates fintech in Morocco?",
+        "a": "Bank Al-Maghrib supervises banks and payment institutions and is responsible for crowdfunding platform approvals. The AMMC, the capital markets authority, also plays a role in crowdfunding and would license crypto-asset service providers under the draft crypto bill."
+      },
+      {
+        "q": "How many mobile wallets are there in Morocco?",
+        "a": "According to Bank Al-Maghrib, there were 13.8 million mobile wallet accounts and 21 wallet offers at the end of 2024. Mobile payments still represented only 0.1% of total transactions."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Fintech au Maroc : wallets, régulation et startups",
+    "meta_description": "Fintech au Maroc : essor des wallets, agréments de paiement, loi 15-18 sur le crowdfunding et projet de loi crypto 42.25. Les leçons pour la Tunisie.",
+    "excerpt": "13,8 millions de portefeuilles, une loi sur le crowdfunding et un projet de loi crypto inspiré de MiCA : comment le Maroc encadre la fintech, et ce que la Tunisie peut en retenir.",
+    "keywords": [
+      "fintech Maroc",
+      "Bank Al-Maghrib fintech",
+      "portefeuille mobile Maroc",
+      "établissement de paiement Maroc",
+      "loi crypto 42.25 Maroc",
+      "loi 15-18 crowdfunding",
+      "Chari Maroc"
+    ],
+    "tags": [
+      "Maroc",
+      "Régulation",
+      "Portefeuilles mobiles",
+      "Crypto",
+      "Crowdfunding"
+    ],
+    "key_takeaways": [
+      "Le Maroc comptait 22,6 millions de cartes bancaires en 2024, mais 86 % de leurs usages étaient des retraits d'espèces.",
+      "Les comptes de portefeuille mobile ont atteint 13,8 millions fin 2024, surtout grâce au versement des aides sociales.",
+      "Chari est devenue la première startup marocaine financée par du capital-risque à obtenir un agrément d'établissement de paiement, en levant 12 millions de dollars en octobre 2025.",
+      "Le projet de loi crypto 42.25, inspiré de MiCA, était toujours à l'examen en juillet 2026 : l'interdiction de 2017 reste formellement en vigueur."
+    ],
+    "body": "Le Maroc combine un large parc de cartes bancaires et une forte dépendance au cash, et ses régulateurs avancent désormais sur plusieurs fronts. La **fintech au Maroc** est façonnée par la promotion des portefeuilles mobiles par Bank Al-Maghrib, une loi sur le financement collaboratif, un projet de loi sur les crypto-actifs et un plan public de financement des startups. Parce que le Maroc et la Tunisie partagent une tradition juridique et une structure bancaire proches, chacune de ces étapes intéresse directement les fondateurs et régulateurs tunisiens.\n\n## Un marché de la carte qui vit encore au cash\n\nSur le papier, les Marocains sont bien équipés. Selon les données de Bank Al-Maghrib (BAM) relayées par [Hespress](https://en.hespress.com/116580-morocco-reaches-22-6-million-bank-cards-in-2024.html), 22,6 millions de cartes bancaires étaient en circulation en 2024, soit 12 % de plus en un an. Mais la carte sert surtout à retirer des espèces : les retraits représentaient 86 % de ses usages en 2024, contre 88 % en 2023.\n\nLa banque centrale constate que la demande de billets reste supérieure à son niveau d'avant la pandémie, même si elle a reculé en 2024. Une amnistie fiscale a permis d'absorber environ 37 milliards de dirhams d'avoirs en espèces, selon [North Africa Post](https://northafricapost.com/93475-moroccos-central-bank-pushes-mobile-payments-to-reduce-cash-prevalence.html). Réduire l'usage du cash est donc une priorité affichée de BAM.\n\n## Établissements de paiement et m-wallet\n\nLa loi bancaire de 2014 a ouvert le marché aux établissements de paiement, des sociétés non bancaires agréées pour tenir des comptes de paiement et transférer des fonds. En 2018, le pays a lancé le M-Wallet, une solution de paiement mobile interopérable.\n\nL'adoption a été lente mais s'accélère, en grande partie grâce à l'État. D'après le rapport 2024 de BAM sur les systèmes de paiement, cité par North Africa Post :\n\n- 21 offres de portefeuille mobile étaient disponibles fin 2024 ;\n- le nombre de comptes de portefeuille mobile est passé de 10,3 à 13,8 millions en un an ;\n- les transactions ont presque doublé, à 19,7 millions pour 3,9 milliards de dirhams, essentiellement liées aux aides sociales ;\n- le paiement mobile ne pèse encore que 0,1 % du total des transactions.\n\nBAM a assoupli les règles applicables aux établissements de paiement afin qu'ils participent à la distribution numérique des aides sociales, et travaille avec la Banque mondiale à la cartographie des paiements de l'État vers les citoyens. La leçon est claire : quand l'État verse ses aides sur des portefeuilles, ceux-ci s'ouvrent.\n\n## Startups : l'agrément de paiement comme levier\n\nL'exemple le plus visible d'une startup qui mise sur l'agrément d'établissement de paiement est **Chari**, une société casablancaise fondée en 2020 qui permet aux épiceries de commander leurs marchandises et d'accéder à des services financiers. En octobre 2025, elle a levé 12 millions de dollars en série A, présentée par [Wamda](https://www.wamda.com/en/2025/10/chari-secures-12-million-series-payment-licence-bank-al-maghrib) comme la plus importante jamais réalisée au Maroc, menée par SPE Capital et Orange Ventures. Chari est aussi devenue la première startup financée par du capital-risque au Maroc à obtenir un agrément d'établissement de paiement de BAM. Celui-ci lui permet d'émettre des comptes de paiement avec RIB marocain et des cartes de débit, de proposer l'acquisition par terminaux et passerelles de paiement, ainsi que les transferts, les envois de fonds et le paiement de factures.\n\nCôté financement, l'État tente de combler le manque d'investisseurs privés. En novembre 2025, dans le cadre de la stratégie *Maroc Digital 2030*, le ministère de la Transition numérique, le ministère de l'Économie et des Finances, le Fonds Mohammed VI pour l'investissement et la CDG ont signé une convention portant sur un dispositif destiné à encourager la création de fonds d'investissement, selon [Ecofin Agency](https://www.ecofinagency.com/news-digital/2611-50840-morocco-launches-fund-program-for-its-startups). Les objectifs affichés pour 2030 : au moins 3 000 startups, une ou deux licornes et jusqu'à 7 milliards de dirhams levés par l'écosystème.\n\n## Financement collaboratif : une loi, puis des agréments\n\nLe Maroc s'est doté d'une loi dédiée au financement collaboratif, la loi 15-18, mais sa mise en œuvre a pris du temps. À la mi-2024, BAM avait publié ses circulaires d'application et accordé trois agréments à des plateformes, tandis que l'Autorité marocaine du marché des capitaux (AMMC) avait ouvert un portail dédié aux demandes, selon [Finances News Hebdo](https://fnh.ma/article/actualite-financiere-maroc/crowdfunding-maroc-financement). Ce partage des rôles entre banque centrale et régulateur de marché est une référence utile pour la Tunisie, qui a sa propre [loi sur le crowdfunding](post:crowdfunding-law-tunisia).\n\n## Crypto : de l'interdiction vers l'agrément\n\nLe Maroc a interdit la détention et l'échange de cryptomonnaies en 2017, au motif qu'ils contrevenaient à la réglementation des changes. En novembre 2025, le ministère de l'Économie et des Finances a publié le projet de loi n° 42.25 sur les crypto-actifs, préparé avec BAM et l'AMMC et largement inspiré du règlement européen MiCA. Selon [Morocco World News](https://www.moroccoworldnews.com/2026/07/330814/bam-confirms-progress-on-crypto-law-to-curb-moroccos-growing-underground-market/) :\n\n- les prestataires devront obtenir un agrément préalable et respecter des exigences de capital, de gouvernance et de contrôle des risques ;\n- l'AMMC et BAM se partageront la supervision, BAM étant chargée des stablecoins, y compris de leurs réserves et de leur remboursement ;\n- les monnaies numériques de banque centrale, les NFT et le minage sont exclus du champ du texte.\n\nEn juillet 2026, BAM indiquait dans son rapport annuel sur la supervision bancaire que le texte était toujours à l'examen. À cette date, il n'avait pas été adopté : l'interdiction de 2017 reste donc formellement en vigueur.\n\n## Ce que la Tunisie peut retenir du Maroc\n\nLa Tunisie et le Maroc partagent les mêmes difficultés : usage massif du cash, système centré sur les banques et réglementation des changes stricte. L'expérience marocaine suggère quatre leçons :\n\n- **S'appuyer sur les paiements publics pour créer l'habitude du portefeuille.** Les aides sociales ont davantage fait pour les wallets marocains que le marketing.\n- **Faire de l'agrément d'établissement de paiement une vraie voie pour les startups.** Chari montre ce qu'une startup peut bâtir une fois agréée. Le cadre tunisien est présenté dans notre article sur [les établissements de paiement](post:payment-institutions-tunisia).\n- **Remplacer l'interdiction par des règles.** Le Maroc passe de la prohibition à un régime d'agrément inspiré de MiCA. Le débat tunisien est traité dans [le statut juridique des cryptoactifs en Tunisie](post:crypto-regulation-tunisia).\n- **Associer régulation et financement.** Les objectifs marocains pour 2030 s'accompagnent d'un dispositif public de soutien aux fonds d'investissement.\n\nPour comparer les chiffres, consultez notre [comparatif Tunisie, Maroc, Égypte](post:tunisia-morocco-egypt-fintech-comparison).",
+    "faq": [
+      {
+        "q": "Les cryptomonnaies sont-elles légales au Maroc ?",
+        "a": "Leur échange est interdit au Maroc depuis 2017. Le projet de loi 42.25, publié en novembre 2025, créerait un régime d'agrément supervisé par l'AMMC et Bank Al-Maghrib, mais il était toujours à l'examen en juillet 2026."
+      },
+      {
+        "q": "Qui régule la fintech au Maroc ?",
+        "a": "Bank Al-Maghrib supervise les banques et les établissements de paiement et délivre les agréments des plateformes de financement collaboratif. L'AMMC intervient aussi sur le crowdfunding et agréerait les prestataires de services sur crypto-actifs selon le projet de loi."
+      },
+      {
+        "q": "Combien de portefeuilles mobiles au Maroc ?",
+        "a": "Selon Bank Al-Maghrib, le pays comptait 13,8 millions de comptes de portefeuille mobile et 21 offres fin 2024. Le paiement mobile ne représentait encore que 0,1 % du total des transactions."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Morocco's central bank pushes mobile payments to reduce cash prevalence",
+      "publisher": "North Africa Post",
+      "url": "https://northafricapost.com/93475-moroccos-central-bank-pushes-mobile-payments-to-reduce-cash-prevalence.html"
+    },
+    {
+      "title": "Morocco reaches 22.6 million bank cards in 2024",
+      "publisher": "Hespress English",
+      "url": "https://en.hespress.com/116580-morocco-reaches-22-6-million-bank-cards-in-2024.html"
+    },
+    {
+      "title": "Chari secures $12 million Series A and payment licence from Bank Al-Maghrib",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/2025/10/chari-secures-12-million-series-payment-licence-bank-al-maghrib"
+    },
+    {
+      "title": "BAM confirms progress on crypto law to curb Morocco's growing underground market",
+      "publisher": "Morocco World News",
+      "url": "https://www.moroccoworldnews.com/2026/07/330814/bam-confirms-progress-on-crypto-law-to-curb-moroccos-growing-underground-market/"
+    },
+    {
+      "title": "Morocco launches fund program for its startups",
+      "publisher": "Ecofin Agency",
+      "url": "https://www.ecofinagency.com/news-digital/2611-50840-morocco-launches-fund-program-for-its-startups"
+    },
+    {
+      "title": "Crowdfunding au Maroc : financement",
+      "publisher": "Finances News Hebdo",
+      "url": "https://fnh.ma/article/actualite-financiere-maroc/crowdfunding-maroc-financement"
+    }
+  ]
+}

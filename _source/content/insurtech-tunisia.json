@@ -1,0 +1,181 @@
+{
+  "slug": "insurtech-tunisia",
+  "category": "banking",
+  "cover_motif": "shield-lock",
+  "stats": [
+    {
+      "value": "TND 4.26bn",
+      "label_en": "insurance premiums written in 2025 (+11.4%)",
+      "label_fr": "primes d'assurance émises en 2025 (+11,4 %)",
+      "source": "Regulator data via La Presse, 2026"
+    },
+    {
+      "value": "2.39%",
+      "label_en": "insurance penetration (premiums / GDP), 2024",
+      "label_fr": "taux de pénétration de l'assurance (primes / PIB), 2024",
+      "source": "CGA via La Presse, 2025"
+    },
+    {
+      "value": "+19.4%",
+      "label_en": "growth in life premiums, H1 2026",
+      "label_fr": "croissance des primes vie, S1 2026",
+      "source": "CGA via Managers, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Insurance premiums by line of business in Tunisia, 2025 (TND million)",
+    "title_fr": "Primes d'assurance par branche en Tunisie, 2025 (millions de dinars)",
+    "unit": "M TND",
+    "bars": [
+      {
+        "label_en": "Motor",
+        "label_fr": "Automobile",
+        "value": 1628.3
+      },
+      {
+        "label_en": "Life",
+        "label_fr": "Vie",
+        "value": 1336.1
+      },
+      {
+        "label_en": "Group health",
+        "label_fr": "Maladie groupe",
+        "value": 647.0
+      },
+      {
+        "label_en": "Fire",
+        "label_fr": "Incendie",
+        "value": 241.2
+      },
+      {
+        "label_en": "Transport",
+        "label_fr": "Transport",
+        "value": 112.8
+      }
+    ],
+    "source_name": "Insurance regulator data, reported by La Presse (March 2026)",
+    "source_url": "https://fr.allafrica.com/stories/202603110402.html"
+  },
+  "en": {
+    "title": "Insurtech in Tunisia: A Growing Market Slow to Go Digital",
+    "meta_description": "Insurtech in Tunisia is still early, but premiums hit TND 4.26 billion in 2025. The players, the e-Constat app, regulation and openings for startups.",
+    "excerpt": "Tunisian insurers wrote a record TND 4.26 billion in premiums in 2025, yet penetration is stuck below 2.5% of GDP. Digital claims, embedded cover and new distribution rules could open the door to insurtech.",
+    "keywords": [
+      "insurtech Tunisia",
+      "digital insurance Tunisia",
+      "Tunisia insurance market 2025",
+      "e-Constat Tunisia",
+      "online car insurance Tunisia",
+      "CGA insurance regulator Tunisia",
+      "insurance startups Tunisia"
+    ],
+    "tags": [
+      "Insurtech",
+      "Insurance",
+      "Regulation",
+      "Startups"
+    ],
+    "key_takeaways": [
+      "Tunisian insurers wrote TND 4,255.1 million in premiums in 2025, up 11.4%, with motor and life the two largest lines.",
+      "Penetration has stayed around 2.4% of GDP for years, according to the CGA, which leaves room for new products and channels.",
+      "Digitisation is led by incumbents and the industry federation, with the FTUSA's E-Constat accident report app launched in November 2025.",
+      "Independent insurtech startups remain few; EYST, which raised a seed round from 216 Capital in 2026, is one of the visible examples."
+    ],
+    "body": "Insurtech in Tunisia is still at an early stage, but the market it targets is growing fast. Tunisian insurers wrote a record TND 4,255.1 million in premiums in 2025, and life insurance is expanding at close to 20% a year. Yet insurance still represents less than 2.5% of GDP, and most policies are sold and serviced the traditional way.\n\n## The Tunisian insurance market in numbers\n\nAccording to regulator data reported by La Presse in March 2026, premiums reached **TND 4,255.1 million in 2025**, up 11.4% from TND 3,819.6 million in 2024. The breakdown shows a market still dominated by compulsory and employer-driven cover:\n\n- **Motor:** TND 1,628.3 million, or 38.3% of the market, still the largest line;\n- **Life:** TND 1,336.1 million (+16.4%), or 31.4% of the market;\n- **Group health:** TND 647 million (+11.4%);\n- **Fire:** TND 241.2 million (+19.2%);\n- **Transport:** TND 112.8 million.\n\nThe momentum continued in 2026. According to the Comité général des assurances (CGA), the sector's regulator, premiums reached TND 2,529.2 million in the first half of 2026, up 13%. Life premiums rose 19.4% and health premiums 16.9%. Managers noted that this acceleration in life and health opens space for insurtech and digital distribution models.\n\nThe weak point is depth. The CGA put insurance penetration, premiums as a share of GDP, at about 2.39% in 2024, compared with 2.5% in 2021, and below neighbouring Morocco. Tunisia has 23 insurance companies.\n\n## Why insurtech matters here\n\nLow penetration with steady growth is the classic setting for insurtech. The gaps are visible:\n\n- **Distribution:** most policies are sold through agents, brokers and bank branches. Online subscription exists but remains marginal.\n- **Claims:** paper-based processes are slow and prone to disputes and fraud. The FTUSA, the insurers' federation, has announced an anti-fraud agency.\n- **Products:** micro-insurance, device cover and usage-based products for people outside formal employment are rare.\n\nFor startups, the opportunity is less about replacing insurers than about building the tools, channels and data they lack.\n\n## Incumbents lead the digital shift\n\nSo far, most digital innovation has come from established insurers and industry bodies.\n\n### E-Constat for motor claims\n\nOn 1 November 2025, the FTUSA launched **E-Constat**, described as Tunisia's first mobile app for digital accident reports. Drivers fill in the report on their phone, take photos, geolocate the accident, draw a sketch and send it electronically to their insurer. The FTUSA says the report is recognised by all its member companies. With motor representing more than a third of premiums, and about 340,000 declared accidents in 2025 according to the same March 2026 figures, faster claims handling is a large prize.\n\n### Assurance Auto 2.0\n\nIn October 2025, the CGA's president Jouda Khemiri announced the \"Assurance Auto 2.0\" project, steered by the Presidency of the Government with several ministries and the FTUSA. It aims to replace paper motor insurance documents with a single QR-code card accessible on a smartphone, centralising vehicle data to cut fraud. Its launch was described as imminent at the time; we could not confirm whether it has since gone live.\n\n### Insurer platforms\n\nSome insurers built their own channels early. [BH Assurance](https://managers.tn/2022/06/02/transformation-digitale-et-open-innovation-le-combo-gagnant-de-bh-assurance) launched **WININTI**, which it described as Tunisia's first digital insurance platform, in 2020. By mid-2022 it offered online subscription for motor, home and travel cover, claims filing and health expense tracking, and had more than 15,000 users. BH Assurance also partnered with the startup **Garanty** in 2022 to launch affinity products covering smartphones and glasses.\n\n## The startups\n\nIndependent insurtech startups are still rare in Tunisia. One recent example is **EYST**, founded in 2022, which gives policyholders a virtual bank card loaded with their reimbursement, so they do not have to pay medical or repair costs upfront. In May 2026 it announced a [six-figure seed round](https://au-startups.com/news/eyst-secures-six-figure-round) from 216 Capital, to fund product development and international expansion.\n\nThe model illustrates where Tunisian insurtech can add value: at the junction between insurance and payments. Instant payouts depend on the rails described in our guides to [mobile payments](post:mobile-payments-tunisia) and [digital banking in Tunisia](post:digital-banking-tunisia).\n\nInvestor appetite exists at continental level. [Managers](https://managers.tn/2026/04/10/plus-de-50-des-pdg-de-lassurance-en-afrique-prets-a-investir-dans-ces-startups/), citing an IMARC Group report, wrote in April 2026 that 54% of African insurance CEOs said they wanted to invest directly in insurtech startups. For Tunisian founders, local backers are listed in our overview of [venture capital in Tunisia](post:venture-capital-tunisia).\n\n## Regulation: what could change\n\nInsurance in Tunisia is supervised by the CGA, not the Central Bank. Several reforms could reshape distribution:\n\n- **Remote insurance:** in October 2025, the CGA said a legal framework for distance insurance services was before Parliament. It would allow telecom operators to act as intermediaries, a potential channel for micro-insurance. Its adoption status is unclear.\n- **Insurance Code reform:** the [2026–2030 strategy](https://fr.allafrica.com/stories/202607100351.html) presented in July 2026 plans to revise the Insurance Code, strengthen life and pension products and widen the list of authorised intermediaries.\n- **Digitisation of the regulator:** the CGA is digitising licences, documents and exchanges with insurers.\n\nAny insurtech handling health or claims data must also comply with Tunisia's [personal data protection rules](post:data-protection-tunisia-fintech).\n\n## What founders should watch\n\nThe practical playbook for a Tunisian insurtech today looks like this:\n\n- **Partner rather than compete:** carrying risk requires a licence and capital; most startups will work as technology providers or distributors for licensed insurers.\n- **Start with claims and payouts:** E-Constat shows the industry wants faster, less disputed claims.\n- **Follow the growth:** life and health are the fastest-growing lines and the least penetrated.\n- **Track the distribution reform:** if telecom operators and new intermediaries are allowed to sell insurance, embedded and mobile-first products become far easier to scale.",
+    "faq": [
+      {
+        "q": "Who regulates insurance in Tunisia?",
+        "a": "The Comité général des assurances (CGA), the insurance regulator, supervises insurers and intermediaries. Insurance is not supervised by the Central Bank of Tunisia. The insurers' federation, the FTUSA, coordinates industry projects such as the E-Constat app."
+      },
+      {
+        "q": "How big is the insurance market in Tunisia?",
+        "a": "Premiums reached TND 4,255.1 million in 2025, up 11.4%, according to regulator data reported by La Presse. Motor is the largest line, followed by life. Penetration was about 2.39% of GDP in 2024."
+      },
+      {
+        "q": "Can I file a car accident report online in Tunisia?",
+        "a": "Yes. Since 1 November 2025, the FTUSA's E-Constat app, available on Android and iOS, lets drivers complete an accident report on their phone with photos and location and send it to their insurer. The FTUSA says the report is recognised by all its member companies."
+      },
+      {
+        "q": "Are there insurtech startups in Tunisia?",
+        "a": "A few. EYST, founded in 2022, pays claims through virtual bank cards and raised a seed round from 216 Capital in 2026. Garanty partnered with BH Assurance on device and glasses cover. Most digital innovation still comes from insurers themselves."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Insurtech en Tunisie : un marché en croissance, encore peu digital",
+    "meta_description": "L'insurtech en Tunisie reste naissante, mais les primes ont atteint 4,26 milliards de dinars en 2025. Acteurs, E-Constat, règles et pistes pour startups.",
+    "excerpt": "Les assureurs tunisiens ont émis un record de 4,26 milliards de dinars de primes en 2025, mais la pénétration reste sous 2,5 % du PIB. Sinistres numériques, assurance embarquée et nouvelles règles de distribution pourraient ouvrir la voie à l'insurtech.",
+    "keywords": [
+      "insurtech Tunisie",
+      "assurance digitale Tunisie",
+      "marché de l'assurance Tunisie 2025",
+      "E-Constat Tunisie",
+      "assurance auto en ligne Tunisie",
+      "Comité général des assurances",
+      "startups assurance Tunisie"
+    ],
+    "tags": [
+      "Insurtech",
+      "Assurance",
+      "Réglementation",
+      "Startups"
+    ],
+    "key_takeaways": [
+      "Les assureurs tunisiens ont émis 4 255,1 millions de dinars de primes en 2025 (+11,4 %), l'automobile et la vie étant les deux premières branches.",
+      "Le taux de pénétration plafonne autour de 2,4 % du PIB depuis plusieurs années selon le CGA, ce qui laisse de la place à de nouveaux produits et canaux.",
+      "La digitalisation est portée par les assureurs et leur fédération, avec l'application E-Constat de la FTUSA lancée en novembre 2025.",
+      "Les startups indépendantes restent rares ; EYST, qui a levé un tour d'amorçage auprès de 216 Capital en 2026, en est un exemple visible."
+    ],
+    "body": "L'insurtech en Tunisie n'en est qu'à ses débuts, mais le marché qu'elle vise progresse vite. Les assureurs tunisiens ont émis un record de 4 255,1 millions de dinars de primes en 2025, et l'assurance vie croît à un rythme proche de 20 % par an. Pourtant, l'assurance pèse toujours moins de 2,5 % du PIB, et la plupart des contrats sont vendus et gérés de façon traditionnelle.\n\n## Le marché tunisien de l'assurance en chiffres\n\nSelon les données de l'autorité de contrôle reprises par La Presse en mars 2026, les primes ont atteint **4 255,1 millions de dinars en 2025**, en hausse de 11,4 % par rapport aux 3 819,6 millions de 2024. La répartition montre un marché encore dominé par les assurances obligatoires et collectives :\n\n- **automobile :** 1 628,3 millions de dinars, soit 38,3 % du marché, toujours la première branche ;\n- **vie :** 1 336,1 millions (+16,4 %), soit 31,4 % du marché ;\n- **maladie groupe :** 647 millions (+11,4 %) ;\n- **incendie :** 241,2 millions (+19,2 %) ;\n- **transport :** 112,8 millions.\n\nLa dynamique se poursuit en 2026. Selon le Comité général des assurances (CGA), autorité de contrôle du secteur, le chiffre d'affaires a atteint 2 529,2 millions de dinars au premier semestre, en hausse de 13 %. Les primes vie ont progressé de 19,4 % et celles de l'assurance maladie de 16,9 %. Managers relève que cette accélération de la vie et de la santé ouvre un espace pour l'insurtech et les modèles de distribution digitale.\n\nLe point faible reste la profondeur du marché. Le CGA évalue le taux de pénétration, c'est-à-dire les primes rapportées au PIB, à environ 2,39 % en 2024, contre 2,5 % en 2021, un niveau inférieur à celui du Maroc voisin. Le pays compte 23 compagnies d'assurance.\n\n## Pourquoi l'insurtech a sa place\n\nUne pénétration faible et une croissance régulière : c'est le terrain classique de l'insurtech. Les manques sont visibles :\n\n- **la distribution :** l'essentiel des contrats passe par les agents, les courtiers et les agences bancaires ; la souscription en ligne existe mais reste marginale ;\n- **les sinistres :** les procédures papier sont lentes et sources de litiges et de fraude ; la FTUSA, fédération des assureurs, a annoncé la création d'une agence de lutte contre la fraude ;\n- **les produits :** micro-assurance, couverture des appareils ou produits à l'usage pour les personnes hors emploi formel restent rares.\n\nPour les startups, l'enjeu est moins de remplacer les assureurs que de leur fournir les outils, les canaux et les données qui leur manquent.\n\n## Les acteurs historiques mènent la transformation\n\nJusqu'ici, l'essentiel de l'innovation numérique vient des assureurs établis et des instances professionnelles.\n\n### E-Constat pour les sinistres auto\n\nLe 1er novembre 2025, la FTUSA a lancé **E-Constat**, présentée comme la première application mobile de constat amiable numérique en Tunisie. Le conducteur remplit le constat sur son téléphone, prend des photos, géolocalise l'accident, dessine un croquis et transmet le tout par voie électronique à son assureur. Selon la FTUSA, ce constat est reconnu par toutes les compagnies membres. L'automobile représentant plus du tiers des primes, et environ 340 000 accidents ayant été déclarés en 2025 selon les mêmes chiffres de mars 2026, accélérer la gestion des sinistres est un enjeu de taille.\n\n### Assurance Auto 2.0\n\nEn octobre 2025, la présidente du CGA, Jouda Khemiri, a annoncé le projet « Assurance Auto 2.0 », piloté par la présidence du gouvernement avec plusieurs ministères et la FTUSA. Il vise à remplacer les documents papier de l'assurance automobile par une carte unique à QR code accessible sur smartphone, en centralisant les données des véhicules pour limiter la fraude. Son lancement était alors annoncé comme imminent ; nous n'avons pas pu confirmer sa mise en service depuis.\n\n### Les plateformes des assureurs\n\nCertains assureurs ont pris de l'avance. [BH Assurance](https://managers.tn/2022/06/02/transformation-digitale-et-open-innovation-le-combo-gagnant-de-bh-assurance) a lancé en 2020 **WININTI**, présentée comme la première plateforme d'assurance digitale du pays. À la mi-2022, elle proposait la souscription en ligne de l'assurance auto, multirisque habitation et voyage, la déclaration de sinistres et le suivi des frais de santé, et revendiquait plus de 15 000 utilisateurs. BH Assurance s'est aussi associée en 2022 à la startup **Garanty** pour lancer des produits affinitaires couvrant smartphones et lunettes.\n\n## Les startups\n\nLes startups insurtech indépendantes restent rares en Tunisie. Exemple récent : **EYST**, fondée en 2022, qui remet aux assurés une carte bancaire virtuelle chargée du montant de leur remboursement, pour leur éviter d'avancer les frais médicaux ou de réparation. En mai 2026, elle a annoncé un [tour d'amorçage à six chiffres](https://au-startups.com/news/eyst-secures-six-figure-round) auprès de 216 Capital, destiné au développement produit et à l'expansion internationale.\n\nCe modèle montre où l'insurtech tunisienne peut créer de la valeur : à la jonction de l'assurance et du paiement. Les remboursements instantanés reposent sur les infrastructures décrites dans nos articles sur [le paiement mobile](post:mobile-payments-tunisia) et [la banque digitale en Tunisie](post:digital-banking-tunisia).\n\nL'appétit des investisseurs existe à l'échelle du continent. Citant un rapport d'IMARC Group, [Managers](https://managers.tn/2026/04/10/plus-de-50-des-pdg-de-lassurance-en-afrique-prets-a-investir-dans-ces-startups/) indiquait en avril 2026 que 54 % des PDG de l'assurance en Afrique se disaient prêts à investir directement dans des startups insurtech. Pour les fondateurs tunisiens, les investisseurs locaux sont présentés dans notre panorama du [capital-risque en Tunisie](post:venture-capital-tunisia).\n\n## Réglementation : ce qui pourrait changer\n\nEn Tunisie, l'assurance relève du CGA, et non de la Banque centrale. Plusieurs réformes pourraient transformer la distribution :\n\n- **l'assurance à distance :** en octobre 2025, le CGA indiquait qu'un cadre juridique des services d'assurance à distance était soumis au Parlement ; il permettrait aux opérateurs téléphoniques d'agir comme intermédiaires, un canal possible pour la micro-assurance. Son adoption n'est pas confirmée ;\n- **la réforme du Code des assurances :** la [stratégie 2026-2030](https://fr.allafrica.com/stories/202607100351.html) présentée en juillet 2026 prévoit de réviser le code, de renforcer l'assurance vie et la retraite complémentaire et d'élargir la liste des intermédiaires autorisés ;\n- **la digitalisation du régulateur :** le CGA numérise agréments, documents et échanges avec les assureurs.\n\nToute insurtech qui traite des données de santé ou de sinistres doit aussi respecter les [règles tunisiennes de protection des données personnelles](post:data-protection-tunisia-fintech).\n\n## Ce que les fondateurs doivent surveiller\n\nLa feuille de route d'une insurtech tunisienne ressemble aujourd'hui à ceci :\n\n- **s'associer plutôt que concurrencer :** porter le risque exige un agrément et des fonds propres ; la plupart des startups seront fournisseurs de technologie ou distributeurs pour des assureurs agréés ;\n- **commencer par les sinistres et les remboursements :** E-Constat montre que le secteur veut des sinistres plus rapides et moins litigieux ;\n- **suivre la croissance :** la vie et la santé sont les branches qui progressent le plus et les moins pénétrées ;\n- **surveiller la réforme de la distribution :** si les opérateurs télécoms et de nouveaux intermédiaires peuvent vendre de l'assurance, les produits embarqués et mobiles deviendront bien plus faciles à déployer.",
+    "faq": [
+      {
+        "q": "Qui contrôle le secteur des assurances en Tunisie ?",
+        "a": "Le Comité général des assurances (CGA), autorité de contrôle du secteur, supervise assureurs et intermédiaires. L'assurance ne relève pas de la Banque centrale de Tunisie. La FTUSA, fédération des assureurs, pilote des projets communs comme l'application E-Constat."
+      },
+      {
+        "q": "Quelle est la taille du marché de l'assurance en Tunisie ?",
+        "a": "Les primes ont atteint 4 255,1 millions de dinars en 2025, en hausse de 11,4 %, selon les données de l'autorité de contrôle reprises par La Presse. L'automobile est la première branche, devant la vie. Le taux de pénétration était d'environ 2,39 % du PIB en 2024."
+      },
+      {
+        "q": "Peut-on faire un constat amiable en ligne en Tunisie ?",
+        "a": "Oui. Depuis le 1er novembre 2025, l'application E-Constat de la FTUSA, disponible sur Android et iOS, permet de remplir le constat sur son téléphone, avec photos et géolocalisation, puis de l'envoyer à son assureur. Selon la FTUSA, il est reconnu par toutes les compagnies membres."
+      },
+      {
+        "q": "Existe-t-il des startups insurtech en Tunisie ?",
+        "a": "Quelques-unes. EYST, fondée en 2022, verse les remboursements via des cartes bancaires virtuelles et a levé un tour d'amorçage auprès de 216 Capital en 2026. Garanty s'est associée à BH Assurance sur la couverture des appareils et des lunettes. L'essentiel de l'innovation vient toutefois des assureurs eux-mêmes."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Secteur des assurances : un chiffre d'affaires record en 2025",
+      "publisher": "La Presse via AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202603110402.html"
+    },
+    {
+      "title": "Tunisie : l'assurance vie s'impose dans un marché en pleine accélération",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2026/08/31/tunisie-lassurance-vie-simpose-dans-un-marche-en-pleine-acceleration/"
+    },
+    {
+      "title": "Le secteur des assurances en Tunisie : entre croissance et défis",
+      "publisher": "La Presse",
+      "url": "https://lapresse.tn/2025/10/02/le-secteur-des-assurances-en-tunisie-entre-croissance-et-defis/"
+    },
+    {
+      "title": "Accidents de la route : lancement d'une nouvelle application pour simplifier les procédures de l'assurance",
+      "publisher": "La Presse via AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202510310425.html"
+    },
+    {
+      "title": "Vers une carte d'assurance automobile unique et numérique",
+      "publisher": "La Presse via AllAfrica",
+      "url": "https://fr.allafrica.com/stories/202510010453.html"
+    },
+    {
+      "title": "Tunisie : l'insurtech EYST lève des fonds pour rembourser les assurés",
+      "publisher": "We Are Tech Africa",
+      "url": "https://www.wearetech.africa/fr/fils/breves/breves-simple/tunisie-linsurtech-eyst-leve-des-fonds-pour-rembourser-les-assures"
+    }
+  ]
+}

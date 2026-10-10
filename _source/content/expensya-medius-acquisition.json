@@ -1,0 +1,138 @@
+{
+  "slug": "expensya-medius-acquisition",
+  "category": "funding",
+  "cover_motif": "handshake",
+  "stats": [
+    {
+      "value": "6,000+",
+      "label_en": "client companies at the time of the Medius deal",
+      "label_fr": "entreprises clientes au moment du rachat par Medius",
+      "source": "Medius, 2023"
+    },
+    {
+      "value": "$25.6M",
+      "label_en": "total raised by Expensya before its sale",
+      "label_fr": "levés au total par Expensya avant sa vente",
+      "source": "TechCabal, 2023"
+    },
+    {
+      "value": "$10M",
+      "label_en": "reportedly shared by 110 Tunisia-based employees",
+      "label_fr": "partagés par 110 salariés basés en Tunisie (selon la presse)",
+      "source": "Launch Base Africa, 2025"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Expensya's Acquisition by Medius: A Tunisian Exit Story",
+    "meta_description": "How Tunisian-founded Expensya was bought by Medius in 2023 for a reported $100M+, what its staff gained, and the lessons the exit holds for Tunisian founders.",
+    "excerpt": "Founded in Tunis in 2014, Expensya was acquired by Sweden's Medius in 2023. How the exit happened and what it means for Tunisian founders.",
+    "keywords": [
+      "Expensya acquisition",
+      "Expensya Medius",
+      "Tunisian startup exit",
+      "Karim Jouini Expensya",
+      "Thunder Code funding",
+      "Tunisia tech exits"
+    ],
+    "tags": [
+      "Exits",
+      "M&A",
+      "Expensya",
+      "SaaS"
+    ],
+    "key_takeaways": [
+      "Medius announced its intent to buy Expensya on 7 June 2023 and completed the deal on 25 July 2023; the price was undisclosed but reported above $100 million.",
+      "Expensya raised about $25.6 million in total, including a $20 million Series B in 2021 led by new investors MAIF Avenir and Silicon Badia.",
+      "About 110 Tunisia-based employees reportedly shared roughly $10 million, and the founders went on to raise $9 million for Thunder Code.",
+      "The exit relied on global B2B software, European customers and a Paris-based legal structure."
+    ],
+    "body": "In 2023, Swedish software group Medius bought Expensya, an expense-management company founded in Tunisia in 2014. The price was not disclosed, but the press has reported it at more than $100 million. With InstaDeep's sale to BioNTech the same year, it became one of the two exits that changed how investors see Tunisian tech. Here is how it happened and what founders can learn from it.\n\n## Expensya before the Medius acquisition\n\nExpensya was founded in **2014** by **Karim Jouini** and **Jihed Othmani**, two engineers who had worked at Microsoft. The product began as automated expense reporting: employees photograph receipts, and AI extracts the data so nobody has to type it in. It later grew into wider employee spend management, with web and mobile apps, payment cards and integrations with ERPs such as SAP, Oracle and Microsoft Dynamics.\n\nThe company was always built for international customers. As Jouini put it to Rest of World in 2023, Tunisia's market is very small, so any company would very quickly move internationally. France became its main market, while most engineering stayed in Tunis. TechCabal reported that in 2022, 110 of Expensya's 160 employees worked from its Tunis office.\n\n### Funding\n- In April 2021 Expensya announced a **$20 million Series B**, with new investors **MAIF Avenir** and **Silicon Badia** and existing backers **ISAI** and **Seventure Partners**. It was the first investment from Silicon Badia's BIF2 fund.\n- TechCabal put Expensya's **total funding at $25.6 million** before the acquisition. Launch Base Africa reported that the Series B valued the company at more than $50 million post-money.\n- At the time of that round, Expensya had about 140 employees and said it had served more than 5,000 companies in roughly 100 countries.\n\n## The Medius deal: what was announced\n\n- **7 June 2023:** Medius, an accounts-payable automation company, announced its intent to acquire Expensya \"for an undisclosed sum\".\n- **25 July 2023:** Medius announced it had completed the acquisition.\n\nAt closing, Expensya reported **more than 6,000 client companies**, **over 700,000 users in about 100 countries**, about **200 employees** from 20 nationalities, mainly in Tunisia, France and Germany, and recurring revenue that had more than doubled in two years. Medius said it had more than 4,000 customers in 102 countries and processed $180 billion in annual spend.\n\n**Why Medius bought it.** Expensya added employee spend management and payment cards to Medius's invoice and procurement products, giving it coverage of a company's whole indirect spend. It also gave Medius a strong position in France, just as the French e-invoicing mandate (then scheduled for July 2024, since postponed) was approaching.\n\n**Price.** It was never officially disclosed. TechCrunch said some sources put it at just over $120 million. Launch Base Africa reported a figure above $100 million. Treat these as press estimates.\n\n## What the exit meant for employees and investors\n\nThe deal stood out for how much money reached people in Tunisia. According to Launch Base Africa, **110 Tunisia-based employees shared about $10 million**, two-thirds of it in cash. The same report said Jouini brought nearly 200 shareholders into agreement within six weeks of the announcement.\n\nSome of that money went back into Tunisian tech. In January 2025, Jouini and Othmani announced they were leaving Expensya, which Medius was rebranding as Medius Expense. In June 2025 they announced **Thunder Code**, an AI software-testing startup headquartered in Paris with an office in Tunis. It raised a **$9 million seed round** from Silicon Badia, Janngo Capital, the ANAVA-backed Titan Seed Fund, angels including InstaDeep CEO Karim Beguir, and former Expensya employees, according to TechCrunch.\n\n## Lessons for Tunisian founders\n\n### 1. Build for a global customer from day one\nExpensya sold software to European companies. Its Tunisian base gave it access to strong engineers at a lower cost, but its revenue came from abroad.\n\n### 2. Structure matters\nExpensya was legally based in Paris, and InstaDeep in London, as Enterprise noted in 2026. Foreign holding companies make it easier to raise from European funds, issue employee equity and sell to a foreign buyer. Tunisian foreign-exchange rules, which the Startup Act eased only partly through special foreign-currency accounts, remain a real constraint (see [the Startup Act](post:startup-act-tunisia-explained)).\n\n### 3. Employee equity spreads the gains\nThe reported $10 million paid to Tunisian staff is the strongest argument for stock options. It also produced new angel investors.\n\n### 4. Exits come from software, not from local volume\nLike InstaDeep (see [InstaDeep lessons](post:instadeep-biontech-lessons)), Expensya sold B2B software with recurring revenue to a strategic buyer. Local payments businesses face a smaller and more regulated market and are unlikely to repeat this path quickly.\n\n## Why it matters\n\nExpensya shows that a company built largely by Tunisian engineers can be acquired for a reported nine-figure sum and that the proceeds can flow back into the local ecosystem. It also shows the conditions that made this possible: a European legal structure, European customers and foreign investors. For a broader view of who funds Tunisian startups today, see [venture capital in Tunisia](post:venture-capital-tunisia).",
+    "faq": [
+      {
+        "q": "Who bought Expensya and when?",
+        "a": "Swedish accounts-payable automation company Medius announced its intent to acquire Expensya on 7 June 2023 and completed the deal on 25 July 2023."
+      },
+      {
+        "q": "How much did Medius pay for Expensya?",
+        "a": "The price was never officially disclosed. Press reports put it above $100 million, with TechCrunch citing sources at just over $120 million."
+      },
+      {
+        "q": "What did Expensya's founders do after the exit?",
+        "a": "Karim Jouini and Jihed Othmani left in January 2025 and founded Thunder Code, an AI software-testing startup based in Paris with an office in Tunis, which raised a $9 million seed round in 2025."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Rachat d'Expensya par Medius : histoire d'une sortie tunisienne",
+    "meta_description": "Fondée à Tunis, Expensya a été rachetée par Medius en 2023 pour plus de 100 M$ selon la presse. Gains des salariés et leçons pour les fondateurs tunisiens.",
+    "excerpt": "Fondée à Tunis en 2014, Expensya a été rachetée par le suédois Medius en 2023. Retour sur cette sortie et ses leçons pour les fondateurs tunisiens.",
+    "keywords": [
+      "rachat Expensya",
+      "Expensya Medius",
+      "sortie startup tunisienne",
+      "Karim Jouini Expensya",
+      "Thunder Code levée",
+      "exits tech Tunisie"
+    ],
+    "tags": [
+      "Sorties",
+      "Fusions-acquisitions",
+      "Expensya",
+      "SaaS"
+    ],
+    "key_takeaways": [
+      "Medius a annoncé son intention de racheter Expensya le 7 juin 2023 et a finalisé l'opération le 25 juillet 2023 ; le prix, non divulgué, dépasserait 100 millions de dollars selon la presse.",
+      "Expensya a levé environ 25,6 millions de dollars au total, dont une série B de 20 millions en 2021 avec les nouveaux investisseurs MAIF Avenir et Silicon Badia.",
+      "Environ 110 salariés basés en Tunisie se seraient partagé quelque 10 millions de dollars, et les fondateurs ont levé 9 millions pour Thunder Code.",
+      "La sortie reposait sur du logiciel B2B mondial, des clients européens et une structure juridique à Paris."
+    ],
+    "body": "En 2023, le groupe suédois de logiciels Medius a racheté Expensya, une entreprise de gestion des notes de frais fondée en Tunisie en 2014. Le prix n'a pas été communiqué, mais la presse l'a estimé à plus de 100 millions de dollars. Avec la vente d'InstaDeep à BioNTech la même année, c'est l'une des deux sorties qui ont changé le regard des investisseurs sur la tech tunisienne. Voici comment l'opération s'est faite et ce que les fondateurs peuvent en retenir.\n\n## Expensya avant le rachat par Medius\n\nExpensya a été fondée en **2014** par **Karim Jouini** et **Jihed Othmani**, deux ingénieurs passés par Microsoft. Le produit a commencé par l'automatisation des notes de frais : les salariés photographient leurs justificatifs, et l'IA en extrait les données pour que personne n'ait à les saisir. Il s'est ensuite élargi à la gestion des dépenses des salariés, avec des applications web et mobiles, des cartes de paiement et des connexions aux ERP comme SAP, Oracle ou Microsoft Dynamics.\n\nL'entreprise a toujours été conçue pour des clients internationaux. Comme Jouini l'expliquait à Rest of World en 2023, le marché tunisien est très petit, et toute entreprise doit donc très vite s'internationaliser. La France est devenue son principal marché, tandis que l'essentiel de l'ingénierie restait à Tunis. Selon TechCabal, en 2022, 110 des 160 salariés d'Expensya travaillaient depuis son bureau de Tunis.\n\n### Les levées de fonds\n- En avril 2021, Expensya a annoncé une **série B de 20 millions de dollars**, avec deux nouveaux investisseurs, **MAIF Avenir** et **Silicon Badia**, et ses actionnaires historiques **ISAI** et **Seventure Partners**. C'était le premier investissement du fonds BIF2 de Silicon Badia.\n- TechCabal estime le **total levé à 25,6 millions de dollars** avant le rachat. Selon Launch Base Africa, la série B valorisait l'entreprise à plus de 50 millions de dollars post-money.\n- Au moment de ce tour, Expensya comptait environ 140 salariés et revendiquait plus de 5 000 entreprises clientes dans une centaine de pays.\n\n## L'opération Medius : ce qui a été annoncé\n\n- **7 juin 2023 :** Medius, spécialiste de l'automatisation de la comptabilité fournisseurs, annonce son intention d'acquérir Expensya « pour un montant non divulgué ».\n- **25 juillet 2023 :** Medius annonce la finalisation du rachat.\n\nÀ la finalisation, Expensya revendiquait **plus de 6 000 entreprises clientes**, **plus de 700 000 utilisateurs dans une centaine de pays**, environ **200 salariés** de 20 nationalités, principalement en Tunisie, en France et en Allemagne, et un revenu récurrent plus que doublé en deux ans. Medius déclarait plus de 4 000 clients dans 102 pays et 180 milliards de dollars de dépenses traitées par an.\n\n**Pourquoi Medius a racheté Expensya.** Expensya ajoutait la gestion des dépenses des salariés et les cartes de paiement aux produits de factures et d'achats de Medius, qui couvrait ainsi l'ensemble des dépenses indirectes d'une entreprise. Elle lui donnait aussi une position solide en France, au moment où approchait l'obligation de facturation électronique (alors prévue pour juillet 2024, reportée depuis).\n\n**Le prix.** Il n'a jamais été communiqué officiellement. Selon TechCrunch, certaines sources l'estiment à un peu plus de 120 millions de dollars. Launch Base Africa évoque un montant supérieur à 100 millions. Il s'agit d'estimations de presse.\n\n## Ce que la sortie a rapporté aux salariés et aux investisseurs\n\nL'opération s'est distinguée par l'argent qui est revenu à des personnes en Tunisie. Selon Launch Base Africa, **110 salariés basés en Tunisie se sont partagé environ 10 millions de dollars**, dont deux tiers en numéraire. Le même article indique que Jouini a obtenu l'accord de près de 200 actionnaires en six semaines après l'annonce.\n\nUne partie de cet argent est revenue dans la tech tunisienne. En janvier 2025, Jouini et Othmani ont annoncé leur départ d'Expensya, que Medius renommait Medius Expense. En juin 2025, ils ont lancé **Thunder Code**, une startup de test logiciel par IA basée à Paris, avec un bureau à Tunis. Selon TechCrunch, elle a levé **9 millions de dollars en amorçage** auprès de Silicon Badia, Janngo Capital, du Titan Seed Fund (soutenu par ANAVA), de business angels dont Karim Beguir, PDG d'InstaDeep, et d'anciens salariés d'Expensya.\n\n## Les leçons pour les fondateurs tunisiens\n\n### 1. Viser un client mondial dès le départ\nExpensya vendait du logiciel à des entreprises européennes. Sa base tunisienne lui donnait accès à de bons ingénieurs à moindre coût, mais ses revenus venaient de l'étranger.\n\n### 2. La structure juridique compte\nExpensya était juridiquement basée à Paris, et InstaDeep à Londres, comme le relevait Enterprise en 2026. Une holding à l'étranger facilite la levée auprès de fonds européens, l'attribution d'actions aux salariés et la vente à un acquéreur étranger. La réglementation tunisienne des changes, que le Startup Act n'a assouplie qu'en partie avec les comptes spéciaux en devises, reste une vraie contrainte (voir [le Startup Act](post:startup-act-tunisia-explained)).\n\n### 3. L'actionnariat salarié répartit les gains\nLes 10 millions de dollars rapportés aux salariés tunisiens sont le meilleur argument en faveur des stock-options. Ils ont aussi produit de nouveaux business angels.\n\n### 4. Les sorties viennent du logiciel, pas du volume local\nComme InstaDeep (voir [les leçons d'InstaDeep](post:instadeep-biontech-lessons)), Expensya vendait du logiciel B2B à revenus récurrents à un acquéreur stratégique. Les acteurs du paiement local évoluent sur un marché plus petit et plus réglementé et ne reproduiront probablement pas ce parcours de sitôt.\n\n## Pourquoi c'est important\n\nExpensya montre qu'une entreprise construite en grande partie par des ingénieurs tunisiens peut être rachetée pour un montant à neuf chiffres selon la presse, et que les gains peuvent revenir dans l'écosystème local. Elle montre aussi les conditions qui l'ont rendu possible : une structure juridique européenne, des clients européens et des investisseurs étrangers. Pour un panorama de ceux qui financent aujourd'hui les startups tunisiennes, voir [le capital-risque en Tunisie](post:venture-capital-tunisia).",
+    "faq": [
+      {
+        "q": "Qui a racheté Expensya et quand ?",
+        "a": "Le suédois Medius, spécialiste de l'automatisation de la comptabilité fournisseurs, a annoncé son intention de racheter Expensya le 7 juin 2023 et a finalisé l'opération le 25 juillet 2023."
+      },
+      {
+        "q": "Combien Medius a-t-il payé pour Expensya ?",
+        "a": "Le prix n'a jamais été communiqué officiellement. La presse l'estime à plus de 100 millions de dollars, TechCrunch citant des sources évoquant un peu plus de 120 millions."
+      },
+      {
+        "q": "Que sont devenus les fondateurs d'Expensya ?",
+        "a": "Karim Jouini et Jihed Othmani sont partis en janvier 2025 et ont fondé Thunder Code, une startup de test logiciel par IA basée à Paris avec un bureau à Tunis, qui a levé 9 millions de dollars en amorçage en 2025."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Medius announces intent to acquire Expensya",
+      "publisher": "Expensya",
+      "url": "https://www.expensya.com/en/news/medius-announces-intent-to-acquire-expensya/"
+    },
+    {
+      "title": "Media Alert: Medius completes acquisition of expense management firm Expensya",
+      "publisher": "Medius",
+      "url": "https://www.medius.com/news/cid-B5994B54FD438614/media-alert-medius-completes-acquisition-of-expense-management-firm-expensya/"
+    },
+    {
+      "title": "Expensya raises $20 million",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/2021/04/expensya-raises-20-million"
+    },
+    {
+      "title": "Expensya acquisition",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2023/06/08/expensya-acquisition/"
+    },
+    {
+      "title": "Expensya founders exit two years post-Medius deal, launch AI venture",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/01/13/expensya-founders-exit-two-years-post-medius-deal-launch-ai-venture/"
+    },
+    {
+      "title": "One of Africa's most successful founders is back with a new AI startup and already raised $9M",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/06/03/one-of-africas-most-successful-founders-is-back-with-a-new-ai-startup-and-already-raised-9m"
+    }
+  ]
+}

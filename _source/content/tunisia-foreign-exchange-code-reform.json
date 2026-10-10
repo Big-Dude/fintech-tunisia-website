@@ -1,0 +1,169 @@
+{
+  "slug": "tunisia-foreign-exchange-code-reform",
+  "category": "regulation",
+  "cover_motif": "globe-links",
+  "stats": [
+    {
+      "value": "1976",
+      "label_en": "year of the FX code still in force (Law 76-18)",
+      "label_fr": "année du code des changes toujours en vigueur (loi 76-18)",
+      "source": "La Presse de Tunisie, 2026"
+    },
+    {
+      "value": "TND 100,000",
+      "label_en": "annual technology card cap for labelled startups",
+      "label_fr": "plafond annuel de la carte technologique pour les startups labellisées",
+      "source": "BCT Circular 2019-02"
+    },
+    {
+      "value": "91",
+      "label_en": "articles in the parliamentary FX code bill",
+      "label_fr": "articles dans la proposition de code des changes",
+      "source": "La Presse de Tunisie, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Vote on resident FX accounts, 2026 Finance Law amendment (2 Dec 2025)",
+    "title_fr": "Vote sur les comptes en devises des résidents, loi de finances 2026 (2 déc. 2025)",
+    "unit": "votes",
+    "bars": [
+      {
+        "label_en": "For",
+        "label_fr": "Pour",
+        "value": 69.0
+      },
+      {
+        "label_en": "Against",
+        "label_fr": "Contre",
+        "value": 17.0
+      },
+      {
+        "label_en": "Abstentions",
+        "label_fr": "Abstentions",
+        "value": 17.0
+      }
+    ],
+    "source_name": "Launch Base Africa, 4 Dec 2025",
+    "source_url": "https://launchbaseafrica.com/2025/12/04/tunisia-scraps-50-year-forex-rule-to-retain-tech-talent-and-startups/"
+  },
+  "en": {
+    "title": "Tunisia's FX Code Reform: Where It Stands for Startups",
+    "meta_description": "Tunisia's 1976 foreign exchange code is under reform. What the draft FX code proposes, what already changed in 2026 and what it means for startups.",
+    "excerpt": "Resident FX accounts are now legal, but the new foreign exchange code is still stuck in committee. A status check for founders, as of October 2026.",
+    "keywords": [
+      "Tunisia foreign exchange code reform",
+      "code des changes Tunisie",
+      "Tunisia FX code startups",
+      "foreign currency account Tunisia resident",
+      "startup foreign currency account Tunisia",
+      "Law 76-18 Tunisia"
+    ],
+    "tags": [
+      "Foreign exchange",
+      "Regulation",
+      "Startups",
+      "Parliament"
+    ],
+    "key_takeaways": [
+      "Tunisia's FX regime still rests on Law 76-18 of 21 January 1976, based on prior BCT authorisation.",
+      "Labelled startups have had a dedicated FX account and a TND 100,000 technology card since 2019.",
+      "Since the 2026 Finance Law, residents can open foreign-currency accounts without prior BCT approval, subject to implementing rules.",
+      "A 91-article FX code bill filed by MPs in October 2025 was still in committee in October 2026, pending the central bank's input."
+    ],
+    "body": "Tunisia still runs its foreign exchange regime on a law passed in January 1976. A reform of that FX code has been promised for years: the government approved a draft in 2024, MPs filed their own bill in October 2025, and parliament opened resident foreign-currency accounts through the 2026 Finance Law. As of early October 2026, the new code itself has not been adopted. Here is where things stand and why it matters for startups.\n\n## The 1976 code and why startups hit it\n\nForeign exchange operations are governed by **Law No. 76-18 of 21 January 1976**, the *Code des changes et du commerce extérieur*, plus implementing decrees and a large body of Central Bank of Tunisia (BCT) circulars. According to the Prime Ministry, the regulation dates from 21 January 1976 and was updated only once, in 1993. La Presse describes the framework as complex and outdated.\n\nThe logic is prior authorisation: residents need BCT approval for many operations involving foreign currency or foreign assets. For a tech startup, that shows up in daily friction:\n\n- paying for foreign SaaS tools, cloud hosting or advertising;\n- receiving revenue from foreign clients or app stores;\n- opening a subsidiary or holding company abroad;\n- getting paid through international platforms, a common issue for freelancers.\n\n## The 2019 startup carve-outs\n\nThe [Startup Act](post:startup-act-tunisia-explained) brought two targeted exceptions, both reserved for companies holding the Startup label:\n\n- **The \"startup\" foreign-currency account** (BCT Circular No. 2019-01). It can be credited with export proceeds, equity or convertible bonds from non-residents and similar inflows, and used to pay suppliers abroad, cover business travel, or invest in foreign companies.\n- **The international technology card** (BCT Circular No. 2019-02). Resident companies can get an annual allowance of up to TND 10,000 for online payments abroad; labelled startups can get up to **TND 100,000 per year**.\n\nThese measures helped, but they only cover labelled startups and do not change the underlying law.\n\n## The government draft that stalled (2024)\n\nIn March 2024, a ministerial council chaired by then head of government Ahmed Hachani examined and adopted a draft FX code, prepared with the Ministry of Finance and the BCT. Its announced goals included a unified legal framework, progressive liberalisation of financial transactions and digitisation of external payments. The listed measures included a revised definition of residence, authorisation of crypto-asset transactions, a new approved exchange operator status open to companies including startups, and revised penalties.\n\nThat draft did not reach a vote. According to a 2026 Tunisie Numérique report, the committee chair said the government had promised to submit a bill by January 2026, which did not happen.\n\n## Parliament takes over (2025–2026)\n\nOn 21 October 2025, MP **Maher Ktari**, who chairs the Assembly's Finance and Budget Committee, filed a full reform bill with support from around 40 MPs, according to Webdo (La Presse later put the number of sponsors at 45 and the text at 91 articles). The bill:\n\n- redefines residence for individuals and companies;\n- lets residents open foreign-currency accounts under conditions;\n- creates accounts for payments on electronic platforms, aimed at freelancers earning in foreign currency;\n- lifts many restrictions on investing abroad and on health and education payments;\n- addresses digital assets and remote payment systems.\n\nAfrican Manager's April 2026 reading of the committee text adds an **approved exchange operator** status for large firms, listed companies and eligible startups; mandatory declaration and repatriation of foreign assets and crypto-assets above a threshold; penalties of up to three years in prison for serious violations; and entry into force three months after publication.\n\n## Resident FX accounts: already law\n\nOne piece did pass. On 2 December 2025, parliament adopted an amendment to the 2026 Finance Law allowing Tunisian residents to open foreign-currency or convertible-dinar accounts with authorised banks **without prior BCT approval**, by 69 votes to 17 with 17 abstentions, according to Launch Base Africa. A similar proposal had been rejected in November 2024.\n\nAccording to La Presse, the measure applies from 1 January 2026; accounts cannot be overdrawn, and can be funded by transfers from other FX or convertible accounts, interest and the annual travel allowance. Practical rules depend on implementing texts, so founders should check with their bank what is actually available. For the remittance angle, see [diaspora remittances](post:diaspora-remittances-tunisia).\n\n## Where the reform stands now\n\nThe committee held hearings through spring 2026 with the Ministry of Finance, customs, business groups such as CONECT and UTICA, and others. The Ministry of Finance argued for **gradual** liberalisation, saying full opening does not suit current conditions and that FX reserves and the dinar must be protected.\n\nThe main sticking point has been the BCT. By mid-June 2026, Ktari said the committee had completed about 90% of its hearings and that the central bank had not responded to several letters. A vote was then postponed to wait for the BCT's written input. On 23 July 2026, Tunisie Numérique reported that the Ministry of Finance proposed delaying the examination to early 2027, which Ktari opposed, and that the committee planned to return to the code at its first meeting in October 2026.\n\nKtari has publicly estimated the reform could add around one point of GDP growth; that is his projection, not an official assessment.\n\n## What it means for founders\n\nUntil a new code is adopted, the 1976 framework and its circulars apply. In practice:\n\n- **Use what exists.** If you hold the Startup label, open a startup FX account and request the technology card.\n- **Test the new resident accounts** with your bank, but do not build cash management on them until the bank confirms the rules.\n- **Avoid informal workarounds.** Unauthorised FX operations remain offences, and the draft keeps prison terms for serious cases.\n- **Watch October.** If the committee votes the text and sends it to plenary, implementing circulars will decide the real impact, including whether startups can obtain the approved exchange operator status.\n\nThe reform also shapes the legal status of [crypto-assets in Tunisia](post:crypto-regulation-tunisia), which the drafts would bring under the FX code for the first time.",
+    "faq": [
+      {
+        "q": "Has Tunisia adopted a new foreign exchange code?",
+        "a": "Not as of early October 2026. A bill filed by MPs in October 2025 was still before the parliament's Finance Committee, which was waiting for the central bank's written input. The 1976 code remains in force."
+      },
+      {
+        "q": "Can Tunisian residents open a foreign currency account?",
+        "a": "Yes, since the 2026 Finance Law, residents can open foreign-currency or convertible-dinar accounts with authorised banks without prior BCT approval. Practical conditions depend on implementing rules, so check with your bank."
+      },
+      {
+        "q": "What FX advantages do Tunisian startups have?",
+        "a": "Companies with the Startup label can open a dedicated startup foreign-currency account (BCT Circular 2019-01) and obtain an international technology card of up to TND 100,000 a year (Circular 2019-02)."
+      },
+      {
+        "q": "Would the new FX code legalise PayPal and crypto?",
+        "a": "The drafts would allow residents to use international payment platforms and crypto-based solutions under conditions, with declaration and repatriation obligations. None of this applies until the code is adopted and implementing texts are published."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Réforme du code des changes : où en est la Tunisie ?",
+    "meta_description": "Le code des changes tunisien de 1976 est en cours de réforme. Contenu du projet, ce qui a déjà changé en 2026 et conséquences concrètes pour les startups.",
+    "excerpt": "Les comptes en devises des résidents sont désormais légaux, mais le nouveau code des changes reste bloqué en commission. Point d'étape pour les fondateurs, octobre 2026.",
+    "keywords": [
+      "réforme code des changes Tunisie",
+      "code des changes 2026",
+      "compte en devises résident Tunisie",
+      "compte startup en devises",
+      "carte technologique internationale",
+      "loi 76-18"
+    ],
+    "tags": [
+      "Change",
+      "Régulation",
+      "Startups",
+      "Parlement"
+    ],
+    "key_takeaways": [
+      "Le régime de change tunisien repose toujours sur la loi 76-18 du 21 janvier 1976, fondée sur l'autorisation préalable de la BCT.",
+      "Les startups labellisées disposent depuis 2019 d'un compte en devises dédié et d'une carte technologique plafonnée à 100 000 TND par an.",
+      "Depuis la loi de finances 2026, les résidents peuvent ouvrir des comptes en devises sans autorisation préalable de la BCT, sous réserve des textes d'application.",
+      "La proposition de code des changes de 91 articles déposée en octobre 2025 était toujours en commission en octobre 2026, dans l'attente de l'avis de la Banque centrale."
+    ],
+    "body": "La Tunisie gère toujours son régime de change avec une loi de janvier 1976. La réforme du code des changes est promise depuis des années : le gouvernement a adopté un projet en 2024, des députés ont déposé leur propre texte en octobre 2025 et le Parlement a ouvert les comptes en devises aux résidents via la loi de finances 2026. Début octobre 2026, le nouveau code n'est toujours pas adopté. État des lieux, et enjeux pour les startups.\n\n## Le code de 1976 et ses effets sur les startups\n\nLes opérations de change relèvent de la **loi n° 76-18 du 21 janvier 1976**, le Code des changes et du commerce extérieur, complétée par des décrets d'application et de nombreuses circulaires de la Banque centrale de Tunisie (BCT). Selon la Présidence du gouvernement, cette réglementation date du 21 janvier 1976 et n'a été actualisée qu'une fois, en 1993. La Presse la juge complexe et dépassée.\n\nSa logique est celle de l'autorisation préalable : de nombreuses opérations en devises ou portant sur des avoirs à l'étranger nécessitent l'accord de la BCT. Pour une startup technologique, cela se traduit par des frictions quotidiennes :\n\n- payer des outils SaaS, l'hébergement cloud ou la publicité à l'étranger ;\n- encaisser les revenus de clients étrangers ou des magasins d'applications ;\n- créer une filiale ou une holding hors de Tunisie ;\n- être payé via des plateformes internationales, un casse-tête fréquent pour les freelances.\n\n## Les dérogations de 2019 pour les startups\n\nLe [Startup Act](post:startup-act-tunisia-explained) a introduit deux exceptions ciblées, réservées aux sociétés labellisées :\n\n- **Le « compte startup en devises »** (circulaire BCT n° 2019-01). Il peut être alimenté par les recettes d'exportation, les apports en capital ou obligations convertibles de non-résidents et des flux similaires, et servir à payer des fournisseurs étrangers, des déplacements professionnels ou des investissements à l'étranger.\n- **La carte technologique internationale** (circulaire BCT n° 2019-02). Les entreprises résidentes peuvent obtenir une dotation annuelle jusqu'à 10 000 TND pour les paiements en ligne à l'étranger ; les startups labellisées jusqu'à **100 000 TND par an**.\n\nCes mesures ont aidé, mais elles ne concernent que les startups labellisées et ne touchent pas à la loi elle-même.\n\n## Le projet gouvernemental resté dans les tiroirs (2024)\n\nEn mars 2024, un conseil ministériel présidé par le chef du gouvernement de l'époque, Ahmed Hachani, a examiné et adopté un projet de code des changes, élaboré avec le ministère des Finances et la BCT. Ses objectifs affichés : un cadre juridique unifié, une libéralisation progressive des opérations financières et la digitalisation des transactions avec l'étranger. Parmi les mesures annoncées : une nouvelle définition de la résidence, l'autorisation des opérations sur crypto-actifs, un statut d'opérateur de change agréé ouvert aux entreprises, y compris les startups, et la révision des sanctions.\n\nCe projet n'a jamais été soumis au vote. Selon Tunisie Numérique, le président de la commission des finances a rappelé en 2026 que le gouvernement s'était engagé à déposer un texte en janvier 2026, ce qui n'a pas été fait.\n\n## Le Parlement prend la main (2025-2026)\n\nLe 21 octobre 2025, le député **Maher Ktari**, président de la commission des finances et du budget de l'ARP, a déposé une proposition de réforme complète, soutenue par une quarantaine de députés selon Webdo (La Presse évoque ensuite 45 signataires et un texte de 91 articles). Le texte :\n\n- redéfinit la résidence des personnes physiques et morales ;\n- permet aux résidents d'ouvrir des comptes en devises sous conditions ;\n- crée des comptes dédiés aux paiements sur plateformes électroniques, pensés pour les freelances payés en devises ;\n- lève de nombreuses restrictions sur l'investissement à l'étranger et les paiements de santé et d'éducation ;\n- traite des actifs numériques et des systèmes de paiement à distance.\n\nLa lecture du texte de la commission publiée par African Manager en avril 2026 ajoute un statut d'**opérateur de change agréé** pour les grandes entreprises, les sociétés cotées et les startups éligibles ; une obligation de déclaration et de rapatriement des avoirs étrangers et des crypto-actifs au-delà d'un seuil ; des peines allant jusqu'à trois ans de prison pour les infractions graves ; et une entrée en vigueur trois mois après publication.\n\n## Comptes en devises des résidents : déjà dans la loi\n\nUn volet est déjà acquis. Le 2 décembre 2025, le Parlement a adopté un amendement à la loi de finances 2026 permettant aux résidents tunisiens d'ouvrir des comptes en devises ou en dinars convertibles auprès des intermédiaires agréés **sans autorisation préalable de la BCT**, par 69 voix pour, 17 contre et 17 abstentions selon Launch Base Africa. Une mesure comparable avait été rejetée en novembre 2024.\n\nD'après La Presse, la disposition s'applique depuis le 1er janvier 2026 ; les comptes ne peuvent pas être débiteurs et peuvent être alimentés par des virements d'autres comptes en devises ou convertibles, les intérêts et l'allocation touristique annuelle. Les modalités pratiques dépendent de textes d'application : mieux vaut vérifier auprès de sa banque ce qui est réellement disponible. Sur le volet transferts, voir notre article sur les [transferts de la diaspora](post:diaspora-remittances-tunisia).\n\n## Où en est la réforme ?\n\nLa commission a multiplié les auditions au printemps 2026 : ministère des Finances, douanes, organisations patronales comme la CONECT et l'UTICA, entre autres. Le ministère des Finances a plaidé pour une libéralisation **graduelle**, estimant qu'une ouverture totale ne convient pas à la conjoncture et qu'il faut préserver les réserves de change et le dinar.\n\nLe principal point de blocage reste la BCT. À la mi-juin 2026, Maher Ktari indiquait que 90 % des auditions étaient bouclées et que la Banque centrale n'avait pas répondu à plusieurs courriers. Le vote a ensuite été reporté dans l'attente de sa contribution écrite. Le 23 juillet 2026, Tunisie Numérique rapportait que le ministère des Finances proposait de reporter l'examen au début de 2027, ce que Maher Ktari refusait, et que la commission comptait revenir au code dès sa première réunion d'octobre 2026.\n\nMaher Ktari estime publiquement que la réforme pourrait ajouter environ un point de croissance ; il s'agit de sa projection, pas d'une évaluation officielle.\n\n## Ce que cela implique pour les fondateurs\n\nTant qu'un nouveau code n'est pas adopté, le cadre de 1976 et ses circulaires s'appliquent. Concrètement :\n\n- **utiliser l'existant** : avec le label Startup, ouvrir un compte startup en devises et demander la carte technologique ;\n- **tester les nouveaux comptes en devises des résidents** auprès de sa banque, sans bâtir sa trésorerie dessus avant confirmation des règles ;\n- **éviter les contournements informels** : les opérations de change non autorisées restent des infractions, et le projet maintient des peines de prison pour les cas graves ;\n- **surveiller octobre** : si la commission vote le texte et le transmet à la plénière, ce sont les circulaires d'application qui détermineront son impact réel, notamment l'accès des startups au statut d'opérateur de change agréé.\n\nLa réforme conditionne aussi le statut juridique des [crypto-actifs en Tunisie](post:crypto-regulation-tunisia), que les projets feraient entrer pour la première fois dans le code des changes.",
+    "faq": [
+      {
+        "q": "La Tunisie a-t-elle adopté un nouveau code des changes ?",
+        "a": "Pas début octobre 2026. La proposition déposée par des députés en octobre 2025 était toujours devant la commission des finances, qui attendait la contribution écrite de la Banque centrale. Le code de 1976 reste en vigueur."
+      },
+      {
+        "q": "Un résident tunisien peut-il ouvrir un compte en devises ?",
+        "a": "Oui, depuis la loi de finances 2026, les résidents peuvent ouvrir des comptes en devises ou en dinars convertibles auprès des banques agréées sans autorisation préalable de la BCT. Les modalités dépendent des textes d'application : renseignez-vous auprès de votre banque."
+      },
+      {
+        "q": "Quels avantages de change pour les startups tunisiennes ?",
+        "a": "Les sociétés labellisées Startup peuvent ouvrir un compte startup en devises (circulaire BCT 2019-01) et obtenir une carte technologique internationale jusqu'à 100 000 TND par an (circulaire 2019-02)."
+      },
+      {
+        "q": "Le nouveau code légaliserait-il PayPal et les cryptos ?",
+        "a": "Les projets prévoient l'usage, sous conditions, de plateformes de paiement internationales et de solutions basées sur les crypto-actifs, avec des obligations de déclaration et de rapatriement. Rien de cela ne s'applique avant l'adoption du code et la publication des textes d'application."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Réglementation de change : Un nouveau code à l'examen",
+      "publisher": "La Presse de Tunisie",
+      "url": "https://www.lapresse.tn/2026/06/04/reglementation-de-change-un-nouveau-code-a-lexamen/"
+    },
+    {
+      "title": "Tunisie : code des changes, report à 2027 ou vote décisif en octobre",
+      "publisher": "Tunisie Numérique",
+      "url": "https://www.tunisienumerique.com/tunisie-code-des-changes-report-a-2027-ou-vote-decisif-en-octobre-declaration/"
+    },
+    {
+      "title": "Tunisia Scraps 50-Year Forex Rule to Retain Tech Talent and Startups",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2025/12/04/tunisia-scraps-50-year-forex-rule-to-retain-tech-talent-and-startups/"
+    },
+    {
+      "title": "New Foreign Exchange Code: What parliament proposes to government",
+      "publisher": "African Manager",
+      "url": "https://en.africanmanager.com/new-foreign-exchange-code-what-parliament-proposes-to-government/"
+    },
+    {
+      "title": "Finances : Adoption du code des changes lors d'un conseil ministériel",
+      "publisher": "Présidence du gouvernement",
+      "url": "https://pm.gov.tn/fr/article/finances-adoption-du-code-des-changes-lors-dun-conseil-ministeriel"
+    },
+    {
+      "title": "BCT : conditions d'ouverture de comptes startup en devises",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2019/02/01/430519/bct-conditions-douverture-de-comptes-startup-en-devises/"
+    }
+  ]
+}

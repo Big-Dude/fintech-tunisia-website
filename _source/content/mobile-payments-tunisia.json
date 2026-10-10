@@ -1,0 +1,176 @@
+{
+  "slug": "mobile-payments-tunisia",
+  "category": "payments",
+  "cover_motif": "phone-wallet",
+  "stats": [
+    {
+      "value": "512,000",
+      "label_en": "active mobile wallets, first half of 2026 (+16.4%)",
+      "label_fr": "portefeuilles mobiles actifs au premier semestre 2026 (+16,4 %)",
+      "source": "BCT Payments Bulletin No. 17, 2026"
+    },
+    {
+      "value": "8.4 million",
+      "label_en": "mobile payment transactions in 2025, up 81%",
+      "label_fr": "opérations de paiement mobile en 2025, en hausse de 81 %",
+      "source": "BCT data, 2025"
+    },
+    {
+      "value": "18",
+      "label_en": "licensed payment service providers, mid-2026",
+      "label_fr": "prestataires de services de paiement agréés, mi-2026",
+      "source": "BCT Payments Bulletin No. 17, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "What Tunisians do with mobile wallets (H1 2026, share of transactions)",
+    "title_fr": "Usages du paiement mobile en Tunisie (S1 2026, part des opérations)",
+    "unit": "%",
+    "bars": [
+      {
+        "label_en": "Payments",
+        "label_fr": "Paiements",
+        "value": 62.0
+      },
+      {
+        "label_en": "Transfers",
+        "label_fr": "Transferts",
+        "value": 16.5
+      },
+      {
+        "label_en": "Cash-in",
+        "label_fr": "Cash-in",
+        "value": 12.8
+      },
+      {
+        "label_en": "Cash-out",
+        "label_fr": "Cash-out",
+        "value": 8.7
+      }
+    ],
+    "source_name": "Banque Centrale de Tunisie, Payments Bulletin No. 17 (via Challenges TN)",
+    "source_url": "https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/"
+  },
+  "en": {
+    "title": "Mobile Payments in Tunisia: The Wallet Landscape in 2026",
+    "meta_description": "Mobile payments in Tunisia are growing fast from a small base. Who issues wallets, what the BCT data shows, and what TUNPAY and new licences change in 2026.",
+    "excerpt": "Tunisia's mobile wallets are multiplying, from bank apps and La Poste to fintechs and telecom operators. The usage numbers are rising quickly but remain small next to cards and cash.",
+    "keywords": [
+      "mobile payments Tunisia",
+      "mobile wallet Tunisia",
+      "e-wallet Tunisia",
+      "TUNPAY label",
+      "paiement mobile Tunisie",
+      "Tunisia mobile money",
+      "BCT mobile payment statistics"
+    ],
+    "tags": [
+      "Mobile payments",
+      "Wallets",
+      "BCT",
+      "TUNPAY"
+    ],
+    "key_takeaways": [
+      "BCT data shows 512,000 active mobile wallets in the first half of 2026, up 16.4%, and 18 licensed payment service providers.",
+      "Mobile transactions grew 81% in 2025 to 8.4 million, worth about 1.77 billion dinars, but remain small compared with cards and cheques.",
+      "Wallets are issued by banks, La Poste, licensed payment institutions and fintechs working with banks; telecom operators entered in 2026.",
+      "The BCT's TUNPAY label (May 2026) aims to give all wallets a common identity; it is a branding and trust measure, not a fee cut."
+    ],
+    "body": "Mobile payments in Tunisia have moved from pilot projects to a crowded market of bank apps, postal wallets, fintechs and, since 2026, telecom operators. Central bank figures show strong growth, but from a low base: mobile wallets are still a fraction of the country's card and cheque volumes. Here is who issues wallets, what the numbers say and what is changing.\n\n## Mobile payments in Tunisia by the numbers\n\nThe Banque Centrale de Tunisie (BCT) publishes payment statistics in a regular bulletin. The most recent figures, for the first half of 2026 (Bulletin No. 17, as reported by [Challenges TN](https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/)), show:\n\n- **512,000 active wallets**, up 16.4%;\n- **5.0 million mobile transactions**, up 31.5%;\n- **914.2 million dinars** in mobile flows, up 17.7%;\n- **18 licensed payment service providers (PSPs)**.\n\nFor the full year 2025, BCT data showed mobile transactions up 81% to 8.4 million, worth about 1.769 billion dinars. A year earlier, the BCT counted 313,000 active wallets at the end of September 2024.\n\nThese are large growth rates, but the scale is modest. In the same half-year, Tunisian cardholders made 85.4 million card operations, and the interbank clearing system processed 3.6 million cheques. Mobile payments are the fastest-growing channel, not yet the main one. For broader context, see our [key numbers on Tunisian fintech](post:tunisia-fintech-key-numbers).\n\n## How Tunisians use their wallets\n\nUsage has shifted towards paying merchants. In the first half of 2026, payments made up 62% of mobile operations, transfers 16.5%, cash-in 12.8% and cash-out 8.7%. Earlier BCT releases showed person-to-person transfers dominating, so the mix moves from one report to the next and should be read with care.\n\nThe shift matters. Wallets that are only used to move money between people tend to be emptied straight back into cash. Merchant payments keep money in the digital system longer, which is the point of the BCT's \"decashing\" policy.\n\n## Who issues mobile wallets\n\nTunisia does not have a single dominant mobile money operator like M-Pesa in Kenya. Instead, several kinds of institutions issue wallets:\n\n- **Banks.** In June 2022 the BCT launched what it called the country's first mobile payment solution, with seven banks: BNA, BH Bank, Amen Bank, UBCI, Attijari Bank, Zitouna and BTE. Wallets could be funded from a bank account, a card or another wallet.\n- **La Poste Tunisienne.** The postal operator offers e-Dinar products and the D17 app. See our [guide to e-Dinar and D17](post:la-poste-tunisienne-e-dinar-d17).\n- **Payment institutions.** Viamobile was the first payment institution licensed by the BCT, in April 2021. In March 2026, OFT Tunisie, an Ooredoo subsidiary, received its final licence as a payment institution after provisional approval in December 2024.\n- **Fintechs working with banks.** [Flouci](post:flouci-profile), built by the startup Kaoun, combines a wallet with a partner-bank account. Its wallet is also integrated into Orange Tunisie's Max It app under a partnership announced in April 2025.\n- **Telecom operators.** Tunisie Telecom launched its Kashy wallet in March 2026, developed with Viamobile and rolled out through about 30 of its shops.\n\nThe technical backbone for interbank mobile payments is run by the Société Monétique Tunisie (SMT), the national card switch, which in 2019 chose the Moroccan vendor HPS to build an interoperable mobile payment platform.\n\n## The TUNPAY label\n\nOn 5 May 2026, the BCT announced **TUNPAY**, a national label for mobile payment designed with the SMT. Banks, La Poste and payment institutions that issue wallets are asked to display it in their apps and at acceptance points: shops, branches and agents.\n\nTUNPAY is a branding and trust measure. It gives consumers one sign to look for at the till, much as the \"CB\" logo did for cards in France. It does not by itself set fees, and commentators have noted that commissions remain governed by contracts between banks, merchants and networks. Whether it leads to deeper technical interoperability depends on how SMT access is organised for independent fintechs. We cover that question in our piece on [instant payments and interoperability](post:instant-payments-tunisia).\n\n## Why it matters for founders\n\nFor startups, the licensing picture is the key constraint. Issuing a wallet in your own name requires a payment institution licence or a bank partner. Many Tunisian fintechs operate as **payment facilitators**, a role framed by BCT guidelines published in January 2024 that require a partnership with a licensed institution. Our explainer on [payment institutions in Tunisia](post:payment-institutions-tunisia) covers the routes in more detail.\n\nThree trends are worth watching:\n\n1. **New entrants with distribution.** Telecom-linked players (Ooredoo's OFT, Tunisie Telecom's Kashy) bring shop networks that fintechs lack.\n2. **State nudges.** The BCT required 2026–2027 school registration fees to be paid only through digital channels, including wallets. Mandates like this push first-time users onto wallets.\n3. **Merchant acceptance.** Large retailers such as Monoprix started accepting QR payments via Flouci in March 2025. More merchants will matter more than more apps.\n\n## What to watch next\n\nThe numbers are moving in the right direction, but mobile payments remain a niche next to cash, cards and cheques. The next BCT bulletins will show whether TUNPAY and the new telecom-backed wallets turn rapid growth into everyday habit. Figures in this article are as of mid-2026 and may change with later releases.",
+    "faq": [
+      {
+        "q": "How many people use mobile wallets in Tunisia?",
+        "a": "The BCT counted 512,000 active mobile wallets in the first half of 2026, up 16.4%. That is still small compared with roughly 6.15 million bank cards in circulation."
+      },
+      {
+        "q": "What is TUNPAY?",
+        "a": "TUNPAY is a national mobile payment label launched by the Central Bank of Tunisia in May 2026, designed with the Société Monétique Tunisie. Wallet issuers are asked to display it in their apps and at acceptance points to build consumer trust."
+      },
+      {
+        "q": "Which companies offer mobile payment in Tunisia?",
+        "a": "Wallets are offered by banks, La Poste Tunisienne (e-Dinar and D17), licensed payment institutions such as Viamobile and OFT Tunisie, fintechs such as Flouci working with partner banks, and since 2026 Tunisie Telecom's Kashy."
+      },
+      {
+        "q": "Can a startup launch its own wallet in Tunisia?",
+        "a": "Only with a payment institution licence from the BCT or through a partnership with a licensed bank or institution. Many fintechs operate as payment facilitators under BCT guidelines published in January 2024."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Paiement mobile en Tunisie : le paysage des wallets en 2026",
+    "meta_description": "Le paiement mobile en Tunisie progresse vite. Émetteurs de wallets, chiffres de la BCT, label TUNPAY et nouveaux agréments : l'état des lieux en 2026.",
+    "excerpt": "Les portefeuilles mobiles se multiplient en Tunisie : banques, La Poste, fintechs et désormais opérateurs télécoms. L'usage grimpe vite, mais reste modeste face aux cartes et au cash.",
+    "keywords": [
+      "paiement mobile Tunisie",
+      "portefeuille électronique Tunisie",
+      "wallet Tunisie",
+      "label TUNPAY",
+      "BCT paiement mobile chiffres",
+      "mobile money Tunisie",
+      "e-wallet Tunisie"
+    ],
+    "tags": [
+      "Paiement mobile",
+      "Wallets",
+      "BCT",
+      "TUNPAY"
+    ],
+    "key_takeaways": [
+      "Selon la BCT, la Tunisie comptait 512 000 portefeuilles mobiles actifs au premier semestre 2026 (+16,4 %) et 18 prestataires de services de paiement agréés.",
+      "Les opérations mobiles ont bondi de 81 % en 2025, à 8,4 millions, pour environ 1,77 milliard de dinars, un volume encore faible face aux cartes et aux chèques.",
+      "Les wallets sont émis par les banques, La Poste, des établissements de paiement agréés et des fintechs adossées à des banques ; les opérateurs télécoms sont arrivés en 2026.",
+      "Le label TUNPAY de la BCT (mai 2026) donne une identité commune aux wallets : c'est un outil de confiance, pas une baisse des commissions."
+    ],
+    "body": "Le paiement mobile en Tunisie est passé du stade pilote à un marché encombré : applications bancaires, portefeuilles postaux, fintechs et, depuis 2026, opérateurs télécoms. Les chiffres de la Banque centrale affichent une croissance forte, mais à partir d'une base étroite. Tour d'horizon des émetteurs, des données et de ce qui bouge.\n\n## Le paiement mobile en Tunisie en chiffres\n\nLa Banque Centrale de Tunisie (BCT) publie un bulletin régulier sur les paiements. Les données du premier semestre 2026 (Bulletin n° 17, relayé par [Challenges TN](https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/)) font état de :\n\n- **512 000 portefeuilles actifs**, en hausse de 16,4 % ;\n- **5,0 millions d'opérations mobiles**, +31,5 % ;\n- **914,2 millions de dinars** de flux, +17,7 % ;\n- **18 prestataires de services de paiement (PSP) agréés**.\n\nSur l'ensemble de 2025, la BCT a recensé 8,4 millions d'opérations mobiles (+81 %), pour environ 1,769 milliard de dinars. Fin septembre 2024, elle comptait 313 000 portefeuilles actifs.\n\nLa dynamique est réelle, l'échelle reste modeste. Sur le même semestre, les porteurs de cartes ont réalisé 85,4 millions d'opérations monétiques et la télécompensation a traité 3,6 millions de chèques. Le mobile est le canal qui progresse le plus vite, pas encore le canal principal. Pour situer ces données, voir nos [chiffres clés de la fintech tunisienne](post:tunisia-fintech-key-numbers).\n\n## À quoi servent les wallets\n\nL'usage glisse vers le paiement marchand. Au premier semestre 2026, les paiements représentaient 62 % des opérations mobiles, les transferts 16,5 %, le cash-in 12,8 % et le cash-out 8,7 %. Des publications antérieures de la BCT montraient au contraire une domination des transferts entre particuliers : la répartition varie d'un bulletin à l'autre et doit être lue avec prudence.\n\nL'enjeu est important. Un wallet qui sert seulement à envoyer de l'argent à un proche est vite reconverti en espèces. Le paiement chez le commerçant, lui, garde l'argent dans le circuit numérique, ce qui est tout l'objet de la politique de « décashing » de la BCT.\n\n## Qui émet des portefeuilles mobiles ?\n\nLa Tunisie n'a pas d'opérateur dominant de type M-Pesa. Plusieurs familles d'acteurs coexistent :\n\n- **Les banques.** En juin 2022, la BCT a lancé ce qu'elle présentait comme la première solution de paiement mobile du pays, avec sept banques : BNA, BH Bank, Amen Bank, UBCI, Attijari Bank, Zitouna et BTE. Le wallet s'alimente par compte bancaire, carte ou autre wallet.\n- **La Poste Tunisienne**, avec ses produits e-Dinar et l'application D17. Voir notre [dossier e-Dinar et D17](post:la-poste-tunisienne-e-dinar-d17).\n- **Les établissements de paiement.** Viamobile a été le premier établissement agréé par la BCT, en avril 2021. En mars 2026, OFT Tunisie, filiale d'Ooredoo, a obtenu son agrément définitif après un accord provisoire en décembre 2024.\n- **Les fintechs adossées à des banques.** [Flouci](post:flouci-profile), développée par la startup Kaoun, associe un wallet à un compte ouvert chez une banque partenaire. Son portefeuille est aussi intégré à l'application Max It d'Orange Tunisie depuis un partenariat annoncé en avril 2025.\n- **Les opérateurs télécoms.** Tunisie Telecom a lancé Kashy en mars 2026, conçu avec Viamobile et déployé dans une trentaine de ses agences.\n\nL'infrastructure interbancaire du paiement mobile est gérée par la Société Monétique Tunisie (SMT), qui avait retenu en 2019 l'éditeur marocain HPS pour bâtir une plateforme interopérable.\n\n## Le label TUNPAY\n\nLe 5 mai 2026, la BCT a annoncé **TUNPAY**, un label national du paiement mobile conçu avec la SMT. Banques, La Poste et établissements de paiement émetteurs de wallets sont invités à l'afficher dans leurs applications et sur leurs points d'acceptation : commerces, agences, agents.\n\nTUNPAY est un outil d'identité et de confiance : un repère unique pour le client en caisse. Il ne fixe pas les commissions, qui restent régies par les contrats entre banques, commerçants et réseaux. Sa portée sur l'interopérabilité technique dépendra des conditions d'accès des fintechs indépendantes à la SMT, un sujet que nous traitons dans notre article sur [le paiement instantané et l'interopérabilité](post:instant-payments-tunisia).\n\n## Ce que cela change pour les fondateurs\n\nPour une startup, la contrainte principale reste l'agrément. Émettre un wallet en son nom suppose un agrément d'établissement de paiement ou un partenaire bancaire. Beaucoup de fintechs opèrent comme **facilitateurs de paiement**, un rôle encadré par des lignes directrices publiées par la BCT en janvier 2024, qui imposent un partenariat avec une institution agréée. Notre dossier sur [les établissements de paiement en Tunisie](post:payment-institutions-tunisia) détaille les options.\n\nTrois tendances à suivre :\n\n1. **Des nouveaux venus dotés d'un réseau.** Les acteurs liés aux télécoms (OFT pour Ooredoo, Kashy pour Tunisie Telecom) apportent des boutiques que les fintechs n'ont pas.\n2. **L'impulsion publique.** La BCT a imposé le paiement de l'inscription scolaire 2026-2027 par des canaux exclusivement numériques, wallets compris. Ce type d'obligation fait entrer de nouveaux utilisateurs.\n3. **L'acceptation marchande.** Monoprix accepte depuis mars 2025 le paiement par QR code via Flouci. Davantage de commerçants comptera plus que davantage d'applications.\n\n## Et maintenant ?\n\nLes indicateurs vont dans le bon sens, mais le paiement mobile reste une niche face au cash, aux cartes et aux chèques. Les prochains bulletins de la BCT diront si TUNPAY et les wallets adossés aux opérateurs transforment une croissance rapide en habitude quotidienne. Les chiffres cités datent de la mi-2026 et peuvent évoluer.",
+    "faq": [
+      {
+        "q": "Combien de Tunisiens utilisent un portefeuille mobile ?",
+        "a": "La BCT recensait 512 000 portefeuilles mobiles actifs au premier semestre 2026, en hausse de 16,4 %. C'est encore peu face aux quelque 6,15 millions de cartes bancaires en circulation."
+      },
+      {
+        "q": "Qu'est-ce que le label TUNPAY ?",
+        "a": "TUNPAY est un label national du paiement mobile lancé par la Banque centrale en mai 2026, conçu avec la Société Monétique Tunisie. Les émetteurs de wallets sont invités à l'afficher dans leurs applications et chez les commerçants pour renforcer la confiance."
+      },
+      {
+        "q": "Quels acteurs proposent le paiement mobile en Tunisie ?",
+        "a": "Les banques, La Poste Tunisienne (e-Dinar et D17), des établissements de paiement agréés comme Viamobile et OFT Tunisie, des fintechs comme Flouci adossées à des banques partenaires et, depuis 2026, Kashy de Tunisie Telecom."
+      },
+      {
+        "q": "Une startup peut-elle lancer son propre wallet ?",
+        "a": "Seulement avec un agrément d'établissement de paiement délivré par la BCT, ou en partenariat avec une banque ou un établissement agréé. Beaucoup de fintechs opèrent comme facilitateurs de paiement selon les lignes directrices de janvier 2024."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Paiements en Tunisie : le mobile et l'e-commerce en forte hausse au S1 2026 (BCT)",
+      "publisher": "Challenges TN",
+      "url": "https://www.challenges.tn/economie/paiements-en-tunisie-le-mobile-et-le-commerce-en-forte-hausse-au-s1-2026-bct/"
+    },
+    {
+      "title": "Paiement mobile : la Tunisie lance le label « TUNPAY » pour structurer l'écosystème",
+      "publisher": "We Are Tech Africa",
+      "url": "https://www.wearetech.africa/fr/fils/actualites/tech/paiement-mobile-la-tunisie-lance-le-label-tunpay-pour-structurer-l-ecosysteme"
+    },
+    {
+      "title": "La BCT lance le label unifié « TUNPAY » pour le paiement mobile",
+      "publisher": "Business News",
+      "url": "https://businessnews.com.tn/2026/05/06/la-bct-lance-le-label-unifie-tunpay-pour-le-paiement-mobile/1400181/"
+    },
+    {
+      "title": "Tunisia's state telecom operator enters digital services with Kashy mobile wallet",
+      "publisher": "Ecofin Agency",
+      "url": "https://www.ecofinagency.com/news-digital/1903-53913-tunisia-s-state-telecom-operator-enters-digital-services-with-kashy-mobile-wallet"
+    },
+    {
+      "title": "OFT Tunisie obtient l'agrément définitif de la BCT en tant qu'établissement de paiement",
+      "publisher": "African Manager",
+      "url": "https://africanmanager.com/oft-tunisie-obtient-lagrement-definitif-de-la-bct-en-tant-quetablissement-de-paiement/"
+    },
+    {
+      "title": "Tunisie : une solution de paiement mobile fédérant sept banques",
+      "publisher": "Kapitalis",
+      "url": "https://kapitalis.com/tunisie/2022/06/22/tunisie-une-solution-de-paiement-mobile-federant-sept-banques/"
+    }
+  ]
+}

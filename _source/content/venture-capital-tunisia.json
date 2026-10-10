@@ -1,0 +1,140 @@
+{
+  "slug": "venture-capital-tunisia",
+  "category": "funding",
+  "cover_motif": "handshake",
+  "stats": [
+    {
+      "value": "10",
+      "label_en": "active venture capital funds in Tunisia",
+      "label_fr": "fonds de capital-risque actifs en Tunisie",
+      "source": "Startup Genome 2025 via La Presse"
+    },
+    {
+      "value": "€100k",
+      "label_en": "average ticket of 216 Capital Fund I",
+      "label_fr": "ticket moyen de 216 Capital Fund I",
+      "source": "Wamda, 2022"
+    },
+    {
+      "value": "€300–650k",
+      "label_en": "seed tickets targeted by Titan Seed Fund I",
+      "label_fr": "tickets d'amorçage visés par Titan Seed Fund I",
+      "source": "Wamda, 2023"
+    }
+  ],
+  "chart": null,
+  "en": {
+    "title": "Venture Capital in Tunisia: Who Invests in Startups (2026)",
+    "meta_description": "A guide to venture capital in Tunisia: 216 Capital, Go Big Partners, Medin, Flat6Labs, UGFS and regional funds, with ticket sizes and how to pitch them.",
+    "excerpt": "Who writes cheques for Tunisian startups in 2026? A guide to local seed funds, regional VCs and corporate investors, with ticket sizes.",
+    "keywords": [
+      "venture capital Tunisia",
+      "VC firms Tunisia",
+      "Tunisian startup investors",
+      "216 Capital",
+      "seed funds Tunisia",
+      "fintech investors Tunisia",
+      "ANAVA funds"
+    ],
+    "tags": [
+      "Venture capital",
+      "Investors",
+      "Seed funding",
+      "Tunisia"
+    ],
+    "key_takeaways": [
+      "Tunisia had about ten active VC funds in 2024, most of them backed by the ANAVA fund of funds.",
+      "216 Capital, Go Big Partners, Medin, Flat6Labs and UGFS are the main local managers, with tickets from about €50k to €650k.",
+      "Regional funds (Silicon Badia, Janngo, LoftyInc, Rasmal) and corporates such as Attijariwafa Ventures join the larger rounds.",
+      "Fintech founders should match investors to their stage and expect questions about licensing and corporate structure."
+    ],
+    "body": "Venture capital in Tunisia is a small market. A handful of local seed funds, most of them backed by the ANAVA fund of funds, do most of the deals, and regional, European and corporate investors join the larger rounds. This guide covers who is investing in Tunisian startups as of 2026, typical ticket sizes and what these investors have backed.\n\n## The Tunisian venture capital landscape in brief\n\nAccording to the Startup Genome 2025 report, cited by La Presse, Tunisia had **ten active venture capital funds**. Startups raised a little over $24 million across 11 deals in 2024. AVCA data put 2025 at **$39 million across 17 deals**, ranking Tunisia 7th in Africa. Early 2026 was much weaker (see [funding trends](post:tunisia-startup-funding-trends)).\n\nMost local funds draw capital from **ANAVA**, the €60 million (first close) fund of funds managed by Smart Capital and financed by the CDC, through a World Bank loan, and by KfW (see [ANAVA explained](post:anava-fund-of-funds)). So when you pitch a Tunisian seed fund, you are often pitching a manager that also reports to ANAVA.\n\n## Local seed and early-stage funds\n\n### 216 Capital Ventures\nProbably the most active local investor in 2025–2026. **216 Capital Fund I** had a first close of €9 million, with up to €6 million from ANAVA. It is a generalist fund that targets about 50 pre-seed and seed startups, with average tickets of about **€100,000**, including foreign startups with more than half their staff in Tunisia. Deals reported by Wamda include Juridoc.tn (with Go Big Partners), Addvocate.AI, insurtech EYST and agritech RoboCare. In September 2025 it launched an accelerator with Plug and Play that offers up to 20 startups €50,000 each.\n\n### Go Big Partners\nManages the **Go Live Fund**: €8 million, first close of €6 million, and €4.5 million from ANAVA. It targets 36 early-stage B2B startups in sectors such as agritech, cleantech, biotech, healthtech and cybersecurity.\n\n### Medin Fund Management\nLicensed by the CMF in November 2022. Manages **Titan Seed Fund I** (about 10 million), which presented itself as North Africa's first seed fund dedicated to deep tech. It plans to back roughly 20 startups with tickets of €300,000–650,000 to prepare them for a Series A. Titan was one of the investors in Thunder Code, the new company from Expensya's founders.\n\n### Flat6Labs Tunis\nActive in Tunisia since 2017, with support from BIAT, Meninx Holding and TAEF. Its programme offers up to **TND 200,000**, with a possible follow-on of TND 200,000–800,000. The earlier Anava Seed Fund (TND 30 million, backed by the IFC, BIAT and others) planned to back up to 90 startups, and Tunisia Seed Fund II was launched with Smart Capital in 2024. Fintech is one of its target sectors.\n\n### UGFS North Africa\nA long-standing Tunisian fund manager whose venture arm, UGFS-VC, launched **New Era Fund I**: €15 million target, €7 million first close, €3.5 million from ANAVA, aimed at Series A companies in AI, biotech and green tech. UGFS led the pre-seed round of fintech/insurtech PAYDAY in October 2025.\n\n### AfricInvest\nMainly a pan-African private equity firm, but it led InstaDeep's **$8.5 million Series A in 2019**. It is the best-known example of a large local investor backing an early Tunisian tech company.\n\n## Regional and pan-African VCs\n\n- **Silicon Badia**: Expensya's first investment from its BIF2 fund (2021 Series B, with MAIF Avenir), and later Thunder Code. ANAVA committed $5.2 million to BIF2.\n- **Janngo Capital**: led Dabchy's pre-Series A in 2025 and invested in Thunder Code. ANAVA committed €4 million to its Startup Fund, which covers French-speaking Africa.\n- **LoftyInc Capital**: a fintech-focused firm from Nigeria (an early Flutterwave investor), backed by ANAVA with $2.5 million in 2025.\n- **Rasmal Ventures**: a Qatar-based seed fund for fintech, B2B SaaS and healthtech, which received $4 million from ANAVA in September 2025.\n\n## Corporate and strategic investors\n\nFor fintechs in particular, strategic investors can be as important as VCs. Konnect Networks' May 2025 round included **Attijariwafa Ventures**, the venture arm of the Moroccan banking group, and Konnect had earlier joined Visa's Africa Fintech Accelerator, run with Plug and Play. European funds such as Plus VC (which led Kumulus Water's $3.5 million seed round in 2025), ISAI and Seventure (earlier Expensya backers) show that French investors will back Tunisian-founded companies, often through a French holding company.\n\n## How to approach Tunisian VCs\n\n- **Match stage and ticket.** Pre-seed: accelerators and 216 Capital. Seed (€300,000–650,000): Titan, Go Live, Flat6Labs follow-on. Series A: New Era, regional funds, European co-investors.\n- **Check where they can invest.** Pan-African funds may only put part of their capital into Tunisia. Ask early whether they can still invest in Tunisia.\n- **Show the regulatory route.** For payments, lending or e-money, investors will ask about licensing (see [payment institution licensing](post:payment-institutions-tunisia)).\n- **Plan your structure.** Many founders with international ambitions create a holding company in France or the UK, as Expensya and InstaDeep did, to make foreign investment easier. Discuss this with lawyers early (see our [fundraising guide](post:how-to-raise-funding-tunisian-fintech)).\n\n## Why it matters\n\nTunisia now has more active VC managers than ever, but the amounts are small and 2026 has been slow. Founders who know which funds fit their stage, sector and structure will save months of pitching.",
+    "faq": [
+      {
+        "q": "Which VC firms invest in Tunisian startups?",
+        "a": "The main local managers are 216 Capital Ventures, Go Big Partners, Medin (Titan Seed Fund), Flat6Labs Tunis and UGFS North Africa. Regional investors include Silicon Badia, Janngo Capital, LoftyInc and Rasmal Ventures, several of them backed by the ANAVA fund of funds."
+      },
+      {
+        "q": "How much can a Tunisian startup raise at seed stage?",
+        "a": "Typical tickets reported by local funds range from about €50,000 (216 Capital and Plug and Play accelerator) and €100,000 (216 Capital Fund I average) to €300,000–650,000 (Titan Seed Fund I). Larger rounds usually need foreign co-investors."
+      },
+      {
+        "q": "Do Tunisian startups need a foreign holding company to raise VC?",
+        "a": "It is not legally required, but many founders with international ambitions set one up, as Expensya (France) and InstaDeep (UK) did, to make foreign investment and exits easier. Get legal and tax advice before restructuring."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Capital-risque en Tunisie : qui investit dans les startups",
+    "meta_description": "Guide du capital-risque en Tunisie : 216 Capital, Go Big Partners, Medin, Flat6Labs, UGFS et fonds régionaux, avec tailles de ticket et conseils d'approche.",
+    "excerpt": "Qui finance les startups tunisiennes en 2026 ? Tour d'horizon des fonds d'amorçage locaux, des fonds régionaux et des investisseurs corporate.",
+    "keywords": [
+      "capital-risque Tunisie",
+      "fonds VC Tunisie",
+      "investisseurs startups tunisiennes",
+      "216 Capital",
+      "fonds d'amorçage Tunisie",
+      "investisseurs fintech Tunisie",
+      "fonds ANAVA"
+    ],
+    "tags": [
+      "Capital-risque",
+      "Investisseurs",
+      "Amorçage",
+      "Tunisie"
+    ],
+    "key_takeaways": [
+      "La Tunisie comptait une dizaine de fonds de capital-risque actifs en 2024, pour la plupart soutenus par le fonds de fonds ANAVA.",
+      "216 Capital, Go Big Partners, Medin, Flat6Labs et UGFS sont les principaux gérants locaux, avec des tickets d'environ 50 000 à 650 000 euros.",
+      "Les fonds régionaux (Silicon Badia, Janngo, LoftyInc, Rasmal) et des corporate comme Attijariwafa Ventures rejoignent les tours plus importants.",
+      "Les fondateurs de fintech doivent cibler les investisseurs selon leur stade et s'attendre à des questions sur l'agrément et la structure juridique."
+    ],
+    "body": "Le capital-risque tunisien est un petit marché. Une poignée de fonds d'amorçage locaux, pour la plupart soutenus par le fonds de fonds ANAVA, réalisent l'essentiel des opérations, et des investisseurs régionaux, européens et corporate rejoignent les tours plus importants. Ce guide présente qui investit dans les startups tunisiennes en 2026, les tailles de ticket habituelles et ce que ces investisseurs ont financé.\n\n## Le capital-risque en Tunisie en bref\n\nSelon le rapport Startup Genome 2025, cité par La Presse, la Tunisie comptait **dix fonds de capital-risque actifs**. Les startups ont levé un peu plus de 24 millions de dollars en 11 opérations en 2024. Les données de l'AVCA font état de **39 millions de dollars en 17 opérations** en 2025, ce qui place la Tunisie au 7e rang africain. Le début de 2026 a été beaucoup plus faible (voir [les tendances du financement](post:tunisia-startup-funding-trends)).\n\nLa plupart des fonds locaux puisent leurs capitaux dans **ANAVA**, le fonds de fonds de 60 millions d'euros (premier closing) géré par Smart Capital et financé par la CDC, via un prêt de la Banque mondiale, et par KfW (voir [ANAVA expliqué](post:anava-fund-of-funds)). Quand on présente son projet à un fonds d'amorçage tunisien, on s'adresse donc souvent à un gérant qui rend aussi des comptes à ANAVA.\n\n## Les fonds locaux d'amorçage et de démarrage\n\n### 216 Capital Ventures\nSans doute l'investisseur local le plus actif en 2025-2026. **216 Capital Fund I** a réalisé un premier closing de 9 millions d'euros, dont jusqu'à 6 millions apportés par ANAVA. C'est un fonds généraliste qui vise une cinquantaine de startups en pré-amorçage et amorçage, avec des tickets moyens d'environ **100 000 euros**, y compris des startups étrangères dont plus de la moitié de l'effectif est en Tunisie. Parmi les opérations rapportées par Wamda : Juridoc.tn (avec Go Big Partners), Addvocate.AI, l'assurtech EYST et l'agritech RoboCare. En septembre 2025, il a lancé avec Plug and Play un accélérateur qui offre 50 000 euros à chacune de 20 startups au maximum.\n\n### Go Big Partners\nGère le **Go Live Fund** : 8 millions d'euros, premier closing de 6 millions, dont 4,5 millions d'ANAVA. Il vise 36 startups B2B en phase de démarrage dans des secteurs comme l'agritech, les cleantech, la biotech, la healthtech et la cybersécurité.\n\n### Medin Fund Management\nAgréé par le CMF en novembre 2022. Gère le **Titan Seed Fund I** (environ 10 millions), qui s'est présenté comme le premier fonds d'amorçage d'Afrique du Nord dédié à la deeptech. Il prévoit d'accompagner une vingtaine de startups avec des tickets de 300 000 à 650 000 euros, pour les préparer à une série A. Titan fait partie des investisseurs de Thunder Code, la nouvelle entreprise des fondateurs d'Expensya.\n\n### Flat6Labs Tunis\nPrésent en Tunisie depuis 2017, avec le soutien de BIAT, Meninx Holding et TAEF. Son programme offre jusqu'à **200 000 dinars**, avec un financement complémentaire possible de 200 000 à 800 000 dinars. L'ancien Anava Seed Fund (30 millions de dinars, soutenu notamment par l'IFC et BIAT) prévoyait d'accompagner jusqu'à 90 startups, et le Tunisia Seed Fund II a été lancé avec Smart Capital en 2024. La fintech fait partie de ses secteurs cibles.\n\n### UGFS North Africa\nGérant tunisien établi de longue date. Sa branche de capital-risque, UGFS-VC, a lancé le **New Era Fund I** : objectif de 15 millions d'euros, premier closing de 7 millions, dont 3,5 millions d'ANAVA, orienté vers des entreprises en série A dans l'IA, la biotech et les technologies vertes. UGFS a mené le pré-amorçage de la fintech/assurtech PAYDAY en octobre 2025.\n\n### AfricInvest\nSurtout un acteur panafricain du capital-investissement, mais il a mené la **série A de 8,5 millions de dollars d'InstaDeep en 2019**. C'est l'exemple le plus connu d'un grand investisseur local soutenant une jeune entreprise tech tunisienne.\n\n## Les fonds régionaux et panafricains\n\n- **Silicon Badia** : Expensya a été le premier investissement de son fonds BIF2 (série B de 2021, avec MAIF Avenir), puis Thunder Code. ANAVA a engagé 5,2 millions de dollars dans BIF2.\n- **Janngo Capital** : a mené le tour pré-série A de Dabchy en 2025 et investi dans Thunder Code. ANAVA a engagé 4 millions d'euros dans son Startup Fund, qui couvre l'Afrique francophone.\n- **LoftyInc Capital** : fonds nigérian tourné vers la fintech (investisseur précoce de Flutterwave), soutenu par ANAVA à hauteur de 2,5 millions de dollars en 2025.\n- **Rasmal Ventures** : fonds d'amorçage basé au Qatar, ciblant la fintech, le SaaS B2B et la healthtech, qui a reçu 4 millions de dollars d'ANAVA en septembre 2025.\n\n## Les investisseurs corporate et stratégiques\n\nPour les fintech en particulier, les investisseurs stratégiques peuvent compter autant que les fonds. Le tour de Konnect Networks de mai 2025 incluait **Attijariwafa Ventures**, la branche de capital-risque du groupe bancaire marocain, et Konnect avait auparavant intégré l'Africa Fintech Accelerator de Visa, animé avec Plug and Play. Des fonds européens comme Plus VC (qui a mené l'amorçage de 3,5 millions de dollars de Kumulus Water en 2025), ISAI et Seventure (premiers soutiens d'Expensya) montrent que les investisseurs français financent des entreprises fondées par des Tunisiens, souvent via une holding française.\n\n## Comment approcher les fonds tunisiens\n\n- **Adaptez le stade et le ticket.** Pré-amorçage : accélérateurs et 216 Capital. Amorçage (300 000 à 650 000 euros) : Titan, Go Live, suivi Flat6Labs. Série A : New Era, fonds régionaux, co-investisseurs européens.\n- **Vérifiez où ils peuvent investir.** Les fonds panafricains ne placent parfois qu'une partie de leur capital en Tunisie. Demandez tôt s'ils peuvent encore investir en Tunisie.\n- **Montrez votre parcours réglementaire.** Pour le paiement, le crédit ou la monnaie électronique, les investisseurs poseront des questions sur l'agrément (voir [l'agrément des établissements de paiement](post:payment-institutions-tunisia)).\n- **Anticipez la structure.** Beaucoup de fondateurs aux ambitions internationales créent une holding en France ou au Royaume-Uni, comme Expensya et InstaDeep, pour faciliter l'investissement étranger. Parlez-en tôt à des avocats (voir notre [guide de la levée de fonds](post:how-to-raise-funding-tunisian-fintech)).\n\n## Pourquoi c'est important\n\nLa Tunisie compte plus de gérants de capital-risque actifs que jamais, mais les montants restent faibles et 2026 a été lente. Les fondateurs qui savent quels fonds correspondent à leur stade, à leur secteur et à leur structure gagneront des mois de démarchage.",
+    "faq": [
+      {
+        "q": "Quels fonds de capital-risque investissent dans les startups tunisiennes ?",
+        "a": "Les principaux gérants locaux sont 216 Capital Ventures, Go Big Partners, Medin (Titan Seed Fund), Flat6Labs Tunis et UGFS North Africa. Parmi les investisseurs régionaux figurent Silicon Badia, Janngo Capital, LoftyInc et Rasmal Ventures, plusieurs étant soutenus par le fonds de fonds ANAVA."
+      },
+      {
+        "q": "Combien une startup tunisienne peut-elle lever en amorçage ?",
+        "a": "Les tickets annoncés par les fonds locaux vont d'environ 50 000 euros (accélérateur 216 Capital-Plug and Play) et 100 000 euros (moyenne de 216 Capital Fund I) jusqu'à 300 000 à 650 000 euros (Titan Seed Fund I). Les tours plus importants exigent généralement des co-investisseurs étrangers."
+      },
+      {
+        "q": "Faut-il une holding à l'étranger pour lever des fonds ?",
+        "a": "Ce n'est pas une obligation légale, mais beaucoup de fondateurs aux ambitions internationales en créent une, comme Expensya (France) et InstaDeep (Royaume-Uni), pour faciliter l'investissement étranger et la sortie. Mieux vaut se faire conseiller sur les plans juridique et fiscal avant toute restructuration."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "216 Capital Ventures raises $9.6 million in first close of its fund",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/2022/05/216-capital-ventures-raises-9-6-million-close-fund"
+    },
+    {
+      "title": "ANAVA invests $5 million in Titan Seed Fund I to support Tunisian startups",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/2023/10/anava-invests-5-million-titan-seed-fund-i-support-tunisian-startups"
+    },
+    {
+      "title": "Flat6Labs launches Tunisia Seed Fund II to back Tunisian startups",
+      "publisher": "Launch Base Africa",
+      "url": "https://launchbaseafrica.com/2024/05/14/flat6labs-launches-tunisia-seed-fund-ii-to-back-tunisian-startups"
+    },
+    {
+      "title": "Smart Capital – UGFS NA : le fonds de fonds ANAVA investit 3,5 millions € dans New Era Fund I",
+      "publisher": "Webmanagercenter",
+      "url": "https://www.webmanagercenter.com/2025/04/18/544656/smart-capital-ugfs-na-le-fonds-de-fonds-anava-investit-35-millions-e-dans-new-era-fund-i/"
+    },
+    {
+      "title": "Go Live Fund va investir 8 millions d'euros dans 36 startups tunisiennes",
+      "publisher": "Kapitalis",
+      "url": "https://kapitalis.com/tunisie/2024/07/04/go-live-fund-va-investir-8-millions-deuros-dans-36-startups-tunisiennes/"
+    },
+    {
+      "title": "Tunisia country news",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/country/tunisia"
+    }
+  ]
+}

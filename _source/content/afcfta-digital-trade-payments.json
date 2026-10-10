@@ -1,0 +1,193 @@
+{
+ "slug": "afcfta-digital-trade-payments",
+ "category": "africa",
+ "cover_motif": "globe-links",
+ "stats": [
+  {
+   "value": "$213.8bn",
+   "label_en": "intra-African trade in 2025, up 5.47%",
+   "label_fr": "commerce intra-africain en 2025, en hausse de 5,47 %",
+   "source": "Afreximbank via Nairametrics, 2026"
+  },
+  {
+   "value": "534",
+   "label_en": "Tunisian trade operations under the AfCFTA regime (Oct. 2026)",
+   "label_fr": "opérations commerciales tunisiennes sous le régime de la ZLECAf (oct. 2026)",
+   "source": "Ministry of Commerce via Maghreb Emergent, 2026"
+  },
+  {
+   "value": "22",
+   "label_en": "ratifications needed for the Digital Trade Protocol to enter into force",
+   "label_fr": "ratifications nécessaires à l'entrée en vigueur du protocole sur le commerce numérique",
+   "source": "Further Africa, 2026"
+  }
+ ],
+ "chart": {
+  "title_en": "Largest shares of intra-African trade, 2025 (%)",
+  "title_fr": "Principales parts du commerce intra-africain en 2025 (%)",
+  "unit": "%",
+  "bars": [
+   {
+    "label_en": "South Africa",
+    "label_fr": "Afrique du Sud",
+    "value": 19.2
+   },
+   {
+    "label_en": "DR Congo",
+    "label_fr": "RD Congo",
+    "value": 6.74
+   },
+   {
+    "label_en": "Côte d'Ivoire",
+    "label_fr": "Côte d'Ivoire",
+    "value": 4.83
+   },
+   {
+    "label_en": "Uganda",
+    "label_fr": "Ouganda",
+    "value": 4.48
+   },
+   {
+    "label_en": "Morocco",
+    "label_fr": "Maroc",
+    "value": 4.46
+   },
+   {
+    "label_en": "Egypt",
+    "label_fr": "Égypte",
+    "value": 4.35
+   },
+   {
+    "label_en": "Nigeria",
+    "label_fr": "Nigeria",
+    "value": 4.22
+   }
+  ],
+  "source_name": "Afreximbank, African Trade Report 2026, via Ecofin Agency",
+  "source_url": "https://www.ecofinagency.com/news/0807-57160-the-2025-ranking-of-africa-s-top-intra-african-traders"
+ },
+ "en": {
+  "title": "AfCFTA, Digital Trade and Cross-Border Payments in Africa",
+  "meta_description": "AfCFTA digital trade explained: the Digital Trade Protocol, its payments and fintech annexes, where ratification stands and what it means for Tunisian firms.",
+  "excerpt": "Africa adopted a Digital Trade Protocol in 2024 with annexes on payments, data and fintech. It is not yet in force. Here is what it covers and why Tunisia should care.",
+  "keywords": [
+   "AfCFTA digital trade",
+   "AfCFTA Digital Trade Protocol",
+   "cross-border payments Africa",
+   "ZLECAf Tunisie",
+   "intra-African trade 2025",
+   "AfCFTA fintech annex",
+   "Tunisia exports Africa"
+  ],
+  "tags": [
+   "AfCFTA",
+   "Digital trade",
+   "Cross-border payments",
+   "Tunisia",
+   "Regulation"
+  ],
+  "key_takeaways": [
+   "The AfCFTA Digital Trade Protocol was adopted in February 2024, and eight annexes, including cross-border digital payments and fintech, were adopted in February 2025.",
+   "As of July 2026 the protocol was not yet in force: it needs 22 ratifications, and states then have five years to align their laws.",
+   "Intra-African trade reached $213.8 billion in 2025, but Tunisia is not among the top contributors, while Morocco and Egypt each hold more than 4%.",
+   "Tunisian firms report payment conditions among the main obstacles to African trade, making payment interoperability a concrete opportunity for local fintechs."
+  ],
+  "body": "The African Continental Free Trade Area (AfCFTA) is usually discussed in terms of tariffs and rules of origin. But a growing part of the agreement deals with digital trade: online sales, data flows, digital identity and cross-border payments. For Tunisian exporters and fintechs, the **AfCFTA digital trade** rules could shape how they sell and get paid across the continent, once they come into force.\n\n## The AfCFTA in brief\n\nThe AfCFTA aims to create a single market for goods and services across African Union member states. It is built in phases: first trade in goods and services, then protocols on investment, competition, intellectual property, women and youth in trade, and digital trade.\n\nTrade between African countries is still modest compared with Africa's trade with the rest of the world, but it is growing. According to Afreximbank data reported by [Nairametrics](https://nairametrics.com/2026/06/25/afreximbank-intra-african-trade-rises-5-5-to-213-8-billion/), intra-African trade reached $213.8 billion in 2025, up 5.47% from 2024. Afreximbank has also estimated Africa's trade finance gap at about $100 billion a year.\n\n## What the Digital Trade Protocol covers\n\nAfCFTA state parties adopted the Protocol on Digital Trade in February 2024. According to an analysis by the [International Institute for Sustainable Development (IISD)](https://www.iisd.org/articles/policy-analysis/afcfta-digital-protocol), it has 52 articles in 11 parts, covering among other things:\n\n- **digital payments and digital identities**, under the heading of facilitating digital trade;\n- **data governance**, including cross-border data flows, personal data protection and rules on where computing facilities must be located;\n- **business and consumer trust**, including a ban on requiring access to source code as a condition of market access, with exceptions;\n- **emerging technologies**, including fintech.\n\nIn February 2025, the African Union Assembly adopted the protocol's eight annexes, according to the [Assembly decision published by tralac](https://www.tralac.org/documents/resources/cfta/7224-decision-on-the-progress-report-on-the-afcfta-au-assembly-february-2025.html). They cover rules of origin, digital identities, cross-border digital payments, cross-border data transfers, source code disclosure, online safety and security, emerging technologies, and financial technology.\n\n## The payments annex\n\nFor fintechs, the most relevant text is the annex on cross-border digital payments. According to [Further Africa](https://furtherafrica.com/2026/07/13/one-africa-one-click-what-the-afcfta-digital-trade-protocol-means-for-africa/), it aims to build secure, interoperable payment systems across Africa and covers:\n\n- electronic know-your-customer (e-KYC);\n- open application programming interfaces (APIs);\n- fraud prevention;\n- regulatory cooperation on anti-money laundering and counter-terrorist financing.\n\nThe data transfer annex adds an adequacy-based framework, under which data can move between countries with comparable protection standards.\n\nOn the infrastructure side, the main continental tool is the [Pan-African Payment and Settlement System (PAPSS)](post:papss-pan-african-payments), which Afreximbank built to support the AfCFTA by letting banks pay across borders in local currencies.\n\n## Not yet in force\n\nThe protocol is still a promise. As of July 2026, Further Africa reported that it had not entered into force. It will apply 30 days after the 22nd state party deposits its ratification. Nigeria, one of the protocol's champions, had government approval to ratify but still needed to domesticate the text. Once the protocol is in force, states will have five years to align their national laws, according to IISD.\n\nIn short, the legal framework is written, but it will take years before it changes daily life for most traders.\n\n## Where Tunisia stands\n\nTunisia has been a member of the AfCFTA since July 2020, according to the Central Bank of Tunisia. It started using the preferential regime in 2023 with its first certificate of origin under the Guided Trade Initiative. According to the Ministry of Commerce, quoted by [Maghreb Emergent](https://maghrebemergent.news/fr/tunisie-plus-de-500-operations-commerciales-sous-la-zlecaf-un-bilan-encore-difficile-a-mesurer/) in October 2026, 534 trade operations had been carried out under the AfCFTA regime. The same article notes that payment conditions, logistics and administrative procedures remain among the main obstacles for Tunisian firms.\n\nTunisia's trade with sub-Saharan Africa remains small. The trade minister said in June 2025 that it reached $550 million in 2024, including $425 million of exports, and estimated untapped export potential at $518 million, according to [APA News](https://fr.apanews.net/news/tunisie-518-millions-de-dollars-dexportations-vers-lafrique-a-capter/). In Afreximbank's ranking of intra-African traders for 2025, Morocco (4.46%) and Egypt (4.35%) are in the top ten. Tunisia is not.\n\n## What it means for Tunisian fintechs and exporters\n\nThe digital trade agenda creates openings, but they depend on domestic reforms:\n\n- **Getting paid is the bottleneck.** Tunisian exporters cite payment conditions as a barrier. Fintechs that can collect from African buyers and settle in dinars, through PAPSS-connected banks or licensed partners, address a real need.\n- **FX rules decide the pace.** Cross-border payments still fall under Tunisia's exchange regulations. The [foreign exchange code reform](post:tunisia-foreign-exchange-code-reform) will determine how much of the AfCFTA's digital promise Tunisian firms can use.\n- **Data and identity rules need to align.** The protocol's adequacy approach to data flows makes Tunisia's [data protection reform](post:data-protection-tunisia-fintech) a trade issue, not only a privacy issue. The same goes for remote onboarding under [e-KYC and AML rules](post:ekyc-aml-tunisia).\n- **Ratification is a policy lever.** Tunisian business groups and fintech associations can push for ratification and for a voice in how the annexes are implemented.\n\nThe AfCFTA will not open African markets to Tunisian fintechs overnight. But the rules being written now will decide who is ready when cross-border digital payments in Africa scale up.",
+  "faq": [
+   {
+    "q": "What is the AfCFTA Digital Trade Protocol?",
+    "a": "It is the AfCFTA's chapter on digital trade, adopted in February 2024. It covers digital payments, digital identities, cross-border data flows, data protection, consumer trust and emerging technologies such as fintech. Its eight annexes were adopted in February 2025."
+   },
+   {
+    "q": "Is the AfCFTA Digital Trade Protocol in force?",
+    "a": "Not as of July 2026. It enters into force 30 days after the 22nd state party deposits its ratification. After that, states have five years to align their national laws."
+   },
+   {
+    "q": "Is Tunisia part of the AfCFTA?",
+    "a": "Yes. Tunisia has been a member since July 2020 and began using the preferential regime in 2023. The Ministry of Commerce reported 534 trade operations under the AfCFTA regime as of October 2026."
+   },
+   {
+    "q": "How does the AfCFTA affect cross-border payments?",
+    "a": "The Digital Trade Protocol's payments annex aims for interoperable payment systems, with rules on e-KYC, open APIs, fraud prevention and AML cooperation. In practice, PAPSS is the main continental infrastructure for local-currency payments between African countries."
+   }
+  ]
+ },
+ "fr": {
+  "title": "ZLECAf, commerce numérique et paiements transfrontaliers",
+  "meta_description": "ZLECAf et commerce numérique : le protocole de 2024, ses annexes sur les paiements et la fintech, l'état des ratifications et les enjeux pour la Tunisie.",
+  "excerpt": "L'Afrique a adopté en 2024 un protocole sur le commerce numérique, avec des annexes sur les paiements, les données et la fintech. Il n'est pas encore en vigueur. Décryptage.",
+  "keywords": [
+   "ZLECAf commerce numérique",
+   "protocole sur le commerce numérique ZLECAf",
+   "paiements transfrontaliers Afrique",
+   "ZLECAf Tunisie",
+   "commerce intra-africain 2025",
+   "annexe fintech ZLECAf",
+   "exportations tunisiennes Afrique"
+  ],
+  "tags": [
+   "ZLECAf",
+   "Commerce numérique",
+   "Paiements transfrontaliers",
+   "Tunisie",
+   "Réglementation"
+  ],
+  "key_takeaways": [
+   "Le protocole de la ZLECAf sur le commerce numérique a été adopté en février 2024, et ses huit annexes, dont celles sur les paiements numériques transfrontaliers et la fintech, en février 2025.",
+   "En juillet 2026, le protocole n'était pas encore en vigueur : il lui faut 22 ratifications, après quoi les États disposent de cinq ans pour adapter leurs lois.",
+   "Le commerce intra-africain a atteint 213,8 milliards de dollars en 2025 ; la Tunisie ne figure pas parmi les principaux contributeurs, alors que le Maroc et l'Égypte dépassent chacun 4 %.",
+   "Les entreprises tunisiennes citent les conditions de paiement parmi les principaux freins au commerce africain, ce qui ouvre un créneau concret aux fintechs locales."
+  ],
+  "body": "La Zone de libre-échange continentale africaine (ZLECAf) est souvent abordée sous l'angle des droits de douane et des règles d'origine. Mais une part croissante de l'accord porte sur le numérique : vente en ligne, flux de données, identité numérique et paiements transfrontaliers. Pour les exportateurs et fintechs tunisiens, les règles de la **ZLECAf sur le commerce numérique** pourraient redessiner la manière de vendre et d'être payé sur le continent, une fois entrées en vigueur.\n\n## La ZLECAf en bref\n\nLa ZLECAf vise à créer un marché unique des biens et services entre les États membres de l'Union africaine. Elle se construit par étapes : d'abord le commerce des biens et des services, puis des protocoles sur l'investissement, la concurrence, la propriété intellectuelle, les femmes et les jeunes dans le commerce, et le commerce numérique.\n\nLes échanges entre pays africains restent modestes au regard du commerce du continent avec le reste du monde, mais ils progressent. Selon les données d'Afreximbank relayées par [Nairametrics](https://nairametrics.com/2026/06/25/afreximbank-intra-african-trade-rises-5-5-to-213-8-billion/), le commerce intra-africain a atteint 213,8 milliards de dollars en 2025, en hausse de 5,47 % sur un an. Afreximbank estime par ailleurs le déficit de financement du commerce en Afrique à environ 100 milliards de dollars par an.\n\n## Ce que couvre le protocole sur le commerce numérique\n\nLes États parties ont adopté le protocole sur le commerce numérique en février 2024. Selon une analyse de l'[Institut international du développement durable (IISD)](https://www.iisd.org/articles/policy-analysis/afcfta-digital-protocol), le texte compte 52 articles répartis en 11 parties, qui traitent notamment :\n\n- des **paiements et identités numériques**, au titre de la facilitation du commerce numérique ;\n- de la **gouvernance des données** : flux transfrontaliers, protection des données personnelles et règles de localisation des infrastructures informatiques ;\n- de la **confiance des entreprises et des consommateurs**, avec l'interdiction, sauf exceptions, d'exiger l'accès au code source comme condition d'accès au marché ;\n- des **technologies émergentes**, dont la fintech.\n\nEn février 2025, la Conférence de l'Union africaine a adopté les huit annexes du protocole, selon la [décision publiée par tralac](https://www.tralac.org/documents/resources/cfta/7224-decision-on-the-progress-report-on-the-afcfta-au-assembly-february-2025.html). Elles portent sur les règles d'origine, les identités numériques, les paiements numériques transfrontaliers, les transferts transfrontaliers de données, la divulgation du code source, la sécurité en ligne, les technologies émergentes et la technologie financière.\n\n## L'annexe sur les paiements\n\nPour les fintechs, le texte le plus important est l'annexe sur les paiements numériques transfrontaliers. Selon [Further Africa](https://furtherafrica.com/2026/07/13/one-africa-one-click-what-the-afcfta-digital-trade-protocol-means-for-africa/), elle vise des systèmes de paiement sûrs et interopérables à l'échelle du continent et traite :\n\n- de la connaissance client à distance (e-KYC) ;\n- des interfaces de programmation (API) ouvertes ;\n- de la prévention de la fraude ;\n- de la coopération réglementaire en matière de lutte contre le blanchiment et le financement du terrorisme.\n\nL'annexe sur les transferts de données y ajoute un mécanisme d'adéquation : les données peuvent circuler entre pays offrant des niveaux de protection comparables.\n\nCôté infrastructure, le principal outil continental est le [système panafricain de paiement et de règlement (PAPSS)](post:papss-pan-african-payments), conçu par Afreximbank pour accompagner la ZLECAf en permettant aux banques de payer d'un pays à l'autre en monnaies locales.\n\n## Un texte pas encore en vigueur\n\nLe protocole reste pour l'instant une promesse. En juillet 2026, selon Further Africa, il n'était pas entré en vigueur : il s'appliquera 30 jours après le dépôt de la 22e ratification. Le Nigeria, l'un de ses promoteurs, avait obtenu le feu vert de son gouvernement pour ratifier, mais devait encore transposer le texte. Une fois le protocole en vigueur, les États disposeront de cinq ans pour adapter leur droit national, selon l'IISD.\n\nAutrement dit, le cadre juridique est écrit, mais il faudra des années avant qu'il ne change le quotidien de la plupart des commerçants.\n\n## Où en est la Tunisie ?\n\nLa Tunisie est membre de la ZLECAf depuis juillet 2020, selon la Banque centrale de Tunisie. Elle a commencé à utiliser le régime préférentiel en 2023, avec son premier certificat d'origine dans le cadre de l'Initiative sur le commerce guidé. D'après le ministère du Commerce, cité par [Maghreb Emergent](https://maghrebemergent.news/fr/tunisie-plus-de-500-operations-commerciales-sous-la-zlecaf-un-bilan-encore-difficile-a-mesurer/) en octobre 2026, 534 opérations commerciales ont été réalisées sous le régime de la ZLECAf. Le même article relève que les conditions de paiement, la logistique et les procédures administratives restent parmi les principaux freins pour les entreprises tunisiennes.\n\nLes échanges de la Tunisie avec l'Afrique subsaharienne restent limités. Selon le ministre du Commerce, cité en juin 2025 par [APA News](https://fr.apanews.net/news/tunisie-518-millions-de-dollars-dexportations-vers-lafrique-a-capter/), ils ont atteint 550 millions de dollars en 2024, dont 425 millions d'exportations, pour un potentiel inexploité estimé à 518 millions de dollars. Dans le classement 2025 des pays du commerce intra-africain établi par Afreximbank, le Maroc (4,46 %) et l'Égypte (4,35 %) figurent dans le top 10. Pas la Tunisie.\n\n## Ce que cela implique pour les fintechs et exportateurs tunisiens\n\nL'agenda du commerce numérique ouvre des perspectives, mais elles dépendent de réformes internes :\n\n- **Se faire payer reste le goulot d'étranglement.** Les exportateurs tunisiens citent les conditions de paiement comme un frein. Les fintechs capables d'encaisser auprès d'acheteurs africains et de régler en dinars, via des banques connectées à PAPSS ou des partenaires agréés, répondent à un vrai besoin.\n- **La réglementation des changes fixe le rythme.** Les paiements transfrontaliers restent soumis à la réglementation tunisienne. La [réforme du code des changes](post:tunisia-foreign-exchange-code-reform) déterminera la part de la promesse numérique de la ZLECAf réellement accessible aux entreprises tunisiennes.\n- **Données et identité doivent s'aligner.** L'approche par adéquation du protocole fait de la [réforme de la protection des données](post:data-protection-tunisia-fintech) un enjeu commercial, et pas seulement de vie privée. Il en va de même pour l'entrée en relation à distance encadrée par les [règles e-KYC et LBC/FT](post:ekyc-aml-tunisia).\n- **La ratification est un levier.** Organisations patronales et associations fintech tunisiennes peuvent plaider pour la ratification et pour être associées à la mise en œuvre des annexes.\n\nLa ZLECAf n'ouvrira pas les marchés africains aux fintechs tunisiennes du jour au lendemain. Mais les règles écrites aujourd'hui détermineront qui sera prêt lorsque les paiements numériques transfrontaliers décolleront en Afrique.",
+  "faq": [
+   {
+    "q": "Qu'est-ce que le protocole de la ZLECAf sur le commerce numérique ?",
+    "a": "C'est le volet numérique de la ZLECAf, adopté en février 2024. Il couvre les paiements et identités numériques, les flux transfrontaliers de données, la protection des données, la confiance des consommateurs et les technologies émergentes comme la fintech. Ses huit annexes ont été adoptées en février 2025."
+   },
+   {
+    "q": "Le protocole sur le commerce numérique est-il en vigueur ?",
+    "a": "Pas en juillet 2026. Il entrera en vigueur 30 jours après le dépôt de la 22e ratification. Les États disposeront ensuite de cinq ans pour adapter leur droit national."
+   },
+   {
+    "q": "La Tunisie fait-elle partie de la ZLECAf ?",
+    "a": "Oui. La Tunisie en est membre depuis juillet 2020 et utilise le régime préférentiel depuis 2023. Le ministère du Commerce a recensé 534 opérations commerciales sous le régime de la ZLECAf en octobre 2026."
+   },
+   {
+    "q": "Quel est l'effet de la ZLECAf sur les paiements transfrontaliers ?",
+    "a": "L'annexe du protocole sur les paiements vise des systèmes interopérables, avec des règles sur l'e-KYC, les API ouvertes, la prévention de la fraude et la coopération LBC/FT. Dans la pratique, PAPSS est la principale infrastructure continentale pour les paiements en monnaies locales entre pays africains."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "title": "The AfCFTA Digital Protocol",
+   "publisher": "IISD",
+   "url": "https://www.iisd.org/articles/policy-analysis/afcfta-digital-protocol"
+  },
+  {
+   "title": "Decision on the progress report on the AfCFTA, AU Assembly February 2025",
+   "publisher": "tralac",
+   "url": "https://www.tralac.org/documents/resources/cfta/7224-decision-on-the-progress-report-on-the-afcfta-au-assembly-february-2025.html"
+  },
+  {
+   "title": "One Africa, one click: what the AfCFTA Digital Trade Protocol means for Africa",
+   "publisher": "Further Africa",
+   "url": "https://furtherafrica.com/2026/07/13/one-africa-one-click-what-the-afcfta-digital-trade-protocol-means-for-africa/"
+  },
+  {
+   "title": "Afreximbank: intra-African trade rises 5.5% to $213.8 billion",
+   "publisher": "Nairametrics",
+   "url": "https://nairametrics.com/2026/06/25/afreximbank-intra-african-trade-rises-5-5-to-213-8-billion/"
+  },
+  {
+   "title": "The 2025 ranking of Africa's top intra-African traders",
+   "publisher": "Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news/0807-57160-the-2025-ranking-of-africa-s-top-intra-african-traders"
+  },
+  {
+   "title": "Tunisie : plus de 500 opérations commerciales sous la ZLECAf, un bilan encore difficile à mesurer",
+   "publisher": "Maghreb Emergent",
+   "url": "https://maghrebemergent.news/fr/tunisie-plus-de-500-operations-commerciales-sous-la-zlecaf-un-bilan-encore-difficile-a-mesurer/"
+  }
+ ]
+}
