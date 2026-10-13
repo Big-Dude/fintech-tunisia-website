@@ -23,6 +23,12 @@ AC = ' aria-current="page"'
 GC = f'<script data-goatcounter="https://{GOATCOUNTER}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
 NBSP = "\u00a0"
 
+
+def iso(d):
+    """Full ISO 8601 datetime with Tunis time zone, as Google expects."""
+    d = str(d)
+    return d if "T" in d else (d + "T08:00:00+01:00" if len(d) == 10 else d)
+
 # ---------------------------------------------------------------- content
 posts = []
 for f in sorted(glob.glob(os.path.join(HERE, "content", "*.json"))):
@@ -391,7 +397,7 @@ def build_post(p, L):
     lds = [
         {"@context": "https://schema.org", "@type": "BlogPosting", "@id": url_abs + "#article", "mainEntityOfPage": url_abs,
          "headline": title[:110], "description": desc, "image": [f"{SITE}/{og_rel(slug, L)}"],
-         "datePublished": p["date"], "dateModified": p["modified"], "inLanguage": L,
+         "datePublished": iso(p["date"]), "dateModified": iso(p["modified"]), "inLanguage": L,
          "articleSection": CAT[L][p["category"]], "keywords": ", ".join(a.get("keywords", [])), "wordCount": a["words"],
          "author": {"@type": "Organization", "name": t["byline"], "url": SITE + "/"},
          "publisher": org_ld(), "isAccessibleForFree": True,

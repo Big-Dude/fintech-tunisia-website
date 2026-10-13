@@ -67,7 +67,7 @@ def info_page(B, L, kind, data, og_slug, extra_html=""):
     crumbs = [(t["home"], B.path_of(L, "home")), (data["h1"], path)]
     typ = {"about": "AboutPage", "editorial": "WebPage", "corrections": "WebPage"}[kind]
     lds = [{"@context": "https://schema.org", "@type": typ, "name": data["h1"], "url": B.absu(path), "inLanguage": L,
-            "about": {"@id": f"{B.SITE}/#org"}, "dateModified": B.BUILD_DATE}, B.crumbs_ld(crumbs)]
+            "about": {"@id": f"{B.SITE}/#org"}, "dateModified": B.iso(B.BUILD_DATE)}, B.crumbs_ld(crumbs)]
     if kind == "about": lds.append(dict(B.org_ld(), **{"@context": "https://schema.org"}))
     h = B.head(page, L, data["title"], data["desc"], path, alt, B.og_rel(og_slug, L), ld=lds)
     h += B.header(page, L, "about" if kind == "about" else "", alt["fr" if L == "en" else "en"])
@@ -178,7 +178,7 @@ def build_company(B, L, c):
     if c.get("website"): org["sameAs"] = [c["website"]]
     if c.get("people"): org["founder"] = [{"@type": "Person", "name": p["name"]} for p in c["people"] if "found" in p["role"].lower()] or None
     org = {k: v for k, v in org.items() if v}
-    lds = [{"@context": "https://schema.org", "@type": "ProfilePage", "url": B.absu(path), "inLanguage": L, "dateModified": c.get("last_verified", B.BUILD_DATE), "mainEntity": org},
+    lds = [{"@context": "https://schema.org", "@type": "ProfilePage", "url": B.absu(path), "inLanguage": L, "dateModified": B.iso(c.get("last_verified", B.BUILD_DATE)), "mainEntity": org},
            B.crumbs_ld(crumbs)]
     title = f"{c['name']}: {a['tagline']}"
     if len(title) > 70: title = f"{c['name']} — " + ("Tunisian fintech profile" if L == "en" else "fiche fintech tunisienne")
@@ -238,7 +238,7 @@ def build_tracker(B, L):
         if e["status"] in force_map: it["legislationLegalForce"] = force_map[e["status"]]
         items.append({"@type": "ListItem", "position": len(items) + 1, "item": it})
     lds = [{"@context": "https://schema.org", "@type": "CollectionPage", "name": x["reg_h1"], "description": x["reg_desc"], "url": B.absu(path),
-            "inLanguage": L, "dateModified": TRACKER["updated"], "mainEntity": {"@type": "ItemList", "itemListElement": items}},
+            "inLanguage": L, "dateModified": B.iso(TRACKER["updated"]), "mainEntity": {"@type": "ItemList", "itemListElement": items}},
            B.crumbs_ld(crumbs)]
     h = B.head(page, L, f"{x['reg_title']} | {B.SITE_NAME}", x["reg_desc"], path, alt, B.og_rel("regulation-tracker", L), ld=lds)
     h += B.header(page, L, "tracker", alt["fr" if L == "en" else "en"])
