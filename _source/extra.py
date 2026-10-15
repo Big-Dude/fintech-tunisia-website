@@ -7,12 +7,31 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 companies = []
 for f in sorted(glob.glob(os.path.join(HERE, "directory", "*.json"))):
-    d = json.load(open(f, encoding="utf-8")); d["slug"] = os.path.basename(f)[:-5]; companies.append(d)
+    d = json.load(open(f, encoding="utf-8")); d["slug"] = os.path.basename(f)[:-5]
+    arf = os.path.join(HERE, "directory_ar", d["slug"] + ".json")
+    if os.path.exists(arf):
+        a = json.load(open(arf, encoding="utf-8"))
+        d["ar"] = a["ar"]; d["status_note_ar"] = a.get("status_note_ar")
+        for i, l in enumerate(d.get("licences") or []):
+            if i < len(a.get("licences_ar") or []): l["label_ar"] = a["licences_ar"][i]
+        for i, p in enumerate(d.get("people") or []):
+            if i < len(a.get("people_roles_ar") or []): p["role_ar"] = a["people_roles_ar"][i]
+        for i, fr in enumerate(d.get("funding") or []):
+            if i < len(a.get("funding_round_ar") or []) and a["funding_round_ar"][i]: fr["round_ar"] = a["funding_round_ar"][i]
+    companies.append(d)
 _status_order = {"active": 0, "acquired": 1, "unclear": 2, "inactive": 3}
 companies.sort(key=lambda c: (_status_order.get(c["status"], 9), c["name"].lower()))
 COMPANY = {c["slug"]: c for c in companies}
 TRACKER = json.load(open(os.path.join(HERE, "regulation", "tracker.json"), encoding="utf-8"))
 REG = TRACKER["entries"]
+_ar_path = os.path.join(HERE, "regulation", "tracker_ar.json")
+if os.path.exists(_ar_path):
+    _AR = json.load(open(_ar_path, encoding="utf-8"))
+    for _e in REG:
+        a = _AR.get(_e["id"])
+        if a:
+            _e["title_ar"] = a["title"]; _e["summary_ar"] = a["summary"]; _e["status_note_ar"] = a.get("status_note")
+            _e["reference_ar"] = a.get("reference"); _e["in_force_ar"] = a.get("in_force")
 REG_ID = {e["id"]: e for e in REG}
 
 DIR_COLORS = {"payments": "#e31e24", "wallet": "#c2185b", "gateway": "#d84315", "infrastructure": "#24335c",
@@ -20,7 +39,7 @@ DIR_COLORS = {"payments": "#e31e24", "wallet": "#c2185b", "gateway": "#d84315", 
               "b2b-finance": "#455a64", "remittance": "#b04a17", "banking-tech": "#2a2a2e", "crypto": "#8a6a10"}
 
 
-def colon(L): return ":" if L == "en" else "\u00a0:"
+def colon(L): return "\u00a0:" if L == "fr" else ":"
 
 
 FR_REF = [(r"^Circular note No\.", "Note circulaire n°"), (r"^Circular No\.", "Circulaire n°"), (r"^Note No\.", "Note n°"),
@@ -32,6 +51,7 @@ _MFR = dict(zip(["January","February","March","April","May","June","July","Augus
 
 def ref(e, L):
     r = e["reference"]
+    if L == "ar": return e.get("reference_ar") or r
     if L == "en": return r
     if e.get("reference_fr"): return e["reference_fr"]
     for pat, sub in FR_REF:
@@ -70,7 +90,7 @@ def info_page(B, L, kind, data, og_slug, extra_html=""):
             "about": {"@id": f"{B.SITE}/#org"}, "dateModified": B.iso(B.BUILD_DATE)}, B.crumbs_ld(crumbs)]
     if kind == "about": lds.append(dict(B.org_ld(), **{"@context": "https://schema.org"}))
     h = B.head(page, L, data["title"], data["desc"], path, alt, B.og_rel(og_slug, L), ld=lds)
-    h += B.header(page, L, "about" if kind == "about" else "", alt["fr" if L == "en" else "en"])
+    h += B.header(page, L, "about" if kind == "about" else "", alt)
     body = ""
     if data.get("md"):
         import markdown
@@ -119,7 +139,7 @@ def fund_html(c, L):
         amt = E(f["amount"]) if f.get("amount") else f'<span class="muted">{X[L]["undisclosed"]}</span>'
         inv = E(", ".join(f.get("investors") or [])) or "—"
         src = f' <a class="src" href="{E(f["source_url"])}" target="_blank" rel="noopener nofollow">↗</a>' if f.get("source_url") else ""
-        rows += f'<tr><td>{E(f.get("date") or "—")}</td><td>{E(f.get("round") or "—")}</td><td>{amt}</td><td>{inv}{src}</td></tr>'
+        rows += f'<tr><td>{E(f.get("date") or "—")}</td><td>{E(f.get("round_" + L) or f.get("round") or "—")}</td><td>{amt}</td><td>{inv}{src}</td></tr>'
     return f'<div class="table-wrap"><table><thead><tr><th>{X[L]["date"]}</th><th>{X[L]["round"]}</th><th>{X[L]["amount"]}</th><th>{X[L]["investors"]}</th></tr></thead><tbody>{rows}</tbody></table></div>'
 
 
@@ -144,7 +164,7 @@ def build_directory(B, L):
                 {"@type": "ListItem", "position": i + 1, "url": B.absu(B.path_of(L, "company", c["slug"])), "name": c["name"]} for i, c in enumerate(companies)]}},
            B.crumbs_ld(crumbs)]
     h = B.head(page, L, f"{x['dir_title']} | {B.SITE_NAME}", x["dir_desc"], path, alt, B.og_rel("directory", L), ld=lds)
-    h += B.header(page, L, "directory", alt["fr" if L == "en" else "en"])
+    h += B.header(page, L, "directory", alt)
     cats = [k for k in DIR_CAT[L] if any(c["category"] == k for c in companies)]
     chips = f'<button class="chip active" data-filter="all">{x["all"]} <b>{len(companies)}</b></button>' + "".join(
         f'<button class="chip" data-filter="{k}">{DIR_CAT[L][k]} <b>{sum(1 for c in companies if c["category"]==k)}</b></button>' for k in cats)
@@ -181,21 +201,23 @@ def build_company(B, L, c):
     lds = [{"@context": "https://schema.org", "@type": "ProfilePage", "url": B.absu(path), "inLanguage": L, "dateModified": B.iso(c.get("last_verified", B.BUILD_DATE)), "mainEntity": org},
            B.crumbs_ld(crumbs)]
     title = f"{c['name']}: {a['tagline']}"
-    if len(title) > 70: title = f"{c['name']} — " + ("Tunisian fintech profile" if L == "en" else "fiche fintech tunisienne")
+    if len(title) > 70: title = f"{c['name']} — " + {"en": "Tunisian fintech profile", "fr": "fiche fintech tunisienne", "ar": "بطاقة شركة فنتك تونسية"}[L]
     desc = a["description"].split(". ")[0][:150].rstrip(".") + "."
     if len(desc) < 90: desc = (a["tagline"] + ". " + desc)[:158]
     h = B.head(page, L, f"{title} | {B.SITE_NAME}", desc, path, alt, B.og_rel("directory", L), ld=lds)
-    h += B.header(page, L, "directory", alt["fr" if L == "en" else "en"])
+    h += B.header(page, L, "directory", alt)
     facts = [(x["category"], E(DIR_CAT[L].get(c["category"], c["category"]))),
              (x["status"], f'<span class="st st-{E(c["status"])}">{DIR_STATUS[L][c["status"]]}</span>')]
     if c.get("founded"): facts.append((x["founded"], str(c["founded"])))
-    if c.get("hq"): facts.append((x["hq"], E(c["hq"])))
+    HQ_AR = {"Tunis": "تونس العاصمة", "Sfax": "صفاقس", "Sousse": "سوسة", "Ariana": "أريانة", "Lac 2, Tunis": "البحيرة 2، تونس", "Paris (engineering in Tunis)": "باريس (فريق الهندسة في تونس)"}
+    if c.get("hq"): facts.append((x["hq"], E(HQ_AR.get(c["hq"], c["hq"]) if L == "ar" else c["hq"])))
     if c.get("website"): facts.append((x["website"], f'<a href="{E(c["website"])}" target="_blank" rel="noopener nofollow">{E(re.sub(r"^https?://(www\.)?", "", c["website"]).rstrip("/"))}</a>'))
     facts_html = "".join(f"<div><dt>{k}</dt><dd>{v}</dd></div>" for k, v in facts)
-    status_note = f'<p class="status-note">{E(c["status_note"])}</p>' if c.get("status_note") and c["status"] != "active" else ""
+    sn = c.get("status_note_" + L) or c.get("status_note")
+    status_note = f'<p class="status-note">{E(sn)}</p>' if sn and c["status"] != "active" else ""
     desc_html = "".join(f"<p>{E(p)}</p>" for p in a["description"].split("\n") if p.strip())
     prods = "".join(f"<li>{E(p)}</li>" for p in a.get("products") or [])
-    people = "".join(f'<li><strong>{E(p["name"])}</strong> — {E(p["role"])}</li>' for p in c.get("people") or [])
+    people = "".join(f'<li><strong>{E(p["name"])}</strong> — {E(p.get("role_" + L) or p["role"])}</li>' for p in c.get("people") or [])
     rel = [B.POST[s] for s in (c.get("related_articles") or []) if s in B.POST][:3]
     rel_html = "".join(B.card(page, L, p) for p in rel)
     srcs = "".join(f'<li><a href="{E(s["url"])}" target="_blank" rel="noopener nofollow">{E(s.get("title") or s["url"])}</a>{" — " + E(s["publisher"]) if s.get("publisher") else ""}</li>' for s in c.get("sources") or [])
@@ -241,7 +263,7 @@ def build_tracker(B, L):
             "inLanguage": L, "dateModified": B.iso(TRACKER["updated"]), "mainEntity": {"@type": "ItemList", "itemListElement": items}},
            B.crumbs_ld(crumbs)]
     h = B.head(page, L, f"{x['reg_title']} | {B.SITE_NAME}", x["reg_desc"], path, alt, B.og_rel("regulation-tracker", L), ld=lds)
-    h += B.header(page, L, "tracker", alt["fr" if L == "en" else "en"])
+    h += B.header(page, L, "tracker", alt)
     groups = [("all", x["all"], len(REG)), ("force", REG_STATUS[L]["in_force"], sum(1 for e in REG if REG_GROUP[e["status"]] == "force")),
               ("pending", x["pending"], sum(1 for e in REG if REG_GROUP[e["status"]] == "pending")),
               ("unclear", REG_STATUS[L]["unclear"], sum(1 for e in REG if REG_GROUP[e["status"]] == "unclear")),
@@ -259,7 +281,7 @@ def build_tracker(B, L):
         rel = "".join(f'<a href="{page.rel(B.path_of(L,"post",s))}">{E(B.POST[s][L]["title"])}</a>' for s in (e.get("related_articles") or [])[:3] if s in B.POST)
         rep = REG_ID.get(e.get("replaces") or "")
         rep_html = f'<span>{x["replaces"]}{colon(L)} <a href="#{rep["id"]}">{E(ref(rep, L))}</a></span>' if rep else ""
-        inforce = f'<span>{x["in_force_from"]}{colon(L)} {E(e["in_force"].replace("(approx.)", "(approx.)" if L == "en" else "(environ)"))}</span>' if e.get("in_force") and e["status"] != "in_force" else ""
+        inforce = f'<span>{x["in_force_from"]}{colon(L)} {E(e.get("in_force_ar") or e["in_force"]) if L == "ar" else E(e["in_force"].replace("(approx.)", "(approx.)" if L == "en" else "(environ)"))}</span>' if e.get("in_force") and e["status"] != "in_force" else ""
         src = f'<a class="src" href="{E(e["source_url"])}" target="_blank" rel="noopener nofollow">{x["source"]}{colon(L)} {E(e.get("source_name") or "")}</a>' if e.get("source_url") else ""
         tps = "".join(f'<span class="tp">{REG_TOPIC[L].get(tp, tp)}</span>' for tp in e.get("topics", []))
         note = e.get("status_note_" + L)

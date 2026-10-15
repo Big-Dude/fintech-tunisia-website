@@ -10,6 +10,7 @@ from xml.sax.saxutils import escape as xesc
 import markdown
 from covers import cover_svg
 from i18n import *
+import i18n_ar  # noqa: F401  (patches Arabic copy into i18n dicts)
 import extra as XP
 from i18n_extra import NAV, GOATCOUNTER, X as XX, ABOUT, EDITORIAL, CORRECTIONS
 
@@ -17,7 +18,10 @@ MODE = sys.argv[1] if len(sys.argv) > 1 else "live"
 OUT = sys.argv[2] if len(sys.argv) > 2 else "dist"
 HERE = os.path.dirname(os.path.abspath(__file__))
 BUILD_DATE = "2026-10-10"
-LANGS = ["en", "fr"]
+LANGS = ["en", "fr", "ar"]
+RTL = {"ar"}
+LANG_SHORT = {"en": "EN", "fr": "FR", "ar": "ع"}
+LANG_NAME = {"en": "English", "fr": "Français", "ar": "العربية"}
 E = html.escape
 AC = ' aria-current="page"'
 GC = f'<script data-goatcounter="https://{GOATCOUNTER}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
@@ -36,6 +40,18 @@ for f in sorted(glob.glob(os.path.join(HERE, "content", "*.json"))):
     d["slug"] = os.path.basename(f)[:-5]
     d.setdefault("date", BUILD_DATE)
     d["modified"] = BUILD_DATE
+    arf = os.path.join(HERE, "content_ar", d["slug"] + ".json")
+    if os.path.exists(arf):
+        a = json.load(open(arf, encoding="utf-8"))
+        d["ar"] = a["ar"]
+        for i, st in enumerate(d.get("stats") or []):
+            if i < len(a.get("stats_ar") or []): st["label_ar"] = a["stats_ar"][i]
+            if i < len(a.get("stats_value_ar") or []): st["value_ar"] = a["stats_value_ar"][i]
+        if d.get("chart") and a.get("chart_ar"):
+            d["chart"]["title_ar"] = a["chart_ar"]["title"]
+            d["chart"]["source_name_ar"] = a["chart_ar"].get("source_name")
+            for i, b in enumerate(d["chart"]["bars"]):
+                b["label_ar"] = a["chart_ar"]["bars"][i]
     for L in LANGS:
         words = len(re.sub(r"[#*_`>\[\]()]", " ", d[L]["body"]).split())
         d[L]["words"] = words
@@ -64,7 +80,7 @@ for p in sorted(posts, key=lambda p: p["slug"]):
 
 # ---------------------------------------------------------------- urls
 def path_of(lang, kind, key=None):
-    pre = "" if lang == "en" else "fr/"
+    pre = {"en": "", "fr": "fr/", "ar": "ar/"}[lang]
     return {
         "home": f"{pre}index.html", "blog": f"{pre}blog/index.html",
         "cat": f"{pre}blog/category/{key}.html", "post": f"{pre}blog/{key}.html",
@@ -95,7 +111,12 @@ class Page:
 
 
 def cover_rel(slug): return f"assets/covers/{slug}.svg"
-def og_rel(slug, L="en"): return f"assets/og/{slug}{'' if L == 'en' else '-fr'}.jpg"
+def og_rel(slug, L="en"): return f"assets/og/{slug}{'' if L == 'en' else '-' + L}.jpg"
+
+
+def statval(s, L):
+    if L == "ar": return s.get("value_ar") or s["value"]
+    return frnum(s["value"], L)
 
 
 def frnum(v, L):
@@ -110,11 +131,13 @@ def frnum(v, L):
 
 # ---------------------------------------------------------------- formatting
 MONTHS_FR = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
+MONTHS_AR = ["جانفي", "فيفري", "مارس", "أفريل", "ماي", "جوان", "جويلية", "أوت", "سبتمبر", "أكتوبر", "نوفمبر", "ديسمبر"]
 MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
 
 def fdate(s, L):
     d = datetime.date.fromisoformat(s)
+    if L == "ar": return f"{d.day} {MONTHS_AR[d.month-1]} {d.year}"
     return f"{MONTHS_EN[d.month-1]} {d.day}, {d.year}" if L == "en" else f"{d.day} {MONTHS_FR[d.month-1]} {d.year}"
 
 
@@ -123,6 +146,7 @@ def fnum(v, L):
     dec = 0 if v == int(v) else (2 if abs(v) < 10 and round(v, 2) != round(v, 1) else 1)
     s = f"{v:,.{dec}f}"
     if L == "fr": s = s.replace(",", " ").replace(".", ",")
+    if L == "ar": s = s.replace(",", " ").replace(".", ",")
     return s
 
 
@@ -137,6 +161,10 @@ def fval(v, unit, L):
         "TND": (f"TND{sp}{n}", f"{n}{sp}TND"), "EGP m": (f"EGP{sp}{n}m", f"{n}{sp}M{sp}EGP"),
         "M": (f"{n}M", f"{n}{sp}M"),
     }
+    ar = {"%": f"{n}%", "$M": f"{n} مليون دولار", "US$M": f"{n} مليون دولار", "US$bn": f"{n} مليار دولار",
+          "€M": f"{n} مليون يورو", "bn TND": f"{n} مليار دينار", "M TND": f"{n} مليون دينار", "TND": f"{n} دينار",
+          "EGP m": f"{n} مليون جنيه", "M": f"{n} مليون"}
+    if L == "ar": return ar.get(u, n)
     if u in table: return table[u][0 if L == "en" else 1]
     return n
 
@@ -145,7 +173,10 @@ def fval(v, unit, L):
 def slugify(value, sep="-"):
     import unicodedata
     v = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode()
-    return re.sub(r"[^a-z0-9]+", "-", v.lower()).strip("-")[:60]
+    out = re.sub(r"[^a-z0-9]+", "-", v.lower()).strip("-")[:60]
+    if len(out) < 3:  # Arabic or other non-Latin heading
+        out = re.sub(r"[^\w]+", "-", value, flags=re.U).strip("-")[:60]
+    return out
 
 
 def render_md(text, page, L):
@@ -179,10 +210,9 @@ def head(page, L, title, desc, canonical_path, alt_paths, og_image, og_type="web
     t = T[L]
     alts = "".join(f'<link rel="alternate" hreflang="{l}" href="{absu(p)}">' for l, p in alt_paths.items())
     if "en" in alt_paths: alts += f'<link rel="alternate" hreflang="x-default" href="{absu(alt_paths["en"])}">'
-    other = "fr" if L == "en" else "en"
     lds = "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in (ld or []))
     return f"""<!doctype html>
-<html lang="{L}">
+<html lang="{L}" dir="{'rtl' if L in RTL else 'ltr'}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -198,7 +228,7 @@ def head(page, L, title, desc, canonical_path, alt_paths, og_image, og_type="web
 <meta property="og:url" content="{absu(canonical_path)}">
 <meta property="og:image" content="{SITE}/{og_image}">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
-<meta property="og:locale" content="{t['locale']}"><meta property="og:locale:alternate" content="{T[other]['locale']}">
+<meta property="og:locale" content="{t['locale']}">{''.join(f'<meta property="og:locale:alternate" content="{T[o]["locale"]}">' for o in LANGS if o != L)}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{E(title)}">
 <meta name="twitter:description" content="{E(desc)}">
@@ -209,28 +239,29 @@ def head(page, L, title, desc, canonical_path, alt_paths, og_image, og_type="web
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{page.rel('assets/site.css')}">
+{f'<link rel="preload" as="font" type="font/woff2" crossorigin href="{page.rel("assets/fonts/ibm-plex-sans-arabic-400.woff2")}"><link rel="stylesheet" href="{page.rel("assets/rtl.css")}">' if L in RTL else ''}
 <meta name="theme-color" content="#e31e24">
 {lds}
 {GC if MODE == "live" else ""}
 </head>
 <body>
-<a class="skip" href="#main">{'Skip to content' if L=='en' else 'Aller au contenu'}</a>"""
+<a class="skip" href="#main">{ {'en': 'Skip to content', 'fr': 'Aller au contenu', 'ar': 'انتقل إلى المحتوى'}[L] }</a>"""
 
 
-def header(page, L, active, alt_path):
+def header(page, L, active, alts):
     t = T[L]
     links = [("articles", path_of(L, "blog")), ("directory", path_of(L, "directory")), ("tracker", path_of(L, "tracker")),
              ("programs", path_of(L, "programs")), ("about", path_of(L, "about")), ("contact", path_of(L, "contact"))]
     lab = lambda k: NAV[L].get(k) or t.get(k) or CAT[L][k]
     nav = "".join(f'<a href="{page.rel(p)}"{AC if k==active else ""}>{E(lab(k))}</a>' for k, p in links)
-    other = "fr" if L == "en" else "en"
+    langs = "".join(f'<a class="lang" href="{page.rel(alts[o])}" hreflang="{o}" lang="{o}" title="{LANG_NAME[o]}">{LANG_SHORT[o]}</a>' for o in LANGS if o != L and o in alts)
     return f"""
 <header class="site-header">
   <div class="wrap nav">
     <a class="logo" href="{page.rel(path_of(L,'home'))}" aria-label="{SITE_NAME} — {t['home']}"><img src="{page.rel('assets/logo.png')}" alt="{SITE_NAME}" width="122" height="38"></a>
     <nav class="links" id="site-nav" aria-label="Main">{nav}</nav>
     <div class="nav-right">
-      <a class="lang" href="{page.rel(alt_path)}" hreflang="{other}" lang="{other}" title="{t['switch']}">{ICON['globe']}<span>{t['switch_short']}</span></a>
+      <div class="langs" role="group" aria-label="{t['language']}">{ICON['globe']}{langs}</div>
       <button class="menu-toggle" aria-label="Menu" aria-controls="site-nav" aria-expanded="false"><span></span><span></span><span></span></button>
     </div>
   </div>
@@ -248,7 +279,7 @@ def newsletter(page, L):
       <input type="hidden" name="_subject" value="Newsletter signup ({L.upper()}) — Fintech Tunisia">
       <input type="hidden" name="language" value="{L}">
       <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
-      <label class="sr" for="nl-{page.depth}">Email</label>
+      <label class="sr" for="nl-{page.depth}">{CONTACT[L]['email']}</label>
       <input id="nl-{page.depth}" type="email" name="email" placeholder="{t['nl_ph']}" required>
       <button class="btn btn-primary" type="submit">{t['nl_btn']}</button>
       <p class="form-ok" role="status">{t['nl_ok']}</p>
@@ -270,7 +301,7 @@ def footer(page, L):
         <div class="wordmark">Fin<span>Tech</span> Tunisia</div>
         <p>{t['tagline']}</p>
         <p class="foot-contact">{CONTACT[L]['address_v']}<br><a href="mailto:{EMAIL}">{EMAIL}</a></p>
-        <p class="foot-langs"><a href="{page.rel(path_of('en','home'))}" hreflang="en" lang="en">English</a> · <a href="{page.rel(path_of('fr','home'))}" hreflang="fr" lang="fr">Français</a></p>
+        <p class="foot-langs">{' · '.join(f'<a href="{page.rel(path_of(o,"home"))}" hreflang="{o}" lang="{o}">{LANG_NAME[o]}</a>' for o in LANGS)}</p>
         <div class="social">
           <a href="{LINKEDIN}" target="_blank" rel="noopener" aria-label="LinkedIn">{ICON['linkedin']}</a>
           <a href="{FACEBOOK}" target="_blank" rel="noopener" aria-label="Facebook">{ICON['facebook']}</a>
@@ -332,7 +363,21 @@ def crumbs_html(page, items):
     return '<nav class="crumbs" aria-label="Breadcrumb">' + '<span class="sep">/</span>'.join(out) + "</nav>"
 
 
+_PROTECT = re.compile(r"(<svg.*?</svg>|<script.*?</script>|<style.*?</style>)", re.S)
+_GROUP = re.compile(r"(\d)[ \u00a0](\d{3})(?!\d)")
+
+
+def bidi_numbers(html_text):
+    """In RTL pages, join digit groups ("512 000") with a narrow no-break space so the
+    bidi algorithm keeps the number in one piece instead of reversing the groups."""
+    parts = _PROTECT.split(html_text)
+    for i in range(0, len(parts), 2):
+        for _ in range(3): parts[i] = _GROUP.sub("\\1\u202f\\2", parts[i])
+    return "".join(parts)
+
+
 def write(path, content):
+    if path.startswith("ar/"): content = bidi_numbers(content)
     full = os.path.join(OUT, path); os.makedirs(os.path.dirname(full) or ".", exist_ok=True)
     with open(full, "w", encoding="utf-8") as f: f.write(content)
 
@@ -341,7 +386,7 @@ def write(path, content):
 def stat_cards(p, L):
     st = p.get("stats") or []
     if not st: return ""
-    items = "".join(f'<div class="stat"><div class="stat-v">{E(frnum(s["value"], L))}</div><div class="stat-l">{E(s["label_"+L])}</div><div class="stat-s">{E(s.get("source",""))}</div></div>' for s in st)
+    items = "".join(f'<div class="stat"><div class="stat-v">{E(statval(s, L))}</div><div class="stat-l">{E(s["label_"+L])}</div><div class="stat-s">{E(s.get("source",""))}</div></div>' for s in st)
     return f'<section class="stats" aria-label="{T[L]["in_numbers"]}">{items}</section>'
 
 
@@ -357,14 +402,14 @@ def chart_html(p, L):
         hl = " hl" if (has_tn and tunisia.search(b["label_en"])) else ""
         rows += f'<div class="bar-row{hl}"><span class="bar-label">{E(lab)}</span><span class="bar-track"><span class="bar-fill" style="width:{max(1.5, v/mx*100):.1f}%"></span></span><span class="bar-val">{fval(v, c.get("unit",""), L)}</span></div>'
     trs = "".join(f'<tr><td>{E(b["label_"+L])}</td><td>{fval(b["value"], c.get("unit",""), L)}</td></tr>' for b in bars)
-    src = c.get("source_name", ""); su = c.get("source_url", "")
+    src = c.get("source_name_" + L) or c.get("source_name", ""); su = c.get("source_url", "")
     srch = f'<a href="{E(su)}" target="_blank" rel="noopener">{E(src)}</a>' if su else E(src)
     return f"""<figure class="chart">
   <figcaption>{E(c['title_'+L])}</figcaption>
   <div class="bars{'' if has_tn else ' allred'}" role="img" aria-label="{E(c['title_'+L])}">{rows}</div>
-  <p class="chart-src">{T[L]['source']}{':' if L == 'en' else NBSP + ':'} {srch}</p>
+  <p class="chart-src">{T[L]['source']}{NBSP + ':' if L == 'fr' else ':'} {srch}</p>
   <details class="chart-data"><summary>{T[L]['view_data']}</summary><table><thead><tr><th>{T[L]['label']}</th><th>{T[L]['value']}</th></tr></thead><tbody>{trs}</tbody></table></details>
-</figure>""".replace(" : ", ": " if L == "en" else " : ")
+</figure>"""
 
 
 def related_for(p, n=3):
@@ -412,7 +457,7 @@ def build_post(p, L):
              "".join(f'<meta property="article:tag" content="{E(x)}">' for x in a.get("tags", [])) +
              f'<link rel="preload" as="image" href="{page.rel(cover_rel(slug))}">')
     h = head(page, L, f"{title} | {SITE_NAME}", desc, path, alt, og_rel(slug, L), "article", extra, lds)
-    h += header(page, L, "articles", alt["fr" if L == "en" else "en"])
+    h += header(page, L, "articles", alt)
     take = "".join(f"<li>{E(x)}</li>" for x in a.get("key_takeaways", []))
     tocs = "".join(f'<li><a href="#{i}">{E(n)}</a></li>' for i, n in toc)
     faqs = "".join(f'<details class="faq-item"><summary>{E(f["q"])}</summary><p>{E(f["a"])}</p></details>' for f in faq)
@@ -425,7 +470,6 @@ def build_post(p, L):
              f'<a href="https://www.facebook.com/sharer/sharer.php?u={share_u}" target="_blank" rel="noopener" aria-label="Facebook">{ICON["facebook"]}</a>'
              f'<a href="https://wa.me/?text={share_t}%20{share_u}" target="_blank" rel="noopener" aria-label="WhatsApp">{ICON["whatsapp"]}</a></div>')
     rel = "".join(card(page, L, q) for q in related_for(p))
-    other_lang = "fr" if L == "en" else "en"
     h += f"""
 <article class="post">
   <header class="post-head">
@@ -438,7 +482,7 @@ def build_post(p, L):
         <span class="by">{t['byline']}</span>
         <span><time datetime="{p['date']}">{fdate(p['date'], L)}</time></span>
         <span>{a['minutes']} {t['min_read']}</span>
-        <a class="other-lang" href="{page.rel(alt[other_lang])}" hreflang="{other_lang}" lang="{other_lang}">{ICON['globe']} {T[other_lang]['lang_name']}</a>
+        <span class="other-lang">{ICON['globe']}{''.join(f'<a href="{page.rel(alt[o])}" hreflang="{o}" lang="{o}">{LANG_NAME[o]}</a>' for o in LANGS if o != L)}</span>
       </div>
     </div>
     <div class="wrap hero-wrap"><img class="post-hero" src="{page.rel(cover_rel(slug))}" alt="{E(title)}" width="1200" height="630" fetchpriority="high"></div>
@@ -468,14 +512,16 @@ def build_post(p, L):
 def build_blog(L):
     t = T[L]; path = path_of(L, "blog"); page = Page(path)
     alt = {l: path_of(l, "blog") for l in LANGS}
-    title = "Fintech in Tunisia & Africa: All Articles" if L == "en" else "Fintech en Tunisie et en Afrique : tous les articles"
-    desc = (f"{len(posts)} sourced articles on Tunisian fintech: BCT regulation, mobile payments, startups, funding, financial inclusion and African fintech." if L == "en"
-            else f"{len(posts)} articles sourcés sur la fintech tunisienne : réglementation BCT, paiement mobile, startups, financement, inclusion et fintech africaine.")
+    title = {"en": "Fintech in Tunisia & Africa: All Articles", "fr": "Fintech en Tunisie et en Afrique : tous les articles",
+             "ar": "التكنولوجيا المالية في تونس وإفريقيا: كل المقالات"}[L]
+    desc = {"en": f"{len(posts)} sourced articles on Tunisian fintech: BCT regulation, mobile payments, startups, funding, financial inclusion and African fintech.",
+            "fr": f"{len(posts)} articles sourcés sur la fintech tunisienne : réglementation BCT, paiement mobile, startups, financement, inclusion et fintech africaine.",
+            "ar": f"{len(posts)} مقالًا موثّقًا حول التكنولوجيا المالية في تونس: تشريعات البنك المركزي، والدفع عبر الجوال، والشركات الناشئة، والتمويل، والشمول المالي، والفنتك في إفريقيا."}[L]
     lds = [{"@context": "https://schema.org", "@type": "CollectionPage", "name": title, "description": desc, "url": absu(path), "inLanguage": L,
             "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": absu(path_of(L, "post", p["slug"]))} for i, p in enumerate(posts)]}},
            crumbs_ld([(t["home"], path_of(L, "home")), (t["breadcrumb_blog"], path)])]
     h = head(page, L, f"{title} | {SITE_NAME}", desc, path, alt, og_rel(posts[0]["slug"], L), ld=lds)
-    h += header(page, L, "articles", alt["fr" if L == "en" else "en"])
+    h += header(page, L, "articles", alt)
     chips = f'<a class="chip active" href="{page.rel(path)}">{t["all_articles"]} <b>{len(posts)}</b></a>' + "".join(
         f'<a class="chip" href="{page.rel(path_of(L,"cat",c))}">{CAT[L][c]} <b>{sum(1 for p in posts if p["category"]==c)}</b></a>' for c in CATS)
     feat = posts[0]
@@ -502,14 +548,16 @@ def build_cat(L, c):
     alt = {l: path_of(l, "cat", c) for l in LANGS}
     items = [p for p in posts if p["category"] == c]
     name = CAT[L][c]
-    title = (f"{name}: Fintech in Tunisia & Africa" if L == "en" else f"{name} : la fintech en Tunisie et en Afrique") if c != "africa" else (
-        "African Fintech: Lessons for Tunisia" if L == "en" else "Fintech africaine : leçons pour la Tunisie")
+    title = ({"en": f"{name}: Fintech in Tunisia & Africa", "fr": f"{name} : la fintech en Tunisie et en Afrique",
+              "ar": f"{name}: التكنولوجيا المالية في تونس وإفريقيا"}[L] if c != "africa" else
+             {"en": "African Fintech: Lessons for Tunisia", "fr": "Fintech africaine : leçons pour la Tunisie",
+              "ar": "التكنولوجيا المالية في إفريقيا: دروس لتونس"}[L])
     desc = CAT_DESC[L][c]
     lds = [{"@context": "https://schema.org", "@type": "CollectionPage", "name": title, "description": desc, "url": absu(path), "inLanguage": L,
             "mainEntity": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": absu(path_of(L, "post", p["slug"]))} for i, p in enumerate(items)]}},
            crumbs_ld([(t["home"], path_of(L, "home")), (t["breadcrumb_blog"], path_of(L, "blog")), (name, path)])]
     h = head(page, L, f"{title} | {SITE_NAME}", desc, path, alt, og_rel(items[0]["slug"], L), ld=lds)
-    h += header(page, L, "articles", alt["fr" if L == "en" else "en"])
+    h += header(page, L, "articles", alt)
     chips = f'<a class="chip" href="{page.rel(path_of(L,"blog"))}">{t["all_articles"]} <b>{len(posts)}</b></a>' + "".join(
         f'<a class="chip{" active" if k==c else ""}" href="{page.rel(path_of(L,"cat",k))}"{AC if k==c else ""}>{CAT[L][k]} <b>{sum(1 for p in posts if p["category"]==k)}</b></a>' for k in CATS)
     grid = "".join(card(page, L, p) for p in items)
@@ -532,7 +580,7 @@ def build_home(L):
     lds = [dict(org_ld(), **{"@context": "https://schema.org"}),
            {"@context": "https://schema.org", "@type": "WebSite", "@id": f"{SITE}/#website", "url": absu(path), "name": SITE_NAME, "inLanguage": L, "publisher": {"@id": f"{SITE}/#org"}}]
     h = head(page, L, c["title"], c["desc"], path, alt, og_rel("tunisia-fintech-ecosystem-map", L), ld=lds)
-    h += header(page, L, "home", alt["fr" if L == "en" else "en"])
+    h += header(page, L, "home", alt)
     feat = posts[0]
     side = posts[1:4]
     side_html = "".join(f"""<a class="mini" href="{page.rel(path_of(L,'post',p['slug']))}"><img src="{page.rel(cover_rel(p['slug']))}" alt="" width="1200" height="630" loading="lazy"><span><em class="pill pill-{p['category']}">{CAT[L][p['category']]}</em><strong>{E(p[L]['title'])}</strong></span></a>""" for p in side)
@@ -540,7 +588,7 @@ def build_home(L):
     for slug, idx in HOME_STATS:
         p = POST.get(slug)
         if not p or not p.get("stats"): continue
-        s = p["stats"][idx]; v = frnum(s["value"], L)
+        s = p["stats"][idx]; v = statval(s, L)
         stats += f'<a class="hstat" href="{page.rel(path_of(L,"post",slug))}"><span class="hstat-v">{E(v)}</span><span class="hstat-l">{E(s["label_"+L])}</span><span class="hstat-s">{E(s["source"])}</span></a>'
     latest = "".join(card(page, L, p) for p in posts[4:10])
     tiles = ""
@@ -582,7 +630,7 @@ def build_programs(L):
     alt = {l: path_of(l, "programs") for l in LANGS}
     lds = [crumbs_ld([(t["home"], path_of(L, "home")), (t["programs"], path)])]
     h = head(page, L, c["title"], c["desc"], path, alt, og_rel("tunisia-incubators-accelerators", L), ld=lds)
-    h += header(page, L, "programs", alt["fr" if L == "en" else "en"])
+    h += header(page, L, "programs", alt)
     courses = "".join(f'<div class="pc"><span class="pc-ic">{i+1:02d}</span><h3>{E(a)}</h3><p>{E(b)}</p></div>' for i, (a, b) in enumerate(c["courses"]))
     facts = "".join(f'<div class="fact"><strong>{E(a)}</strong><span>{E(b)}</span></div>' for a, b in c["facts"])
     inits = "".join(f'<div class="pc"><h3>{E(a)}</h3><p>{E(b)}</p></div>' for a, b in c["inits"])
@@ -610,7 +658,7 @@ def build_contact(L):
     lds = [{"@context": "https://schema.org", "@type": "ContactPage", "name": c["h1"], "url": absu(path), "inLanguage": L, "about": {"@id": f"{SITE}/#org"}},
            crumbs_ld([(t["home"], path_of(L, "home")), (t["contact"], path)])]
     h = head(page, L, c["title"], c["desc"], path, alt, og_rel("tunisia-fintech-ecosystem-map", L), ld=lds)
-    h += header(page, L, "contact", alt["fr" if L == "en" else "en"])
+    h += header(page, L, "contact", alt)
     opts = "".join(f'<option value="{E(v)}">{E(lbl)}</option>' for v, lbl in c["subjects"])
     h += f"""
 <section class="page-head"><div class="wrap">
@@ -648,7 +696,7 @@ def build_404():
     h = head(page, L, f"{t['not_found']} | {SITE_NAME}", t["not_found_text"], "404.html", {}, og_rel("tunisia-fintech-ecosystem-map"), noindex=True)
     if MODE == "live":  # 404 is served at any depth on GitHub Pages: use absolute paths
         h = h.replace('href="assets/', 'href="/assets/').replace('src="assets/', 'src="/assets/')
-    h += header(page, L, "", path_of("fr", "home"))
+    h += header(page, L, "", {l: path_of(l, "home") for l in LANGS})
     h += f"""<section class="page-head"><div class="wrap"><h1>{t['not_found']}</h1><p class="lead">{t['not_found_text']}</p>
 <div class="cta-row"><a class="btn btn-primary" href="{page.rel(path_of('en','blog'))}">{t['all_articles']}</a><a class="btn btn-ghost" href="{page.rel(path_of('fr','blog'))}">{T['fr']['all_articles']}</a></div></div></section>"""
     h += footer(page, L)
@@ -695,8 +743,9 @@ def build_feed(L):
 
 def build_assets():
     os.makedirs(os.path.join(OUT, "assets", "covers"), exist_ok=True)
-    for name in ("site.css", "site.js", "favicon.svg", "logo.png"):
+    for name in ("site.css", "site.js", "favicon.svg", "logo.png", "rtl.css"):
         shutil.copy(os.path.join(HERE, "static", name), os.path.join(OUT, "assets", name))
+    shutil.copytree(os.path.join(HERE, "static", "fonts"), os.path.join(OUT, "assets", "fonts"), dirs_exist_ok=True)
     for p in posts:
         svg = cover_svg(p["slug"], p["category"], p.get("cover_motif"), variant=p["variant"])
         open(os.path.join(OUT, "assets", "covers", p["slug"] + ".svg"), "w").write(svg)

@@ -321,7 +321,7 @@ def background(c, r, uid):
     return "".join(o)
 
 
-def cover_svg(slug, category, motif, title=None, label=None, site="fintechtunisia.com", variant=0):
+def cover_svg(slug, category, motif, title=None, label=None, site="fintechtunisia.com", variant=0, rtl=False):
     """Return SVG text. If title given, produces a social (OG) card with text on the left."""
     c = PALETTES.get(category, PALETTES["ecosystem"])
     if variant % 2 == 1 and category != "payments": c = (c[0], c[1], c[3], c[2])
@@ -334,22 +334,32 @@ def cover_svg(slug, category, motif, title=None, label=None, site="fintechtunisi
         flip = f" translate(400 0) scale(-1 1)" if variant % 2 == 1 and motif not in ("map-tunisia", "map-africa", "chip-ai", "coins", "phone-wallet") else ""
         parts.append(f'<g transform="translate({W/2+90-200*1.3:.0f} {H/2-200*1.3:.0f}) scale(1.3){flip}">{fn(c, r)}</g>')
     else:
-        parts.append(f'<g transform="translate({W-430-30} {H/2-200*1.0:.0f}) scale(1.0)" opacity=".95">{fn(c, r)}</g>')
-        size = 54
+        mx = 30 if rtl else W - 430 - 30
+        parts.append(f'<g transform="translate({mx} {H/2-200*1.0:.0f}) scale(1.0)" opacity=".95">{fn(c, r)}</g>')
+        size = 54 if not rtl else 58
+        per = 22 if not rtl else 24
         def wrap(t, n):
             words, lines, cur = t.split(), [], ""
             for w in words:
                 if len(cur) + len(w) + 1 > n and cur: lines.append(cur); cur = w
                 else: cur = (cur + " " + w).strip()
             lines.append(cur); return lines
-        lines = wrap(title, 22)
-        if len(lines) > 4: size = 44; lines = wrap(title, 27)
+        lines = wrap(title, per)
+        if len(lines) > 4: size = size - 10; lines = wrap(title, per + 5)
         if len(lines) > 5: lines = lines[:5]; lines[-1] += "…"
-        y0 = H / 2 - (len(lines) * size * 1.15) / 2 + size * .85
-        parts.append(f'<rect x="70" y="{y0-size*0.85-70:.0f}" width="{len(label or "")*12+40}" height="40" rx="20" fill="{c[2]}"/>')
-        parts.append(f'<text x="90" y="{y0-size*0.85-43:.0f}" font-family="Inter,Arial,sans-serif" font-weight="700" font-size="19" letter-spacing="1.5" fill="{c[0]}">{html.escape((label or "").upper())}</text>')
+        y0 = H / 2 - (len(lines) * size * 1.2) / 2 + size * .85
+        font = "'IBM Plex Sans Arabic',Inter,Arial,sans-serif" if rtl else "Inter,Arial,sans-serif"
+        lab = (label or "") if rtl else (label or "").upper()
+        pill_w = len(lab) * (13 if rtl else 12) + 40
+        tx = W - 70 if rtl else 70
+        anchor = ' direction="rtl" text-anchor="start"' if rtl else ""
+        px = W - 70 - pill_w if rtl else 70
+        parts.append(f'<rect x="{px}" y="{y0-size*0.85-70:.0f}" width="{pill_w}" height="40" rx="20" fill="{c[2]}"/>')
+        parts.append(f'<text x="{px + pill_w - 20 if rtl else 90}" y="{y0-size*0.85-43:.0f}"{anchor} font-family="{font}" font-weight="700" font-size="19" letter-spacing="{0 if rtl else 1.5}" fill="{c[0]}">{html.escape(lab)}</text>')
         for i, line in enumerate(lines):
-            parts.append(f'<text x="70" y="{y0 + i*size*1.15:.0f}" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="{size}" fill="{L}">{html.escape(line)}</text>')
-        parts.append(f'<rect x="70" y="{H-82}" width="34" height="34" rx="8" fill="#e31e24"/><text x="87" y="{H-58}" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="16" fill="#fff">FT</text>')
-        parts.append(f'<text x="116" y="{H-58}" font-family="Inter,Arial,sans-serif" font-weight="600" font-size="22" fill="{L}" fill-opacity=".85">{site}</text>')
+            parts.append(f'<text x="{tx}" y="{y0 + i*size*1.2:.0f}"{anchor} font-family="{font}" font-weight="700" font-size="{size}" fill="{L}">{html.escape(line)}</text>')
+        bx = W - 70 - 34 if rtl else 70
+        parts.append(f'<rect x="{bx}" y="{H-82}" width="34" height="34" rx="8" fill="#e31e24"/><text x="{bx+17}" y="{H-58}" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="16" fill="#fff">FT</text>')
+        sx = bx - 12 if rtl else 116
+        parts.append(f'<text x="{sx}" y="{H-58}"{" text-anchor=\"end\"" if rtl else ""} font-family="Inter,Arial,sans-serif" font-weight="600" font-size="22" fill="{L}" fill-opacity=".85">{site}</text>')
     return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img">{"".join(parts)}</svg>'

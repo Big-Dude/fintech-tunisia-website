@@ -486,3 +486,14 @@ a.src{font-size:13px;color:var(--muted)}
   .co-head .co-title{align-items:flex-start}
   .tool-n{font-size:44px}
 }
+
+/* ---------- 3-language switcher ---------- */
+.langs{display:inline-flex;align-items:center;gap:2px;border:1.5px solid var(--line);border-radius:999px;padding:3px 4px 3px 10px}
+.langs>svg{width:15px;height:15px;fill:var(--muted);margin-inline-end:4px}
+.langs .lang{border:0;padding:4px 9px;border-radius:999px;font-size:13px;font-weight:700;text-decoration:none}
+.langs .lang:hover{background:var(--bg-3)}
+[dir=rtl] .langs{padding:3px 10px 3px 4px}
+.other-lang{display:inline-flex;align-items:center;gap:6px 10px;flex-wrap:wrap}
+.other-lang a{color:var(--red);font-weight:600;text-decoration:none}
+.other-lang a:hover{text-decoration:underline}
+@media (max-width:620px){.langs{padding:2px}.langs>svg{display:none}.langs .lang{padding:4px 7px}}
