@@ -1,0 +1,869 @@
+{
+ "corridor": "FR",
+ "country_en": "France",
+ "country_fr": "France",
+ "country_ar": "فرنسا",
+ "currency": "EUR",
+ "data_period": "Q3 2025",
+ "data_collected": "2025-08 (8-28 Aug 2025)",
+ "source_name": "World Bank, Remittance Prices Worldwide",
+ "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia",
+ "corridor_average_total_cost_pct": {
+  "200": 5.5,
+  "500": 3.78
+ },
+ "offers": [
+  {
+   "provider_id": "attijariwafa-bank",
+   "provider": "Attijariwafa Bank",
+   "firm_type": "bank",
+   "product": "Online bank transfer to own/partner bank account",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "next-day",
+   "speed_rpw": "Next day",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 1.5,
+   "fx_margin_pct": -0.46,
+   "total_cost_pct": 0.61,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "attijariwafa-bank",
+   "provider": "Attijariwafa Bank",
+   "firm_type": "bank",
+   "product": "Bank branch transfer to own/partner bank account",
+   "send_method": [
+    "bank-branch"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "2-5-days",
+   "speed_rpw": "2 days",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 3.5,
+   "fx_margin_pct": -0.46,
+   "total_cost_pct": 2.04,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "moneygram",
+   "provider": "MoneyGram",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to bank account",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 0.0,
+   "fx_margin_pct": 2.49,
+   "total_cost_pct": 2.49,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "moneygram",
+   "provider": "MoneyGram",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to bank account",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 0.0,
+   "fx_margin_pct": 2.49,
+   "total_cost_pct": 2.49,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "moneygram",
+   "provider": "MoneyGram",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 3.49,
+   "fx_margin_pct": 0.72,
+   "total_cost_pct": 3.21,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "moneygram",
+   "provider": "MoneyGram",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 3.49,
+   "fx_margin_pct": 0.72,
+   "total_cost_pct": 3.21,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "worldremit",
+   "provider": "WorldRemit",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "same-day",
+   "speed_rpw": "Same day",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 1.99,
+   "fx_margin_pct": 2.16,
+   "total_cost_pct": 3.58,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "worldremit",
+   "provider": "WorldRemit",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "same-day",
+   "speed_rpw": "Same day",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 1.99,
+   "fx_margin_pct": 2.16,
+   "total_cost_pct": 3.58,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "remitly",
+   "provider": "Remitly",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to bank account",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 0.99,
+   "fx_margin_pct": 3.37,
+   "total_cost_pct": 4.08,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "remitly",
+   "provider": "Remitly",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to bank account",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 0.99,
+   "fx_margin_pct": 3.37,
+   "total_cost_pct": 4.08,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "remitly",
+   "provider": "Remitly",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "2-5-days",
+   "speed_rpw": "3-5 days",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 1.49,
+   "fx_margin_pct": 3.36,
+   "total_cost_pct": 4.42,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "remitly",
+   "provider": "Remitly",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "2-5-days",
+   "speed_rpw": "3-5 days",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 1.49,
+   "fx_margin_pct": 3.36,
+   "total_cost_pct": 4.42,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "la-banque-postale",
+   "provider": "La Banque Postale",
+   "firm_type": "post",
+   "product": "Online, paid by debit card to cash pickup (Western Union service via La Banque Postale)",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 3.99,
+   "fx_margin_pct": 1.97,
+   "total_cost_pct": 4.82,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "western-union",
+   "provider": "Western Union",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 3.99,
+   "fx_margin_pct": 2.62,
+   "total_cost_pct": 5.47,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "western-union",
+   "provider": "Western Union",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 3.99,
+   "fx_margin_pct": 2.62,
+   "total_cost_pct": 5.47,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "ria",
+   "provider": "Ria",
+   "firm_type": "mto",
+   "product": "Cash at agent to cash pickup",
+   "send_method": [
+    "agent"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 8.9,
+   "fx_margin_pct": 0.53,
+   "total_cost_pct": 6.89,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "western-union",
+   "provider": "Western Union",
+   "firm_type": "mto",
+   "product": "Cash at agent to cash pickup",
+   "send_method": [
+    "agent"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 3.5,
+   "fx_margin_pct": 7.31,
+   "total_cost_pct": 9.81,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "societe-generale",
+   "provider": "Société Générale",
+   "firm_type": "bank",
+   "product": "Bank branch transfer to own/partner bank account",
+   "send_method": [
+    "bank-branch"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "2-5-days",
+   "speed_rpw": "3-5 days",
+   "basis_usd": 200,
+   "send_amount": 140.0,
+   "fee": 36.0,
+   "fx_margin_pct": 2.53,
+   "total_cost_pct": 28.24,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "attijariwafa-bank",
+   "provider": "Attijariwafa Bank",
+   "firm_type": "bank",
+   "product": "Online bank transfer to own/partner bank account",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "next-day",
+   "speed_rpw": "Next day",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 1.5,
+   "fx_margin_pct": -0.46,
+   "total_cost_pct": -0.03,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "attijariwafa-bank",
+   "provider": "Attijariwafa Bank",
+   "firm_type": "bank",
+   "product": "Bank branch transfer to own/partner bank account",
+   "send_method": [
+    "bank-branch"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "2-5-days",
+   "speed_rpw": "2 days",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 3.5,
+   "fx_margin_pct": -0.46,
+   "total_cost_pct": 0.55,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "moneygram",
+   "provider": "MoneyGram",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 3.49,
+   "fx_margin_pct": 0.72,
+   "total_cost_pct": 1.73,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "moneygram",
+   "provider": "MoneyGram",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 3.49,
+   "fx_margin_pct": 0.72,
+   "total_cost_pct": 1.73,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "moneygram",
+   "provider": "MoneyGram",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to bank account",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 0.0,
+   "fx_margin_pct": 2.49,
+   "total_cost_pct": 2.49,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "moneygram",
+   "provider": "MoneyGram",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to bank account",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 0.0,
+   "fx_margin_pct": 2.49,
+   "total_cost_pct": 2.49,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "worldremit",
+   "provider": "WorldRemit",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "same-day",
+   "speed_rpw": "Same day",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 1.99,
+   "fx_margin_pct": 2.16,
+   "total_cost_pct": 2.74,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "worldremit",
+   "provider": "WorldRemit",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "same-day",
+   "speed_rpw": "Same day",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 1.99,
+   "fx_margin_pct": 2.16,
+   "total_cost_pct": 2.74,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "la-banque-postale",
+   "provider": "La Banque Postale",
+   "firm_type": "post",
+   "product": "Online, paid by debit card to cash pickup (Western Union service via La Banque Postale)",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 3.99,
+   "fx_margin_pct": 1.97,
+   "total_cost_pct": 3.13,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "remitly",
+   "provider": "Remitly",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to bank account",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 0.99,
+   "fx_margin_pct": 3.37,
+   "total_cost_pct": 3.66,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "remitly",
+   "provider": "Remitly",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to bank account",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 0.99,
+   "fx_margin_pct": 3.37,
+   "total_cost_pct": 3.66,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "western-union",
+   "provider": "Western Union",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 3.99,
+   "fx_margin_pct": 2.62,
+   "total_cost_pct": 3.78,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "western-union",
+   "provider": "Western Union",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 3.99,
+   "fx_margin_pct": 2.62,
+   "total_cost_pct": 3.78,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "remitly",
+   "provider": "Remitly",
+   "firm_type": "mto",
+   "product": "Online, paid by credit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "2-5-days",
+   "speed_rpw": "3-5 days",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 1.49,
+   "fx_margin_pct": 3.36,
+   "total_cost_pct": 3.79,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "remitly",
+   "provider": "Remitly",
+   "firm_type": "mto",
+   "product": "Online, paid by debit card to cash pickup",
+   "send_method": [
+    "online"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "2-5-days",
+   "speed_rpw": "3-5 days",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 1.49,
+   "fx_margin_pct": 3.36,
+   "total_cost_pct": 3.79,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "ria",
+   "provider": "Ria",
+   "firm_type": "mto",
+   "product": "Cash at agent to cash pickup",
+   "send_method": [
+    "agent"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 17.0,
+   "fx_margin_pct": 0.53,
+   "total_cost_pct": 5.46,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "western-union",
+   "provider": "Western Union",
+   "firm_type": "mto",
+   "product": "Cash at agent to cash pickup",
+   "send_method": [
+    "agent"
+   ],
+   "payout": [
+    "cash-pickup"
+   ],
+   "speed": "minutes",
+   "speed_rpw": "Less than one hour",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 7.9,
+   "fx_margin_pct": 7.31,
+   "total_cost_pct": 9.6,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "societe-generale",
+   "provider": "Société Générale",
+   "firm_type": "bank",
+   "product": "Bank branch transfer to own/partner bank account",
+   "send_method": [
+    "bank-branch"
+   ],
+   "payout": [
+    "bank-account"
+   ],
+   "speed": "2-5-days",
+   "speed_rpw": "3-5 days",
+   "basis_usd": 500,
+   "send_amount": 345.0,
+   "fee": 36.0,
+   "fx_margin_pct": 2.53,
+   "total_cost_pct": 12.96,
+   "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  }
+ ],
+ "providers": {
+  "western-union": {
+   "name": "Western Union",
+   "website": "https://www.westernunion.com/fr/fr/",
+   "entity": "Western Union International Bank GmbH (Vienna, Austria); online service provided jointly with Western Union International Limited",
+   "regulator": "Austrian Financial Market Authority (FMA)",
+   "regulated_en": "Western Union International Bank GmbH is authorised by Austria's Financial Market Authority (FMA) and passports its services into France.",
+   "regulated_fr": "Western Union International Bank GmbH est agréée par l'Autorité autrichienne des marchés financiers (FMA) et opère en France via le passeport européen.",
+   "regulated_ar": "شركة Western Union International Bank GmbH مرخّصة من هيئة السوق المالية النمساوية (FMA) وتعمل في فرنسا بموجب جواز السفر الأوروبي.",
+   "tunisia_payout_en": "In the RPW survey, Western Union transfers to Tunisia were paid out in cash. Tunisian payout partners are not stated in the sources checked.",
+   "tunisia_payout_fr": "Dans l'enquête RPW, les transferts Western Union vers la Tunisie sont versés en espèces. Les partenaires de paiement tunisiens ne sont pas précisés dans les sources consultées.",
+   "tunisia_payout_ar": "في مسح البنك الدولي، تُصرف تحويلات Western Union إلى تونس نقدًا. لم تذكر المصادر التي راجعناها شركاء الصرف في تونس.",
+   "source_urls": [
+    "https://www.westernunion.com/fr/fr/legal/corporate-info.html",
+    "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+   ]
+  },
+  "ria": {
+   "name": "Ria",
+   "website": "https://www.riamoneytransfer.com/fr-fr/",
+   "entity": "Ria Payment Institution E.P., S.A.U. (Alcobendas, Madrid, Spain)",
+   "regulator": "Banco de España (payment institution licence no. 6842)",
+   "regulated_en": "Ria Payment Institution E.P., S.A.U. is a Spanish payment institution registered with the Banco de España (no. 6842), providing services in France through its agents.",
+   "regulated_fr": "Ria Payment Institution E.P., S.A.U. est un établissement de paiement espagnol enregistré auprès de la Banque d'Espagne (n° 6842), qui opère en France via ses agents.",
+   "regulated_ar": "شركة Ria Payment Institution E.P., S.A.U. مؤسسة دفع إسبانية مسجّلة لدى بنك إسبانيا (رقم 6842)، وتقدّم خدماتها في فرنسا عبر وكلائها.",
+   "tunisia_payout_en": "Ria's terms say payout is in cash or to the recipient's bank account; the RPW France–Tunisia survey covers cash pickup only. Tunisian partners are not stated.",
+   "tunisia_payout_fr": "Les conditions de Ria prévoient un versement en espèces ou sur le compte bancaire du bénéficiaire ; l'enquête RPW France–Tunisie ne couvre que le retrait en espèces. Partenaires tunisiens non précisés.",
+   "tunisia_payout_ar": "تنص شروط Ria على الصرف نقدًا أو في الحساب البنكي للمستفيد؛ ويغطي مسح البنك الدولي لممر فرنسا–تونس السحب النقدي فقط. لم يُذكر الشركاء في تونس.",
+   "source_urls": [
+    "https://www.riamoneytransfer.com/fr-fr/retail-terms/",
+    "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+   ]
+  },
+  "moneygram": {
+   "name": "MoneyGram",
+   "website": "https://www.moneygram.com/fr/fr",
+   "entity": "MoneyGram International SA (Belgian payment institution, operating in France under EU passport since 2019)",
+   "regulator": null,
+   "regulated_en": "MoneyGram serves France through MoneyGram International SA, a Belgian-law payment institution passported into France. In April 2026 the ACPR sanctions committee fined it EUR 1.3 million for anti-money-laundering control failures.",
+   "regulated_fr": "MoneyGram opère en France via MoneyGram International SA, établissement de paiement de droit belge passeporté en France. En avril 2026, la commission des sanctions de l'ACPR lui a infligé un blâme et une amende de 1,3 M€ pour des manquements LCB-FT.",
+   "regulated_ar": "تعمل MoneyGram في فرنسا عبر MoneyGram International SA، وهي مؤسسة دفع خاضعة للقانون البلجيكي وتعمل بجواز السفر الأوروبي. في أبريل 2026 فرضت لجنة العقوبات لدى ACPR عليها توبيخًا وغرامة قدرها 1.3 مليون يورو بسبب إخلالات في مكافحة غسل الأموال.",
+   "tunisia_payout_en": "In the RPW survey, MoneyGram offered payout to a bank account or in cash in Tunisia. Tunisian payout partners are not stated in the sources checked.",
+   "tunisia_payout_fr": "Dans l'enquête RPW, MoneyGram propose un versement sur compte bancaire ou en espèces en Tunisie. Partenaires tunisiens non précisés dans les sources consultées.",
+   "tunisia_payout_ar": "في مسح البنك الدولي، توفر MoneyGram الصرف في حساب بنكي أو نقدًا في تونس. لم تذكر المصادر التي راجعناها شركاء الصرف في تونس.",
+   "source_urls": [
+    "https://acpr.banque-france.fr/system/files/2026-04/20260423_decision_Moneygram.pdf",
+    "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+   ]
+  },
+  "remitly": {
+   "name": "Remitly",
+   "website": "https://www.remitly.com/fr/fr/",
+   "entity": "Remitly Europe Limited (Cork, Ireland; company no. 629909)",
+   "regulator": "Central Bank of Ireland",
+   "regulated_en": "Remitly Europe Limited, trading as Remitly, is regulated by the Central Bank of Ireland.",
+   "regulated_fr": "Remitly Europe Limited, sous le nom commercial Remitly, est réglementée par la Banque centrale d'Irlande.",
+   "regulated_ar": "شركة Remitly Europe Limited، التي تعمل باسم Remitly، خاضعة لرقابة البنك المركزي الإيرلندي.",
+   "tunisia_payout_en": "Bank deposit and cash pickup. Remitly lists Tunisian banks including Attijari Bank, BIAT, Amen Bank, STB, BNA and Banque Zitouna, plus La Poste Tunisienne and Wafacash Tunisie.",
+   "tunisia_payout_fr": "Dépôt sur compte bancaire et retrait en espèces. Remitly cite des banques tunisiennes dont Attijari Bank, BIAT, Amen Bank, STB, BNA et Banque Zitouna, ainsi que La Poste Tunisienne et Wafacash Tunisie.",
+   "tunisia_payout_ar": "إيداع في حساب بنكي أو سحب نقدي. تذكر Remitly بنوكًا تونسية منها التجاري بنك وBIAT وAmen Bank وSTB وBNA وبنك الزيتونة، إضافةً إلى البريد التونسي ووفاكاش تونس.",
+   "source_urls": [
+    "https://www.remitly.com/fr/en/tunisia",
+    "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+   ]
+  },
+  "worldremit": {
+   "name": "WorldRemit",
+   "website": "https://www.worldremit.com/fr/",
+   "entity": "WorldRemit Belgium SA",
+   "regulator": "National Bank of Belgium (NBB)",
+   "regulated_en": "For EEA customers, WorldRemit's service is provided by WorldRemit Belgium SA, regulated by the National Bank of Belgium.",
+   "regulated_fr": "Pour les clients de l'EEE, le service WorldRemit est fourni par WorldRemit Belgium SA, réglementée par la Banque nationale de Belgique.",
+   "regulated_ar": "بالنسبة لعملاء المنطقة الاقتصادية الأوروبية، تقدّم الخدمة شركة WorldRemit Belgium SA الخاضعة لرقابة البنك الوطني البلجيكي.",
+   "tunisia_payout_en": "In the RPW survey, WorldRemit transfers to Tunisia were paid out in cash. Tunisian payout partners are not stated in the sources checked.",
+   "tunisia_payout_fr": "Dans l'enquête RPW, les transferts WorldRemit vers la Tunisie sont versés en espèces. Partenaires tunisiens non précisés dans les sources consultées.",
+   "tunisia_payout_ar": "في مسح البنك الدولي، تُصرف تحويلات WorldRemit إلى تونس نقدًا. لم تذكر المصادر التي راجعناها شركاء الصرف في تونس.",
+   "source_urls": [
+    "https://www.worldremit.com/fr/faq/implications-of-brexit",
+    "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+   ]
+  },
+  "attijariwafa-bank": {
+   "name": "Attijariwafa Bank",
+   "website": "https://www.attijariwafabank-europe.com/",
+   "entity": "Attijariwafa bank Europe (subsidiary of the Attijariwafa bank group)",
+   "regulator": "ACPR (France)",
+   "regulated_en": "Transfers are made by Attijariwafa bank Europe, the European banking subsidiary of the Attijariwafa bank group. Its licensing details were not verified in this pass.",
+   "regulated_fr": "Les transferts sont effectués par Attijariwafa bank Europe, filiale bancaire européenne du groupe Attijariwafa bank. Son agrément n'a pas été vérifié lors de cette recherche.",
+   "regulated_ar": "تتم التحويلات عبر Attijariwafa bank Europe، الفرع المصرفي الأوروبي لمجموعة التجاري وفا بنك. لم نتحقق من تفاصيل ترخيصه في هذا البحث.",
+   "tunisia_payout_en": "Account-to-account transfer; a 2018 launch report said recipients with an account at Attijari bank (Tunisia) are credited within 72 hours.",
+   "tunisia_payout_fr": "Virement de compte à compte ; selon un article de 2018, les bénéficiaires titulaires d'un compte chez Attijari bank (Tunisie) sont crédités sous 72 heures.",
+   "tunisia_payout_ar": "تحويل من حساب إلى حساب؛ وبحسب مقال صدر عام 2018، يُضاف المبلغ إلى حساب المستفيد لدى التجاري بنك (تونس) خلال 72 ساعة.",
+   "source_urls": [
+    "https://afrique.le360.ma/maroc-tunisie-senegal/economie/2018/02/24/19266-attijariwafa-bank-europe-lance-le-transfert-dargent-vers-lafrique-en-quelques",
+    "https://remittanceprices.worldbank.org/corridor/France/Tunisia",
+    "https://pickthebank.eu/it/banche/italia/attijariwafa-bank-europe-sede-secondaria-italiana-bcmaitmm/",
+    "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+   ]
+  },
+  "la-banque-postale": {
+   "name": "La Banque Postale",
+   "website": "https://www.labanquepostale.fr/",
+   "entity": "La Banque Postale (French bank), offering the Western Union service",
+   "regulator": "ACPR (France)",
+   "regulated_en": "La Banque Postale is a French bank supervised by the ACPR; the transfer itself is a Western Union service.",
+   "regulated_fr": "La Banque Postale est une banque française supervisée par l'ACPR ; le transfert lui-même est un service Western Union.",
+   "regulated_ar": "La Banque Postale بنك فرنسي خاضع لرقابة ACPR؛ أما التحويل نفسه فهو خدمة من Western Union.",
+   "tunisia_payout_en": "In the RPW survey, paid out in cash in Tunisia via Western Union. Tunisian partners not stated.",
+   "tunisia_payout_fr": "Dans l'enquête RPW, versement en espèces en Tunisie via Western Union. Partenaires tunisiens non précisés.",
+   "tunisia_payout_ar": "في مسح البنك الدولي، يُصرف المبلغ نقدًا في تونس عبر Western Union. لم يُذكر الشركاء في تونس.",
+   "source_urls": [
+    "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+   ]
+  },
+  "societe-generale": {
+   "name": "Société Générale",
+   "website": "https://particuliers.sg.fr/",
+   "entity": "Société Générale SA (French bank)",
+   "regulator": "ACPR / European Central Bank",
+   "regulated_en": "Société Générale is a French bank supervised by the European Central Bank and the ACPR.",
+   "regulated_fr": "Société Générale est une banque française supervisée par la Banque centrale européenne et l'ACPR.",
+   "regulated_ar": "سوسيتيه جنرال بنك فرنسي خاضع لرقابة البنك المركزي الأوروبي وACPR.",
+   "tunisia_payout_en": "In the RPW survey, a bank transfer to an own/partner bank account in Tunisia, taking 3-5 days.",
+   "tunisia_payout_fr": "Dans l'enquête RPW, virement vers un compte bancaire (propre ou partenaire) en Tunisie, en 3 à 5 jours.",
+   "tunisia_payout_ar": "في مسح البنك الدولي، تحويل بنكي إلى حساب في بنك تابع أو شريك في تونس، خلال 3 إلى 5 أيام.",
+   "source_urls": [
+    "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+   ]
+  }
+ },
+ "not_available": [],
+ "notes": "RPW Q3 2025 (collected 8-28 Aug 2025) is still the latest quarter published for France-Tunisia as of 2026-10-15; the quarter selector shows nothing after Q3 2025, and France-Algeria is also on Q3 2025. Basis amounts: USD 200 = EUR 140, USD 500 = EUR 345. RPW lists credit and debit card rows separately (same prices); each is kept as its own offer. 'speed_rpw' keeps RPW's original label ('2 days' and '3-5 days' both map to '2-5-days'). Attijariwafa's negative FX margin (-0.46%) and its negative total cost at USD 500 (-0.03%) are as published by RPW (the rate was better than the benchmark). Every total_cost_pct matches fee/send_amount + fx_margin_pct to within 0.02 points. Wise is NOT in the RPW sample for this corridor, but its Tunisia page (Belgian version, checked 2026-10-15) says EUR to TND transfers are supported, paid from Wise's local account in Tunisia; example: EUR 1,000 fee EUR 31.90, rate not guaranteed. So Wise is not listed under not_available. The French-locale page (wise.com/fr/send-money/send-money-to-tunisia) could not be fetched, so France-specific Wise pricing and payout were not verified: https://wise.com/be/send-money/send-money-to-tunisia . Taptap Send and other providers not in the RPW sample were not researched. Regulator caveats: MoneyGram International SA's home supervisor (presumably the National Bank of Belgium) is not stated in the ACPR decision, so regulator is null. The ACPR fined it EUR 1.3m on 15 Apr 2026 for AML failures. Attijariwafa bank Europe's licence was not verified (null). The ACPR status of Société Générale and La Banque Postale is well-known supervisory fact, but was not checked against REGAFI in this pass. Brand 'La Banque Postale via Western Union' in RPW is listed as provider La Banque Postale (firm_type 'post'). RPW's 'Societe Generale' is written as 'Société Générale'. Re-verified 2026-10-16: RPW corridor page still shows Q3 2025 as the newest quarter (no 2026 quarters); all 36 offer rows (fees in EUR, margins, total costs, speeds) re-checked against the live page and match. Attijariwafa bank Europe regulator set to ACPR (France) on 2026-10-16, per the Italy corridor research (third-party bank directory); not checked against REGAFI."
+}

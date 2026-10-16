@@ -1,0 +1,87 @@
+{
+ "_help": "Paste your referral link for each provider. 'default' is used for every country unless a country code (FR, IT, DE) has its own link. Leave empty to link to the provider's official website.",
+ "attijariwafa-bank": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "intesa-sanpaolo": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "la-banque-postale": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "moneygram": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "paysend": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "poste-italiane": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "remitly": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "ria": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "societe-generale": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "taptap-send": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "western-union": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "wise": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "worldremit": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ },
+ "xoom": {
+  "default": "",
+  "FR": "",
+  "IT": "",
+  "DE": ""
+ }
+}

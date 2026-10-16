@@ -1,0 +1,938 @@
+{
+  "corridor": "IT",
+  "country_en": "Italy",
+  "country_fr": "Italie",
+  "country_ar": "إيطاليا",
+  "currency": "EUR",
+  "data_period": "Q3 2025",
+  "data_collected": "2025-08",
+  "source_name": "World Bank, Remittance Prices Worldwide",
+  "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia",
+  "corridor_average_total_cost_pct": {
+    "200": 5.48,
+    "500": null
+  },
+  "offers": [
+    {
+      "provider_id": "poste-italiane",
+      "provider": "Poste Italiane",
+      "firm_type": "post",
+      "product": "Online with debit card, via Western Union, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 0.99,
+      "fx_margin_pct": -0.83,
+      "total_cost_pct": -0.12,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "poste-italiane",
+      "provider": "Poste Italiane",
+      "firm_type": "post",
+      "product": "Online with debit card, via Western Union, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 0.99,
+      "fx_margin_pct": -0.83,
+      "total_cost_pct": -0.54,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "moneygram",
+      "provider": "MoneyGram",
+      "firm_type": "mto",
+      "product": "Online with debit card, to bank account",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 0.0,
+      "fx_margin_pct": 1.79,
+      "total_cost_pct": 1.79,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "moneygram",
+      "provider": "MoneyGram",
+      "firm_type": "mto",
+      "product": "Online with debit card, to bank account",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 0.0,
+      "fx_margin_pct": 1.79,
+      "total_cost_pct": 1.79,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "moneygram",
+      "provider": "MoneyGram",
+      "firm_type": "mto",
+      "product": "Online with credit card, to bank account",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 0.0,
+      "fx_margin_pct": 2.19,
+      "total_cost_pct": 2.19,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "moneygram",
+      "provider": "MoneyGram",
+      "firm_type": "mto",
+      "product": "Online with credit card, to bank account",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 0.0,
+      "fx_margin_pct": 2.19,
+      "total_cost_pct": 2.19,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "paysend",
+      "provider": "Paysend",
+      "firm_type": "mto",
+      "product": "Online with debit card",
+      "send_method": [
+        "online"
+      ],
+      "payout": null,
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 1.5,
+      "fx_margin_pct": 1.31,
+      "total_cost_pct": 2.38,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "paysend",
+      "provider": "Paysend",
+      "firm_type": "mto",
+      "product": "Online with debit card",
+      "send_method": [
+        "online"
+      ],
+      "payout": null,
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 1.5,
+      "fx_margin_pct": 1.31,
+      "total_cost_pct": 1.74,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "ria",
+      "provider": "Ria",
+      "firm_type": "mto",
+      "product": "Online with credit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.5,
+      "fx_margin_pct": 0.75,
+      "total_cost_pct": 2.54,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "ria",
+      "provider": "Ria",
+      "firm_type": "mto",
+      "product": "Online with credit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 3.5,
+      "fx_margin_pct": 0.75,
+      "total_cost_pct": 1.76,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "ria",
+      "provider": "Ria",
+      "firm_type": "mto",
+      "product": "Online with debit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.5,
+      "fx_margin_pct": 0.75,
+      "total_cost_pct": 2.54,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "ria",
+      "provider": "Ria",
+      "firm_type": "mto",
+      "product": "Online with debit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 3.5,
+      "fx_margin_pct": 0.75,
+      "total_cost_pct": 1.76,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "moneygram",
+      "provider": "MoneyGram",
+      "firm_type": "mto",
+      "product": "Online with debit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.99,
+      "fx_margin_pct": 0.84,
+      "total_cost_pct": 2.98,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "moneygram",
+      "provider": "MoneyGram",
+      "firm_type": "mto",
+      "product": "Online with debit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 2.99,
+      "fx_margin_pct": 0.84,
+      "total_cost_pct": 1.71,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "moneygram",
+      "provider": "MoneyGram",
+      "firm_type": "mto",
+      "product": "Online with credit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.99,
+      "fx_margin_pct": 0.98,
+      "total_cost_pct": 3.12,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "moneygram",
+      "provider": "MoneyGram",
+      "firm_type": "mto",
+      "product": "Online with credit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 2.99,
+      "fx_margin_pct": 0.98,
+      "total_cost_pct": 1.85,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "poste-italiane",
+      "provider": "Poste Italiane",
+      "firm_type": "post",
+      "product": "Cash at post office, via MoneyGram, cash pickup",
+      "send_method": [
+        "post-office"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "next-day",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 7.4,
+      "fx_margin_pct": -2.06,
+      "total_cost_pct": 3.23,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "poste-italiane",
+      "provider": "Poste Italiane",
+      "firm_type": "post",
+      "product": "Cash at post office, via MoneyGram, cash pickup",
+      "send_method": [
+        "post-office"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "next-day",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 13.3,
+      "fx_margin_pct": -2.06,
+      "total_cost_pct": 1.8,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "intesa-sanpaolo",
+      "provider": "Intesa Sanpaolo",
+      "firm_type": "bank",
+      "product": "Online banking from bank account, via Western Union, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 7.5,
+      "fx_margin_pct": -1.09,
+      "total_cost_pct": 4.27,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "intesa-sanpaolo",
+      "provider": "Intesa Sanpaolo",
+      "firm_type": "bank",
+      "product": "Online banking from bank account, via Western Union, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 13.0,
+      "fx_margin_pct": -1.09,
+      "total_cost_pct": 2.68,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "intesa-sanpaolo",
+      "provider": "Intesa Sanpaolo",
+      "firm_type": "bank",
+      "product": "Online with debit card, via Western Union, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 7.5,
+      "fx_margin_pct": -1.09,
+      "total_cost_pct": 4.27,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "intesa-sanpaolo",
+      "provider": "Intesa Sanpaolo",
+      "firm_type": "bank",
+      "product": "Online with debit card, via Western Union, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 13.0,
+      "fx_margin_pct": -1.09,
+      "total_cost_pct": 2.68,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "intesa-sanpaolo",
+      "provider": "Intesa Sanpaolo",
+      "firm_type": "bank",
+      "product": "Online with credit card, via Western Union, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 7.5,
+      "fx_margin_pct": -1.09,
+      "total_cost_pct": 4.27,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "intesa-sanpaolo",
+      "provider": "Intesa Sanpaolo",
+      "firm_type": "bank",
+      "product": "Online with credit card, via Western Union, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 13.0,
+      "fx_margin_pct": -1.09,
+      "total_cost_pct": 2.68,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "remitly",
+      "provider": "Remitly",
+      "firm_type": "mto",
+      "product": "Online with credit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "2-5-days",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.99,
+      "fx_margin_pct": 3.3,
+      "total_cost_pct": 5.44,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "remitly",
+      "provider": "Remitly",
+      "firm_type": "mto",
+      "product": "Online with credit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "2-5-days",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 2.99,
+      "fx_margin_pct": 3.3,
+      "total_cost_pct": 4.17,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "remitly",
+      "provider": "Remitly",
+      "firm_type": "mto",
+      "product": "Online with debit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "2-5-days",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.99,
+      "fx_margin_pct": 3.3,
+      "total_cost_pct": 5.44,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "remitly",
+      "provider": "Remitly",
+      "firm_type": "mto",
+      "product": "Online with debit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "2-5-days",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 2.99,
+      "fx_margin_pct": 3.3,
+      "total_cost_pct": 4.17,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "attijariwafa-bank",
+      "provider": "Attijariwafa Bank",
+      "firm_type": "bank",
+      "product": "Bank transfer at branch, to own/partner bank account",
+      "send_method": [
+        "bank-branch"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": "same-day",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 7.0,
+      "fx_margin_pct": 0.68,
+      "total_cost_pct": 5.68,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "attijariwafa-bank",
+      "provider": "Attijariwafa Bank",
+      "firm_type": "bank",
+      "product": "Bank transfer at branch, to own/partner bank account",
+      "send_method": [
+        "bank-branch"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": "same-day",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 9.5,
+      "fx_margin_pct": 0.68,
+      "total_cost_pct": 3.43,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "western-union",
+      "provider": "Western Union",
+      "firm_type": "mto",
+      "product": "Online with credit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.99,
+      "fx_margin_pct": 3.58,
+      "total_cost_pct": 5.72,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "western-union",
+      "provider": "Western Union",
+      "firm_type": "mto",
+      "product": "Online with credit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 3.99,
+      "fx_margin_pct": 3.58,
+      "total_cost_pct": 4.74,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "western-union",
+      "provider": "Western Union",
+      "firm_type": "mto",
+      "product": "Online with debit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.99,
+      "fx_margin_pct": 3.58,
+      "total_cost_pct": 5.72,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "western-union",
+      "provider": "Western Union",
+      "firm_type": "mto",
+      "product": "Online with debit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 500,
+      "send_amount": 345.0,
+      "fee": 3.99,
+      "fx_margin_pct": 3.58,
+      "total_cost_pct": 4.74,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "worldremit",
+      "provider": "WorldRemit",
+      "firm_type": "mto",
+      "product": "Online with credit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "same-day",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 1.99,
+      "fx_margin_pct": 4.3,
+      "total_cost_pct": 5.72,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "worldremit",
+      "provider": "WorldRemit",
+      "firm_type": "mto",
+      "product": "Online with debit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "same-day",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 1.99,
+      "fx_margin_pct": 4.3,
+      "total_cost_pct": 5.72,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "xoom",
+      "provider": "Xoom",
+      "firm_type": "mto",
+      "product": "Online from bank account, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.99,
+      "fx_margin_pct": 4.42,
+      "total_cost_pct": 6.56,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "xoom",
+      "provider": "Xoom",
+      "firm_type": "mto",
+      "product": "Online with credit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.99,
+      "fx_margin_pct": 4.42,
+      "total_cost_pct": 6.56,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "xoom",
+      "provider": "Xoom",
+      "firm_type": "mto",
+      "product": "Online with debit card, cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 2.99,
+      "fx_margin_pct": 4.42,
+      "total_cost_pct": 6.56,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    },
+    {
+      "provider_id": "intesa-sanpaolo",
+      "provider": "Intesa Sanpaolo",
+      "firm_type": "bank",
+      "product": "Bank transfer at branch, to own/partner bank account",
+      "send_method": [
+        "bank-branch"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": "next-day",
+      "basis_usd": 200,
+      "send_amount": 140.0,
+      "fee": 47.0,
+      "fx_margin_pct": 0.0,
+      "total_cost_pct": 33.57,
+      "source_url": "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    }
+  ],
+  "providers": {
+    "western-union": {
+      "name": "Western Union",
+      "website": "https://www.westernunion.com/it/it/",
+      "entity": "Western Union International Bank GmbH",
+      "regulator": "Austrian Financial Market Authority (FMA)",
+      "regulated_en": "Western Union International Bank GmbH (Vienna) is supervised by Austria's FMA and serves Italy under EU freedom to provide services.",
+      "regulated_fr": "Western Union International Bank GmbH (Vienne) est supervisée par la FMA autrichienne et opère en Italie en libre prestation de services.",
+      "regulated_ar": "تخضع Western Union International Bank GmbH (فيينا) لرقابة هيئة السوق المالية النمساوية (FMA) وتقدّم خدماتها في إيطاليا بموجب حرية تقديم الخدمات في الاتحاد الأوروبي.",
+      "tunisia_payout_en": "Cash pickup at a payout agent in Tunisia (per World Bank RPW survey).",
+      "tunisia_payout_fr": "Retrait en espèces auprès d'un agent payeur en Tunisie (selon l'enquête RPW de la Banque mondiale).",
+      "tunisia_payout_ar": "سحب نقدي لدى وكيل دفع في تونس (حسب مسح RPW للبنك الدولي).",
+      "source_urls": [
+        "https://www.westernunion.com/it/it/transparency-document-trans.html",
+        "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+      ]
+    },
+    "moneygram": {
+      "name": "MoneyGram",
+      "website": "https://www.moneygram.com/it/it",
+      "entity": "MoneyGram International SA",
+      "regulator": "National Bank of Belgium (NBB)",
+      "regulated_en": "MoneyGram International SA (Brussels) is authorised and regulated by the National Bank of Belgium.",
+      "regulated_fr": "MoneyGram International SA (Bruxelles) est agréée et supervisée par la Banque nationale de Belgique.",
+      "regulated_ar": "MoneyGram International SA (بروكسل) مرخّصة وتخضع لرقابة البنك الوطني البلجيكي.",
+      "tunisia_payout_en": "Cash pickup at an agent or deposit to a bank account in Tunisia (per World Bank RPW survey).",
+      "tunisia_payout_fr": "Retrait en espèces auprès d'un agent ou virement sur un compte bancaire en Tunisie (selon l'enquête RPW).",
+      "tunisia_payout_ar": "سحب نقدي لدى وكيل أو إيداع في حساب بنكي في تونس (حسب مسح RPW).",
+      "source_urls": [
+        "https://corporate.moneygram.com/documents/PDF_Forms/TermsAndCond/Europe/Belgium/Send%20Terms%20English.pdf",
+        "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+      ]
+    },
+    "ria": {
+      "name": "Ria",
+      "website": "https://www.riamoneytransfer.com/it-it/",
+      "entity": "RIA Payment Institution E.P., S.A.U.",
+      "regulator": "Banco de España",
+      "regulated_en": "RIA Payment Institution E.P., S.A.U. (Madrid) is a licensed payment institution (no. 6842) supervised by the Bank of Spain.",
+      "regulated_fr": "RIA Payment Institution E.P., S.A.U. (Madrid) est un établissement de paiement agréé (n° 6842) supervisé par la Banque d'Espagne.",
+      "regulated_ar": "RIA Payment Institution E.P., S.A.U. (مدريد) مؤسسة دفع مرخّصة (رقم 6842) تخضع لرقابة بنك إسبانيا.",
+      "tunisia_payout_en": "Cash pickup at a payout agent in Tunisia (per World Bank RPW survey).",
+      "tunisia_payout_fr": "Retrait en espèces auprès d'un agent payeur en Tunisie (selon l'enquête RPW de la Banque mondiale).",
+      "tunisia_payout_ar": "سحب نقدي لدى وكيل دفع في تونس (حسب مسح RPW للبنك الدولي).",
+      "source_urls": [
+        "https://riamoneytransfer.com/en-it/retail-terms",
+        "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+      ]
+    },
+    "remitly": {
+      "name": "Remitly",
+      "website": "https://www.remitly.com/it/it",
+      "entity": "Remitly Europe Ltd",
+      "regulator": "Central Bank of Ireland",
+      "regulated_en": "Remitly's EU business is run by Remitly Europe Ltd, authorised in Ireland by the Central Bank of Ireland.",
+      "regulated_fr": "L'activité européenne de Remitly est portée par Remitly Europe Ltd, agréée en Irlande par la Banque centrale d'Irlande.",
+      "regulated_ar": "تدير Remitly Europe Ltd نشاط Remitly في الاتحاد الأوروبي، وهي مرخّصة في أيرلندا من البنك المركزي الأيرلندي.",
+      "tunisia_payout_en": "Cash pickup at a payout agent in Tunisia (per World Bank RPW survey).",
+      "tunisia_payout_fr": "Retrait en espèces auprès d'un agent payeur en Tunisie (selon l'enquête RPW de la Banque mondiale).",
+      "tunisia_payout_ar": "سحب نقدي لدى وكيل دفع في تونس (حسب مسح RPW للبنك الدولي).",
+      "source_urls": [
+        "https://fora.ie/remitly-ireland-brexit-4793460-Sep2019/",
+        "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+      ]
+    },
+    "poste-italiane": {
+      "name": "Poste Italiane",
+      "website": "https://www.poste.it/",
+      "entity": "Poste Italiane S.p.A. – Patrimonio BancoPosta (distributor); PostePay S.p.A. – Patrimonio destinato IMEL (provider of the MoneyGram service)",
+      "regulator": "Banca d'Italia",
+      "regulated_en": "Poste Italiane and PostePay S.p.A. are supervised by the Banca d'Italia; transfers are executed through Western Union or MoneyGram.",
+      "regulated_fr": "Poste Italiane et PostePay S.p.A. sont supervisées par la Banca d'Italia ; les transferts passent par Western Union ou MoneyGram.",
+      "regulated_ar": "تخضع Poste Italiane وPostePay S.p.A. لرقابة بنك إيطاليا، وتُنفَّذ التحويلات عبر Western Union أو MoneyGram.",
+      "tunisia_payout_en": "Cash pickup at a payout agent in Tunisia (per World Bank RPW survey).",
+      "tunisia_payout_fr": "Retrait en espèces auprès d'un agent payeur en Tunisie (selon l'enquête RPW de la Banque mondiale).",
+      "tunisia_payout_ar": "سحب نقدي لدى وكيل دفع في تونس (حسب مسح RPW للبنك الدولي).",
+      "source_urls": [
+        "https://www.media.poste.it/bancoposta/pdf/trasparenza/FI_BPMGN.pdf",
+        "https://www.poste.it/resources/bancoposta/pdf/trasparenza/FI_PPWU.pdf",
+        "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+      ]
+    },
+    "intesa-sanpaolo": {
+      "name": "Intesa Sanpaolo",
+      "website": "https://www.intesasanpaolo.com/",
+      "entity": "Intesa Sanpaolo S.p.A.",
+      "regulator": "Banca d'Italia / European Central Bank (Italian banking licence)",
+      "regulated_en": "Intesa Sanpaolo is a licensed Italian bank, supervised by the European Central Bank and the Banca d'Italia.",
+      "regulated_fr": "Intesa Sanpaolo est une banque italienne agréée, supervisée par la Banque centrale européenne et la Banca d'Italia.",
+      "regulated_ar": "إنتيسا سانباولو بنك إيطالي مرخّص يخضع لرقابة البنك المركزي الأوروبي وبنك إيطاليا.",
+      "tunisia_payout_en": "Cash pickup via Western Union, or a bank transfer from a branch to a bank account in Tunisia (per World Bank RPW survey).",
+      "tunisia_payout_fr": "Retrait en espèces via Western Union, ou virement depuis une agence vers un compte bancaire en Tunisie (selon l'enquête RPW).",
+      "tunisia_payout_ar": "سحب نقدي عبر Western Union، أو تحويل من الفرع إلى حساب بنكي في تونس (حسب مسح RPW).",
+      "source_urls": [
+        "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+      ]
+    },
+    "attijariwafa-bank": {
+      "name": "Attijariwafa Bank",
+      "website": null,
+      "entity": "Attijariwafa Bank Europe – Sede Secondaria Italiana (Italian branch)",
+      "regulator": "ACPR (France), prudential; Banca d'Italia, conduct in Italy",
+      "regulated_en": "In Italy the bank operates as the Milan branch of Attijariwafa Bank Europe, a credit institution licensed in France (ACPR) and supervised for conduct in Italy by the Banca d'Italia.",
+      "regulated_fr": "En Italie, la banque opère via la succursale milanaise d'Attijariwafa Bank Europe, établissement de crédit agréé en France (ACPR) et contrôlé en Italie par la Banca d'Italia pour les pratiques commerciales.",
+      "regulated_ar": "تعمل في إيطاليا عبر فرع ميلانو لـ Attijariwafa Bank Europe، وهي مؤسسة ائتمان مرخّصة في فرنسا (ACPR) وتخضع في إيطاليا لرقابة بنك إيطاليا على الممارسات.",
+      "tunisia_payout_en": "Credit to the recipient's own or a partner bank account in Tunisia (per World Bank RPW survey).",
+      "tunisia_payout_fr": "Crédit sur le compte bancaire du bénéficiaire ou d'une banque partenaire en Tunisie (selon l'enquête RPW).",
+      "tunisia_payout_ar": "إيداع في الحساب البنكي للمستفيد أو لدى بنك شريك في تونس (حسب مسح RPW).",
+      "source_urls": [
+        "https://pickthebank.eu/it/banche/italia/attijariwafa-bank-europe-sede-secondaria-italiana-bcmaitmm/",
+        "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+      ]
+    },
+    "worldremit": {
+      "name": "WorldRemit",
+      "website": "https://www.worldremit.com/",
+      "entity": "WorldRemit Belgium",
+      "regulator": "National Bank of Belgium (NBB)",
+      "regulated_en": "WorldRemit serves EU customers through WorldRemit Belgium, a payment institution authorised and regulated by the National Bank of Belgium.",
+      "regulated_fr": "WorldRemit sert ses clients européens via WorldRemit Belgium, établissement de paiement agréé et contrôlé par la Banque nationale de Belgique.",
+      "regulated_ar": "تخدم WorldRemit عملاءها في الاتحاد الأوروبي عبر WorldRemit Belgium، وهي مؤسسة دفع مرخّصة وخاضعة لرقابة البنك الوطني البلجيكي.",
+      "tunisia_payout_en": "Cash pickup at a payout agent in Tunisia (per World Bank RPW survey).",
+      "tunisia_payout_fr": "Retrait en espèces auprès d'un agent payeur en Tunisie (selon l'enquête RPW de la Banque mondiale).",
+      "tunisia_payout_ar": "سحب نقدي لدى وكيل دفع في تونس (حسب مسح RPW للبنك الدولي).",
+      "source_urls": [
+        "https://www.worldremit.com/da-dk/about-us/terms-and-conditions",
+        "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+      ]
+    },
+    "xoom": {
+      "name": "Xoom",
+      "website": "https://www.xoom.com/",
+      "entity": "PayPal (Europe) S.à r.l. et Cie, S.C.A.",
+      "regulator": "Commission de Surveillance du Secteur Financier (CSSF), Luxembourg",
+      "regulated_en": "Xoom is a PayPal service; for EEA customers it is provided by PayPal (Europe) S.à r.l. et Cie, S.C.A., a Luxembourg company supervised by the CSSF.",
+      "regulated_fr": "Xoom est un service de PayPal ; pour les clients de l'EEE il est fourni par PayPal (Europe) S.à r.l. et Cie, S.C.A., société luxembourgeoise supervisée par la CSSF.",
+      "regulated_ar": "Xoom خدمة تابعة لـ PayPal، وتقدّمها لعملاء المنطقة الاقتصادية الأوروبية شركة PayPal (Europe) S.à r.l. et Cie, S.C.A. في لوكسمبورغ الخاضعة لرقابة CSSF.",
+      "tunisia_payout_en": "Cash pickup at a payout agent in Tunisia (per World Bank RPW survey).",
+      "tunisia_payout_fr": "Retrait en espèces auprès d'un agent payeur en Tunisie (selon l'enquête RPW de la Banque mondiale).",
+      "tunisia_payout_ar": "سحب نقدي لدى وكيل دفع في تونس (حسب مسح RPW للبنك الدولي).",
+      "source_urls": [
+        "https://www.xoom.com/User-Agreement",
+        "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+      ]
+    },
+    "paysend": {
+      "name": "Paysend",
+      "website": "https://paysend.com/",
+      "entity": "Paysend EU DAC",
+      "regulator": "Central Bank of Ireland",
+      "regulated_en": "Paysend serves EU customers through Paysend EU DAC (Dublin), an electronic money institution licensed by the Central Bank of Ireland.",
+      "regulated_fr": "Paysend sert ses clients européens via Paysend EU DAC (Dublin), établissement de monnaie électronique agréé par la Banque centrale d'Irlande.",
+      "regulated_ar": "تخدم Paysend عملاءها في الاتحاد الأوروبي عبر Paysend EU DAC (دبلن)، وهي مؤسسة نقود إلكترونية مرخّصة من البنك المركزي الأيرلندي.",
+      "tunisia_payout_en": null,
+      "tunisia_payout_fr": null,
+      "tunisia_payout_ar": null,
+      "source_urls": [
+        "https://uzraudziba.bank.lv/en//market/payment-service-providers/electronic-money-institutions/service-providers-from-the-eea/freedom-to-provide-services/paysend-eu-designated-activity-company",
+        "https://paysend.com/uk-ru/news/article-paysend-launches-new-european-hub-in-dublin",
+        "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+      ]
+    }
+  },
+  "not_available": [],
+  "notes": "RPW data: Third Quarter 2025 (collected 8-28 Aug 2025), the most recent quarter listed on the corridor page as of 2026-10-15. Send amounts: EUR 140 (USD 200 basis) and EUR 345 (USD 500 basis). Corridor average 5.48% (fee EUR 5.32, FX margin 1.68%) is the USD 200 average; no USD 500 average was readable. USD 500 rows for WorldRemit, Xoom and the Intesa Sanpaolo branch transfer are missing because the page text was cut off when read, so they are omitted rather than guessed. Poste Italiane (via Western Union and via MoneyGram) and Intesa Sanpaolo (via Western Union) show NEGATIVE FX margins in RPW (the rate was better than the reference rate on the survey day). The Poste/WU total cost is negative (-0.12% / -0.54%). These figures are reproduced as published; consider a footnote. RPW lists 'Internet' as access, so send_method 'online' may cover both web and app. send_method 'post-office' (Poste cash row) is not in the brief's enum. Paysend's receiving method was blank in RPW, so payout is null. firm_type follows RPW (Remitly, WorldRemit, Paysend, Xoom are classed as MTO). Regulators added in a second pass (2026-10-16): WorldRemit Belgium/NBB (WorldRemit T&C), PayPal (Europe)/CSSF for Xoom (Xoom user agreement names the entity; CSSF as its supervisor is mentioned in that document but not stated as the EEA authoriser), Paysend EU DAC/Central Bank of Ireland (entity from Latvian FCMC passport register, CBI EMI licence from Paysend press release, which does not name the entity), Attijariwafa Bank Europe Italian branch/ACPR+Banca d'Italia (third-party bank directory pickthebank.eu, not the regulator's register). Intesa Sanpaolo's licence is general knowledge, not checked against the register this session. Remitly's entity comes from a 2019 news article (fora.ie), not its current terms. For Poste Italiane, PostePay S.p.A. is confirmed as the provider of the MoneyGram service only; the provider entity for the Western Union service (FI_PPWU sheet) was not read. No Tunisian payout partner names are given because no source stated them. Wise: its own EUR to TND page (wise.com/be, Belgium) says recipients get TND from Wise's local bank account, so EUR to TND looks supported. Wise is not surveyed by RPW on this corridor, so there is no offer row; it is not listed under not_available. Confirmed on 2026-10-16 on wise.com/it/send-money/send-money-to-tunisia: EUR to TND from Italy, paid into local bank accounts from Wise's local account. Consider adding Wise as a non-RPW offer using Wise's own pricing. Sources: https://wise.com/be/send-money/send-money-to-tunisia, https://wise.com/it/send-money/send-money-to-tunisia Re-checked 2026-10-16: RPW corridor page still shows Third Quarter 2025 as the latest; the USD 500 tab content for WorldRemit, Xoom and the Intesa branch row is still not readable (only USD 200 figures come back)."
+}

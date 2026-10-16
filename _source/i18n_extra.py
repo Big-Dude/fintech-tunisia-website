@@ -3,8 +3,8 @@
 GOATCOUNTER = "fintechtunisia"   # https://fintechtunisia.goatcounter.com
 
 NAV = {
-    "en": {"directory": "Directory", "tracker": "Regulation", "about": "About"},
-    "fr": {"directory": "Annuaire", "tracker": "Réglementation", "about": "À propos"},
+    "en": {"directory": "Directory", "tracker": "Regulation", "about": "About", "remit": "Send money"},
+    "fr": {"directory": "Annuaire", "tracker": "Réglementation", "about": "À propos", "remit": "Transferts"},
 }
 
 DIR_CAT = {
@@ -192,6 +192,7 @@ We use AI tools to help with research, drafting and translation between English 
 
 - Companies **cannot pay** to be covered, to change an article or to appear in the directory.
 - If we ever publish sponsored content, it will be clearly labelled as sponsored.
+- Our [money transfer comparator](REMIT) may include referral links. If you sign up through one, we may earn a commission at no extra cost to you. Results are always ordered by the amount your recipient receives; a referral link never changes the order.
 - When an article covers an organisation we work with through our programs, we disclose it in the article.
 
 ## Updates and corrections
@@ -236,6 +237,7 @@ Nous utilisons des outils d'IA pour nous aider dans la recherche, la rédaction 
 
 - Une entreprise **ne peut pas payer** pour être couverte, pour faire modifier un article ou pour figurer dans l'annuaire.
 - Si nous publions un jour un contenu sponsorisé, il sera clairement signalé comme tel.
+- Notre [comparateur de transferts d'argent](REMIT) peut contenir des liens de parrainage. Si vous vous inscrivez par l'un d'eux, nous pouvons toucher une commission, sans surcoût pour vous. Les résultats sont toujours classés selon le montant reçu par votre bénéficiaire ; un lien de parrainage ne change jamais le classement.
 - Lorsqu'un article traite d'une organisation avec laquelle nous travaillons dans le cadre de nos programmes, nous le mentionnons dans l'article.
 
 ## Mises à jour et corrections

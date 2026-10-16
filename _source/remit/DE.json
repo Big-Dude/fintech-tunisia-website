@@ -1,0 +1,289 @@
+{
+  "corridor": "DE",
+  "country_en": "Germany",
+  "country_fr": "Allemagne",
+  "country_ar": "ألمانيا",
+  "currency": "EUR",
+  "data_period": "Provider sites, Oct 2026 (no RPW survey)",
+  "data_collected": "2026-10",
+  "source_name": "Providers' own websites (World Bank RPW does not survey Germany→Tunisia; no other official German price survey found)",
+  "source_url": "https://remittanceprices.worldbank.org/corridor/Germany/Tunisia",
+  "corridor_average_total_cost_pct": {
+    "200": null,
+    "500": null
+  },
+  "offers": [
+    {
+      "provider_id": "western-union",
+      "provider": "Western Union",
+      "firm_type": "mto",
+      "product": "Online to cash pickup",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": null,
+      "send_amount": null,
+      "fee": null,
+      "fx_margin_pct": null,
+      "total_cost_pct": null,
+      "source_url": "https://www.westernunion.com/de/de/send-money-to-tunisia.html",
+      "source_date": "2026-10-16"
+    },
+    {
+      "provider_id": "western-union",
+      "provider": "Western Union",
+      "firm_type": "mto",
+      "product": "Online to bank account",
+      "send_method": [
+        "online"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": null,
+      "basis_usd": null,
+      "send_amount": null,
+      "fee": null,
+      "fx_margin_pct": null,
+      "total_cost_pct": null,
+      "source_url": "https://www.westernunion.com/de/de/send-money-to-tunisia.html",
+      "source_date": "2026-10-16"
+    },
+    {
+      "provider_id": "ria",
+      "provider": "Ria",
+      "firm_type": "mto",
+      "product": "Online, paid by card, to cash pickup",
+      "send_method": [
+        "online",
+        "app"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": null,
+      "send_amount": null,
+      "fee": null,
+      "fx_margin_pct": null,
+      "total_cost_pct": null,
+      "source_url": "https://www.riamoneytransfer.com/en-de/send-money-to-tunisia/",
+      "source_date": "2026-10-16"
+    },
+    {
+      "provider_id": "ria",
+      "provider": "Ria",
+      "firm_type": "mto",
+      "product": "Online, paid by bank transfer, to bank account",
+      "send_method": [
+        "online",
+        "app"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": "2-5-days",
+      "basis_usd": null,
+      "send_amount": null,
+      "fee": null,
+      "fx_margin_pct": null,
+      "total_cost_pct": null,
+      "source_url": "https://www.riamoneytransfer.com/en-de/send-money-to-tunisia/",
+      "source_date": "2026-10-16",
+      "speed_note": "Ria DE page: transfers funded from bank accounts arrive in 3-5 business days; card/cash-funded usually within minutes."
+    },
+    {
+      "provider_id": "remitly",
+      "provider": "Remitly",
+      "firm_type": "fintech",
+      "product": "Online/app to bank account",
+      "send_method": [
+        "online",
+        "app"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": null,
+      "basis_usd": null,
+      "send_amount": null,
+      "fee": null,
+      "fx_margin_pct": null,
+      "total_cost_pct": null,
+      "source_url": "https://www.remitly.com/de/en/providers-tunisia/send-money-to-banque-internationale-arabe-de-tunisie",
+      "source_date": "2026-10-16"
+    },
+    {
+      "provider_id": "wise",
+      "provider": "Wise",
+      "firm_type": "fintech",
+      "product": "Online/app, paid by bank transfer, to bank account (TND)",
+      "send_method": [
+        "online",
+        "app"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": null,
+      "basis_usd": null,
+      "send_amount": 1000.0,
+      "fee": 28.3,
+      "fx_margin_pct": null,
+      "total_cost_pct": null,
+      "fee_note": "Wise DE page example for EUR 1,000: fee EUR 28.30 paid by bank transfer, EUR 26.63 from Wise balance, EUR 26.54 via PISP; card costs more. Wise states it cannot currently guarantee the EUR/TND rate, so FX margin is unknown (null). Example delivery 'bis 28. Oktober'.",
+      "source_url": "https://wise.com/de/send-money/send-money-to-tunisia",
+      "source_date": "2026-10-16"
+    },
+    {
+      "provider_id": "taptap-send",
+      "provider": "Taptap Send",
+      "firm_type": "fintech",
+      "product": "App to cash pickup (Zitouna Payment, Wafacash)",
+      "send_method": [
+        "app"
+      ],
+      "payout": [
+        "cash-pickup"
+      ],
+      "speed": "minutes",
+      "basis_usd": null,
+      "send_amount": null,
+      "fee": 0.0,
+      "fx_margin_pct": null,
+      "total_cost_pct": null,
+      "fee_note": "Taptap Send states no transfer fee for Tunisia; it earns a margin on the exchange rate (not published, so fx_margin_pct is null).",
+      "source_url": "https://www.taptapsend.com/de/send-money-to/tunisia",
+      "source_date": "2026-10-16"
+    },
+    {
+      "provider_id": "taptap-send",
+      "provider": "Taptap Send",
+      "firm_type": "fintech",
+      "product": "App to bank account",
+      "send_method": [
+        "app"
+      ],
+      "payout": [
+        "bank-account"
+      ],
+      "speed": "2-5-days",
+      "basis_usd": null,
+      "send_amount": null,
+      "fee": 0.0,
+      "fx_margin_pct": null,
+      "total_cost_pct": null,
+      "fee_note": "Taptap Send states no transfer fee for Tunisia; it earns a margin on the exchange rate (not published, so fx_margin_pct is null).",
+      "source_url": "https://www.taptapsend.com/de/send-money-to/tunisia",
+      "source_date": "2026-10-16"
+    },
+    {
+      "provider_id": "taptap-send",
+      "provider": "Taptap Send",
+      "firm_type": "fintech",
+      "product": "App to mobile wallet (Kashy)",
+      "send_method": [
+        "app"
+      ],
+      "payout": [
+        "mobile-wallet"
+      ],
+      "speed": "minutes",
+      "basis_usd": null,
+      "send_amount": null,
+      "fee": 0.0,
+      "fx_margin_pct": null,
+      "total_cost_pct": null,
+      "fee_note": "Taptap Send states no transfer fee for Tunisia; it earns a margin on the exchange rate (not published, so fx_margin_pct is null).",
+      "source_url": "https://www.taptapsend.com/de/send-money-to/tunisia",
+      "source_date": "2026-10-16"
+    }
+  ],
+  "providers": {
+    "western-union": {
+      "name": "Western Union",
+      "website": "https://www.westernunion.com/de/de/",
+      "entity": "Western Union International Bank GmbH (in cooperation with Western Union International Limited)",
+      "regulator": "Austrian Financial Market Authority (FMA)",
+      "regulated_en": "Online service in Germany provided by Western Union International Bank GmbH, licensed in Austria by the Financial Market Authority (FMA).",
+      "regulated_fr": "Service en ligne en Allemagne fourni par Western Union International Bank GmbH, agréée en Autriche par l'Autorité des marchés financiers (FMA).",
+      "regulated_ar": "تقدّم الخدمة عبر الإنترنت في ألمانيا شركة Western Union International Bank GmbH، المرخّصة في النمسا من هيئة السوق المالية (FMA).",
+      "tunisia_payout_en": "Bank account transfer or cash pickup (cash pickup possible within minutes). No Tunisian partners named on the page.",
+      "tunisia_payout_fr": "Virement sur compte bancaire ou retrait en espèces (retrait possible en quelques minutes). Aucun partenaire tunisien nommé sur la page.",
+      "tunisia_payout_ar": "تحويل إلى حساب بنكي أو سحب نقدي (السحب النقدي ممكن خلال دقائق). لا تذكر الصفحة شركاء تونسيين.",
+      "source_urls": [
+        "https://www.westernunion.com/de/de/send-money-to-tunisia.html"
+      ]
+    },
+    "ria": {
+      "name": "Ria",
+      "website": "https://www.riamoneytransfer.com/de-de/",
+      "entity": "Ria Payment Institution E.P., S.A.U.",
+      "regulator": "Banco de España (licence no. 6842)",
+      "regulated_en": "Ria's German terms name Ria Payment Institution E.P., S.A.U. (Madrid), a payment institution registered with the Bank of Spain under no. 6842.",
+      "regulated_fr": "Les conditions allemandes de Ria désignent Ria Payment Institution E.P., S.A.U. (Madrid), établissement de paiement inscrit auprès de la Banque d'Espagne sous le n° 6842.",
+      "regulated_ar": "تذكر شروط Ria في ألمانيا شركة Ria Payment Institution E.P., S.A.U. (مدريد)، وهي مؤسسة دفع مسجّلة لدى بنك إسبانيا تحت الرقم 6842.",
+      "tunisia_payout_en": "Cash pickup at over 390 Ria partner locations or deposit to bank accounts. Partners named: Wifak Bank, Amen Bank, UIB, Bank ABC, Banque Tuniso Libyenne, BTK, BNA, Citi, Wafacash.",
+      "tunisia_payout_fr": "Retrait en espèces dans plus de 390 points partenaires Ria ou dépôt sur compte bancaire. Partenaires cités : Wifak Bank, Amen Bank, UIB, Bank ABC, Banque Tuniso Libyenne, BTK, BNA, Citi, Wafacash.",
+      "tunisia_payout_ar": "سحب نقدي في أكثر من 390 نقطة شريكة لـ Ria أو إيداع في حساب بنكي. الشركاء المذكورون: Wifak Bank، Amen Bank، UIB، Bank ABC، البنك التونسي الليبي، BTK، BNA، Citi، Wafacash.",
+      "source_urls": [
+        "https://www.riamoneytransfer.com/en-de/send-money-to-tunisia/",
+        "https://www.riamoneytransfer.com/de-de/retail-terms/"
+      ]
+    },
+    "remitly": {
+      "name": "Remitly",
+      "website": "https://www.remitly.com/de/en/",
+      "entity": "Remitly Europe Limited",
+      "regulator": "Central Bank of Ireland",
+      "regulated_en": "Remitly Europe Limited (Ireland, company no. 629909) is regulated by the Central Bank of Ireland.",
+      "regulated_fr": "Remitly Europe Limited (Irlande, société n° 629909) est réglementée par la Banque centrale d'Irlande.",
+      "regulated_ar": "شركة Remitly Europe Limited (أيرلندا، رقم الشركة 629909) خاضعة لرقابة البنك المركزي الأيرلندي.",
+      "tunisia_payout_en": "Bank deposit (e.g. to BIAT, Wifak Bank, Banque Franco Tunisienne accounts per Remitly's Germany pages).",
+      "tunisia_payout_fr": "Dépôt sur compte bancaire (ex. BIAT, Wifak Bank, Banque Franco Tunisienne selon les pages Allemagne de Remitly).",
+      "tunisia_payout_ar": "إيداع في حساب بنكي (مثل BIAT وبنك الوفاق والبنك الفرنسي التونسي حسب صفحات Remitly الخاصة بألمانيا).",
+      "source_urls": [
+        "https://www.remitly.com/de/en/providers-tunisia/send-money-to-banque-internationale-arabe-de-tunisie"
+      ]
+    },
+    "wise": {
+      "name": "Wise",
+      "website": "https://wise.com/de/",
+      "entity": "Wise Europe SA (Belgium, company no. 0713629988)",
+      "regulator": "National Bank of Belgium (NBB)",
+      "regulated_en": "Wise Europe SA is a payment institution authorised by the National Bank of Belgium, passported to Germany.",
+      "regulated_fr": "Wise Europe SA est un établissement de paiement agréé par la Banque nationale de Belgique, avec passeport européen pour l'Allemagne.",
+      "regulated_ar": "شركة Wise Europe SA مؤسسة دفع مرخّصة من البنك الوطني البلجيكي، وتعمل في ألمانيا بموجب جواز السفر الأوروبي.",
+      "tunisia_payout_en": "Bank account in TND, paid from Wise's local bank account in Tunisia; Wise cannot currently guarantee the rate.",
+      "tunisia_payout_fr": "Compte bancaire en TND, payé depuis le compte bancaire local de Wise en Tunisie ; Wise ne peut pas garantir le taux pour le moment.",
+      "tunisia_payout_ar": "حساب بنكي بالدينار التونسي، يُدفع من حساب Wise البنكي المحلي في تونس؛ لا تستطيع Wise حاليًا ضمان سعر الصرف.",
+      "source_urls": [
+        "https://wise.com/de/send-money/send-money-to-tunisia",
+        "https://wise.com/help/articles/2932693/how-is-wise-regulated-in-each-country"
+      ]
+    },
+    "taptap-send": {
+      "name": "Taptap Send",
+      "website": "https://www.taptapsend.com/de",
+      "entity": "Taptap Send Belgium S.A.",
+      "regulator": "National Bank of Belgium (NBB)",
+      "regulated_en": "Taptap Send's EU entity, Taptap Send Belgium S.A., is regulated by the National Bank of Belgium as a payment institution.",
+      "regulated_fr": "L'entité européenne de Taptap Send, Taptap Send Belgium S.A., est réglementée par la Banque nationale de Belgique en tant qu'établissement de paiement.",
+      "regulated_ar": "الكيان الأوروبي لـ Taptap Send، شركة Taptap Send Belgium S.A.، خاضع لرقابة البنك الوطني البلجيكي كمؤسسة دفع.",
+      "tunisia_payout_en": "Bank account (may take up to 2-3 working days), cash pickup at Zitouna Payment and Wafacash, or Kashy mobile wallet (usually within minutes).",
+      "tunisia_payout_fr": "Compte bancaire (jusqu'à 2-3 jours ouvrés), retrait en espèces chez Zitouna Payment et Wafacash, ou portefeuille mobile Kashy (généralement en quelques minutes).",
+      "tunisia_payout_ar": "حساب بنكي (قد يستغرق حتى 2-3 أيام عمل)، أو سحب نقدي لدى Zitouna Payment وWafacash، أو محفظة Kashy الإلكترونية (عادةً خلال دقائق).",
+      "source_urls": [
+        "https://www.taptapsend.com/de/send-money-to/tunisia",
+        "https://help.taptapsend.com/en/receiving-countries/how-can-i-send-money-to-tunisia",
+        "https://www.taptapsend.com/licenses"
+      ]
+    }
+  },
+  "not_available": [],
+  "notes": "World Bank RPW does not survey Germany→Tunisia: /corridor/Germany/Tunisia (re-checked 2026-10-16) renders an empty template ('First Quarter 1970', 0.00 averages, no provider rows). No other official source found: Germany's former government-backed comparator GeldTransFair.de did not appear in search; moneytransfers.com etc. are commercial, not used. Fallback = providers' own pages, checked 2026-10-15/16. Western Union, Ria and Remitly publish NO static standard fee/FX margin for DE→TN (JS calculators), so their cost fields are null. Only cost figures found: Wise fee example for EUR 1,000 (EUR 28.30 by bank transfer; FX margin unknown because Wise says it cannot guarantee the TND rate) and Taptap Send 'no fee' for Tunisia (margin built into its rate, not published). None of these are comparable to RPW's USD 200/500 totals: do NOT rank DE providers by total cost. Promo-only observations (not standard pricing): Ria EUR 100 quote showed 0.00 EUR first-transfer fee (code HELLORIA) at 1 EUR = 3.293050 TND; Remitly 'welcome rate' 1 EUR = 3.3465 TND on first EUR 1,000. Ria page footer says 'Ria Lithuania UAB' while Ria's German retail terms name Ria Payment Institution E.P., S.A.U. (Bank of Spain no. 6842) - the latter is used; worth a manual check. Taptap Send licences page names Taptap Send Belgium S.A. as EU entity but does not explicitly say it serves Germany. Taptap DE page also shows an unclear '2,00€ kostenlos' label. MoneyGram has a 'Send money to Tunisia from Germany' page (https://www.moneygram.com/mgo/de/en/m/send-money-to-tunisia/) but it could not be fetched, so MoneyGram is omitted. WorldRemit not confirmed for DE→TN, omitted. Paysend (see providers_extra.json) also covers DE→TN."
+}

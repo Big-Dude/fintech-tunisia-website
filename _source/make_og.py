@@ -28,15 +28,20 @@ with sync_playwright() as pw:
         if rtl: pg.evaluate("document.fonts.ready")
         pg.wait_for_timeout(60 if rtl else 0)
         pg.screenshot(path=out, type="jpeg", quality=86, clip={"x": 0, "y": 0, "width": 1200, "height": 630})
+    only_slugs = os.environ.get("OG_SLUGS")
     for p in posts:
+        if only_slugs and p["slug"] not in only_slugs.split(","): continue
         for L in ONLY:
             if L not in p: continue
             svg = cover_svg(p["slug"], p["category"], p.get("cover_motif"), title=p[L]["title"], label=CAT[L][p["category"]], variant=p["variant"], rtl=(L == "ar"))
             shot(svg, os.path.join(OUT, p["slug"] + suffix(L) + ".jpg"), L == "ar")
-    for slug, cat, motif in [("directory", "startups", "network-nodes"), ("regulation-tracker", "regulation", "scales-law")]:
+    import remit as RM
+    pages = {"directory": ("startups", "network-nodes", lambda L: X[L]["dir_h1"], lambda L: X[L]["tool_dir"]),
+             "regulation-tracker": ("regulation", "scales-law", lambda L: X[L]["reg_h1"], lambda L: X[L]["tool_reg"]),
+             "send-money-to-tunisia": ("payments", "globe-links", lambda L: RM.R[L]["h1"], lambda L: RM.R[L]["eyebrow"])}
+    for slug, (cat, motif, tf, lf) in pages.items():
         for L in ONLY:
-            title = X[L]["dir_h1"] if slug == "directory" else X[L]["reg_h1"]
-            lab = X[L]["tool_dir"] if slug == "directory" else X[L]["tool_reg"]
+            title, lab = tf(L), lf(L)
             shot(cover_svg(slug, cat, motif, title=title, label=lab, rtl=(L == "ar")), os.path.join(OUT, slug + suffix(L) + ".jpg"), L == "ar")
     b.close()
 print(len(os.listdir(OUT)), "images in og/")

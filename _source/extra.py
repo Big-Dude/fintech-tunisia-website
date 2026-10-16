@@ -75,7 +75,7 @@ def monogram(c, size=64):
 
 def md_links(B, page, L, text):
     links = {"DIR": B.path_of(L, "directory"), "REG": B.path_of(L, "tracker"), "PROG": B.path_of(L, "programs"),
-             "EDIT": B.path_of(L, "editorial"), "CORR": B.path_of(L, "corrections"), "CONTACT": B.path_of(L, "contact")}
+             "EDIT": B.path_of(L, "editorial"), "CORR": B.path_of(L, "corrections"), "CONTACT": B.path_of(L, "contact"), "REMIT": B.path_of(L, "remit")}
     for k, v in links.items(): text = text.replace(f"]({k})", f"]({page.rel(v)})")
     return text
 
@@ -330,6 +330,7 @@ def tools_section(B, page, L):
     return f"""<section class="sec"><div class="wrap"><div class="sec-head"><div><h2>{x['tools']}</h2><p>{x['tools_sub']}</p></div></div>
 <div class="tools-grid">
   <a class="tool" href="{page.rel(B.path_of(L,'directory'))}"><span class="tool-n">{len(companies)}</span><span class="tool-u">{x['companies']}</span><strong>{x['tool_dir']}</strong><p>{x['tool_dir_t']}</p><span class="more">{x['open']} {B.ICON['arrow']}</span></a>
+  <a class="tool tool-red" href="{page.rel(B.path_of(L,'remit'))}"><span class="tool-n">{B.RM.FX['rate']:.2f}</span><span class="tool-u">EUR → TND · {B.RM.R[L]['rate_live']}</span><strong>{B.RM.R[L]['eyebrow']}</strong><p>{B.RM.R[L]['lead']}</p><span class="more">{x['open']} {B.ICON['arrow']}</span></a>
   <a class="tool tool-dark" href="{page.rel(B.path_of(L,'tracker'))}"><span class="tool-n">{len(REG)}</span><span class="tool-u">{x['texts']} · {n_pending} {x['pending'].lower()}</span><strong>{x['tool_reg']}</strong><p>{x['tool_reg_t']}</p><span class="more">{x['open']} {B.ICON['arrow']}</span></a>
 </div></div></section>"""
 

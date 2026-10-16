@@ -1,0 +1,148 @@
+{
+  "paysend": {
+    "name": "Paysend",
+    "website": "https://paysend.com",
+    "entity": "Paysend EU Designated Activity Company (Ireland)",
+    "regulator": "Central Bank of Ireland (Firm Reference Number C443739)",
+    "regulated_en": "Authorised and regulated by the Central Bank of Ireland (FRN C443739).",
+    "regulated_fr": "Agréée et réglementée par la Banque centrale d'Irlande (FRN C443739).",
+    "regulated_ar": "مرخّصة وخاضعة لرقابة البنك المركزي الأيرلندي (الرقم المرجعي C443739).",
+    "tunisia_supported": true,
+    "corridors": [
+      "FR",
+      "IT",
+      "DE"
+    ],
+    "tunisia_payout_en": "TND to any Tunisian bank account or to Mastercard cards in Tunisia. No cash pickup mentioned.",
+    "tunisia_payout_fr": "En TND vers tout compte bancaire tunisien ou vers des cartes Mastercard en Tunisie. Aucun retrait en espèces mentionné.",
+    "tunisia_payout_ar": "بالدينار التونسي إلى أي حساب مصرفي في تونس أو إلى بطاقات ماستركارد في تونس. لا يُذكر السحب النقدي.",
+    "source_urls": [
+      "https://paysend.com/en-de/send-money/from-germany-to-tunisia",
+      "https://paysend.com/en-fr/send-money/from-france-to-tunisia",
+      "https://paysend.com/en-us/send-money/from-italy-to-tunisia",
+      "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    ]
+  },
+  "xoom": {
+    "name": "Xoom (a PayPal service)",
+    "website": "https://www.xoom.com",
+    "entity": null,
+    "regulator": null,
+    "regulated_en": null,
+    "regulated_fr": null,
+    "regulated_ar": null,
+    "tunisia_supported": true,
+    "corridors": [
+      "FR",
+      "IT",
+      "DE"
+    ],
+    "tunisia_payout_en": "Cash pickup in TND at partner locations in Tunisia (e.g. Banque de l'Habitat; Ria network). No bank deposit or wallet listed for Tunisia.",
+    "tunisia_payout_fr": "Retrait en espèces en TND auprès de points partenaires en Tunisie (ex. Banque de l'Habitat ; réseau Ria). Aucun virement sur compte ni portefeuille mobile indiqué pour la Tunisie.",
+    "tunisia_payout_ar": "سحب نقدي بالدينار التونسي لدى نقاط شريكة في تونس (مثل بنك الإسكان وشبكة ريا). لا يُذكر الإيداع في حساب مصرفي أو المحفظة الإلكترونية لتونس.",
+    "source_urls": [
+      "https://www.xoom.com/tunisia/send-money",
+      "https://help.xoom.com/s/article/from-which-countries-can-i-send-with-xoom?language=en_US",
+      "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    ]
+  },
+  "attijariwafa-bank": {
+    "name": "Attijariwafa bank Europe",
+    "website": null,
+    "entity": null,
+    "regulator": null,
+    "regulated_en": null,
+    "regulated_fr": null,
+    "regulated_ar": null,
+    "tunisia_supported": true,
+    "corridors": [
+      "FR",
+      "IT"
+    ],
+    "tunisia_payout_en": "Bank transfer to own/partner bank account (per World Bank RPW listings; online and branch in France, branch in Italy).",
+    "tunisia_payout_fr": "Virement vers un compte bancaire propre ou partenaire (selon la base RPW de la Banque mondiale ; en ligne et en agence en France, en agence en Italie).",
+    "tunisia_payout_ar": "تحويل إلى حساب مصرفي لدى البنك أو لدى بنك شريك (وفق قاعدة بيانات البنك الدولي RPW؛ عبر الإنترنت وفي الفروع بفرنسا، وفي الفروع بإيطاليا).",
+    "source_urls": [
+      "https://remittanceprices.worldbank.org/corridor/France/Tunisia",
+      "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    ]
+  },
+  "wise": {
+    "name": "Wise",
+    "website": "https://wise.com",
+    "entity": "Wise Europe SA (Belgium, company no. 0713629988)",
+    "regulator": null,
+    "regulated_en": "Authorised payment institution in Belgium (regulator not named on the page checked).",
+    "regulated_fr": "Établissement de paiement agréé en Belgique (régulateur non précisé sur la page consultée).",
+    "regulated_ar": "مؤسسة دفع مرخّصة في بلجيكا (لم تُذكر الجهة الرقابية في الصفحة المُطّلع عليها).",
+    "tunisia_supported": null,
+    "corridors": null,
+    "tunisia_payout_en": null,
+    "tunisia_payout_fr": null,
+    "tunisia_payout_ar": null,
+    "source_urls": [
+      "https://wise.com/be/send-money/send-money-to-tunisia",
+      "https://wise.com/gb/currency-converter/eur-to-tnd-rate"
+    ]
+  },
+  "taptap-send": {
+    "name": "Taptap Send",
+    "website": "https://www.taptapsend.com",
+    "entity": null,
+    "regulator": null,
+    "regulated_en": null,
+    "regulated_fr": null,
+    "regulated_ar": null,
+    "tunisia_supported": true,
+    "corridors": null,
+    "tunisia_payout_en": "TND to a bank account, cash pickup at Wafacash and Zitouna Payment agents, or Kashy mobile wallet.",
+    "tunisia_payout_fr": "En TND sur compte bancaire, retrait en espèces chez les agents Wafacash et Zitouna Payment, ou portefeuille mobile Kashy.",
+    "tunisia_payout_ar": "بالدينار التونسي إلى حساب مصرفي، أو سحب نقدي لدى وكلاء وفاكاش والزيتونة للدفع، أو عبر محفظة كاشي الإلكترونية.",
+    "source_urls": [
+      "https://help.taptapsend.com/en/receiving-countries/how-can-i-send-money-to-tunisia",
+      "https://taptapsend.com/en/send-money-to/tunisia"
+    ]
+  },
+  "worldremit": {
+    "name": "WorldRemit",
+    "website": "https://www.worldremit.com",
+    "entity": null,
+    "regulator": null,
+    "regulated_en": null,
+    "regulated_fr": null,
+    "regulated_ar": null,
+    "tunisia_supported": true,
+    "corridors": [
+      "FR",
+      "IT"
+    ],
+    "tunisia_payout_en": "Cash pickup (per World Bank RPW listings for France and Italy).",
+    "tunisia_payout_fr": "Retrait en espèces (selon la base RPW de la Banque mondiale pour la France et l'Italie).",
+    "tunisia_payout_ar": "سحب نقدي (وفق قاعدة بيانات البنك الدولي RPW لفرنسا وإيطاليا).",
+    "source_urls": [
+      "https://remittanceprices.worldbank.org/corridor/France/Tunisia",
+      "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    ]
+  },
+  "moneygram": {
+    "name": "MoneyGram",
+    "website": "https://www.moneygram.com",
+    "entity": null,
+    "regulator": null,
+    "regulated_en": null,
+    "regulated_fr": null,
+    "regulated_ar": null,
+    "tunisia_supported": true,
+    "corridors": [
+      "FR",
+      "IT"
+    ],
+    "tunisia_payout_en": "Bank account deposit or cash pickup (per World Bank RPW listings for France and Italy).",
+    "tunisia_payout_fr": "Dépôt sur compte bancaire ou retrait en espèces (selon la base RPW de la Banque mondiale pour la France et l'Italie).",
+    "tunisia_payout_ar": "إيداع في حساب مصرفي أو سحب نقدي (وفق قاعدة بيانات البنك الدولي RPW لفرنسا وإيطاليا).",
+    "source_urls": [
+      "https://remittanceprices.worldbank.org/corridor/France/Tunisia",
+      "https://remittanceprices.worldbank.org/corridor/Italy/Tunisia"
+    ]
+  }
+}

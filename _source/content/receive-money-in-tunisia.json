@@ -1,0 +1,191 @@
+{
+  "slug": "receive-money-in-tunisia",
+  "category": "payments",
+  "cover_motif": "phone-wallet",
+  "stats": [
+    {
+      "value": "1,050+",
+      "label_en": "post offices where MoneyGram transfers can be collected (2020 deal)",
+      "label_fr": "bureaux de poste où retirer un transfert MoneyGram (convention de 2020)",
+      "source": "Managers, 2020"
+    },
+    {
+      "value": "390+",
+      "label_en": "Ria partner payout locations in Tunisia, Oct 2026",
+      "label_fr": "points de retrait partenaires de Ria en Tunisie, oct. 2026",
+      "source": "Ria (Germany site), 2026"
+    },
+    {
+      "value": "USD 10,000",
+      "label_en": "Western Union cap on the principal per transaction in Tunisia",
+      "label_fr": "plafond Western Union du montant principal par opération en Tunisie",
+      "source": "Western Union Tunisia, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Maximum payout per transfer by cash and wallet channel in Tunisia (TND, Oct 2026)",
+    "title_fr": "Montant maximal par transfert selon le canal de retrait ou le portefeuille en Tunisie (TND, oct. 2026)",
+    "unit": "TND",
+    "bars": [
+      {
+        "label_en": "Taptap Send, Wafacash cash pickup",
+        "label_fr": "Taptap Send, retrait Wafacash",
+        "value": 20000.0
+      },
+      {
+        "label_en": "Taptap Send, Zitouna Payment cash pickup",
+        "label_fr": "Taptap Send, retrait Zitouna Payment",
+        "value": 20000.0
+      },
+      {
+        "label_en": "WorldRemit, Banque de l'Habitat branch",
+        "label_fr": "WorldRemit, agence Banque de l'Habitat",
+        "value": 5000.0
+      },
+      {
+        "label_en": "WorldRemit, Swared branch",
+        "label_fr": "WorldRemit, agence Swared",
+        "value": 3000.0
+      },
+      {
+        "label_en": "Taptap Send, Kashy mobile wallet",
+        "label_fr": "Taptap Send, portefeuille Kashy",
+        "value": 3000.0
+      }
+    ],
+    "source_name": "Taptap Send and WorldRemit help pages, October 2026 (limits can be lower depending on account status, sending country or payment method)",
+    "source_url": "https://help.taptapsend.com/en/receiving-countries/how-can-i-send-money-to-tunisia"
+  },
+  "en": {
+    "title": "How to Receive Money in Tunisia from Abroad: 2026 Guide",
+    "meta_description": "How to receive money in Tunisia: bank transfer, Western Union and MoneyGram cash pickup, Kashy wallet, ID needed, dinar exchange rate, timing and scams.",
+    "excerpt": "Bank account, cash pickup at an agent or post office, or a mobile wallet: what recipients in Tunisia need to collect money sent from abroad, and how to stay safe.",
+    "keywords": [
+      "receive money in Tunisia",
+      "how to receive money from abroad in Tunisia",
+      "Western Union pickup Tunisia",
+      "MoneyGram Tunisia",
+      "transfer to Tunisian bank account",
+      "cash pickup Tunisia",
+      "convertible dinar account"
+    ],
+    "tags": [
+      "Remittances",
+      "Cash pickup",
+      "Western Union",
+      "MoneyGram",
+      "Diaspora"
+    ],
+    "key_takeaways": [
+      "Money sent from abroad can be credited to a Tunisian bank account, collected in cash at an agent, bank or post office, or, with Taptap Send, paid into the Kashy wallet.",
+      "To collect cash you need a valid ID, the transfer reference (such as Western Union's MTCN) and a name that matches the transfer exactly.",
+      "Payouts are in Tunisian dinars, at the provider's own rate; the BCT publishes the previous day's average interbank rate as a benchmark.",
+      "Never share your reference number with anyone but the counter agent, and be wary of prize, romance or advance-fee stories."
+    ],
+    "body": "When a relative or client abroad sends you money, how you collect it depends on the service they choose: a credit to a Tunisian bank account, cash at an agent or post office, or, with a few providers, a mobile wallet. This guide explains how to **receive money in Tunisia**, what to bring to the counter, which exchange rate applies and how to avoid the scams that target recipients. Senders can compare current offers in our [money transfer comparator](page:remit).\n\n## How can I receive money from abroad in Tunisia?\n\nThere are three main routes, depending on the provider the sender picks, so agree on the method before the money is sent.\n\n- **Credit to a bank account**, in dinars.\n- **Cash pickup** at an agent, a bank branch or a post office.\n- **A mobile wallet**, offered by a small number of providers.\n\n### Transfer to a Tunisian bank account\n\nMost international operators can pay into a Tunisian account. The sender needs your full name as it appears at the bank, the bank's name and your account number. [Remitly](https://www.remitly.com/fr/en/tunisia) lists about 30 Tunisian institutions for bank deposit, including Banque Zitouna, Banque de l'Habitat, Amen Bank, Attijari Bank, BIAT and La Poste Tunisienne; Ria's German site names banks such as Amen Bank, UIB, BNA and Banque Tuniso-Libyenne. Western Union and MoneyGram also offer bank deposit from some sending countries, and Paysend pays dinars to Tunisian bank accounts or Mastercard cards. A transfer ordered at a traditional bank branch abroad is possible too, but can be costly: in the World Bank's August 2025 survey, a €140 transfer from a Société Générale branch in France cost 28.24% in total.\n\n### A mobile wallet\n\nDirect payout to a Tunisian wallet is still rare. Taptap Send can credit **Kashy**, the wallet launched in March 2026 by Tunisie Telecom with the payment institution Viamobile; in most cases the recipient has nothing to do, as the money lands in the app, and Kashy agents are listed on kashy.tn. None of the provider pages we checked offered direct payout to La Poste's [D17 or e-Dinar](post:la-poste-tunisienne-e-dinar-d17). Our guide to [mobile payments in Tunisia](post:mobile-payments-tunisia) covers the wider wallet market.\n\n## Where can I collect cash? Western Union, MoneyGram and other networks\n\nEach provider has its own payout partners, and they change; the surest way to find an authorised point is the provider's locator or app. As of October 2026:\n\n- **Western Union pickup in Tunisia** happens at participating Western Union agent locations, found with its \"find a location\" tool. Funds are usually available within minutes, subject to opening hours.\n- **MoneyGram Tunisia**: in 2020, La Poste Tunisienne and MoneyGram signed an agreement allowing recipients to collect transfers at any of more than 1,050 post offices, [Managers reported](https://managers.tn/2020/10/01/la-poste-tunisienne-et-moneygram-international-signent-une-convention-de-cooperation). MoneyGram's locator now shows over 2,200 locations in Tunisia.\n- **WorldRemit** pays cash at Swared and Banque de l'Habitat branches. At Banque de l'Habitat, the recipient must also quote \"Moneytrans\".\n- **Taptap Send** pays cash at Wafacash and Zitouna Payment agents; it says Wafacash agents are open seven days a week, 8am to 8pm.\n- **Ria** says it has more than 390 partner payout locations, with partners including Wafacash, Wifak Bank, BNA and BTK.\n\n## What do I need to collect a Western Union or MoneyGram transfer in Tunisia?\n\nThe basics are the same everywhere: **a valid ID, the transfer reference and a name that matches exactly**.\n\n- **Western Union:** a valid ID and the tracking number (MTCN). Its Tunisian page says the recipient must be over 13 and that the \"test question\" option is not available for payments in Tunisia. The principal is capped at USD 10,000, or the local equivalent, per transaction.\n- **MoneyGram:** the reference number from the sender's receipt or confirmation email and a valid photo ID (passport, national ID or residence permit). Your name on the transfer must exactly match your ID, and some agents ask you to fill in a short receive form.\n- **WorldRemit:** a Tunisian passport, national ID card or driving licence, plus the 10-digit reference sent by SMS and email.\n- **Taptap Send:** your full name, a valid government-issued ID and the pickup code.\n\nSenders should type the name exactly as written on the recipient's CIN or passport. A spelling mismatch is the most common reason a payout is refused, and changing a transfer after it is sent is difficult.\n\n## In which currency is the money paid, and at what rate?\n\nIn Tunisia, transfers are paid out in **Tunisian dinars**: Taptap Send, Remitly, Ria and Paysend all describe payout in TND.\n\nThe dinar's value is set on the Tunisian interbank foreign exchange market. Every day, the Central Bank of Tunisia (BCT) publishes the previous day's average interbank rates for information. In a 2022 clarification [reported by Kapitalis](https://kapitalis.com/tunisie/2022/07/08/taux-de-change-mise-au-point-de-la-banque-centrale-de-tunisie/), the BCT stressed that this is not \"the BCT's rate\" but the average of trades between banks.\n\nTransfer companies apply their own rate, usually with a margin. In the World Bank's survey of transfers from France (data collected in August 2025), margins ranged from slightly better than the benchmark (-0.46% at Attijariwafa Bank online) to 7.31% for Western Union cash handed over at an agent. Our guide to the [cheapest ways to send money to Tunisia](post:cheapest-way-send-money-to-tunisia) explains how to compare them.\n\n## Can I keep the money in foreign currency or convertible dinars?\n\nThat depends on where you live.\n\n- **Tunisians living abroad (TRE).** Since 2020, they can open foreign-currency accounts directly at Tunisian banks without a BCT exemption, the finance minister announced at the time, [according to Le360](https://afrique.le360.ma/tunisie/economie/2020/08/30/31689-les-tunisiens-de-letranger-vont-pouvoir-ouvrir-des-comptes-en-devises-31689/). Most banks market TRE packages with foreign-currency or **convertible-dinar accounts**, and La Poste offers a [convertible-dinar savings account](https://idaraty.tn/fr/procedures/ouverture-dun-compte-d-epargne-en-dinar-convertible) opened with a copy of a residence card. Transfer and fee rules differ by bank, so check the terms.\n- **Residents in Tunisia** can, under the 2026 Finance Law, open foreign-currency or convertible-dinar accounts with authorised banks without prior BCT approval. The funding sources listed in press reports are transfers from other such accounts, interest and the annual travel allowance. We could not confirm whether family remittances from abroad can be credited to these accounts in foreign currency; ask your bank. Our article on the [foreign exchange code reform](post:tunisia-foreign-exchange-code-reform) follows the changes.\n\n## How long does it take, and does the recipient pay fees?\n\n**Timing.** Cash pickup is usually the fastest: Western Union, WorldRemit and Taptap Send all speak of minutes, and MoneyGram said its post office payouts take minutes. Bank credits vary: Taptap Send says minutes, but up to two working days to appear on the account; Ria says transfers funded from a bank account take three to five business days; Attijariwafa Bank's online service from France arrived the next day in the World Bank survey.\n\n**Fees.** None of the Western Union, MoneyGram, WorldRemit or Taptap Send pages we checked mentions a fee for the person collecting cash: the sender pays the fee and the exchange margin. For a bank credit, your Tunisian bank may charge a commission on incoming transfers. Several banks' TRE offers advertise waived fees on incoming transfers, sometimes only for the first year, so check your bank's tariff.\n\n## How can I avoid scams when receiving money?\n\n- **Keep the reference number to yourself.** MoneyGram advises receivers not to share it with anyone they don't know well. Give it only to the counter agent.\n- **Collect only at authorised points:** an agent listed in the provider's app or locator, a bank branch or a post office. Never hand your code to an intermediary who offers to collect for you.\n- **Watch for classic stories.** Western Union's fraud guide lists romance scams (someone met online who needs money urgently), lottery or prize scams (you must pay \"fees\" to receive winnings), advance-fee loans, fake job offers and overpayment tricks. A real prize never requires you to pay first.\n- **Don't send money back to someone you have never met**, even after receiving a transfer from them.\n- **Avoid informal exchange.** Street dealers may offer more dinars per euro, but unauthorised foreign exchange operations are offences in Tunisia, and you have no recourse if something goes wrong.\n\nOnce a transfer is completed, a reversal may not be possible, so contact the provider quickly if something looks wrong. For volumes and trends, see our article on [diaspora remittances](post:diaspora-remittances-tunisia), and use the [comparator](page:remit) to check current options before each transfer.\n",
+    "faq": [
+      {
+        "q": "How do I receive money from abroad in Tunisia?",
+        "a": "Ask the sender which service they use. Depending on the provider, the money can be credited to your Tunisian bank account, collected in cash at an agent, bank branch or post office, or, with Taptap Send, paid into the Kashy mobile wallet. In every case it is paid in dinars."
+      },
+      {
+        "q": "What do I need to collect a Western Union transfer in Tunisia?",
+        "a": "A valid ID and the money transfer control number (MTCN) given by the sender. Western Union says the recipient must be over 13 and that the test question option is not available in Tunisia. The name on your ID must match the name the sender entered."
+      },
+      {
+        "q": "Can I collect a MoneyGram transfer at the post office in Tunisia?",
+        "a": "Yes. Under a 2020 agreement, MoneyGram transfers can be collected at La Poste Tunisienne's offices, more than 1,050 at the time. Bring the reference number and a valid photo ID such as your national ID card or passport."
+      },
+      {
+        "q": "Can I receive euros instead of dinars in Tunisia?",
+        "a": "Transfers to Tunisia are paid out in dinars. Tunisians living abroad can hold foreign-currency or convertible-dinar accounts at Tunisian banks, and since 2026 residents can open such accounts without prior BCT approval, but how they can be funded is regulated, so ask your bank."
+      },
+      {
+        "q": "Does the recipient pay a fee to collect money in Tunisia?",
+        "a": "The Western Union, MoneyGram, WorldRemit and Taptap Send pages we checked mention no fee for the person collecting cash; the sender pays the fee and the exchange margin. For credits to a bank account, check your bank's tariff for incoming transfers."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Recevoir de l'argent en Tunisie : le guide 2026",
+    "meta_description": "Recevoir de l'argent en Tunisie : virement sur compte, retrait Western Union ou MoneyGram, portefeuille Kashy, pièces à fournir, taux du dinar et arnaques.",
+    "excerpt": "Compte bancaire, retrait en espèces chez un agent ou à la poste, portefeuille mobile : ce dont le bénéficiaire a besoin en Tunisie pour toucher un transfert de l'étranger, sans se faire piéger.",
+    "keywords": [
+      "recevoir de l'argent en Tunisie",
+      "retrait Western Union Tunisie",
+      "retirer un transfert MoneyGram en Tunisie",
+      "recevoir un virement de l'étranger Tunisie",
+      "compte en dinars convertibles",
+      "compte en devises TRE",
+      "retrait d'argent à la poste Tunisie"
+    ],
+    "tags": [
+      "Transferts d'argent",
+      "Retrait en espèces",
+      "Western Union",
+      "MoneyGram",
+      "Diaspora"
+    ],
+    "key_takeaways": [
+      "L'argent envoyé de l'étranger peut être crédité sur un compte bancaire tunisien, retiré en espèces chez un agent, en banque ou à la poste, ou, avec Taptap Send, versé sur le portefeuille Kashy.",
+      "Pour un retrait en espèces, il faut une pièce d'identité valide, la référence du transfert (comme le MTCN de Western Union) et un nom identique à celui du transfert.",
+      "Les fonds sont versés en dinars tunisiens au taux de l'opérateur ; la BCT publie chaque jour le cours moyen interbancaire de la veille, utile comme référence.",
+      "Ne communiquez jamais votre numéro de référence à quelqu'un d'autre que l'agent au guichet, et méfiez-vous des histoires de gain, de romance ou de frais à avancer."
+    ],
+    "body": "Quand un proche ou un client à l'étranger vous envoie de l'argent, la façon de le récupérer dépend du service choisi : crédit sur un compte bancaire tunisien, retrait en espèces chez un agent ou à la poste ou, chez quelques opérateurs, portefeuille mobile. Ce guide explique comment **recevoir de l'argent en Tunisie**, quoi présenter au guichet, quel taux de change s'applique et comment éviter les arnaques qui visent les bénéficiaires. L'expéditeur peut comparer les offres du moment dans notre [comparateur de transferts d'argent](page:remit).\n\n## Comment recevoir de l'argent de l'étranger en Tunisie ?\n\nIl existe trois grandes voies, selon l'opérateur choisi par l'expéditeur : mettez-vous d'accord sur le mode de réception avant l'envoi.\n\n- **Un crédit sur compte bancaire**, en dinars.\n- **Un retrait en espèces** chez un agent, dans une agence bancaire ou un bureau de poste.\n- **Un portefeuille mobile**, proposé par un petit nombre d'opérateurs.\n\n### Recevoir un virement de l'étranger sur un compte tunisien\n\nLa plupart des opérateurs internationaux peuvent créditer un compte tunisien. L'expéditeur a besoin de votre nom complet tel qu'il figure à la banque, du nom de la banque et de votre numéro de compte. [Remitly](https://www.remitly.com/fr/en/tunisia) cite une trentaine d'établissements tunisiens, dont Banque Zitouna, Banque de l'Habitat, Amen Bank, Attijari Bank, la BIAT et La Poste Tunisienne ; le site allemand de Ria mentionne notamment Amen Bank, l'UIB, la BNA et la Banque Tuniso-Libyenne. Western Union et MoneyGram proposent aussi le versement sur compte depuis certains pays, et Paysend verse des dinars sur des comptes bancaires tunisiens ou des cartes Mastercard. Un virement ordonné au guichet d'une banque traditionnelle à l'étranger est possible, mais peut coûter cher : dans l'enquête de la Banque mondiale d'août 2025, un envoi de 140 € depuis une agence Société Générale en France revenait à 28,24 % au total.\n\n### Un portefeuille mobile\n\nLe versement direct sur un portefeuille tunisien reste rare. Taptap Send peut créditer **Kashy**, le portefeuille lancé en mars 2026 par Tunisie Telecom avec l'établissement de paiement Viamobile ; dans la plupart des cas, le bénéficiaire n'a rien à faire, l'argent arrive dans l'application, et les agents Kashy sont indiqués sur kashy.tn. Aucune des pages d'opérateurs consultées ne proposait de versement direct sur [D17 ou l'e-Dinar](post:la-poste-tunisienne-e-dinar-d17) de La Poste. Notre dossier sur le [paiement mobile en Tunisie](post:mobile-payments-tunisia) présente l'ensemble du marché.\n\n## Où retirer de l'argent en espèces ? Western Union, MoneyGram et les autres réseaux\n\nChaque opérateur a ses propres partenaires de paiement, et ils évoluent ; le plus sûr est de passer par l'outil de localisation ou l'application de l'opérateur. En octobre 2026 :\n\n- **Le retrait Western Union en Tunisie** se fait dans les points de vente Western Union participants, à trouver avec son outil « Trouver un point de vente ». Les fonds sont en général disponibles en quelques minutes, selon les horaires d'ouverture.\n- **MoneyGram :** en 2020, La Poste Tunisienne et MoneyGram ont signé une convention permettant de retirer les transferts dans n'importe lequel de plus de 1 050 bureaux de poste, [selon Managers](https://managers.tn/2020/10/01/la-poste-tunisienne-et-moneygram-international-signent-une-convention-de-cooperation). L'outil de localisation de MoneyGram affiche aujourd'hui plus de 2 200 points en Tunisie.\n- **WorldRemit** paie en espèces dans les agences Swared et Banque de l'Habitat. À la Banque de l'Habitat, il faut en plus mentionner « Moneytrans ».\n- **Taptap Send** paie en espèces chez les agents Wafacash et Zitouna Payment ; selon lui, les agents Wafacash sont ouverts sept jours sur sept, de 8 h à 20 h.\n- **Ria** annonce plus de 390 points de retrait partenaires, parmi lesquels Wafacash, Wifak Bank, la BNA et la BTK.\n\n## Que faut-il pour retirer un transfert Western Union ou MoneyGram en Tunisie ?\n\nLes règles de base sont partout les mêmes : **une pièce d'identité valide, la référence du transfert et un nom identique à celui saisi par l'expéditeur**.\n\n- **Western Union :** une pièce d'identité valide et le numéro de suivi (MTCN). Sa page tunisienne précise que le bénéficiaire doit avoir plus de 13 ans et que l'option « question test » n'est pas disponible pour les paiements en Tunisie. Le montant principal est plafonné à 10 000 dollars, ou l'équivalent en monnaie locale, par opération.\n- **MoneyGram :** le numéro de référence figurant sur le reçu ou l'e-mail de confirmation de l'expéditeur, et une pièce d'identité avec photo (passeport, carte d'identité nationale ou titre de séjour). Le nom sur le transfert doit correspondre exactement à celui de la pièce, et certains agents font remplir un court formulaire de réception.\n- **WorldRemit :** passeport tunisien, carte d'identité nationale ou permis de conduire, et la référence à 10 chiffres envoyée par SMS et e-mail.\n- **Taptap Send :** votre nom complet, une pièce d'identité officielle valide et le code de retrait.\n\nL'expéditeur doit saisir le nom exactement comme sur la CIN ou le passeport du bénéficiaire. Une faute d'orthographe est la cause la plus fréquente de refus, et modifier un transfert déjà envoyé est compliqué.\n\n## En quelle monnaie l'argent est-il versé, et à quel taux ?\n\nEn Tunisie, les transferts sont versés en **dinars tunisiens** : Taptap Send, Remitly, Ria et Paysend indiquent tous un paiement en TND.\n\nLa valeur du dinar se forme sur le marché des changes interbancaire tunisien. Chaque jour, la Banque centrale de Tunisie (BCT) publie, à titre indicatif, les cours moyens interbancaires de la veille. Dans une mise au point de 2022 [rapportée par Kapitalis](https://kapitalis.com/tunisie/2022/07/08/taux-de-change-mise-au-point-de-la-banque-centrale-de-tunisie/), la BCT a rappelé que ce cours n'est pas « celui de la BCT », mais la moyenne des échanges entre banques.\n\nLes sociétés de transfert appliquent leur propre taux, en général avec une marge. Dans l'enquête de la Banque mondiale sur les envois depuis la France (données collectées en août 2025), les marges allaient d'un taux légèrement meilleur que la référence (-0,46 % chez Attijariwafa Bank en ligne) à 7,31 % pour Western Union avec des espèces déposées en agence. Notre guide sur les [moyens les moins chers d'envoyer de l'argent en Tunisie](post:cheapest-way-send-money-to-tunisia) explique comment comparer.\n\n## Peut-on garder l'argent en devises ou en dinars convertibles ?\n\nTout dépend de votre lieu de résidence.\n\n- **Les Tunisiens résidant à l'étranger (TRE).** Depuis 2020, ils peuvent ouvrir des comptes en devises directement auprès des banques tunisiennes, sans dérogation de la BCT, avait annoncé le ministre des Finances, [selon Le360](https://afrique.le360.ma/tunisie/economie/2020/08/30/31689-les-tunisiens-de-letranger-vont-pouvoir-ouvrir-des-comptes-en-devises-31689/). La plupart des banques proposent des offres TRE avec **compte en devises ou compte en dinars convertibles**, et La Poste propose un [compte d'épargne en dinars convertibles](https://idaraty.tn/fr/procedures/ouverture-dun-compte-d-epargne-en-dinar-convertible) ouvert sur présentation d'une copie de la carte de séjour. Les règles de transfert et les frais varient selon la banque : lisez les conditions.\n- **Les résidents en Tunisie** peuvent, en vertu de la loi de finances 2026, ouvrir des comptes en devises ou en dinars convertibles auprès des banques agréées sans accord préalable de la BCT. Les sources d'alimentation citées par la presse sont les virements depuis d'autres comptes de ce type, les intérêts et l'allocation touristique annuelle. Nous n'avons pas pu confirmer qu'un transfert familial venu de l'étranger puisse y être crédité en devises : renseignez-vous auprès de votre banque. Notre article sur la [réforme du code des changes](post:tunisia-foreign-exchange-code-reform) suit ces évolutions.\n\n## Combien de temps faut-il, et le bénéficiaire paie-t-il des frais ?\n\n**Délais.** Le retrait en espèces est généralement le plus rapide : Western Union, WorldRemit et Taptap Send parlent de quelques minutes, et MoneyGram annonçait un retrait en quelques minutes dans les bureaux de poste. Pour un compte bancaire, cela varie : quelques minutes selon Taptap Send, mais jusqu'à deux jours ouvrés pour apparaître sur le compte ; trois à cinq jours ouvrés chez Ria quand l'envoi est financé par virement ; le service en ligne d'Attijariwafa Bank depuis la France arrivait le lendemain dans l'enquête de la Banque mondiale.\n\n**Frais.** Aucune des pages de Western Union, MoneyGram, WorldRemit ou Taptap Send que nous avons consultées ne mentionne de frais pour la personne qui retire les espèces : c'est l'expéditeur qui paie les frais et la marge de change. Pour un crédit en compte, votre banque tunisienne peut prélever une commission sur les virements reçus. Plusieurs offres TRE mettent en avant la gratuité des transferts entrants, parfois seulement la première année : vérifiez les tarifs de votre banque.\n\n## Comment éviter les arnaques quand on reçoit de l'argent ?\n\n- **Gardez le numéro de référence pour vous.** MoneyGram conseille de ne pas le communiquer à une personne que l'on ne connaît pas bien. Ne le donnez qu'à l'agent au guichet.\n- **Ne retirez que dans un point agréé :** un agent listé dans l'application ou l'outil de localisation de l'opérateur, une agence bancaire ou un bureau de poste. Ne confiez jamais votre code à un intermédiaire qui propose de retirer à votre place.\n- **Méfiez-vous des scénarios classiques.** Le guide anti-fraude de Western Union cite l'arnaque sentimentale (une personne rencontrée en ligne qui a besoin d'argent d'urgence), la fausse loterie ou le faux gain (il faudrait payer des « frais » pour toucher le lot), les prêts contre avance de frais, les fausses offres d'emploi et les trop-perçus à rembourser. Un vrai gain n'exige jamais de payer d'abord.\n- **Ne renvoyez pas d'argent à quelqu'un que vous n'avez jamais rencontré**, même après avoir reçu un transfert de sa part.\n- **Évitez le change informel.** Les cambistes de rue proposent parfois plus de dinars par euro, mais les opérations de change non autorisées sont des infractions en Tunisie, et vous n'avez aucun recours en cas de problème.\n\nUne fois le transfert payé, il peut être impossible de l'annuler : contactez vite l'opérateur si quelque chose vous paraît anormal. Pour les volumes et les tendances, voir notre article sur les [transferts de la diaspora](post:diaspora-remittances-tunisia), et consultez le [comparateur](page:remit) avant chaque envoi.\n",
+    "faq": [
+      {
+        "q": "Comment recevoir de l'argent de l'étranger en Tunisie ?",
+        "a": "Demandez à l'expéditeur quel service il utilise. Selon l'opérateur, l'argent peut être crédité sur votre compte bancaire tunisien, retiré en espèces chez un agent, dans une agence bancaire ou un bureau de poste, ou, avec Taptap Send, versé sur le portefeuille mobile Kashy. Dans tous les cas, il est payé en dinars."
+      },
+      {
+        "q": "Quels documents pour un retrait Western Union en Tunisie ?",
+        "a": "Une pièce d'identité valide et le numéro de suivi (MTCN) communiqué par l'expéditeur. Western Union précise que le bénéficiaire doit avoir plus de 13 ans et que l'option « question test » n'est pas disponible en Tunisie. Le nom sur la pièce doit correspondre à celui saisi par l'expéditeur."
+      },
+      {
+        "q": "Peut-on retirer un transfert MoneyGram à la poste en Tunisie ?",
+        "a": "Oui. Depuis une convention signée en 2020, les transferts MoneyGram se retirent dans les bureaux de La Poste Tunisienne, plus de 1 050 à l'époque. Présentez le numéro de référence et une pièce d'identité avec photo, comme la CIN ou le passeport."
+      },
+      {
+        "q": "Peut-on recevoir des euros plutôt que des dinars en Tunisie ?",
+        "a": "Les transferts vers la Tunisie sont payés en dinars. Les TRE peuvent détenir des comptes en devises ou en dinars convertibles dans les banques tunisiennes et, depuis 2026, les résidents peuvent ouvrir ces comptes sans accord préalable de la BCT, mais leur alimentation est encadrée : renseignez-vous auprès de votre banque."
+      },
+      {
+        "q": "Le bénéficiaire paie-t-il des frais pour retirer l'argent ?",
+        "a": "Les pages de Western Union, MoneyGram, WorldRemit et Taptap Send que nous avons consultées ne mentionnent aucun frais pour la personne qui retire des espèces : l'expéditeur paie les frais et la marge de change. Pour un crédit en compte, vérifiez les tarifs de votre banque sur les virements reçus."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "How can I send money to Tunisia?",
+      "publisher": "Taptap Send",
+      "url": "https://help.taptapsend.com/en/receiving-countries/how-can-i-send-money-to-tunisia"
+    },
+    {
+      "title": "Where can my recipient collect the funds in Tunisia?",
+      "publisher": "WorldRemit",
+      "url": "https://www.worldremit.com/en/tunisia/cash-pickup"
+    },
+    {
+      "title": "Recevoir de l'argent : conditions pour le bénéficiaire (Tunisie)",
+      "publisher": "Western Union",
+      "url": "https://www.westernunion.com/tn/fr/send-money.html"
+    },
+    {
+      "title": "Receive money at location",
+      "publisher": "MoneyGram",
+      "url": "https://www.moneygram.com/be/en/help-center/faq/send-receive/receive-money-at-location"
+    },
+    {
+      "title": "La Poste Tunisienne et MoneyGram International signent une convention de coopération",
+      "publisher": "Managers",
+      "url": "https://managers.tn/2020/10/01/la-poste-tunisienne-et-moneygram-international-signent-une-convention-de-cooperation"
+    },
+    {
+      "title": "Taux de change : mise au point de la Banque centrale de Tunisie",
+      "publisher": "Kapitalis",
+      "url": "https://kapitalis.com/tunisie/2022/07/08/taux-de-change-mise-au-point-de-la-banque-centrale-de-tunisie/"
+    }
+  ]
+}
