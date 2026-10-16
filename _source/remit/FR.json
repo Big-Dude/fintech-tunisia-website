@@ -732,6 +732,24 @@
    "fx_margin_pct": 2.53,
    "total_cost_pct": 12.96,
    "source_url": "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+  },
+  {
+   "provider_id": "sendwave",
+   "provider": "Sendwave",
+   "firm_type": "fintech",
+   "product": "App transfer (price shown in app only)",
+   "send_method": [
+    "app"
+   ],
+   "payout": [],
+   "speed": null,
+   "basis_usd": null,
+   "send_amount": null,
+   "fee": null,
+   "fx_margin_pct": null,
+   "total_cost_pct": null,
+   "source_url": "https://www.sendwave.com/fr/currency-converter/200-eur_fr-tnd_tn",
+   "note": "Added 2026-10-16: Sendwave publishes a FR→Tunisia converter page, but fees/rates load only in the app; not in World Bank RPW."
   }
  ],
  "providers": {
@@ -861,6 +879,22 @@
    "tunisia_payout_ar": "في مسح البنك الدولي، تحويل بنكي إلى حساب في بنك تابع أو شريك في تونس، خلال 3 إلى 5 أيام.",
    "source_urls": [
     "https://remittanceprices.worldbank.org/corridor/France/Tunisia"
+   ]
+  },
+  "sendwave": {
+   "name": "Sendwave",
+   "website": "https://www.sendwave.com/",
+   "entity": "Sendwave SA (Belgium, company no. 0733.531.321)",
+   "regulator": "National Bank of Belgium (NBB)",
+   "regulated_en": "Sendwave (part of the Zepz group, which also owns WorldRemit) says it is authorised in the EU by the National Bank of Belgium, with its licence passported to other EU countries. The EU entity listed in public registers is Sendwave SA, a Belgian company.",
+   "regulated_fr": "Sendwave (groupe Zepz, également propriétaire de WorldRemit) indique être agréé dans l'UE par la Banque nationale de Belgique, avec un passeport européen. L'entité européenne figurant dans les registres publics est Sendwave SA, société belge.",
+   "regulated_ar": "تقول Sendwave (التابعة لمجموعة Zepz المالكة أيضًا لـ WorldRemit) إنها مرخّصة في الاتحاد الأوروبي من البنك الوطني البلجيكي، مع جواز سفر أوروبي يتيح لها العمل في بلدان الاتحاد الأخرى. والكيان الأوروبي الوارد في السجلات العمومية هو Sendwave SA، وهي شركة بلجيكية.",
+   "tunisia_payout_en": null,
+   "tunisia_payout_fr": null,
+   "tunisia_payout_ar": null,
+   "source_urls": [
+    "https://www.sendwave.com/en/security/trust-regulations",
+    "https://uzraudziba.bank.lv/en//market/payment-service-providers/payment-institutions/service-providers-from-the-eea/freedom-to-provide-services/sendwave-sa"
    ]
   }
  },

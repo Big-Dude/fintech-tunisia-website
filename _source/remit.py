@@ -63,6 +63,8 @@ def offers(cc):
         p = provider(cc, g["pid"])
         url, ref = link_for(cc, g["pid"], p)
         g.update({"url": url, "ref": ref, "reg": p.get("regulator"), "ent": p.get("entity")})
+        rr = REFERRALS.get(g["pid"]) or {}
+        g["promo"] = {L: rr.get("promo_" + L) for L in ("en", "fr", "ar") if rr.get("promo_" + L)} if ref else {}
         out.append(g)
     return out
 
@@ -257,6 +259,7 @@ def payload(L):
             p = provider(cc, g["pid"])
             g["note"] = p.get("regulated_" + L) or ""
             g["paid"] = p.get("tunisia_payout_" + L) or ""
+            g["promo"] = (g.get("promo") or {}).get(L, "")
     return {"rate": FX["rate"], "date": FX["date"], "corridors": cors, "L": L, "locale": LOCALE[L],
             "lbl": {"ch": lab["ch"], "po": lab["po"], "sp": lab["sp"]},
             "t": {k: R[L][k] for k in ("gets", "pays", "incl", "fee", "fx", "tot", "speed", "safety", "notconf", "go", "best", "fastest",

@@ -62,7 +62,7 @@
  },
  "western-union": {
   "default": "",
-  "FR": "",
+  "FR": "https://ssqt.co/mQY81L9",
   "IT": "",
   "DE": ""
  },
@@ -83,5 +83,14 @@
   "FR": "",
   "IT": "",
   "DE": ""
+ },
+ "sendwave": {
+  "default": "https://try.sendwave.com/kjap/ix0mxkyc",
+  "FR": "",
+  "IT": "",
+  "DE": "",
+  "promo_en": "Referral offer: €10 credit on your first transfer with code IS11I (Sendwave's terms apply).",
+  "promo_fr": "Offre de parrainage : 10 € de crédit sur votre premier transfert avec le code IS11I (conditions Sendwave).",
+  "promo_ar": "عرض إحالة: رصيد بقيمة 10 يورو على أول تحويل باستعمال الرمز IS11I (وفق شروط Sendwave)."
  }
 }
