@@ -193,7 +193,7 @@ R = {
     },
 }
 
-LOCALE = {"en": "en-GB", "fr": "fr-FR", "ar": "ar-TN-u-nu-latn"}
+LOCALE = {"en": "en-US", "fr": "fr-FR", "ar": "ar-TN-u-nu-latn"}
 
 
 def best_lines(L):

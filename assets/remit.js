@@ -93,14 +93,22 @@
   $("remit-sort").addEventListener("change", function () { state.sort = this.value; render(); });
   render();
 
-  // Daily mid-market EUR→TND rate (open data, refreshed every day); keeps the built-in rate if unavailable.
-  var urls = ["https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/eur.min.json",
-              "https://latest.currency-api.pages.dev/v1/currencies/eur.min.json"];
+  // Daily mid-market EUR→TND rate from an open dataset republished every day (around 04:00 UTC).
+  // Ask for today's dated release first (immutable, so never stale), then the previous days,
+  // then the "latest" aliases; keep the built-in rate if nothing newer is reachable.
+  var base = "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@";
+  var urls = [];
+  for (var k = 0; k < 3; k++) {
+    var d = new Date(Date.now() - k * 864e5);
+    urls.push(base + d.getUTCFullYear() + "." + (d.getUTCMonth() + 1) + "." + d.getUTCDate() + "/v1/currencies/eur.min.json");
+  }
+  urls.push("https://latest.currency-api.pages.dev/v1/currencies/eur.min.json", base + "latest/v1/currencies/eur.min.json");
   (function tryNext(i) {
     if (i >= urls.length || !window.fetch) return;
     fetch(urls[i]).then(function (r) { if (!r.ok) throw 0; return r.json(); }).then(function (j) {
       var v = j && j.eur && j.eur.tnd;
-      if (v > 1 && v < 10 && (!D.date || j.date >= D.date)) setRate(v, j.date);
+      if (!(v > 1 && v < 10)) throw 0;
+      if (!D.date || j.date >= D.date) setRate(v, j.date); else tryNext(i + 1);
     }).catch(function () { tryNext(i + 1); });
   })(0);
 })();
