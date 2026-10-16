@@ -59,6 +59,7 @@
         '<div class="ro-main"><div class="ro-name"><strong>' + esc(g.name) + "</strong><span>" + how + "</span></div>" +
         '<div class="ro-gets"><span class="k">' + esc(T.gets) + "</span>" + gets + "</div>" +
         '<dl class="ro-meta">' + meta + "</dl>" + btn + "</div>" +
+        (g.promo ? '<p class="ro-promo">' + esc(g.promo) + "</p>" : "") +
         '<details class="ro-det"><summary><span class="shield' + (g.reg ? "" : " shield-no") + '" aria-hidden="true"></span>' + reg + "</summary>" + det + "</details></article>";
     }).join("");
     $("remit-results").innerHTML = html;
