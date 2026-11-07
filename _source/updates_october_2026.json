@@ -1,0 +1,26 @@
+[
+  {
+    "type": "directory",
+    "id": "vermeg",
+    "change": "On 2 Nov 2026 Advent International signed an agreement to acquire VERMEG from Charterhouse Capital Partners and founder Badreddine Ouali; an ADIA subsidiary joins as minority co-investor; price undisclosed; completion expected H1 2027 subject to regulatory approvals. On completion Ouali becomes Vice Chairman (remains shareholder) and Advent Operating Partner Mike Ettling becomes Chairman. Status: pending acquisition.",
+    "source_url": "https://www.adventinternational.com/news/advent-to-acquire-vermeg-a-global-provider-of-capital-markets-and-life-insurance-technology/"
+  },
+  {
+    "type": "directory",
+    "id": "monetique-tunisie",
+    "change": "Add person: Nizar Chaddad, Director General (CEO), succeeding Bilel Dernaoui; reported 2 Nov 2026 from his LinkedIn announcement; previously 27 years at the BCT. Exact effective date not stated.",
+    "source_url": "https://managers.tn/2026/11/02/nizar-chaddad-succede-a-bilel-dernaoui-a-la-tete-de-la-societe-monetique-tunisie/"
+  },
+  {
+    "type": "tracker",
+    "id": "finance-bill-2027",
+    "change": "New entry (type bill, issuer Government/Parliament, status in_parliament): draft 2027 finance law. Art. 69: 0% customs duty on imported electronic payment terminals (TPE) and their insertion in Table A of the VAT Code (no. 21 bis); Art. 68: 10% customs duty on smartphones; Art. 67: TND 20 stamp duty per mobile phone registration in the central equipment registry (first registration exempt); Art. 13: TND 10M interest-free participatory loan line for labelled-startup founders (FNE-funded, managed by BFPME, 2027-2028). Reported 15-16 Oct 2026.",
+    "source_url": "https://fr.allafrica.com/stories/202610160595.html"
+  },
+  {
+    "type": "tracker",
+    "id": "bct-circular-2026-10",
+    "change": "Check summary wording: tracker says the circular 'keeps' the TND 1,500/5,000/20,000 caps, whereas African Manager (13 Oct 2026) says caps were raised from 500/1,000/5,000 under 2018-16, and adds daily cash-withdrawal limits of TND 3,000 (level 2) and 10,000 (level 3), cash-transfer cap TND 3,000 per operation and TND 20,000 for funds received from abroad. Verify against the circular text before editing.",
+    "source_url": "https://africanmanager.com/contre-le-cash-la-bct-releve-les-retraits-en-especes/"
+  }
+]

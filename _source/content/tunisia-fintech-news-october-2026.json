@@ -1,0 +1,214 @@
+{
+  "slug": "tunisia-fintech-news-october-2026",
+  "category": "ecosystem",
+  "cover_motif": "network-nodes",
+  "date": "2026-11-07",
+  "stats": [
+    {
+      "value": "TND 29.3bn",
+      "label_en": "Cash in circulation, end of June 2026",
+      "label_fr": "Monnaie fiduciaire en circulation, fin juin 2026",
+      "source": "BCT via African Manager, Oct. 2026"
+    },
+    {
+      "value": "17",
+      "label_en": "Startups in the first Anava–216 Capital cohort",
+      "label_fr": "Startups de la 1re cohorte Anava–216 Capital",
+      "source": "Entreprises Magazine, Oct. 2026"
+    },
+    {
+      "value": "$183M",
+      "label_en": "Raised by African startups in October 2026",
+      "label_fr": "Levés par les startups africaines en octobre 2026",
+      "source": "Africa: The Big Deal via Techeconomy, Nov. 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "African startup funding by country, October 2026 ($M)",
+    "title_fr": "Financement des startups africaines par pays, octobre 2026 (M$)",
+    "unit": "$M",
+    "bars": [
+      {
+        "label_en": "Nigeria",
+        "label_fr": "Nigeria",
+        "value": 42.0
+      },
+      {
+        "label_en": "Morocco",
+        "label_fr": "Maroc",
+        "value": 40.0
+      },
+      {
+        "label_en": "Tanzania",
+        "label_fr": "Tanzanie",
+        "value": 40.0
+      },
+      {
+        "label_en": "Egypt",
+        "label_fr": "Égypte",
+        "value": 19.0
+      },
+      {
+        "label_en": "Senegal",
+        "label_fr": "Sénégal",
+        "value": 13.0
+      }
+    ],
+    "source_name": "Africa: The Big Deal, via Techeconomy (5 Nov. 2026)",
+    "source_url": "https://techeconomy.ng/african-startup-funding-october-2026-morocco-tanzania"
+  },
+  "en": {
+    "title": "Tunisia Fintech News October 2026: The Month's Key Stories",
+    "meta_description": "Tunisia fintech news, October 2026: BCT payment rules countdown, PLF 2027 measures, a new head for SMT, Advent's deal for Vermeg and Anava's cohort.",
+    "excerpt": "Our first monthly roundup: new payment-institution rules near, the 2027 budget cuts duty on payment terminals, and Advent agrees to buy Tunisian-born Vermeg.",
+    "keywords": [
+      "Tunisia fintech news October 2026",
+      "Tunisia fintech news",
+      "BCT circular 2026-10",
+      "PLF 2027 Tunisia payment terminals",
+      "Vermeg Advent acquisition",
+      "Monétique Tunisie new CEO",
+      "Anava 216 Capital cohort"
+    ],
+    "tags": [
+      "Monthly roundup",
+      "Regulation",
+      "Payments",
+      "Funding",
+      "Africa"
+    ],
+    "key_takeaways": [
+      "BCT Circular 2026-10 on payment institutions takes effect around the end of December 2026, and October coverage focused on its caps, e-KYC and partnership approvals.",
+      "The draft 2027 finance bill would set customs duty on payment terminals at 0% and create a TND 10 million interest-free loan line for labelled startups.",
+      "Advent International agreed on 2 November to acquire Tunisian-born VERMEG, with completion expected in H1 2027.",
+      "Regional capital kept flowing to fintech, which took 62% of MENA funding in Q3 2026, but Tunisia was absent from both the MENA and African monthly tallies."
+    ],
+    "body": "October 2026 was a month of rule-setting rather than deal-making for Tunisian fintech. The payment-institution rulebook published at the end of September dominated the conversation, the draft 2027 finance bill brought small but concrete measures for payments and startups, and the biggest transaction involved a Tunisian-born software company being sold to a US private equity firm. This first monthly roundup of Tunisia fintech news covers 1 October to 6 November 2026.\n\n## Regulation: the new rules take shape\n\n### Payment institutions count down to Circular 2026-10\n\nThe Central Bank of Tunisia (BCT) issued Circular No. 2026-10 on 25 September and posted a corrected French version on 28 September. Throughout October, the press unpacked what it means. In a detailed reading published on 13 October, [African Manager](https://africanmanager.com/contre-le-cash-la-bct-releve-les-retraits-en-especes/) highlighted the new account ceilings (TND 1,500, 5,000 and 20,000 for levels 1, 2 and 3), daily cash withdrawal limits of TND 3,000 for level 2 and TND 10,000 for level 3, and the extension of remote account opening to level 3, with two-factor authentication and a liveness check. Client money must be placed by the next business day in a single segregated account at a depositary bank.\n\n[Launch Base Africa](https://launchbaseafrica.com/2026/09/28/tunisias-fintech/) described the text as a crackdown, pointing to prior BCT approval for partnerships, white-label deals and new fees, security audits and heavy reporting duties. Its argument: well-capitalised players such as Ooredoo, the banks and La Poste Tunisienne will absorb the costs more easily than early-stage startups.\n\n**Why it matters:** the circular enters into force three months after publication, around the end of December 2026. Licensed players such as walletii by Ooredoo have weeks, not months, to adapt products and contracts. Our explainer on [payment institutions in Tunisia](post:payment-institutions-tunisia) covers the licensing framework.\n\n### CMF warns against unlicensed investment offers on social media\n\nOn 30 October, the Financial Market Council (CMF) warned the public about investment services offered on social networks by unlicensed people or entities. It named ELINOJA PATRIMOINE, which it says was offering third-party portfolio management online without having filed any application for approval, and said it would refer the matter to the public prosecutor, according to [Entreprises Magazine](https://www.entreprises-magazine.com/tunisie-mise-en-garde-du-cmf-contre-les-services-financiers-proposes-sur-les-reseaux-sociaux-par-des-entites-non-agreees/).\n\n**Why it matters:** in Tunisia, managing portfolios for third parties is reserved for licensed stockbrokers, asset management companies and banks. Any wealthtech or investment app has to work through one of them, or obtain approval itself.\n\n## Payments: cheaper terminals, a new switch boss, stubborn cash\n\n### Draft 2027 finance bill: zero customs duty on payment terminals\n\nThe draft 2027 finance law (PLF 2027), reported by La Presse on 16 October, would cut the customs duty on imported electronic payment terminals (POS) to 0% (Article 69) and add them to Table A of the VAT Code. The stated aim is to encourage the use of electronic payment and the digital transition. The same bill would lower customs duty on smartphones to 10% (Article 68). It also introduces a TND 20 stamp duty on registering a mobile phone in the central device registry, with the first registration exempt (Article 67).\n\n**Why it matters:** merchant acceptance is one of the weak links of digital payment in Tunisia. Cheaper terminals help banks and acquirers expand their networks. These are proposals: Parliament still has to vote on the bill.\n\n### Nizar Chaddad takes the helm of Société Monétique Tunisie\n\nNizar Chaddad, who spent 27 years at the BCT, has succeeded Bilel Dernaoui as head of Société Monétique Tunisie (SMT), the national card and electronic payment switch. [Managers](https://managers.tn/2026/11/02/nizar-chaddad-succede-a-bilel-dernaoui-a-la-tete-de-la-societe-monetique-tunisie/) reported the appointment on 2 November, based on his own LinkedIn announcement. At the central bank he worked on financial innovation, inclusion and digital payments. La Tribune Economique says he was involved in mobile payment and the TuniChèque platform.\n\n**Why it matters:** SMT sits at the centre of interoperability between banks, La Poste Tunisienne and payment institutions. A leader from the regulator's payments side could speed up work on QR codes, contactless payments and connecting fintechs to the national switch.\n\n### Cash keeps growing despite the digital push\n\nOn 22 October, [African Manager](https://en.africanmanager.com/cash-at-every-turn/) used the BCT's financial statistics bulletin to show that banknotes and coins in circulation reached TND 29.285 billion at the end of June 2026, up 17.6% year on year by its calculation. Mobile and online payments are growing fast, but from a small base.\n\n**Why it matters:** the growth in cash is the backdrop to every policy above, from tighter wallet rules to cheaper terminals. Our analysis of [cash and informality in Tunisia](post:cash-economy-tunisia) explains why it persists.\n\n## Funding & startups\n\n### Advent International agrees to buy Vermeg\n\nOn 2 November, US private equity firm [Advent International announced](https://www.adventinternational.com/news/advent-to-acquire-vermeg-a-global-provider-of-capital-markets-and-life-insurance-technology/) an agreement to acquire VERMEG, the Tunisian-born provider of software for capital markets and life insurance. The sellers are Charterhouse Capital Partners and founder Badreddine Ouali. Ouali remains a shareholder and becomes Vice Chairman, and a subsidiary of the Abu Dhabi Investment Authority (ADIA) joins as a minority co-investor. The price was not disclosed. Completion is expected in the first half of 2027, subject to regulatory approvals.\n\n**Why it matters:** it is one of the largest exits linked to Tunisian tech. VERMEG sells to central banks, clearing houses and insurers rather than consumers. The deal shows that financial infrastructure software built from Tunis can attract top-tier global buyers.\n\n### Anava and 216 Capital fund a first cohort of 17 startups\n\nAt the Bigtech Africa show in Tunis (13–14 October), Smart Capital CEO Tarek Triki presented the first results of the alliance between the Anava fund of funds and 216 Capital. According to [Entreprises Magazine](https://www.entreprises-magazine.com/bigtech-africa-anava-et-216-capital-financent-une-premiere-cohorte-de-17-startups-tunisiennes-a-hauteur-de-11-million-deuros/), 17 startups shared a €1.1 million envelope, each with a €50,000 initial ticket. The programme aims to prepare 60 startups across three cohorts to raise from international investors.\n\n**Why it matters:** early-stage cheques remain scarce in Tunisia. See our guide to the [Anava fund of funds](post:anava-fund-of-funds).\n\n### Startups and small firms in the 2027 budget\n\nThe PLF 2027 also proposes a TND 10 million line of interest-free participatory loans for founders of labelled startups (Article 13), financed by the National Employment Fund and managed by BFPME, for 2027–2028, [La Presse reported](https://fr.allafrica.com/stories/202610150614.html) on 15 October. The money could only be used to strengthen startups' equity.\n\n## Across Africa and MENA\n\n### African startup funding slows to $183 million in October\n\nData from Africa: The Big Deal, reported by [Techeconomy](https://techeconomy.ng/african-startup-funding-october-2026-morocco-tanzania) on 5 November, shows African startups raised $183 million in October 2026 (deals of $100,000 or more). That is 24% less than September. Nigeria led with $42 million, followed by Morocco and Tanzania with $40 million each. Tunisia did not feature.\n\n### MENA fintech takes 62% of Q3 funding\n\n[Wamda](https://www.wamda.com/en/2026/10/mena-startup-funding-jumps-165-billion-q3-saudi-arabia-taking-lead) reported on 12 October that MENA startups raised $1.65 billion in Q3 2026 across 145 deals. Fintech took $1.03 billion, or about 62%, largely through Saudi companies. Egypt's Paymob raised a $35 million pre-Series C. Tunisia does not appear in the report.\n\n**Why it matters:** capital is flowing to fintech in the region, but not to Tunisia. Our [startup funding trends](post:tunisia-startup-funding-trends) tracker follows the gap.\n",
+    "faq": [
+      {
+        "q": "What were the main fintech news in Tunisia in October 2026?",
+        "a": "The month was shaped by press analysis of BCT Circular 2026-10 on payment institutions, the draft 2027 finance bill (0% customs duty on payment terminals, interest-free loans for labelled startups), and a CMF warning about unlicensed investment offers on social media. Just after the month closed, Advent International agreed to buy VERMEG and Nizar Chaddad was reported as the new head of Société Monétique Tunisie."
+      },
+      {
+        "q": "When does BCT Circular 2026-10 come into force?",
+        "a": "The circular was issued on 25 September 2026 and enters into force three months after publication, which puts it around the end of December 2026. It replaces Circular 2018-16 as the rulebook for payment institutions."
+      },
+      {
+        "q": "What does the 2027 finance bill propose for digital payments in Tunisia?",
+        "a": "Article 69 of the draft would cut customs duty on imported electronic payment terminals to 0% and add them to Table A of the VAT Code, with the stated aim of encouraging electronic payment. The measures are proposals and still need a parliamentary vote."
+      },
+      {
+        "q": "Did any Tunisian startup raise money in October 2026?",
+        "a": "No large disclosed round was reported. The Anava fund of funds and 216 Capital said 17 startups in their first cohort received €50,000 initial tickets, for €1.1 million in total. Tunisia did not appear in Africa: The Big Deal's October tally or in Wamda's Q3 MENA report."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Actualité fintech Tunisie octobre 2026 : l'essentiel du mois",
+    "meta_description": "Actualité fintech Tunisie d'octobre 2026 : circulaire BCT sur les paiements, PLF 2027, nouveau DG à la SMT, rachat de Vermeg par Advent, cohorte Anava.",
+    "excerpt": "Première revue mensuelle : les nouvelles règles des établissements de paiement approchent, le PLF 2027 supprime les droits de douane sur les TPE et Advent rachète Vermeg.",
+    "keywords": [
+      "actualité fintech Tunisie octobre 2026",
+      "actualité fintech Tunisie",
+      "circulaire BCT 2026-10",
+      "PLF 2027 TPE droits de douane",
+      "Vermeg Advent rachat",
+      "Monétique Tunisie nouveau DG",
+      "Anava 216 Capital cohorte"
+    ],
+    "tags": [
+      "Revue mensuelle",
+      "Réglementation",
+      "Paiements",
+      "Financement",
+      "Afrique"
+    ],
+    "key_takeaways": [
+      "La circulaire BCT 2026-10 sur les établissements de paiement entre en vigueur vers fin décembre 2026 ; en octobre, la presse a décortiqué ses plafonds, l'e-KYC et l'accord préalable sur les partenariats.",
+      "Le PLF 2027 fixerait à 0 % les droits de douane sur les TPE et créerait une ligne de 10 millions de dinars de crédits sans intérêts pour les startups labellisées.",
+      "Advent International a signé le 2 novembre un accord pour racheter VERMEG, éditeur né en Tunisie ; la finalisation est attendue au premier semestre 2027.",
+      "La fintech a capté 62 % des fonds levés dans la région MENA au troisième trimestre 2026, mais la Tunisie est absente des bilans MENA et africain."
+    ],
+    "body": "Octobre 2026 aura été, pour la fintech tunisienne, un mois de règles plus que de deals. Le nouveau cadre des établissements de paiement, publié fin septembre, a nourri les débats. Le projet de loi de finances 2027 apporte quelques mesures concrètes pour le paiement et les startups. La plus grosse transaction concerne un éditeur de logiciels né en Tunisie, racheté par un fonds américain. Voici la première édition de notre revue mensuelle de l'actualité fintech en Tunisie, du 1er octobre au 6 novembre 2026.\n\n## Réglementation : les nouvelles règles se précisent\n\n### Établissements de paiement : compte à rebours avant la circulaire 2026-10\n\nLa Banque centrale de Tunisie (BCT) a publié la circulaire n° 2026-10 le 25 septembre, puis une version française rectifiée le 28. En octobre, la presse en a détaillé les implications. Dans une lecture publiée le 13 octobre, [African Manager](https://africanmanager.com/contre-le-cash-la-bct-releve-les-retraits-en-especes/) retient les nouveaux plafonds de solde (1 500, 5 000 et 20 000 dinars pour les niveaux 1, 2 et 3) et les plafonds de retrait d'espèces journaliers : 3 000 dinars au niveau 2, 10 000 dinars au niveau 3. L'ouverture de compte à distance est étendue au niveau 3, avec double authentification et preuve de vie. Les fonds des clients doivent être logés dès le jour ouvrable suivant dans un compte unique cantonné auprès d'une banque dépositaire.\n\n[Launch Base Africa](https://launchbaseafrica.com/2026/09/28/tunisias-fintech/) y voit un tour de vis. Le site cite l'accord préalable de la BCT pour les partenariats, le marque blanche et les nouveaux frais, les audits de sécurité et des obligations de reporting lourdes. Selon lui, les acteurs bien capitalisés (Ooredoo, les banques, La Poste Tunisienne) absorberont ces coûts plus facilement que les jeunes startups.\n\n**Pourquoi c'est important :** la circulaire entre en vigueur trois mois après sa publication, soit vers la fin décembre 2026. Les acteurs agréés comme walletii by Ooredoo ont quelques semaines pour adapter produits et contrats. Notre dossier sur les [établissements de paiement en Tunisie](post:payment-institutions-tunisia) détaille le cadre d'agrément.\n\n### Le CMF met en garde contre les offres d'investissement non agréées sur les réseaux sociaux\n\nLe 30 octobre, le Conseil du marché financier (CMF) a appelé le public à la vigilance face aux services d'investissement proposés sur les réseaux sociaux par des personnes ou entités non agréées. Il cite ELINOJA PATRIMOINE, qui proposerait de la gestion de portefeuille pour compte de tiers sans avoir déposé de demande d'agrément. Le CMF annonce saisir le procureur de la République, rapporte [Entreprises Magazine](https://www.entreprises-magazine.com/tunisie-mise-en-garde-du-cmf-contre-les-services-financiers-proposes-sur-les-reseaux-sociaux-par-des-entites-non-agreees/).\n\n**Pourquoi c'est important :** en Tunisie, la gestion de portefeuille pour le compte de tiers est réservée aux intermédiaires en bourse, aux sociétés de gestion et aux banques agréés. Toute application de wealthtech ou d'investissement doit s'appuyer sur l'un d'eux, ou obtenir elle-même un agrément.\n\n## Paiements : terminaux moins chers, nouveau patron du switch, cash tenace\n\n### PLF 2027 : droits de douane à 0 % sur les terminaux de paiement\n\nSelon La Presse du 16 octobre, le projet de loi de finances 2027 ramènerait à 0 % les droits de douane sur les terminaux de paiement électronique (TPE) importés (article 69). Il les inscrirait aussi au tableau « A » du Code de la TVA. Objectif affiché : faciliter le recours aux moyens de paiement électronique et encourager la transition numérique. Le même texte abaisserait à 10 % les droits de douane sur les smartphones (article 68). Il crée un droit de timbre de 20 dinars pour l'enregistrement d'un téléphone mobile au registre central des identifiants, le premier enregistrement étant exonéré (article 67).\n\n**Pourquoi c'est important :** l'acceptation chez les commerçants reste un maillon faible du paiement digital. Des TPE moins chers aident banques et acquéreurs à étendre leurs réseaux. Il s'agit de propositions, encore soumises au vote du Parlement.\n\n### Nizar Chaddad prend la tête de la Société Monétique Tunisie\n\nNizar Chaddad, passé 27 ans par la BCT, succède à Bilel Dernaoui à la direction générale de la Société Monétique Tunisie (SMT), le switch national de la monétique. [Managers](https://managers.tn/2026/11/02/nizar-chaddad-succede-a-bilel-dernaoui-a-la-tete-de-la-societe-monetique-tunisie/) a relayé la nomination le 2 novembre, à partir de sa propre annonce sur LinkedIn. À la Banque centrale, il a travaillé sur l'innovation financière, l'inclusion et les paiements digitaux. Selon La Tribune Economique, il a contribué au paiement mobile et à la plateforme TuniChèque.\n\n**Pourquoi c'est important :** la SMT est au cœur de l'interopérabilité entre banques, La Poste Tunisienne et établissements de paiement. Un dirigeant issu des paiements du régulateur pourrait accélérer les chantiers QR code et sans contact, ainsi que le raccordement des fintechs au switch national.\n\n### Le cash continue de progresser\n\nLe 22 octobre, [African Manager](https://en.africanmanager.com/cash-at-every-turn/) s'est appuyé sur le bulletin des statistiques financières de la BCT. Les billets et pièces en circulation atteignaient 29,285 milliards de dinars fin juin 2026, en hausse de 17,6 % sur un an selon ses calculs. Paiement mobile et e-commerce progressent vite, mais partent de bas.\n\n**Pourquoi c'est important :** cette progression du cash est la toile de fond de toutes les mesures ci-dessus, du durcissement des règles des wallets aux TPE moins chers. Notre analyse sur [le cash et l'informel en Tunisie](post:cash-economy-tunisia) explique pourquoi il résiste.\n\n## Financement et startups\n\n### Advent International va racheter Vermeg\n\nLe 2 novembre, le fonds américain [Advent International a annoncé](https://www.adventinternational.com/news/advent-to-acquire-vermeg-a-global-provider-of-capital-markets-and-life-insurance-technology/) un accord pour acquérir VERMEG, l'éditeur de logiciels pour les marchés de capitaux et l'assurance vie né en Tunisie. Les vendeurs sont Charterhouse Capital Partners et le fondateur Badreddine Ouali. Ce dernier reste actionnaire et devient vice-président. Une filiale de l'Abu Dhabi Investment Authority (ADIA) entre comme co-investisseur minoritaire. Le montant n'a pas été communiqué. La finalisation est attendue au premier semestre 2027, sous réserve des autorisations réglementaires.\n\n**Pourquoi c'est important :** c'est l'une des plus grandes sorties liées à la tech tunisienne. VERMEG vend à des banques centrales, des chambres de compensation et des assureurs, pas au grand public. L'opération montre que des logiciels d'infrastructure financière conçus depuis Tunis peuvent séduire des acquéreurs mondiaux de premier rang.\n\n### Anava et 216 Capital financent une première cohorte de 17 startups\n\nAu salon Bigtech Africa à Tunis (13–14 octobre), Tarek Triki, directeur général de Smart Capital, a présenté les premiers résultats de l'alliance entre le fonds des fonds Anava et 216 Capital. D'après [Entreprises Magazine](https://www.entreprises-magazine.com/bigtech-africa-anava-et-216-capital-financent-une-premiere-cohorte-de-17-startups-tunisiennes-a-hauteur-de-11-million-deuros/), 17 startups se partagent une enveloppe de 1,1 million d'euros, avec un ticket initial de 50 000 euros chacune. Le programme vise à préparer 60 startups, en trois cohortes, à lever des fonds auprès d'investisseurs internationaux.\n\n**Pourquoi c'est important :** les tickets d'amorçage restent rares en Tunisie. Voir notre guide du [fonds des fonds Anava](post:anava-fund-of-funds).\n\n### Startups et petites entreprises dans le budget 2027\n\nLe PLF 2027 propose aussi une ligne de 10 millions de dinars de crédits participatifs sans intérêts pour les promoteurs de startups labellisées (article 13), sur 2027–2028. Elle serait financée par le Fonds national de l'emploi et gérée par la BFPME, a [rapporté La Presse](https://fr.allafrica.com/stories/202610150614.html) le 15 octobre. Les fonds ne pourraient servir qu'à renforcer les fonds propres des startups.\n\n## Ailleurs en Afrique et dans la région MENA\n\n### Le financement des startups africaines ralentit à 183 millions de dollars en octobre\n\nLes données d'Africa: The Big Deal, reprises par [Techeconomy](https://techeconomy.ng/african-startup-funding-october-2026-morocco-tanzania) le 5 novembre, chiffrent les levées des startups africaines à 183 millions de dollars en octobre 2026 (tours d'au moins 100 000 dollars). C'est 24 % de moins qu'en septembre. Le Nigeria arrive en tête avec 42 millions, devant le Maroc et la Tanzanie (40 millions chacun). La Tunisie n'apparaît pas.\n\n### La fintech capte 62 % des fonds levés dans la région MENA au T3\n\nSelon [Wamda](https://www.wamda.com/en/2026/10/mena-startup-funding-jumps-165-billion-q3-saudi-arabia-taking-lead) (12 octobre), les startups de la région MENA ont levé 1,65 milliard de dollars au troisième trimestre 2026, en 145 opérations. La fintech en capte 1,03 milliard, soit environ 62 %, surtout via des entreprises saoudiennes. L'égyptienne Paymob a levé 35 millions de dollars en pré-série C. La Tunisie est absente du rapport.\n\n**Pourquoi c'est important :** les capitaux affluent vers la fintech dans la région, mais pas vers la Tunisie. Notre suivi des [tendances du financement des startups](post:tunisia-startup-funding-trends) documente cet écart.\n",
+    "faq": [
+      {
+        "q": "Quelles ont été les principales actualités fintech en Tunisie en octobre 2026 ?",
+        "a": "Le mois a été dominé par l'analyse de la circulaire BCT 2026-10 sur les établissements de paiement, par le projet de loi de finances 2027 (TPE à 0 % de droits de douane, crédits sans intérêts pour les startups labellisées) et par une mise en garde du CMF contre des offres d'investissement non agréées. Juste après, Advent International a annoncé le rachat de VERMEG et Nizar Chaddad a pris la tête de la Société Monétique Tunisie."
+      },
+      {
+        "q": "Quand la circulaire BCT 2026-10 entre-t-elle en vigueur ?",
+        "a": "Publiée le 25 septembre 2026, elle entre en vigueur trois mois après sa publication, soit vers la fin décembre 2026. Elle remplace la circulaire 2018-16 comme cadre des établissements de paiement."
+      },
+      {
+        "q": "Que prévoit le PLF 2027 pour le paiement électronique ?",
+        "a": "L'article 69 du projet ramènerait à 0 % les droits de douane sur les terminaux de paiement électronique importés et les inscrirait au tableau « A » du Code de la TVA, afin d'encourager le paiement électronique. Ces mesures doivent encore être votées par le Parlement."
+      },
+      {
+        "q": "Des startups tunisiennes ont-elles levé des fonds en octobre 2026 ?",
+        "a": "Aucune levée importante n'a été annoncée. Le fonds des fonds Anava et 216 Capital ont indiqué que 17 startups de leur première cohorte ont reçu un ticket initial de 50 000 euros, pour 1,1 million d'euros au total. La Tunisie est absente du bilan d'octobre d'Africa: The Big Deal et du rapport T3 de Wamda."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Contre le cash, la BCT relève les retraits en espèces",
+      "publisher": "African Manager (13 Oct. 2026)",
+      "url": "https://africanmanager.com/contre-le-cash-la-bct-releve-les-retraits-en-especes/"
+    },
+    {
+      "title": "Tunisia's Fintech Crackdown",
+      "publisher": "Launch Base Africa (28 Sept. 2026)",
+      "url": "https://launchbaseafrica.com/2026/09/28/tunisias-fintech/"
+    },
+    {
+      "title": "Tunisie : Mise en garde du CMF contre les services financiers proposés sur les réseaux sociaux par des entités non agréées",
+      "publisher": "Entreprises Magazine (30 Oct. 2026)",
+      "url": "https://www.entreprises-magazine.com/tunisie-mise-en-garde-du-cmf-contre-les-services-financiers-proposes-sur-les-reseaux-sociaux-par-des-entites-non-agreees/"
+    },
+    {
+      "title": "Smartphones et paiement électronique - Ce que prévoit le PLF 2027",
+      "publisher": "La Presse via AllAfrica (16 Oct. 2026)",
+      "url": "https://fr.allafrica.com/stories/202610160595.html"
+    },
+    {
+      "title": "PLF 2027 - De nouveaux financements pour les startups et les petites entreprises",
+      "publisher": "La Presse via AllAfrica (15 Oct. 2026)",
+      "url": "https://fr.allafrica.com/stories/202610150614.html"
+    },
+    {
+      "title": "Nizar Chaddad succède à Bilel Dernaoui à la tête de la Société Monétique Tunisie",
+      "publisher": "Managers (2 Nov. 2026)",
+      "url": "https://managers.tn/2026/11/02/nizar-chaddad-succede-a-bilel-dernaoui-a-la-tete-de-la-societe-monetique-tunisie/"
+    },
+    {
+      "title": "Monétique Tunisie : avec l'arrivée de Nizar Chaddad, le virage vers le « Cashless » s'accélère",
+      "publisher": "La Tribune Economique (3 Nov. 2026)",
+      "url": "https://www.la-tribune.net/2026/11/03/monetique-tunisie-avec-larrivee-de-nizar-chaddad-le-virage-vers-le-cashless-saccelere/"
+    },
+    {
+      "title": "Cash at every turn",
+      "publisher": "African Manager (22 Oct. 2026)",
+      "url": "https://en.africanmanager.com/cash-at-every-turn/"
+    },
+    {
+      "title": "Advent to acquire Vermeg, a global provider of capital markets and life insurance technology",
+      "publisher": "Advent International (2 Nov. 2026)",
+      "url": "https://www.adventinternational.com/news/advent-to-acquire-vermeg-a-global-provider-of-capital-markets-and-life-insurance-technology/"
+    },
+    {
+      "title": "Bigtech Africa : Anava et 216 Capital financent une première cohorte de 17 startups tunisiennes à hauteur de 1,1 million d'euros",
+      "publisher": "Entreprises Magazine (14 Oct. 2026)",
+      "url": "https://www.entreprises-magazine.com/bigtech-africa-anava-et-216-capital-financent-une-premiere-cohorte-de-17-startups-tunisiennes-a-hauteur-de-11-million-deuros/"
+    },
+    {
+      "title": "African Startups Raise $183m as Morocco, Tanzania Outpace Big Four in October",
+      "publisher": "Techeconomy (5 Nov. 2026)",
+      "url": "https://techeconomy.ng/african-startup-funding-october-2026-morocco-tanzania"
+    },
+    {
+      "title": "MENA startup funding jumps to $1.65 billion in Q3, Saudi Arabia taking the lead",
+      "publisher": "Wamda (12 Oct. 2026)",
+      "url": "https://www.wamda.com/en/2026/10/mena-startup-funding-jumps-165-billion-q3-saudi-arabia-taking-lead"
+    }
+  ]
+}

@@ -13,6 +13,8 @@ from i18n import *
 import i18n_ar  # noqa: F401  (patches Arabic copy into i18n dicts)
 import extra as XP
 import remit as RM
+import fxpages as FX
+import ads as AD
 from i18n_extra import NAV, GOATCOUNTER, X as XX, ABOUT, EDITORIAL, CORRECTIONS
 
 MODE = sys.argv[1] if len(sys.argv) > 1 else "live"
@@ -40,7 +42,7 @@ for f in sorted(glob.glob(os.path.join(HERE, "content", "*.json"))):
     d = json.load(open(f, encoding="utf-8"))
     d["slug"] = os.path.basename(f)[:-5]
     d.setdefault("date", BUILD_DATE)
-    d["modified"] = BUILD_DATE
+    d["modified"] = max(d["date"], BUILD_DATE)
     arf = os.path.join(HERE, "content_ar", d["slug"] + ".json")
     if os.path.exists(arf):
         a = json.load(open(arf, encoding="utf-8"))
@@ -88,6 +90,7 @@ def path_of(lang, kind, key=None):
         "programs": f"{pre}programs.html", "contact": f"{pre}contact.html", "feed": f"{pre}feed.xml",
         "remit": pre + {"en": "send-money-to-tunisia.html", "fr": "envoyer-de-l-argent-en-tunisie.html", "ar": "send-money-to-tunisia.html"}[lang],
         "about": f"{pre}about.html", "editorial": f"{pre}editorial-policy.html", "corrections": f"{pre}corrections.html",
+        "fx": pre + (FX.SLUG[lang].get(key, "") if key else ""),
         "directory": f"{pre}directory/index.html", "company": f"{pre}directory/{key}.html", "tracker": f"{pre}regulation-tracker.html",
     }[kind]
 
@@ -187,7 +190,11 @@ def render_md(text, page, L):
         if target in POST: return "](" + page.rel(path_of(L, "post", target)) + ")"
         return "](" + page.rel(path_of(L, "blog")) + ")"
     text = re.sub(r"\]\(post:([a-z0-9\-]+)\)", repl, text)
-    text = re.sub(r"\]\(page:([a-z]+)\)", lambda m: "](" + page.rel(path_of(L, m.group(1))) + ")", text)
+    def prepl(m):
+        k = m.group(1)
+        if k.startswith("fx-"): return "](" + page.rel(path_of(L, "fx", k[3:])) + ")"
+        return "](" + page.rel(path_of(L, k)) + ")"
+    text = re.sub(r"\]\(page:([a-z\-]+)\)", prepl, text)
     md = markdown.Markdown(extensions=["tables", "sane_lists", "toc"], extension_configs={"toc": {"slugify": slugify, "toc_depth": "2"}})
     out = md.convert(text)
     out = re.sub(r'<a href="(https?://[^"]+)"', r'<a href="\1" target="_blank" rel="noopener"', out)
@@ -209,6 +216,10 @@ ICON = {
 
 
 # ---------------------------------------------------------------- layout
+def ad_slot(page, L, key, kind):
+    return AD.slot(sys.modules[__name__], page, L, key, kind)
+
+
 def head(page, L, title, desc, canonical_path, alt_paths, og_image, og_type="website", extra_meta="", ld=None, noindex=False):
     t = T[L]
     alts = "".join(f'<link rel="alternate" hreflang="{l}" href="{absu(p)}">' for l, p in alt_paths.items())
@@ -440,6 +451,10 @@ def build_post(p, L):
         parts = body.split("<h2")
         if len(parts) > 3: body = "<h2".join(parts[:3]) + ch + "<h2" + "<h2".join(parts[3:])
         else: body += ch
+    ad = ad_slot(page, L, slug, "article")
+    parts = body.split("<h2")
+    if len(parts) > 5: body = "<h2".join(parts[:5]) + ad + "<h2" + "<h2".join(parts[5:])
+    else: body += ad
     title = a["title"]; desc = a["meta_description"]
     url_abs = absu(path)
     faq = a.get("faq") or []
@@ -730,6 +745,7 @@ def build_sitemap():
     add("about", prio="0.5"); add("editorial", prio="0.4"); add("corrections", prio="0.3")
     add("directory", prio="0.9"); add("tracker", lastmod=XP.TRACKER["updated"], prio="0.9")
     add("remit", lastmod=RM.FX["date"], prio="0.9")
+    for c in FX.CURS: add("fx", c, lastmod=FX.DATES[-1], prio="0.8")
     for c in XP.companies: add("company", c["slug"], c.get("last_verified", BUILD_DATE), "0.7")
     for p in posts: add("post", p["slug"], p["modified"], "0.8", p["slug"])
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n' + "\n".join(urls) + "\n</urlset>\n")
@@ -748,7 +764,7 @@ def build_feed(L):
 
 def build_assets():
     os.makedirs(os.path.join(OUT, "assets", "covers"), exist_ok=True)
-    for name in ("site.css", "site.js", "favicon.svg", "logo.png", "rtl.css", "remit.js"):
+    for name in ("site.css", "site.js", "favicon.svg", "logo.png", "rtl.css", "remit.js", "fx.js"):
         shutil.copy(os.path.join(HERE, "static", name), os.path.join(OUT, "assets", name))
     shutil.copytree(os.path.join(HERE, "static", "fonts"), os.path.join(OUT, "assets", "fonts"), dirs_exist_ok=True)
     for p in posts:
@@ -773,6 +789,7 @@ def main():
         for p in posts: build_post(p, L)
     XP.build_all(sys.modules[__name__])
     RM.build(sys.modules[__name__])
+    FX.build(sys.modules[__name__])
     build_404(); build_sitemap()
     # old URLs -> new
     redirect("news.html", path_of("en", "blog"))

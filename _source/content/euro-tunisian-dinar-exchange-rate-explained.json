@@ -1,0 +1,197 @@
+{
+  "slug": "euro-tunisian-dinar-exchange-rate-explained",
+  "category": "payments",
+  "cover_motif": "coins",
+  "date": "2026-11-07",
+  "stats": [
+    {
+      "value": "-1.6%",
+      "label_en": "change in the dinar against the euro over 2025 (end-2024 to end-2025)",
+      "label_fr": "variation du dinar face à l'euro en 2025 (fin 2024 à fin 2025)",
+      "source": "BCT annual report 2025, via La Tribune, 2026"
+    },
+    {
+      "value": "+9.8%",
+      "label_en": "change in the dinar against the US dollar over 2025",
+      "label_fr": "variation du dinar face au dollar en 2025",
+      "source": "BCT annual report 2025, via La Tribune, 2026"
+    },
+    {
+      "value": "20,000 TND",
+      "label_en": "foreign cash at or above which travellers must declare at customs",
+      "label_fr": "seuil de devises à partir duquel le voyageur doit déclarer en douane",
+      "source": "Tunisian customs rules, via Allo Justice, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Dinars per euro on selected dates, BCT average interbank rate (2024–2026)",
+    "title_fr": "Dinars pour un euro à différentes dates, cours moyen interbancaire publié par la BCT (2024-2026)",
+    "unit": "TND",
+    "bars": [
+      {
+        "label_en": "31 Dec 2024",
+        "label_fr": "31 déc. 2024",
+        "value": 3.3209
+      },
+      {
+        "label_en": "1 Oct 2025",
+        "label_fr": "1er oct. 2025",
+        "value": 3.4247
+      },
+      {
+        "label_en": "31 Dec 2025",
+        "label_fr": "31 déc. 2025",
+        "value": 3.3744
+      },
+      {
+        "label_en": "29 Jun 2026",
+        "label_fr": "29 juin 2026",
+        "value": 3.3731
+      },
+      {
+        "label_en": "29 Sep 2026",
+        "label_fr": "29 sept. 2026",
+        "value": 3.3724
+      },
+      {
+        "label_en": "5 Oct 2026",
+        "label_fr": "5 oct. 2026",
+        "value": 3.3687
+      }
+    ],
+    "source_name": "BCT rates as reported by Tunisie Numérique (2025–2026) and La Presse de Tunisie (1 Oct 2025)",
+    "source_url": "https://www.tunisienumerique.com/dinar-tunisien-taux-de-change-leuro-a-337-dinars-et-un-dollar-vaut-287-dinars/"
+  },
+  "en": {
+    "title": "Euro to Tunisian Dinar Rate: How It Works and How to Get the Best",
+    "meta_description": "Euro to Tunisian dinar exchange rate explained: how the BCT rate is set, why bank and bureau rates differ, 2025–2026 trends, travel rules and tips.",
+    "excerpt": "How the EUR/TND rate is set on Tunisia's managed interbank market, why bank, exchange office and transfer rates differ, what moved it in 2025–2026 and how to get more dinars for your euros.",
+    "keywords": [
+      "euro to Tunisian dinar",
+      "EUR TND exchange rate",
+      "Tunisian dinar exchange rate",
+      "best euro dinar rate",
+      "BCT exchange rate",
+      "change euros in Tunisia",
+      "Tunisia currency declaration"
+    ],
+    "tags": [
+      "Exchange rate",
+      "Dinar",
+      "Diaspora",
+      "BCT",
+      "Travel"
+    ],
+    "key_takeaways": [
+      "The dinar's rate is set on the interbank market, where the Central Bank of Tunisia acts as main market maker and intervenes; it is not freely convertible.",
+      "The rate the BCT publishes daily is the previous day's average interbank rate, a benchmark that banks, exchange offices and transfer providers mark up.",
+      "Over 2025 the dinar lost 1.6% against the euro but gained 9.8% against the dollar, mainly because the euro strengthened on world markets.",
+      "Dinars cannot be bought abroad or exported, foreign currency of 20,000 dinars or more must be declared, and exchange slips are needed to re-exchange leftovers."
+    ],
+    "body": "How many dinars you get for a euro depends less on luck than on where you change it. The **euro to Tunisian dinar** exchange rate is set on a managed interbank market, and every bank, exchange office and transfer app then adds its own margin. This guide explains how the EUR TND exchange rate works, what moved it in 2025 and 2026, the rules for travellers and Tunisians abroad, and how to get the best rate. For today's figure, see our [live euro to dinar rate](page:fx-eur).\n\n## How is the Tunisian dinar exchange rate set?\n\nThe dinar is neither pegged nor freely floating. Its rate is determined on the **interbank foreign exchange market**, created in March 1994, where Tunisian banks trade currencies with each other. The Central Bank of Tunisia (BCT) is the main market maker and, in its own words, \"intervenes to regulate market liquidity\", according to a [2023 paper by the Observatoire Tunisien de l'Économie](https://www.economie-tunisie.org/sites/default/files/fiche_reforme_devaluation-fr.pdf).\n\nThe regime has loosened in stages. The BCT announced a more flexible exchange policy in 2012, as successive IMF programmes pushed for more flexibility, and since a 2016 circular it has used **foreign currency auctions** to make its interventions more transparent, [Leaders reported](https://www.leaders.com.tn/article/19111-quels-changements-introduit-la-banque-centrale-sur-le-marche-des-changes-en-tunisie) at the time. The BCT still manages the rate; it is not a free float in the way the euro is.\n\n### Why the dinar is not freely convertible\n\nTunisia declared the dinar convertible for current transactions in 1992, but capital operations remain under the 1976 Foreign Exchange Code, which requires prior authorisation for many transactions. In practice, that has two consequences for anyone holding euros:\n\n- **You cannot buy dinars outside Tunisia.** Belgium's foreign ministry notes that the dinar \"cannot be bought outside Tunisia\".\n- **Exporting dinar banknotes is prohibited**, according to the same travel advice, updated in October 2026.\n\nReform of the code has been debated for years. One part has already passed: since 1 January 2026, residents can open foreign-currency accounts without prior BCT approval. Our article on the [foreign exchange code reform](post:tunisia-foreign-exchange-code-reform) tracks the rest.\n\n## What rate does the Central Bank of Tunisia publish?\n\nEvery day, the BCT publishes the **previous day's average interbank rates** on its website, for information. In a 2022 clarification [reported by Kapitalis](https://kapitalis.com/tunisie/2022/07/08/taux-de-change-mise-au-point-de-la-banque-centrale-de-tunisie/), the central bank stressed that this figure, although published on its site, \"is not the BCT's rate\" but the average of trades between banks, updated with a one-day lag.\n\nThis is the figure most people call the \"official rate\", and the one press reports and our live rate page use as a benchmark. It is a wholesale rate: no individual can trade at it.\n\n## Why do the official, bank, exchange office and transfer rates differ?\n\nEach channel buys your euros below the interbank average and sells them above it. The gap is how it earns money.\n\n- **Banks** post a buying rate and a selling rate for each currency. The difference between them is the spread.\n- **Exchange offices** (bureaux de change), licensed by the BCT since 2019, may only buy and sell convertible currencies against dinars. Under BCT Circular 2018-07, they must display the rates they apply and issue an **exchange slip** (bordereau de change) for every purchase.\n- **Money transfer providers** set their own EUR/TND rate and often add a fee. In the World Bank's August 2025 survey of transfers from France, rate margins ranged from -0.46% to 7.31%, as detailed in our guide to the [cheapest way to send money to Tunisia](post:cheapest-way-send-money-to-tunisia).\n\nA \"zero fee\" offer is therefore not free if the rate is poor. The only fair comparison is the **total amount of dinars received** for the same number of euros.\n\n## What moved the euro against the dinar in 2025 and 2026?\n\nThe main driver has been the euro itself. In 2025, a stronger euro on world markets pushed EUR/TND up while the dinar gained against a weaker dollar. The BCT itself attributes day-to-day movements to \"the variation of the euro and the dollar on the international market\".\n\n- **2025:** the euro started the year at 3.3209 dinars (31 December 2024, BCT). By 17 September 2025 it had reached 3.414, matching its July 2023 high, a 2.8% loss for the dinar since January, according to [Webmanagercenter, citing TAP](https://www.webmanagercenter.com/2025/09/17/551737/taux-de-change-le-dinar-tunisien-au-plus-bas-face-a-leuro-depuis-juillet-2023). An analyst quoted by TAP pointed to the euro's strength rather than domestic pressure. On 1 October 2025 the rate was 3.4247, [La Presse reported](https://www.lapresse.tn/2025/10/03/le-dinar-tunisien-poursuit-sa-depreciation-face-a-leuro/).\n- **End of 2025:** the euro eased back to 3.3744 dinars on 31 December 2025. Over the year, the dinar lost 1.6% against the euro but gained 9.8% against the US dollar, according to the BCT's 2025 annual report [cited by La Tribune](https://www.la-tribune.net/2026/07/08/bct-evolution-du-taux-de-change-du-dinar/), which links this to the dollar losing more than 12% against the euro.\n- **2026:** at the end of June 2026 the dinar was stable against the euro compared with end-2025, while its average over the first half was 1.1% weaker than a year earlier, [according to BCT data reported by La Presse](https://www.lapresse.tn/2026/09/01/dollar-euro-yen-comment-le-dinar-tunisien-a-evolue-depuis-le-debut-de-2026/). The BCT rate was 3.3731 on 29 June, 3.3724 on 29 September and 3.3687 on 5 October 2026.\n\nPast movements do not predict future ones. Analysts quoted by La Presse also point to inflation, foreign currency reserves and international market swings as factors behind the dinar's value.\n\n## What are the currency rules for travellers and Tunisians abroad?\n\nThese rules are set by customs and BCT circulars and can change, so check with customs or your bank before travelling. As of 2026:\n\n- **Declaration:** you must declare foreign currency worth **20,000 dinars or more** when entering or leaving Tunisia, under a 2016 finance ministry order amended in 2019. You should also declare smaller amounts if you plan to open a foreign-currency account or to take 5,000 dinars' worth or more back out. The declaration is personal, covers one trip and is valid for three months, according to [Allo Justice](https://allojustice.tn/blog/la-declaration-de-devises-en-tunisie-regles-a-lentree-et-a-la-sortie-avec-exemples/), which echoes customs guidance.\n- **Taking currency back out:** non-residents may re-export up to 5,000 dinars' worth of foreign banknotes without an entry declaration, and up to 30,000 dinars' worth with one. Larger amounts must go through a bank.\n- **Re-exchanging leftover dinars:** non-residents who changed currency in Tunisia can convert remaining dinars back into foreign currency at a bank or licensed exchange office. A [banking training guide based on BCT circulars](https://www.abf.tn/wp-content/uploads/2021/02/Les-op%C3%A9rations-%C3%A0-l%E2%80%99international-des-particuliers.pdf) says this requires the original exchange slip, plus the customs declaration for amounts of 5,000 dinars or more. **Keep every bordereau de change.**\n- **On the European side:** leaving France, or any EU country, with €10,000 or more in cash must be declared to customs.\n\nTunisians living abroad are generally non-residents for exchange purposes, but they can be treated as residents for some operations in Tunisia, such as buying property. Our guide to [receiving money in Tunisia](post:receive-money-in-tunisia) covers convertible-dinar and foreign-currency accounts.\n\n## Is changing money on the black market worth it?\n\nInformal changers operate in Tunisia, notably in Ben Guerdane and near the Libyan and Algerian borders, and the BCT's daily dashboard tracks parallel rates there, [African Manager reported](https://africanmanager.com/le-nouveau-gouverneur-de-la-bct-face-au-marche-parallele-des-changes/) in 2024. They may offer a few more dinars per euro, but the risks outweigh the gain:\n\n- foreign exchange outside authorised intermediaries breaches the exchange code;\n- you get no exchange slip, so you cannot legally re-exchange leftover dinars;\n- counterfeit notes, short-changing and theft leave you with no recourse.\n\nBelgium's travel advice \"strongly recommends\" not changing money in the street.\n\n## How can I get the best euro to dinar rate?\n\n1. **Check the benchmark first.** Compare any quote with the BCT's interbank average to see the margin you are paying.\n2. **Compare the total received,** not the fee or the headline rate. Our [money transfer comparator](page:remit) lists offers for sending euros to Tunisia.\n3. **Prefer online transfers to cash at a counter,** where the World Bank found the widest margins.\n4. **Avoid changing at the airport out of habit.** Look at the posted buy rate at banks, La Poste and licensed bureaux in town.\n5. **Use formal channels and keep receipts.** Informal exchange saves little and costs you legal protection. Formal transfers also support Tunisia's foreign currency earnings, as we explain in our article on [diaspora remittances](post:diaspora-remittances-tunisia).\n\nBefore you change or send money, check the [euro to dinar rate today](page:fx-eur). This is general information, not legal or financial advice.",
+    "faq": [
+      {
+        "q": "What is the official euro to Tunisian dinar exchange rate?",
+        "a": "The figure usually called the official rate is the average interbank rate that the Central Bank of Tunisia publishes each day for the previous day. The BCT says it is not its own rate but the average of trades between banks. Individuals change money at bank, exchange office or provider rates, which include a margin."
+      },
+      {
+        "q": "Can I buy Tunisian dinars before I travel?",
+        "a": "No. The dinar cannot be bought outside Tunisia, and exporting dinar banknotes is prohibited. Bring euros and change them on arrival at a bank, La Poste or a licensed exchange office, or withdraw dinars from an ATM in Tunisia."
+      },
+      {
+        "q": "How much money can I bring into Tunisia without declaring it?",
+        "a": "Foreign currency worth 20,000 dinars or more must be declared to customs when entering or leaving Tunisia. You should also declare smaller amounts if you plan to open a foreign-currency account or take 5,000 dinars' worth or more back out. Rules can change, so check with customs before travelling."
+      },
+      {
+        "q": "Can I change my leftover dinars back into euros?",
+        "a": "Non-residents can re-exchange leftover dinars at a bank or licensed exchange office, provided they show the exchange slip from the original transaction, plus a customs declaration for 5,000 dinars or more. Keep every bordereau de change until you leave."
+      },
+      {
+        "q": "Why is the euro to dinar rate different at my bank?",
+        "a": "Banks buy euros below the interbank average and sell them above it, and transfer providers add their own margin and sometimes a fee. Compare how many dinars you receive in total for the same amount of euros."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Taux euro dinar tunisien : fonctionnement et meilleur cours",
+    "meta_description": "Taux de change euro dinar tunisien : comment la BCT publie le cours, écarts banque et bureau de change, tendances 2025-2026, règles douanières, conseils.",
+    "excerpt": "Comment se forme le cours EUR/TND sur le marché interbancaire, pourquoi banques, bureaux de change et services de transfert affichent des taux différents, ce qui l'a fait bouger en 2025-2026 et comment obtenir plus de dinars.",
+    "keywords": [
+      "taux euro dinar tunisien",
+      "taux de change euro dinar",
+      "cours du dinar tunisien",
+      "change euro dinar Tunisie",
+      "taux BCT euro dinar",
+      "déclaration de devises Tunisie",
+      "bureau de change Tunisie"
+    ],
+    "tags": [
+      "Taux de change",
+      "Dinar",
+      "Diaspora",
+      "BCT",
+      "Voyage"
+    ],
+    "key_takeaways": [
+      "Le cours du dinar se forme sur le marché interbancaire, où la Banque centrale de Tunisie est le principal teneur de marché et intervient ; le dinar n'est pas librement convertible.",
+      "Le taux publié chaque jour par la BCT est le cours moyen interbancaire de la veille, une référence sur laquelle banques, bureaux de change et services de transfert prennent une marge.",
+      "En 2025, le dinar a perdu 1,6 % face à l'euro mais gagné 9,8 % face au dollar, surtout parce que l'euro s'est renforcé sur les marchés mondiaux.",
+      "Le dinar ne s'achète pas à l'étranger et ne s'exporte pas, les devises de 20 000 dinars ou plus se déclarent, et le bordereau de change est nécessaire pour reconvertir."
+    ],
+    "body": "Le nombre de dinars obtenus pour un euro dépend moins de la chance que de l'endroit où l'on change. Le **taux euro dinar tunisien** se forme sur un marché interbancaire encadré, puis chaque banque, bureau de change ou service de transfert y ajoute sa marge. Ce guide explique le fonctionnement du taux de change euro dinar, ce qui l'a fait bouger en 2025 et 2026, les règles pour les voyageurs et les Tunisiens résidant à l'étranger (TRE), et comment obtenir le meilleur cours. Pour le chiffre du jour, consultez notre [cours de l'euro en dinar en direct](page:fx-eur).\n\n## Comment se fixe le cours du dinar tunisien ?\n\nLe dinar n'est ni arrimé à une autre monnaie ni totalement flottant. Son cours se détermine sur le **marché des changes interbancaire**, créé en mars 1994, où les banques tunisiennes s'échangent des devises. La Banque centrale de Tunisie (BCT) y est le principal teneur de marché et, selon ses propres termes, « intervient pour réguler la liquidité du marché », rappelle une [note de l'Observatoire Tunisien de l'Économie publiée en 2023](https://www.economie-tunisie.org/sites/default/files/fiche_reforme_devaluation-fr.pdf).\n\nLe régime s'est assoupli par étapes. La BCT a annoncé une politique de change plus flexible en 2012, alors que les programmes successifs du FMI réclamaient davantage de flexibilité, et depuis une circulaire de 2016 elle recourt aux **adjudications en devises** pour rendre ses interventions plus transparentes, rapportait [Leaders](https://www.leaders.com.tn/article/19111-quels-changements-introduit-la-banque-centrale-sur-le-marche-des-changes-en-tunisie) à l'époque. La BCT continue donc de piloter le cours : ce n'est pas un flottement libre comme celui de l'euro.\n\n### Pourquoi le dinar n'est pas librement convertible\n\nLa Tunisie a proclamé la convertibilité courante du dinar en 1992, mais les opérations en capital restent régies par le Code des changes de 1976, qui soumet de nombreuses transactions à autorisation préalable. Concrètement, pour qui détient des euros :\n\n- **on ne peut pas acheter de dinars hors de Tunisie**, comme le rappellent les conseils aux voyageurs du ministère belge des Affaires étrangères ;\n- **l'exportation de billets en dinars est interdite**, selon la même source, mise à jour en octobre 2026.\n\nLa réforme du code est débattue depuis des années. Un volet est déjà en vigueur : depuis le 1er janvier 2026, les résidents peuvent ouvrir un compte en devises sans autorisation préalable de la BCT. Notre article sur la [réforme du Code des changes](post:tunisia-foreign-exchange-code-reform) suit la suite du dossier.\n\n## Quel taux la Banque centrale de Tunisie publie-t-elle ?\n\nChaque jour, la BCT publie sur son site les **cours de change moyens interbancaires de la veille**, à titre indicatif. Dans une mise au point de 2022 [relayée par Kapitalis](https://kapitalis.com/tunisie/2022/07/08/taux-de-change-mise-au-point-de-la-banque-centrale-de-tunisie/), elle soulignait que ce taux, « bien que publié sur le site de la BCT, n'est pas celui de la BCT », mais la moyenne des échanges entre banques, actualisée en J+1.\n\nC'est ce chiffre que l'on appelle couramment le « taux officiel », et celui que la presse et notre page de cours utilisent comme référence. Il s'agit d'un taux de gros : aucun particulier ne peut changer à ce cours.\n\n## Pourquoi le taux officiel, celui de la banque, du bureau de change et du transfert diffèrent-ils ?\n\nChaque intermédiaire achète vos euros en dessous de la moyenne interbancaire et les revend au-dessus. L'écart constitue sa rémunération.\n\n- **Les banques** affichent un cours acheteur et un cours vendeur pour chaque devise ; la différence entre les deux est l'écart (spread).\n- **Les bureaux de change**, agréés par la BCT depuis 2019, ne peuvent qu'acheter et vendre des devises convertibles contre dinars. La circulaire BCT n° 2018-07 les oblige à afficher les cours pratiqués et à établir un **bordereau de change** pour chaque achat.\n- **Les services de transfert d'argent** fixent leur propre taux EUR/TND et ajoutent souvent des frais. Dans l'enquête de la Banque mondiale d'août 2025 sur les envois depuis la France, la marge de change allait de -0,46 % à 7,31 %, comme le détaille notre guide du [moyen le moins cher d'envoyer de l'argent en Tunisie](post:cheapest-way-send-money-to-tunisia).\n\nUne offre « sans frais » n'est donc pas gratuite si le taux est mauvais. La seule comparaison honnête porte sur le **montant total en dinars reçu** pour une même somme en euros.\n\n## Qu'est-ce qui a fait bouger l'euro face au dinar en 2025 et 2026 ?\n\nLe premier moteur a été l'euro lui-même. En 2025, la vigueur de l'euro sur les marchés mondiaux a tiré l'EUR/TND vers le haut, tandis que le dinar gagnait du terrain face à un dollar affaibli. La BCT attribue elle-même les mouvements quotidiens à « la variation de l'euro et du dollar sur le marché international ».\n\n- **2025 :** l'euro valait 3,3209 dinars au 31 décembre 2024 (BCT). Le 17 septembre 2025, il atteignait 3,414 dinars, égalant son pic de juillet 2023, soit une perte de 2,8 % pour le dinar depuis janvier, selon [Webmanagercenter, citant la TAP](https://www.webmanagercenter.com/2025/09/17/551737/taux-de-change-le-dinar-tunisien-au-plus-bas-face-a-leuro-depuis-juillet-2023). Un analyste interrogé par la TAP y voyait l'effet de la vigueur de l'euro plutôt que de pressions internes. Le 1er octobre 2025, le cours était de 3,4247, d'après [La Presse](https://www.lapresse.tn/2025/10/03/le-dinar-tunisien-poursuit-sa-depreciation-face-a-leuro/).\n- **Fin 2025 :** l'euro est revenu à 3,3744 dinars au 31 décembre 2025. Sur l'année, le dinar a cédé 1,6 % face à l'euro mais gagné 9,8 % face au dollar, selon le rapport annuel 2025 de la BCT [cité par La Tribune](https://www.la-tribune.net/2026/07/08/bct-evolution-du-taux-de-change-du-dinar/), qui l'explique par la chute de plus de 12 % du dollar face à l'euro.\n- **2026 :** fin juin 2026, le dinar était stable face à l'euro par rapport à fin 2025, mais sa moyenne du premier semestre était inférieure de 1,1 % à celle de l'année précédente, [selon les données de la BCT reprises par La Presse](https://www.lapresse.tn/2026/09/01/dollar-euro-yen-comment-le-dinar-tunisien-a-evolue-depuis-le-debut-de-2026/). Le cours BCT s'établissait à 3,3731 le 29 juin, 3,3724 le 29 septembre et 3,3687 le 5 octobre 2026.\n\nLes évolutions passées ne préjugent pas de l'avenir. Les analystes cités par La Presse évoquent aussi l'inflation, les réserves en devises et les fluctuations des marchés internationaux parmi les facteurs qui pèsent sur le dinar.\n\n## Quelles règles de change pour les voyageurs et les TRE ?\n\nCes règles relèvent de la douane et des circulaires de la BCT et peuvent évoluer : vérifiez auprès de la douane ou de votre banque avant le voyage. En 2026 :\n\n- **Déclaration :** toute somme en devises d'une contre-valeur **égale ou supérieure à 20 000 dinars** doit être déclarée à l'entrée comme à la sortie, en vertu d'un arrêté du ministre des Finances de 2016 modifié en 2019. Il faut aussi déclarer des montants inférieurs si l'on compte ouvrir un compte en devises ou ressortir l'équivalent de 5 000 dinars ou plus. La déclaration est personnelle, vaut pour un seul voyage et reste valable trois mois, selon [Allo Justice](https://allojustice.tn/blog/la-declaration-de-devises-en-tunisie-regles-a-lentree-et-a-la-sortie-avec-exemples/), qui reprend les indications de la douane.\n- **Réexportation :** un non-résident peut ressortir jusqu'à l'équivalent de 5 000 dinars en billets étrangers sans déclaration d'entrée, et jusqu'à 30 000 dinars avec une déclaration. Au-delà, il faut passer par une banque.\n- **Reconversion des dinars restants :** les non-résidents qui ont changé des devises en Tunisie peuvent reconvertir leur reliquat de dinars auprès d'une banque ou d'un bureau de change agréé. Un [support de formation bancaire fondé sur les circulaires de la BCT](https://www.abf.tn/wp-content/uploads/2021/02/Les-op%C3%A9rations-%C3%A0-l%E2%80%99international-des-particuliers.pdf) précise qu'il faut présenter le bordereau de change d'origine, et en plus la déclaration douanière à partir de 5 000 dinars. **Conservez tous vos bordereaux.**\n- **Côté européen :** sortir de France, ou de tout pays de l'UE, avec 10 000 € ou plus en espèces doit être déclaré à la douane.\n\nLes TRE sont en principe non-résidents au regard de la réglementation des changes, mais peuvent bénéficier du statut de résident pour certaines opérations en Tunisie, comme l'achat d'un bien immobilier. Notre guide pour [recevoir de l'argent en Tunisie](post:receive-money-in-tunisia) présente les comptes en dinars convertibles et en devises.\n\n## Le change au marché noir vaut-il le risque ?\n\nDes changeurs informels opèrent en Tunisie, notamment à Ben Guerdane et le long des frontières libyenne et algérienne, et le tableau de bord quotidien de la BCT suit les cours parallèles qui y sont pratiqués, [rapportait African Manager](https://africanmanager.com/le-nouveau-gouverneur-de-la-bct-face-au-marche-parallele-des-changes/) en 2024. Ils proposent parfois quelques dinars de plus par euro, mais le jeu n'en vaut pas la chandelle :\n\n- changer hors des intermédiaires agréés enfreint la réglementation des changes ;\n- sans bordereau de change, impossible de reconvertir légalement vos dinars restants ;\n- faux billets, erreurs de comptage ou vol : vous n'avez aucun recours.\n\nLes autorités belges recommandent d'ailleurs « fortement » de ne pas changer d'argent dans la rue.\n\n## Comment obtenir le meilleur taux de change euro dinar ?\n\n1. **Regardez d'abord la référence.** Comparez chaque cotation à la moyenne interbancaire de la BCT pour mesurer la marge appliquée.\n2. **Comparez le montant total reçu**, pas les frais ni le taux affiché. Notre [comparateur de transfert d'argent](page:remit) recense les offres pour envoyer des euros en Tunisie.\n3. **Préférez le transfert en ligne au dépôt d'espèces au guichet**, où la Banque mondiale a relevé les marges les plus élevées.\n4. **Ne changez pas à l'aéroport par réflexe.** Comparez le cours acheteur affiché dans les banques, à La Poste et dans les bureaux de change agréés en ville.\n5. **Passez par les circuits officiels et gardez vos reçus.** Le change informel rapporte peu et vous prive de toute protection. Les transferts formels soutiennent aussi les recettes en devises du pays, comme nous l'expliquons dans notre article sur les [transferts de la diaspora](post:diaspora-remittances-tunisia).\n\nAvant de changer ou d'envoyer de l'argent, vérifiez le [cours de l'euro en dinar aujourd'hui](page:fx-eur). Cet article est fourni à titre d'information générale et ne constitue pas un conseil juridique ou financier.",
+    "faq": [
+      {
+        "q": "Quel est le taux officiel de l'euro en dinar tunisien ?",
+        "a": "Le chiffre appelé taux officiel est le cours moyen interbancaire que la Banque centrale de Tunisie publie chaque jour pour la veille. La BCT précise qu'il ne s'agit pas de son propre taux mais de la moyenne des échanges entre banques. Les particuliers changent aux cours des banques, bureaux de change ou services de transfert, qui incluent une marge."
+      },
+      {
+        "q": "Peut-on acheter des dinars tunisiens avant de partir ?",
+        "a": "Non. Le dinar ne peut pas être acheté hors de Tunisie et l'exportation de billets en dinars est interdite. Emportez des euros et changez-les à l'arrivée dans une banque, à La Poste ou dans un bureau de change agréé, ou retirez des dinars à un distributeur en Tunisie."
+      },
+      {
+        "q": "Combien d'argent peut-on entrer en Tunisie sans le déclarer ?",
+        "a": "Les devises d'une contre-valeur de 20 000 dinars ou plus doivent être déclarées à la douane, à l'entrée comme à la sortie. Il est aussi conseillé de déclarer des montants inférieurs si vous comptez ouvrir un compte en devises ou ressortir l'équivalent de 5 000 dinars ou plus. Vérifiez les règles avant de voyager."
+      },
+      {
+        "q": "Peut-on reconvertir ses dinars restants en euros ?",
+        "a": "Les non-résidents peuvent reconvertir leur reliquat de dinars dans une banque ou un bureau de change agréé, sur présentation du bordereau de change initial, et de la déclaration douanière à partir de 5 000 dinars. Gardez tous vos bordereaux jusqu'au départ."
+      },
+      {
+        "q": "Pourquoi le cours euro dinar de ma banque est-il différent ?",
+        "a": "Les banques achètent l'euro en dessous de la moyenne interbancaire et le revendent au-dessus, et les services de transfert ajoutent leur propre marge, parfois des frais. Comparez le montant total en dinars reçu pour une même somme en euros."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Taux de change : mise au point de la Banque centrale de Tunisie",
+      "publisher": "Kapitalis",
+      "url": "https://kapitalis.com/tunisie/2022/07/08/taux-de-change-mise-au-point-de-la-banque-centrale-de-tunisie/"
+    },
+    {
+      "title": "La dévaluation du dinar (Explanatory Paper n°3)",
+      "publisher": "Observatoire Tunisien de l'Économie",
+      "url": "https://www.economie-tunisie.org/sites/default/files/fiche_reforme_devaluation-fr.pdf"
+    },
+    {
+      "title": "BCT : Évolution du taux de change du dinar",
+      "publisher": "La Tribune Économique",
+      "url": "https://www.la-tribune.net/2026/07/08/bct-evolution-du-taux-de-change-du-dinar/"
+    },
+    {
+      "title": "Taux de change : le dinar tunisien au plus bas face à l'euro depuis juillet 2023",
+      "publisher": "Webmanagercenter (avec TAP)",
+      "url": "https://www.webmanagercenter.com/2025/09/17/551737/taux-de-change-le-dinar-tunisien-au-plus-bas-face-a-leuro-depuis-juillet-2023"
+    },
+    {
+      "title": "La déclaration de devises en Tunisie : règles à l'entrée et à la sortie",
+      "publisher": "Allo Justice",
+      "url": "https://allojustice.tn/blog/la-declaration-de-devises-en-tunisie-regles-a-lentree-et-a-la-sortie-avec-exemples/"
+    },
+    {
+      "title": "Voyager en Tunisie : informations pratiques",
+      "publisher": "SPF Affaires étrangères (Belgique)",
+      "url": "https://diplomatie.belgium.be/fr/pays/tunisie/voyager-en-tunisie-conseils-aux-voyageurs/informations-pratiques-pour-la-tunisie"
+    }
+  ]
+}

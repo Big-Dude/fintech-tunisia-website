@@ -1,0 +1,7 @@
+{
+ "_help": "Soft ad slots (articles + exchange-rate pages only). Leave adsense_client empty to show house/referral creatives. To switch to Google AdSense: put your publisher id (ca-pub-XXXXXXXXXXXXXXXX) and the slot ids, add ads.txt, and set up a consent tool (CMP) for EEA/UK visitors first.",
+ "enabled": true,
+ "adsense_client": "",
+ "adsense_slot_article": "",
+ "adsense_slot_fx": ""
+}

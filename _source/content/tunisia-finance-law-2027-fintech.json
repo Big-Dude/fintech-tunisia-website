@@ -1,0 +1,192 @@
+{
+  "slug": "tunisia-finance-law-2027-fintech",
+  "category": "regulation",
+  "cover_motif": "document",
+  "date": "2026-11-07",
+  "stats": [
+    {
+      "value": "0%",
+      "label_en": "proposed customs duty on imported payment terminals (Art. 69, draft)",
+      "label_fr": "droits de douane proposés sur les TPE importés (art. 69, projet)",
+      "source": "PLF 2027 via TAP/Le Temps, 2026"
+    },
+    {
+      "value": "5%",
+      "label_en": "proposed fine on undeclared transactions for delivery firms (Art. 66, draft)",
+      "label_fr": "amende proposée sur les transactions non déclarées par les livreurs (art. 66, projet)",
+      "source": "PLF 2027 via Business News, 2026"
+    },
+    {
+      "value": "TND 9.8bn",
+      "label_en": "interest-free BCT facility to the Treasury in the draft budget",
+      "label_fr": "facilités sans intérêt de la BCT au Trésor dans le projet de budget",
+      "source": "PLF 2027 via Business News, 2026"
+    }
+  ],
+  "chart": {
+    "title_en": "Draft Finance Law 2027: credit lines for entrepreneurs (TND million)",
+    "title_fr": "PLF 2027 : lignes de financement pour entrepreneurs (millions de dinars)",
+    "unit": "TND m",
+    "bars": [
+      {
+        "label_en": "Interest-free loans, vulnerable groups",
+        "label_fr": "Prêts sans intérêt, catégories vulnérables",
+        "value": 20.0
+      },
+      {
+        "label_en": "Labelled startups, equity loans (Art. 13)",
+        "label_fr": "Startups labellisées, crédits participatifs (art. 13)",
+        "value": 10.0
+      },
+      {
+        "label_en": "Small firms, working capital (Art. 14)",
+        "label_fr": "Petites entreprises, fonds de roulement (art. 14)",
+        "value": 10.0
+      },
+      {
+        "label_en": "Employer contributions, firms created in 2027 (Art. 14)",
+        "label_fr": "Cotisations patronales, entreprises créées en 2027 (art. 14)",
+        "value": 5.0
+      },
+      {
+        "label_en": "Student-entrepreneurs (Art. 16)",
+        "label_fr": "Étudiants-entrepreneurs (art. 16)",
+        "value": 5.0
+      }
+    ],
+    "source_name": "PLF 2027, as reported by La Presse and Réalités (October 2026)",
+    "source_url": "https://www.lapresse.tn/2026/10/15/plf-2027-de-nouveaux-financements-pour-les-startups-et-les-petites-entreprises-en-tunisie"
+  },
+  "en": {
+    "title": "Tunisia Finance Law 2027: What the Draft Means for Fintech",
+    "meta_description": "Tunisia's draft Finance Law 2027 scraps duties on payment terminals, targets cash-on-delivery sellers and funds startups. What fintechs should know.",
+    "excerpt": "The PLF 2027 is light on fintech but has concrete measures: zero duty on payment terminals, seller reporting for delivery firms and small startup credit lines.",
+    "keywords": [
+      "Tunisia finance law 2027",
+      "PLF 2027 Tunisia",
+      "Tunisia budget 2027",
+      "Tunisia payment terminals customs duty",
+      "Tunisia e-commerce delivery tax reporting",
+      "Tunisia startup loans 2027",
+      "Tunisia finance bill fintech"
+    ],
+    "tags": [
+      "Finance Law 2027",
+      "Regulation",
+      "Payments",
+      "E-commerce",
+      "Startups"
+    ],
+    "key_takeaways": [
+      "The draft Finance Law 2027 went to parliament on 15 October 2026 and must be adopted by 10 December 2026; all measures remain proposals.",
+      "Article 69 would cut customs duty on imported payment terminals to 0%, and Article 68 would cut duty on smartphones to 10%.",
+      "Article 66 would require delivery firms and platforms to report online sellers' identities and transactions every six months, with a 5% fine on undeclared amounts.",
+      "Startup support is small (TND 10 million in interest-free equity loans for labelled startups), and the draft contains no FX liberalisation or new cash rules."
+    ],
+    "body": "Tunisia's draft Finance Law 2027 went to parliament on 15 October 2026, and its measures for digital payments are few but concrete. The bill would scrap customs duties on payment terminals, cut duties on smartphones, make delivery companies report online sellers to the tax office, and open small credit lines for labelled startups. It says nothing new on foreign exchange or cash limits. Everything below is a draft until parliament votes, which must happen by 10 December 2026.\n\n## What is in Tunisia's draft Finance Law 2027?\n\nThe projet de loi de finances (PLF) 2027 sets state spending at about **TND 68.9 billion**, up 8.37% on the 2026 Finance Law, according to figures obtained by TAP and reported by [Tunisie-Tribune](https://www.tunisie-tribune.com/2026/10/16/plf-2027-837-au-budget-de-letat-a-68895-mds-dt/). Revenue is projected at TND 54.28 billion, including about TND 49.6 billion in taxes. The deficit stands at TND 14.6 billion and total Treasury financing needs at TND 28.1 billion, of which TND 19.8 billion would be borrowed domestically and TND 6.9 billion abroad.\n\nFor the financial sector, the biggest line is not a fintech measure. The draft again lets the Central Bank of Tunisia (BCT) lend the Treasury up to **TND 9.8 billion**, interest-free and repayable over 15 years with three years' grace, by derogation from the BCT statute (Law 2016-35), Business News reported. The draft 2026 budget had provided for up to TND 11 billion on the same terms. Direct central bank financing means the state leans less on bank credit, but it remains a point of concern for economists worried about inflation and the dinar.\n\n## How does the PLF 2027 treat payment terminals and smartphones?\n\nThree articles touch payment hardware, as reported by TAP, La Presse and Le Temps:\n\n- **Article 69** would set customs duty on imported electronic payment terminals (TPE, or POS terminals) at **0%** and add them to Table A of the VAT Code, the list of exempt operations. The stated aim is to make electronic payment easier and support digital transition.\n- **Article 68** would cut customs duty on imported smartphones to **10%**. Press reports did not give the current rate.\n- **Article 67** would charge a **TND 20 stamp duty** on each registration of a phone in the central equipment identifier registry, with the first registration exempt. Declaration of the duty would be handled by the telecoms research centre CERT.\n\nFor merchants, a cheaper terminal removes one small barrier to accepting cards and QR payments. It does not change the bigger obstacles: commission fees, low card ownership and the habits described in our piece on [Tunisia's cash economy](post:cash-economy-tunisia), where notes and coins in circulation topped TND 30 billion in 2026. The smartphone duty cut helps wallet adoption at the margin; the new TND 20 fee on re-registration partly offsets it for people who buy second-hand or imported phones.\n\n## What changes for e-commerce and cash on delivery?\n\n**Article 66** is the measure most likely to affect online sellers. According to [Business News](https://businessnews.com.tn/2026/10/16/commerce-electronique-les-societes-de-livraison-devront-communiquer-au-fisc-la-liste-de-leurs-fournisseurs/1423378/), it would require companies delivering goods sold online or through audiovisual media, and platforms connecting sellers with couriers, to file a list of their suppliers every six months. Each entry would include the seller's identity, tax number or, failing that, national ID card number, and transaction amounts.\n\nThe penalties: a fine of **5% of undeclared transactions**, plus **TND 200** for each missing, incomplete or wrong item. African Manager noted that the measure creates no new tax, targets goods rather than online services, and that, if it applies from 1 January 2027, the first list would be due by mid-July 2027.\n\nThis matters because much of Tunisian social-media commerce runs on cash on delivery, and the courier is often the only party who sees both seller and payment (see [e-commerce payments in Tunisia](post:ecommerce-payments-tunisia)). The government presents Article 66 as a way to fight informality. Critics, including African Manager, warn that sellers could switch to self-delivery or undeclared couriers, and ask how mass collection of ID numbers fits the 2004 data protection law.\n\n## What does the draft offer startups?\n\nThe startup measures are modest in size, and all would be managed by public banks, according to [La Presse](https://www.lapresse.tn/2026/10/15/plf-2027-de-nouveaux-financements-pour-les-startups-et-les-petites-entreprises-en-tunisie):\n\n- **Article 13**: TND 10 million in interest-free participatory loans for founders of companies holding the [Startup label](post:startup-act-tunisia-explained), to strengthen equity, from 1 January 2027 to 31 December 2028, managed by BFPME and funded by the National Employment Fund.\n- **Article 14**: the state would cover employer social security contributions, on the minimum wage basis, for small businesses created in 2027 (100%, then 75%, then 50% over three years), capped at TND 5 million in total; plus a TND 10 million working-capital line for young small firms, managed by BTS.\n- **Article 16**: TND 5 million in preferential loans for holders of the student-entrepreneur status.\n- **Article 22**: companies obtaining an investment declaration receipt between 2027 and 2030 would be exempt from corporate tax under the conditions of the 2024 Finance Law. **Financial activities are excluded**, as are telecom operators, so most fintechs would not qualify.\n\nTND 10 million for startup equity is small next to typical seed rounds, and the eligibility rules will be set later by agreements between ministries.\n\n## Is there anything on banks, foreign exchange or the diaspora?\n\nVery little. Press coverage of the draft reports no new levy on banks, no change to cash payment rules and no foreign exchange liberalisation. The [FX code reform](post:tunisia-foreign-exchange-code-reform) is a separate bill still awaiting the BCT's opinion, and resident foreign-currency accounts were already opened by the 2026 Finance Law.\n\nTwo items touch the diaspora indirectly. The travel tax for trips abroad would rise from TND 60 to TND 80 (outside Maghreb countries, according to Réalités), to fund the social security diversification account. And in committee hearings, MPs raised the [difficulties of Tunisians abroad](https://fr.allafrica.com/stories/202611060390.html) with cash-only consular payments and access to international cards; the foreign minister said remittances had reached TND 7.5 billion by October.\n\nOn e-invoicing, Finance Committee chair Maher Ketari said in early October that a revision of the phased rollout would be proposed. We could not confirm that it appears in the government's text, so treat it as a possible amendment.\n\n## When will the Finance Law 2027 be voted?\n\nCommittees of both chambers have been examining the budget since mid-October. Ketari said party groups agreed to limit amendments to four additional articles per group, after more than 140 were tabled last year. According to [Espace Manager](https://espacemanager.com/budget-de-letat-2027-demarrage-lundi-9-novembre-des-plenieres-conjointes-arp-cnrd/), joint plenary sessions of the ARP and the National Council of Regions and Districts open on **9 November**, ministry budgets are debated until about 25 November, and the Finance Law itself follows. The Constitution requires adoption **by 10 December 2026**.\n\n## What should fintech founders watch?\n\n- **Final wording of Article 66**: whether \"transaction amounts\" means the goods' price or just delivery fees, and whether small occasional sellers are exempted.\n- **Amendments**: MPs could add measures on e-invoicing, cash or digital payments in late November.\n- **Implementing texts**: the startup loans need ministerial agreements before money moves.\n- **Terminal prices**: whether acquirers and banks pass the duty cut on to merchants.\n\nWe will update this article once parliament votes.",
+    "faq": [
+      {
+        "q": "When will Tunisia's Finance Law 2027 be adopted?",
+        "a": "The draft was sent to parliament on 15 October 2026. Joint plenary sessions of the ARP and the National Council of Regions and Districts start on 9 November, and the Constitution requires the Finance Law to be adopted by 10 December 2026."
+      },
+      {
+        "q": "Does the PLF 2027 remove customs duties on payment terminals?",
+        "a": "Yes, as drafted. Article 69 would set customs duty on imported electronic payment terminals at 0% and add them to Table A of the VAT Code. The measure still has to survive the parliamentary vote."
+      },
+      {
+        "q": "What does Article 66 of the PLF 2027 mean for online sellers?",
+        "a": "Delivery companies and platforms linking sellers with couriers would have to send the tax administration, every six months, a list of sellers with their tax number or ID card number and transaction amounts. Missing declarations would cost 5% of the undeclared transactions plus TND 200 per missing or wrong item."
+      },
+      {
+        "q": "Is there anything for startups in Tunisia's 2027 budget?",
+        "a": "The draft includes TND 10 million in interest-free participatory loans for labelled startups in 2027–2028, social security relief for small firms created in 2027 and TND 5 million for student-entrepreneurs. A corporate tax exemption for new companies excludes financial activities."
+      },
+      {
+        "q": "Does the Finance Law 2027 change foreign exchange rules?",
+        "a": "Not according to press coverage of the draft. The new FX code is a separate bill still in committee, and resident foreign-currency accounts were already allowed by the 2026 Finance Law."
+      }
+    ]
+  },
+  "fr": {
+    "title": "Loi de finances 2027 en Tunisie : ce qui change pour la fintech",
+    "meta_description": "Loi de finances 2027 en Tunisie : TPE sans droits de douane, livreurs tenus de déclarer les vendeurs en ligne, crédits aux startups. Les mesures du PLF.",
+    "excerpt": "Le PLF 2027 parle peu de fintech, mais ses mesures sont concrètes : TPE à 0 % de droits de douane, déclaration des vendeurs par les livreurs et crédits aux startups.",
+    "keywords": [
+      "loi de finances 2027 Tunisie",
+      "LF 2027 mesures",
+      "PLF 2027 Tunisie",
+      "PLF 2027 paiement électronique",
+      "PLF 2027 TPE droits de douane",
+      "PLF 2027 startups",
+      "article 66 PLF 2027 livraison"
+    ],
+    "tags": [
+      "Loi de finances 2027",
+      "Réglementation",
+      "Paiements",
+      "E-commerce",
+      "Startups"
+    ],
+    "key_takeaways": [
+      "Le PLF 2027, transmis au Parlement le 15 octobre 2026, doit être adopté au plus tard le 10 décembre 2026 : toutes ses mesures restent des propositions.",
+      "L'article 69 ramènerait à 0 % les droits de douane sur les TPE importés, et l'article 68 à 10 % ceux sur les smartphones.",
+      "L'article 66 obligerait livreurs et plateformes à déclarer chaque semestre l'identité et les transactions des vendeurs en ligne, sous peine d'une amende de 5 % des montants non déclarés.",
+      "Le soutien aux startups reste modeste (10 millions de dinars de crédits participatifs) et le texte ne prévoit ni libéralisation du change ni nouvelle règle sur les espèces."
+    ],
+    "body": "Le projet de loi de finances 2027 a été transmis au Parlement le 15 octobre 2026. Pour les paiements numériques, il contient peu de mesures, mais elles sont concrètes : suppression des droits de douane sur les terminaux de paiement électronique, baisse de ceux sur les smartphones, obligation pour les sociétés de livraison de déclarer au fisc les vendeurs en ligne et petites lignes de crédit pour les startups labellisées. Rien de nouveau, en revanche, sur le change ou les paiements en espèces. Tout ce qui suit reste un projet jusqu'au vote, attendu au plus tard le 10 décembre 2026.\n\n## Que contient le projet de loi de finances 2027 ?\n\nLe PLF 2027 fixe les dépenses de l'État à environ **68,9 milliards de dinars**, en hausse de 8,37 % par rapport à la loi de finances 2026, selon les chiffres obtenus par la TAP et repris par [Tunisie-Tribune](https://www.tunisie-tribune.com/2026/10/16/plf-2027-837-au-budget-de-letat-a-68895-mds-dt/). Les recettes sont estimées à 54,28 milliards de dinars, dont environ 49,6 milliards de recettes fiscales. Le déficit atteint 14,6 milliards et les besoins de financement du Trésor 28,1 milliards, dont 19,8 milliards d'emprunts intérieurs et 6,9 milliards d'emprunts extérieurs.\n\nCôté secteur financier, la mesure la plus lourde ne relève pas de la fintech. Le texte autorise de nouveau la Banque centrale de Tunisie (BCT) à accorder au Trésor des facilités allant jusqu'à **9,8 milliards de dinars**, sans intérêts et remboursables sur 15 ans dont trois ans de grâce, par dérogation au statut de la BCT (loi 2016-35), a rapporté Business News. Le projet de budget 2026 prévoyait jusqu'à 11 milliards aux mêmes conditions. Ce financement direct allège la pression sur le crédit bancaire, mais continue d'inquiéter les économistes pour l'inflation et le dinar.\n\n## Que prévoit le PLF 2027 pour les TPE et les smartphones ?\n\nTrois articles concernent le matériel de paiement, selon la TAP, La Presse et Le Temps :\n\n- **Article 69** : droits de douane ramenés à **0 %** à l'importation des terminaux de paiement électronique (TPE), qui seraient inscrits au tableau « A » du code de la TVA, celui des opérations exonérées. L'objectif affiché est de faciliter le recours au paiement électronique et d'encourager la transition numérique.\n- **Article 68** : droits de douane sur les smartphones réduits à **10 %**. La presse n'a pas précisé le taux actuel.\n- **Article 67** : un **droit de timbre de 20 dinars** sur chaque enregistrement d'un téléphone dans le registre central des identifiants d'équipements, la première opération étant exonérée. La déclaration serait confiée au CERT.\n\nPour un commerçant, un terminal moins cher lève un petit frein à l'acceptation des cartes et du paiement par QR code. Il ne règle pas les obstacles principaux : les commissions, le faible taux d'équipement en cartes et les habitudes décrites dans notre article sur [l'économie du cash en Tunisie](post:cash-economy-tunisia), où la monnaie fiduciaire a dépassé 30 milliards de dinars en 2026. La baisse des droits sur les smartphones peut aider un peu les portefeuilles mobiles ; le nouveau timbre de 20 dinars la compense en partie pour les téléphones d'occasion ou importés.\n\n## Qu'est-ce qui change pour le e-commerce et le paiement à la livraison ?\n\n**L'article 66** est la mesure la plus susceptible de toucher les vendeurs en ligne. Selon [Business News](https://businessnews.com.tn/2026/10/16/commerce-electronique-les-societes-de-livraison-devront-communiquer-au-fisc-la-liste-de-leurs-fournisseurs/1423378/), les prestataires qui livrent des produits vendus sur internet ou par les médias audiovisuels, ainsi que les plateformes mettant en relation fournisseurs et livreurs, devraient déposer chaque semestre une liste nominative de leurs fournisseurs : identité, matricule fiscal ou, à défaut, numéro de carte d'identité nationale, et montant des transactions.\n\nCôté sanctions : une amende de **5 % des transactions non déclarées**, plus **200 dinars** par information manquante, incomplète ou erronée. African Manager relève que le texte ne crée aucun nouvel impôt, vise les biens et non les services en ligne et que, s'il s'applique au 1er janvier 2027, la première liste serait due mi-juillet 2027.\n\nL'enjeu est réel : une grande partie du commerce sur les réseaux sociaux repose sur le paiement à la livraison, et le livreur est souvent le seul à connaître à la fois le vendeur et l'encaissement (voir notre dossier sur [les paiements en ligne en Tunisie](post:ecommerce-payments-tunisia)). Le gouvernement présente l'article 66 comme un outil contre l'informel. African Manager craint au contraire que des vendeurs se mettent à livrer eux-mêmes ou passent par des coursiers non déclarés, et s'interroge sur la compatibilité de cette collecte massive de numéros d'identité avec la loi de 2004 sur les données personnelles.\n\n## Quelles mesures pour les startups dans la LF 2027 ?\n\nLes dispositifs sont modestes et seraient gérés par des banques publiques, d'après [La Presse](https://www.lapresse.tn/2026/10/15/plf-2027-de-nouveaux-financements-pour-les-startups-et-les-petites-entreprises-en-tunisie) :\n\n- **Article 13** : 10 millions de dinars de crédits participatifs sans intérêt pour les promoteurs d'entreprises titulaires du [label Startup](post:startup-act-tunisia-explained), destinés à renforcer les fonds propres, du 1er janvier 2027 au 31 décembre 2028, gérés par la BFPME et financés par le Fonds national de l'emploi.\n- **Article 14** : prise en charge par l'État des cotisations patronales, sur la base du SMIG, pour les petites entreprises créées en 2027 (100 %, puis 75 %, puis 50 % sur trois ans), dans la limite de 5 millions de dinars ; et une ligne de 10 millions de dinars pour le fonds de roulement des jeunes petites entreprises, gérée par la BTS.\n- **Article 16** : 5 millions de dinars de crédits à conditions préférentielles pour les titulaires du statut d'étudiant-entrepreneur.\n- **Article 22** : exonération d'impôt sur les sociétés pour les entreprises obtenant une attestation de dépôt de déclaration d'investissement entre 2027 et 2030, aux conditions de la loi de finances 2024. **Les activités financières sont exclues**, tout comme les opérateurs télécoms : la plupart des fintechs n'y auraient donc pas droit.\n\nDix millions de dinars pour les fonds propres des startups, c'est peu au regard d'un tour d'amorçage classique, et les conditions d'éligibilité seront fixées plus tard par des conventions entre ministères.\n\n## Y a-t-il des mesures sur les banques, le change ou les TRE ?\n\nTrès peu. La couverture de presse ne fait état d'aucune nouvelle contribution des banques, d'aucun changement des règles sur les espèces ni d'aucune libéralisation du change. La [réforme du code des changes](post:tunisia-foreign-exchange-code-reform) fait l'objet d'un texte distinct, toujours en attente de l'avis de la BCT, et les comptes en devises des résidents ont déjà été ouverts par la loi de finances 2026.\n\nDeux points touchent indirectement la diaspora. La taxe sur les voyages à l'étranger passerait de 60 à 80 dinars (hors pays du Maghreb, selon Réalités), au profit du compte de diversification des sources de financement de la sécurité sociale. Et en commission, des députés ont soulevé les [difficultés des Tunisiens à l'étranger](https://fr.allafrica.com/stories/202611060390.html) face aux paiements consulaires en espèces et au manque de cartes internationales ; le ministre des Affaires étrangères a indiqué que les transferts avaient atteint 7,5 milliards de dinars à fin octobre.\n\nSur la facturation électronique, le président de la commission des finances, Maher Ketari, a annoncé début octobre qu'une révision du calendrier progressif serait proposée. Nous n'avons pas pu vérifier qu'elle figure dans le texte du gouvernement : il faut la considérer comme un amendement possible.\n\n## Quand la loi de finances 2027 sera-t-elle votée ?\n\nLes commissions des deux chambres examinent le budget depuis la mi-octobre. Maher Ketari a indiqué que les groupes ont convenu de limiter les propositions à quatre articles additionnels par groupe, contre plus de 140 l'an dernier. Selon [Espace Manager](https://espacemanager.com/budget-de-letat-2027-demarrage-lundi-9-novembre-des-plenieres-conjointes-arp-cnrd/), les plénières conjointes de l'ARP et du Conseil national des régions et des districts s'ouvrent le **9 novembre**, les budgets des missions sont débattus jusque vers le 25 novembre, puis vient le PLF lui-même. La Constitution impose son adoption **au plus tard le 10 décembre 2026**.\n\n## Que doivent surveiller les fondateurs fintech ?\n\n- **La rédaction finale de l'article 66** : « montant des transactions » désigne-t-il le prix des biens ou les seuls frais de livraison ? Les petits vendeurs occasionnels seront-ils exclus ?\n- **Les amendements** : les députés pourraient ajouter fin novembre des mesures sur la facturation électronique, le cash ou le paiement numérique.\n- **Les textes d'application** : les crédits aux startups supposent des conventions ministérielles avant tout décaissement.\n- **Le prix des terminaux** : les banques et acquéreurs répercuteront-ils la baisse sur les commerçants ?\n\nNous mettrons cet article à jour après le vote.",
+    "faq": [
+      {
+        "q": "Quand la loi de finances 2027 sera-t-elle adoptée en Tunisie ?",
+        "a": "Le projet a été transmis au Parlement le 15 octobre 2026. Les plénières conjointes de l'ARP et du Conseil national des régions et des districts débutent le 9 novembre, et la Constitution impose l'adoption au plus tard le 10 décembre 2026."
+      },
+      {
+        "q": "Le PLF 2027 supprime-t-il les droits de douane sur les TPE ?",
+        "a": "Oui, dans sa version actuelle. L'article 69 fixe à 0 % les droits de douane à l'importation des terminaux de paiement électronique et les inscrit au tableau « A » du code de la TVA. La mesure doit encore être votée."
+      },
+      {
+        "q": "Que change l'article 66 du PLF 2027 pour les vendeurs en ligne ?",
+        "a": "Les sociétés de livraison et les plateformes reliant vendeurs et livreurs devraient transmettre chaque semestre au fisc la liste de leurs fournisseurs, avec matricule fiscal ou numéro de CIN et montant des transactions. Le défaut de déclaration coûterait 5 % des transactions non déclarées, plus 200 dinars par information manquante ou erronée."
+      },
+      {
+        "q": "Quelles sont les mesures de la LF 2027 pour les startups ?",
+        "a": "Le projet prévoit 10 millions de dinars de crédits participatifs sans intérêt pour les startups labellisées en 2027-2028, la prise en charge de cotisations patronales pour les petites entreprises créées en 2027 et 5 millions de dinars pour les étudiants-entrepreneurs. L'exonération d'IS pour les entreprises nouvelles exclut les activités financières."
+      },
+      {
+        "q": "La loi de finances 2027 modifie-t-elle la réglementation des changes ?",
+        "a": "Pas d'après la couverture de presse du projet. Le nouveau code des changes est un texte distinct, toujours en commission, et les comptes en devises des résidents ont déjà été autorisés par la loi de finances 2026."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "PLF 2027 : +8,37% au budget de l'Etat à 68,895 Mds DT",
+      "publisher": "Tunisie-Tribune (TAP)",
+      "url": "https://www.tunisie-tribune.com/2026/10/16/plf-2027-837-au-budget-de-letat-a-68895-mds-dt/"
+    },
+    {
+      "title": "PLF 2027 : Des mesures fiscales pour accélérer le développement du paiement électronique en Tunisie",
+      "publisher": "Le Temps News (TAP)",
+      "url": "https://letemps.news/2026/10/16/plf-2027-des-mesures-fiscales-pour-accelerer-le-developpement-du-paiement-electronique-en-tunisie/"
+    },
+    {
+      "title": "Commerce électronique : les sociétés de livraison devront communiquer au fisc la liste de leurs fournisseurs",
+      "publisher": "Business News",
+      "url": "https://businessnews.com.tn/2026/10/16/commerce-electronique-les-societes-de-livraison-devront-communiquer-au-fisc-la-liste-de-leurs-fournisseurs/1423378/"
+    },
+    {
+      "title": "PLF 2027 : de nouveaux financements pour les startups et les petites entreprises en Tunisie",
+      "publisher": "La Presse de Tunisie",
+      "url": "https://www.lapresse.tn/2026/10/15/plf-2027-de-nouveaux-financements-pour-les-startups-et-les-petites-entreprises-en-tunisie"
+    },
+    {
+      "title": "Le fisc traque le commerce en ligne, avec le livreur qui devient « l'indic »",
+      "publisher": "African Manager",
+      "url": "https://africanmanager.com/le-fisc-traque-le-commerce-en-ligne-avec-le-livreur-qui-devient-lindic/"
+    },
+    {
+      "title": "Budget de l'Etat 2027 : démarrage lundi 9 novembre des plénières conjointes ARP-CNRD",
+      "publisher": "Espace Manager",
+      "url": "https://espacemanager.com/budget-de-letat-2027-demarrage-lundi-9-novembre-des-plenieres-conjointes-arp-cnrd/"
+    }
+  ]
+}

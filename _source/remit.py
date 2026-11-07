@@ -310,7 +310,7 @@ def _build(B, L):
       <div class="calc-f calc-sort"><label class="calc-l" for="remit-sort">{r['sort']}</label><select id="remit-sort"><option value="best">{r['s_best']}</option><option value="fee">{r['s_fee']}</option><option value="speed">{r['s_speed']}</option></select></div>
     </div>
   </form>
-  <p class="rate-line" id="remit-rate">{r['rate']}: <b>1 EUR = <span id="rate-v">{rate_txt}</span> TND</b> · {r['rate_live']} (<span id="rate-d">{B.fdate(FX['date'], L)}</span>)</p>
+  <p class="rate-line" id="remit-rate">{r['rate']}: <a href="{page.rel(B.path_of(L, 'fx', 'eur'))}"><b>1 EUR = <span id="rate-v">{rate_txt}</span> TND</b></a> · {r['rate_live']} (<span id="rate-d">{B.fdate(FX['date'], L)}</span>)</p>
 </div></section>
 <section class="listing remit-list"><div class="wrap">
   <p class="remit-src" id="remit-src" data-rpw="{E(r['src_rpw'].format(period=period, collected=collected))}" data-de="{E(r['src_de'])}">{E(r['src_rpw'].format(period=period, collected=collected))}</p>

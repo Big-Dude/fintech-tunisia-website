@@ -39,6 +39,9 @@ with sync_playwright() as pw:
     pages = {"directory": ("startups", "network-nodes", lambda L: X[L]["dir_h1"], lambda L: X[L]["tool_dir"]),
              "regulation-tracker": ("regulation", "scales-law", lambda L: X[L]["reg_h1"], lambda L: X[L]["tool_reg"]),
              "send-money-to-tunisia": ("payments", "globe-links", lambda L: RM.R[L]["h1"], lambda L: RM.R[L]["eyebrow"])}
+    import fxpages as FXP
+    for c in FXP.CURS:
+        pages["fx-" + c] = ("payments", "coins", (lambda c: lambda L: FXP.T[L]["h1"].format(C=FXP.NAMEC[L][c], c=FXP.NAMEC[L][c], n=FXP.NAME[L][c], X=FXP.CODE[c]))(c), lambda L: FXP.T[L]["rate_lbl"])
     for slug, (cat, motif, tf, lf) in pages.items():
         for L in ONLY:
             title, lab = tf(L), lf(L)
