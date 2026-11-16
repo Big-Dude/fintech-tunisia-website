@@ -1,0 +1,183 @@
+{
+ "category": "payments",
+ "cover_motif": "chart-up",
+ "date": "2026-11-16",
+ "stats": [
+  {
+   "value": "+27%",
+   "label_en": "Growth in online card payments, first nine months of 2026",
+   "label_fr": "Hausse des paiements en ligne par carte, neuf premiers mois de 2026",
+   "source": "BCT, Les paiements en chiffres n°18"
+  },
+  {
+   "value": "719,000",
+   "label_en": "Mobile wallets at the end of September 2026 (+53.3%)",
+   "label_fr": "Portefeuilles mobiles à fin septembre 2026 (+53,3 %)",
+   "source": "BCT, Les paiements en chiffres n°18"
+  },
+  {
+   "value": "-7.6%",
+   "label_en": "Drop in the number of cheques cleared, Jan.–Sept. 2026",
+   "label_fr": "Baisse du nombre de chèques compensés, janv.-sept. 2026",
+   "source": "BCT, Les paiements en chiffres n°18"
+  }
+ ],
+ "chart": {
+  "title_en": "Payment transactions in Tunisia, January–September 2026 (millions)",
+  "title_fr": "Opérations de paiement en Tunisie, janvier-septembre 2026 (millions)",
+  "unit": "M",
+  "bars": [
+   {
+    "label_en": "Card payments in shops",
+    "label_fr": "Paiements par carte en magasin",
+    "value": 41.3
+   },
+   {
+    "label_en": "Credit transfers",
+    "label_fr": "Virements",
+    "value": 29.5
+   },
+   {
+    "label_en": "Online card payments",
+    "label_fr": "Paiements par carte en ligne",
+    "value": 18.0
+   },
+   {
+    "label_en": "Mobile payments",
+    "label_fr": "Paiements mobiles",
+    "value": 7.1
+   },
+   {
+    "label_en": "Direct debits",
+    "label_fr": "Prélèvements",
+    "value": 6.8
+   },
+   {
+    "label_en": "Cheques",
+    "label_fr": "Chèques",
+    "value": 5.5
+   }
+  ],
+  "source_name": "Central Bank of Tunisia, Les paiements en chiffres n°18, via Challenges (10 Nov. 2026)",
+  "source_url": "https://www.challenges.tn/economie/paiements-en-tunisie-le-paiement-bondit-de-27-le-cheque-continue-de-reculer/"
+ },
+ "sources": [
+  {
+   "title": "Les Tunisiens ont de plus en plus le réflexe du paiement digital, selon la BCT",
+   "publisher": "Managers (10 Nov. 2026)",
+   "url": "https://managers.tn/2026/11/10/les-tunisiens-ont-de-plus-en-plus-le-reflexe-du-paiement-digital-selon-la-bct/"
+  },
+  {
+   "title": "Paiements en Tunisie : l'e-paiement bondit de 27 %, le chèque continue de reculer",
+   "publisher": "Challenges (10 Nov. 2026)",
+   "url": "https://www.challenges.tn/economie/paiements-en-tunisie-le-paiement-bondit-de-27-le-cheque-continue-de-reculer/"
+  },
+  {
+   "title": "Paiements en Tunisie : cartes, mobile, e-commerce… tous les indicateurs au vert, sauf le chèque",
+   "publisher": "L'Économiste Maghrébin (11 Nov. 2026)",
+   "url": "https://www.leconomistemaghrebin.com/2026/11/11/paiements-en-tunisie-cartes-mobile-e-commerce-tous-les-indicateurs-au-vert-sauf-le-cheque/"
+  },
+  {
+   "title": "Paiements par CB : 24,4 milliards de dinars en neuf mois, mais le cash reste majoritaire",
+   "publisher": "Webdo (10 Nov. 2026)",
+   "url": "https://www.webdo.tn/fr/actualite/national/paiements-par-cb-244-milliards-de-dinars-en-neuf-mois-mais-le-cash-reste-majoritaire/406968/"
+  },
+  {
+   "title": "Tunisie : le paiement mobile pourrait atteindre 10 millions de transactions en 2026",
+   "publisher": "Webdo (7 Nov. 2026)",
+   "url": "https://www.webdo.tn/fr/actualite/national/tunisie-le-paiement-mobile-pourrait-atteindre-10-millions-de-transactions-en-2026/406773/"
+  }
+ ],
+ "en": {
+  "title": "Tunisia Payment Statistics 2026: Cards, Mobile and E-commerce",
+  "meta_description": "Tunisia payment statistics for January–September 2026 from the BCT: card payments, e-commerce +27%, 719,000 mobile wallets, cheques down 7.6%.",
+  "excerpt": "The Central Bank's latest payments bulletin shows online card payments up 27%, mobile wallets up 53% and cheques still falling. Here is what the numbers say, and what they don't.",
+  "keywords": [
+   "Tunisia payment statistics",
+   "Tunisia e-commerce 2026",
+   "mobile payment Tunisia",
+   "BCT payments in figures",
+   "card payments Tunisia",
+   "cheques Tunisia",
+   "TunPay"
+  ],
+  "tags": [
+   "Payments",
+   "BCT",
+   "E-commerce",
+   "Mobile money",
+   "Data"
+  ],
+  "key_takeaways": [
+   "Card operations reached 135.7 million worth TND 24.4bn in the first nine months of 2026, but 56% of them were still cash withdrawals.",
+   "Online card payments grew 27% to 18 million transactions and TND 1.23bn; in-store card payments grew 18.6% to 41.3 million.",
+   "Mobile wallets jumped 53.3% to 719,000, yet mobile payment value grew only 6.6%, to TND 1.35bn.",
+   "Cheques were the only instrument in decline (-7.6% in number), while direct debits still had a 49.3% rejection rate."
+  ],
+  "body": "The Central Bank of Tunisia (BCT) published issue 18 of its bulletin *Les paiements en chiffres* on 10 November 2026, covering 1 January to 30 September. Every electronic channel grew faster than a year earlier, and the cheque kept shrinking. But cash is still how most Tunisians use their cards. This article sums up the figures, as reported by [Challenges](https://www.challenges.tn/economie/paiements-en-tunisie-le-paiement-bondit-de-27-le-cheque-continue-de-reculer/), [Managers](https://managers.tn/2026/11/10/les-tunisiens-ont-de-plus-en-plus-le-reflexe-du-paiement-digital-selon-la-bct/), [L'Économiste Maghrébin](https://www.leconomistemaghrebin.com/2026/11/11/paiements-en-tunisie-cartes-mobile-e-commerce-tous-les-indicateurs-au-vert-sauf-le-cheque/) and [Webdo](https://www.webdo.tn/fr/actualite/national/paiements-par-cb-244-milliards-de-dinars-en-neuf-mois-mais-le-cash-reste-majoritaire/406968/). Year-on-year changes compare with the first nine months of 2025.\n\n## How many card payments are made in Tunisia?\n\nCard operations (\"monétique\", which includes withdrawals) reached **135.7 million**, up 10.5%, for a value of **TND 24.4 billion**, up 11.1%. Payments made up 44% of those operations, against 40% a year earlier, and 26% of their value.\n\nIn other words, **56% of card operations were still ATM withdrawals**. The card is gaining ground as a way to pay, but it remains mostly a way to get cash. There were about 6.49 million cards in circulation, 3,333 ATMs and 45,900 payment terminals (TPE) at the end of September.\n\n| Indicator (Jan.–Sept. 2026) | Volume | Value | Change in number |\n|---|---|---|---|\n| All card operations | 135.7 million | TND 24.43bn | +10.5% |\n| In-store card payments (TPE) | 41.3 million | TND 5.14bn | +18.6% |\n| Online card payments | 18.0 million | TND 1.23bn | +27.0% |\n| Mobile payment operations | 7.1 million | TND 1.35bn | +20% |\n\n## How fast is e-commerce growing in Tunisia?\n\nOnline card payments were the fastest-growing channel: **18 million transactions** (+27%) worth **TND 1.23 billion** (+24.1%). The number of active merchant websites, those with at least one payment in the past 12 months, rose 27.6% to **1,552**.\n\nChallenges worked out an average online basket of about TND 68, against about TND 125 for an in-store card payment. That fits the profile of Tunisian e-payment: bills, telecom top-ups, government services and school fees as much as online shopping. Cash on delivery, which the bulletin doesn't measure, remains the norm for e-commerce orders. Our guide to [e-commerce payments](post:ecommerce-payments-tunisia) explains why.\n\nIn shops, card payments rose 18.6% to 41.3 million, for TND 5.14 billion. With only 45,900 terminals for the whole country, acceptance is still the bottleneck. That is why the draft [Finance Law 2027](post:tunisia-finance-law-2027-fintech) proposes cutting customs duty on payment terminals.\n\n## How many people use mobile payment in Tunisia?\n\nThe BCT counted **719,000 mobile wallets** at the end of September, up 53.3%, run by 20 payment service providers. They handled **7.1 million operations** (+20%) worth **TND 1.35 billion** (+6.6%).\n\nBy number, 64.2% of those operations were payments, 20.7% transfers between people, 10.4% cash deposits (cash-in) and 4.7% withdrawals (cash-out). By value, payments accounted for 56%.\n\nTwo cautions apply. First, the previous bulletin counted 512,000 wallets at the end of June, so the stock grew by about 40% in a single quarter. That suggests account openings are outpacing use, a pattern the BCT's 2025 supervision report had already described: only 11.3% of payment accounts at payment institutions were active at the end of 2025. Second, value is growing much more slowly than volume, so the average mobile transaction is getting smaller. Webdo's projection of about 10 million mobile transactions for 2026 is its own estimate, not a BCT forecast.\n\nFor background on the players, see our guides to [mobile payments in Tunisia](post:mobile-payments-tunisia) and [payment institutions](post:payment-institutions-tunisia).\n\n## Is the cheque disappearing in Tunisia?\n\nSlowly. Cheques were the only instrument in decline: **5.5 million** cleared (-7.6%) for **TND 37.3 billion** (-7.3%). They still carry about 22% of the value cleared through the interbank clearing system, which handled 45.5 million operations worth TND 168.5 billion (+4.7%).\n\n| Clearing (Jan.–Sept. 2026) | Number | Change | Value | Rejection rate (number) |\n|---|---|---|---|---|\n| Credit transfers | 29.5 million | +5.0% | TND 62.8bn | 0.1% |\n| Direct debits | 6.8 million | +13.8% | TND 25.4bn | 49.3% |\n| Cheques | 5.5 million | -7.6% | TND 37.3bn | 0.9% |\n| Bills of exchange | 3.6 million | +8.7% | TND 43.1bn | 9.4% |\n\nSince the [cheque law reform](post:cash-economy-tunisia) took effect in February 2025, with a new cheque format and the TuniChèque platform for checking funds in real time, many businesses have moved to bills of exchange (*lettres de change*), up 8.7%. Direct debits grew 13.8%, but **almost half of them (49.3%) were rejected**, usually for lack of funds. That is a warning for any fintech planning to collect subscriptions or loan repayments by debit.\n\n## What is TunPay?\n\nTunPay is the national label for mobile payment, created by a BCT note to banks (No. 2026-132) on 5 May 2026 and developed with the Société Monétique Tunisie (SMT). Wallet issuers (banks, La Poste and payment institutions) are expected to display it on their apps and at acceptance points so customers can recognise where they can pay by phone. It is a visual identity, not a new payment network.\n\nThe bulletin lists the adoption of TunPay among completed projects, alongside paying school fees by USSD or wallet. Projects still in progress include the overhaul of interbank clearing, the restructuring of SMT and SIBTEL, and the White-EMV card scheme.\n\n## What the numbers mean for fintechs\n\n- **The demand is there.** E-commerce and wallet volumes are growing at 20–27% a year, faster than banking as a whole.\n- **Use per account is weak.** Wallets are multiplying faster than transactions, so activation and everyday use cases matter more than sign-ups.\n- **Acceptance is the constraint.** One terminal for about 140 cards limits in-store growth, which helps QR and phone-based acceptance.\n- **Rules are tightening.** From late December, payment institutions must comply with [Circular 2026-10](post:payment-institutions-tunisia), with new governance, security and partnership rules.\n\nThe BCT publishes *Les paiements en chiffres* each quarter. We will update these figures when issue 19, covering the full year 2026, is out.",
+  "faq": [
+   {
+    "q": "How many mobile wallets are there in Tunisia?",
+    "a": "The Central Bank of Tunisia counted 719,000 mobile wallets at the end of September 2026, up 53.3% in a year, run by 20 payment service providers. They handled 7.1 million operations worth TND 1.35 billion in the first nine months of 2026."
+   },
+   {
+    "q": "How big is e-commerce in Tunisia?",
+    "a": "Online card payments reached 18 million transactions worth about TND 1.23 billion in January–September 2026, up 27% in number. There were 1,552 active merchant websites. Cash on delivery is not included in these figures."
+   },
+   {
+    "q": "Do Tunisians still use cash?",
+    "a": "Yes. 56% of card operations in the first nine months of 2026 were cash withdrawals, and most everyday purchases are still paid in cash, although card and mobile payments are growing by 18–27% a year."
+   },
+   {
+    "q": "Where do these figures come from?",
+    "a": "From the Central Bank of Tunisia's quarterly bulletin Les paiements en chiffres en Tunisie, issue 18, published on 10 November 2026 and covering data to 30 September 2026, as reported by the Tunisian business press."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Statistiques des paiements en Tunisie 2026 : cartes, mobile, e-commerce",
+  "meta_description": "Paiements en Tunisie de janvier à septembre 2026 selon la BCT : cartes, e-commerce +27 %, 719 000 portefeuilles mobiles, chèques en baisse de 7,6 %.",
+  "excerpt": "Le dernier bulletin de la Banque centrale montre des paiements en ligne par carte en hausse de 27 %, des portefeuilles mobiles en hausse de 53 % et un chèque qui recule encore. Ce que disent les chiffres, et ce qu'ils ne disent pas.",
+  "keywords": [
+   "statistiques paiements Tunisie",
+   "e-commerce Tunisie 2026",
+   "paiement mobile Tunisie",
+   "BCT paiements en chiffres",
+   "paiement par carte Tunisie",
+   "chèque Tunisie",
+   "TunPay"
+  ],
+  "tags": [
+   "Paiements",
+   "BCT",
+   "E-commerce",
+   "Paiement mobile",
+   "Données"
+  ],
+  "key_takeaways": [
+   "Les opérations par carte ont atteint 135,7 millions pour 24,4 milliards de dinars sur les neuf premiers mois de 2026, mais 56 % restent des retraits d'espèces.",
+   "Les paiements en ligne par carte ont progressé de 27 %, à 18 millions d'opérations et 1,23 milliard de dinars ; les paiements en magasin de 18,6 %, à 41,3 millions.",
+   "Le nombre de portefeuilles mobiles a bondi de 53,3 %, à 719 000, mais la valeur des paiements mobiles n'a augmenté que de 6,6 %, à 1,35 milliard de dinars.",
+   "Le chèque est le seul instrument en recul (-7,6 % en nombre), et 49,3 % des prélèvements ont été rejetés."
+  ],
+  "body": "La Banque centrale de Tunisie (BCT) a publié le 10 novembre 2026 le numéro 18 de son bulletin *Les paiements en chiffres*, qui couvre la période du 1er janvier au 30 septembre. Tous les canaux électroniques progressent plus vite qu'un an plus tôt et le chèque continue de reculer. Mais les Tunisiens utilisent encore surtout leur carte pour retirer des espèces. Voici l'essentiel des chiffres, tels que rapportés par [Challenges](https://www.challenges.tn/economie/paiements-en-tunisie-le-paiement-bondit-de-27-le-cheque-continue-de-reculer/), [Managers](https://managers.tn/2026/11/10/les-tunisiens-ont-de-plus-en-plus-le-reflexe-du-paiement-digital-selon-la-bct/), [L'Économiste Maghrébin](https://www.leconomistemaghrebin.com/2026/11/11/paiements-en-tunisie-cartes-mobile-e-commerce-tous-les-indicateurs-au-vert-sauf-le-cheque/) et [Webdo](https://www.webdo.tn/fr/actualite/national/paiements-par-cb-244-milliards-de-dinars-en-neuf-mois-mais-le-cash-reste-majoritaire/406968/). Les variations sont calculées par rapport aux neuf premiers mois de 2025.\n\n## Combien de paiements par carte en Tunisie ?\n\nLes opérations monétiques (retraits compris) ont atteint **135,7 millions**, en hausse de 10,5 %, pour une valeur de **24,4 milliards de dinars** (+11,1 %). Les paiements représentent 44 % de ces opérations, contre 40 % un an plus tôt, et 26 % de leur valeur.\n\nAutrement dit, **56 % des opérations par carte restent des retraits au distributeur**. La carte gagne du terrain comme moyen de paiement, mais elle sert d'abord à obtenir du liquide. Fin septembre, on comptait environ 6,49 millions de cartes en circulation, 3 333 distributeurs et 45 900 terminaux de paiement (TPE).\n\n| Indicateur (janv.-sept. 2026) | Nombre | Valeur | Variation en nombre |\n|---|---|---|---|\n| Ensemble des opérations par carte | 135,7 millions | 24,43 Md TND | +10,5 % |\n| Paiements par carte en magasin (TPE) | 41,3 millions | 5,14 Md TND | +18,6 % |\n| Paiements par carte en ligne | 18,0 millions | 1,23 Md TND | +27,0 % |\n| Opérations de paiement mobile | 7,1 millions | 1,35 Md TND | +20 % |\n\n## Quelle croissance pour l'e-commerce en Tunisie ?\n\nLe paiement en ligne par carte est le canal le plus dynamique : **18 millions d'opérations** (+27 %) pour **1,23 milliard de dinars** (+24,1 %). Le nombre de sites marchands actifs, c'est-à-dire ayant enregistré au moins un paiement sur les douze derniers mois, a progressé de 27,6 %, à **1 552**.\n\nChallenges calcule un panier moyen d'environ 68 dinars en ligne, contre environ 125 dinars pour un paiement par carte en magasin. Cela correspond au profil du paiement en ligne tunisien : factures, recharges télécoms, services publics et frais de scolarité autant qu'achats en ligne. Le paiement à la livraison, que le bulletin ne mesure pas, reste la norme pour les commandes en ligne. Notre guide sur [les paiements e-commerce](post:ecommerce-payments-tunisia) explique pourquoi.\n\nEn magasin, les paiements par carte ont augmenté de 18,6 %, à 41,3 millions, pour 5,14 milliards de dinars. Avec seulement 45 900 terminaux pour tout le pays, l'acceptation reste le goulet d'étranglement. C'est pourquoi le projet de [loi de finances 2027](post:tunisia-finance-law-2027-fintech) propose de supprimer les droits de douane sur les terminaux de paiement.\n\n## Combien de Tunisiens utilisent le paiement mobile ?\n\nLa BCT recense **719 000 portefeuilles mobiles** fin septembre, en hausse de 53,3 %, gérés par 20 prestataires de services de paiement. Ils ont traité **7,1 millions d'opérations** (+20 %) pour **1,35 milliard de dinars** (+6,6 %).\n\nEn nombre, 64,2 % de ces opérations sont des paiements, 20,7 % des transferts entre particuliers, 10,4 % des dépôts d'espèces (cash-in) et 4,7 % des retraits (cash-out). En valeur, les paiements représentent 56 %.\n\nDeux réserves s'imposent. D'abord, le bulletin précédent comptait 512 000 portefeuilles fin juin : le parc aurait donc progressé d'environ 40 % en un seul trimestre. Les ouvertures de comptes semblent aller plus vite que l'usage, ce que le rapport de supervision 2025 de la BCT avait déjà relevé : seuls 11,3 % des comptes de paiement des établissements de paiement étaient actifs fin 2025. Ensuite, la valeur progresse bien moins vite que le nombre d'opérations, si bien que le montant moyen d'une opération mobile diminue. La projection d'environ 10 millions d'opérations mobiles en 2026 avancée par Webdo est une estimation du média, pas une prévision de la BCT.\n\nPour le contexte, voir nos guides sur [le paiement mobile en Tunisie](post:mobile-payments-tunisia) et [les établissements de paiement](post:payment-institutions-tunisia).\n\n## Le chèque est-il en train de disparaître en Tunisie ?\n\nLentement. Le chèque est le seul instrument en recul : **5,5 millions** de chèques compensés (-7,6 %) pour **37,3 milliards de dinars** (-7,3 %). Il pèse encore environ 22 % de la valeur traitée par la télécompensation, qui a enregistré 45,5 millions d'opérations pour 168,5 milliards de dinars (+4,7 %).\n\n| Télécompensation (janv.-sept. 2026) | Nombre | Variation | Valeur | Taux de rejet (nombre) |\n|---|---|---|---|---|\n| Virements | 29,5 millions | +5,0 % | 62,8 Md TND | 0,1 % |\n| Prélèvements | 6,8 millions | +13,8 % | 25,4 Md TND | 49,3 % |\n| Chèques | 5,5 millions | -7,6 % | 37,3 Md TND | 0,9 % |\n| Lettres de change | 3,6 millions | +8,7 % | 43,1 Md TND | 9,4 % |\n\nDepuis l'entrée en vigueur de la [réforme du chèque](post:cash-economy-tunisia) en février 2025, avec un nouveau format et la plateforme TuniChèque qui vérifie la provision en temps réel, de nombreuses entreprises se sont tournées vers la lettre de change, en hausse de 8,7 %. Les prélèvements ont progressé de 13,8 %, mais **près de la moitié (49,3 %) ont été rejetés**, le plus souvent faute de provision. Un signal d'alerte pour toute fintech qui compte encaisser abonnements ou remboursements de crédit par prélèvement.\n\n## Qu'est-ce que TunPay ?\n\nTunPay est le label national du paiement mobile, créé par une note de la BCT aux banques (n° 2026-132) du 5 mai 2026 et développé avec la Société Monétique Tunisie (SMT). Les émetteurs de portefeuilles (banques, La Poste et établissements de paiement) doivent l'afficher dans leurs applications et chez les commerçants acceptants, pour que les clients repèrent où payer par téléphone. C'est une identité visuelle, pas un nouveau réseau de paiement.\n\nLe bulletin classe l'adoption de TunPay parmi les projets achevés, avec le paiement des frais scolaires par USSD ou portefeuille. Parmi les chantiers en cours figurent la refonte de la télécompensation, la restructuration de la SMT et de la SIBTEL, et le schéma de cartes White-EMV.\n\n## Ce que les chiffres signifient pour les fintechs\n\n- **La demande est là.** L'e-commerce et les portefeuilles progressent de 20 à 27 % par an, plus vite que le secteur bancaire dans son ensemble.\n- **L'usage par compte reste faible.** Les portefeuilles se multiplient plus vite que les opérations : l'activation et les usages quotidiens comptent davantage que les inscriptions.\n- **L'acceptation est le frein.** Un terminal pour environ 140 cartes limite la croissance en magasin, ce qui favorise l'acceptation par QR code et par téléphone.\n- **Les règles se durcissent.** À partir de fin décembre, les établissements de paiement doivent appliquer la [circulaire 2026-10](post:payment-institutions-tunisia), avec de nouvelles règles de gouvernance, de sécurité et de partenariat.\n\nLa BCT publie *Les paiements en chiffres* chaque trimestre. Nous mettrons ces chiffres à jour à la sortie du numéro 19, consacré à l'année 2026 complète.",
+  "faq": [
+   {
+    "q": "Combien de portefeuilles mobiles en Tunisie ?",
+    "a": "La Banque centrale de Tunisie recensait 719 000 portefeuilles mobiles fin septembre 2026, en hausse de 53,3 % sur un an, gérés par 20 prestataires de services de paiement. Ils ont traité 7,1 millions d'opérations pour 1,35 milliard de dinars sur les neuf premiers mois de 2026."
+   },
+   {
+    "q": "Quelle est la taille de l'e-commerce en Tunisie ?",
+    "a": "Les paiements en ligne par carte ont atteint 18 millions d'opérations pour environ 1,23 milliard de dinars de janvier à septembre 2026, en hausse de 27 % en nombre, avec 1 552 sites marchands actifs. Le paiement à la livraison n'est pas inclus dans ces chiffres."
+   },
+   {
+    "q": "Les Tunisiens utilisent-ils encore le cash ?",
+    "a": "Oui. 56 % des opérations par carte sur les neuf premiers mois de 2026 étaient des retraits d'espèces, et la plupart des achats courants se paient encore en liquide, même si les paiements par carte et mobile progressent de 18 à 27 % par an."
+   },
+   {
+    "q": "D'où viennent ces chiffres ?",
+    "a": "Du bulletin trimestriel de la Banque centrale de Tunisie Les paiements en chiffres en Tunisie, numéro 18, publié le 10 novembre 2026 avec des données au 30 septembre 2026, tel que rapporté par la presse économique tunisienne."
+   }
+  ]
+ }
+}

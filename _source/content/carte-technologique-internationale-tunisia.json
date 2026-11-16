@@ -1,0 +1,173 @@
+{
+ "category": "payments",
+ "cover_motif": "globe-links",
+ "date": "2026-11-16",
+ "stats": [
+  {
+   "value": "TND 1,000",
+   "label_en": "Yearly limit on the international technology card for individuals",
+   "label_fr": "Plafond annuel de la carte technologique pour les particuliers",
+   "source": "BCT Circular 2016-09, via BIAT, ATB and BT"
+  },
+  {
+   "value": "TND 10,000",
+   "label_en": "Yearly limit for companies",
+   "label_fr": "Plafond annuel pour les entreprises",
+   "source": "Banque de Tunisie"
+  },
+  {
+   "value": "TND 100,000",
+   "label_en": "Yearly limit for labelled startups",
+   "label_fr": "Plafond annuel pour les startups labellisées",
+   "source": "BCT Circular 2019-02"
+  }
+ ],
+ "chart": {
+  "title_en": "Yearly foreign-currency allowances for Tunisian residents (TND)",
+  "title_fr": "Allocations annuelles en devises des résidents tunisiens (TND)",
+  "unit": "TND",
+  "bars": [
+   {
+    "label_en": "Technology card, individual",
+    "label_fr": "Carte technologique, particulier",
+    "value": 1000
+   },
+   {
+    "label_en": "Tourist allowance",
+    "label_fr": "Allocation touristique",
+    "value": 6000
+   },
+   {
+    "label_en": "Technology card, company",
+    "label_fr": "Carte technologique, entreprise",
+    "value": 10000
+   }
+  ],
+  "source_name": "Bank product pages (BIAT, ATB, Banque de Tunisie) and Business News (Aug. 2026)",
+  "source_url": "https://www.bt.com.tn/carte-technologique-international-entreprises"
+ },
+ "sources": [
+  {
+   "title": "Carte Technologique",
+   "publisher": "BIAT",
+   "url": "https://www.biat.tn/biat/Fr/carte-technologique_63_356"
+  },
+  {
+   "title": "Carte Technologique ATB",
+   "publisher": "Arab Tunisian Bank",
+   "url": "https://www.atb.tn/particuliers/moyens-de-paiement/carte-technologique-atb"
+  },
+  {
+   "title": "Carte Technologique Internationale",
+   "publisher": "Banque de Tunisie",
+   "url": "https://www.bt.com.tn/carte-technologique-international-entreprises"
+  },
+  {
+   "title": "Carte technologique Tunisie : plafond, Poste, banques 2026",
+   "publisher": "Wassim Gatri (Oct. 2026)",
+   "url": "https://wassimgatri.com/fr/blog/carte-technologique-internationale/"
+  },
+  {
+   "title": "Payer un service étranger depuis la Tunisie : guide 2026",
+   "publisher": "NovaHoster (Sept. 2026)",
+   "url": "https://www.novahoster.tn/blog/payer-service-en-ligne-etranger-depuis-tunisie/"
+  },
+  {
+   "title": "Freelances : la loi qui veut ouvrir PayPal et prélève 15 %",
+   "publisher": "Business News (10 Aug. 2026)",
+   "url": "https://businessnews.com.tn/2026/08/10/freelances-la-loi-qui-veut-ouvrir-paypal-et-preleve-15/1413684/"
+  }
+ ],
+ "en": {
+  "title": "International Technology Card in Tunisia: Limits, Uses, How to Get It",
+  "meta_description": "Carte technologique internationale in Tunisia: TND 1,000 yearly limit for individuals, 10,000 for companies, who can apply, documents, allowed uses.",
+  "excerpt": "The carte technologique internationale is how most Tunisians pay for software, hosting, ads and online courses abroad. Who can get one, how much you can spend, what it can and can't be used for, and the alternatives.",
+  "keywords": [
+   "carte technologique internationale",
+   "international technology card Tunisia",
+   "pay online abroad from Tunisia",
+   "carte technologique plafond",
+   "carte technologique La Poste",
+   "PayPal Tunisia",
+   "pay for software Tunisia"
+  ],
+  "tags": [
+   "Payments",
+   "Foreign exchange",
+   "Freelancers",
+   "Startups",
+   "Guide"
+  ],
+  "key_takeaways": [
+   "The international technology card lets Tunisian residents pay foreign websites in currency, within a yearly allowance set by the Central Bank.",
+   "The limit is TND 1,000 a year for individuals, TND 10,000 for companies and TND 100,000 for companies with the Startup label.",
+   "Individuals must be Tunisian residents with at least the baccalauréat; you apply at a bank or La Poste with your ID card, diploma and a sworn statement.",
+   "It covers hosting, advertising, software, subscriptions and online training, not goods, living expenses or betting."
+  ],
+  "body": "Tunisia's dinar is not convertible, so a normal Tunisian bank card works only inside the country. To pay for a domain name, a cloud server, a software licence or an online course abroad, residents need a special card loaded with foreign currency: the **international technology card** (*carte technologique internationale*, or CTI). This guide explains the limits, who can get one, what you can buy with it, and the alternatives. It draws on the product pages of [BIAT](https://www.biat.tn/biat/Fr/carte-technologique_63_356), [ATB](https://www.atb.tn/particuliers/moyens-de-paiement/carte-technologique-atb) and [Banque de Tunisie](https://www.bt.com.tn/carte-technologique-international-entreprises), and on two detailed 2026 guides by [Wassim Gatri](https://wassimgatri.com/fr/blog/carte-technologique-internationale/) and [NovaHoster](https://www.novahoster.tn/blog/payer-service-en-ligne-etranger-depuis-tunisie/).\n\n## What is the international technology card?\n\nIt is a payment card issued by a Tunisian bank or La Poste and funded in dinars, which the issuer converts to foreign currency when you pay a foreign website. The Central Bank of Tunisia (BCT) created the scheme in 2015 and set the current rules in Circular 2016-09, later extended to startups by Circular 2019-02. The yearly amount is a foreign-exchange allowance: once you have spent it, you can't top up until the next calendar year.\n\n## What is the limit of the carte technologique?\n\n| Holder | Yearly limit | Notes |\n|---|---|---|\n| Individual (resident Tunisian) | TND 1,000 | One allowance per person, across all banks |\n| Company | TND 10,000 | Some banks restrict it to IT, telecoms, education, consulting or research firms |\n| Company with the Startup label | TND 100,000 | Under the [Startup Act](post:startup-act-tunisia-explained) |\n\nThe allowance runs for the calendar year, according to BIAT, and unused amounts do not carry over. At about 3.36 dinars per euro (see the [euro to dinar rate today](page:fx-eur)), TND 1,000 is roughly €300 a year, or about €25 a month: enough for hosting and a few subscriptions, not for a full set of professional tools. Raising the individual limit has been announced several times since 2022, but no new circular has changed it so far.\n\n## Who can get one?\n\nFor individuals, banks require Tunisian nationality, residence in Tunisia and at least the baccalauréat or an equivalent diploma, according to ATB and the 2026 guides. In practice banks issue it to adults. Companies apply in their own name, and startups must show their label decision.\n\n## How do you apply?\n\n1. **Choose an issuer.** Most banks offer it (BIAT, ATB, BT, BTK, STB, Banque Zitouna, among others), as does La Poste, which requires an active postal current account (CCP).\n2. **Bring the documents:** your national ID card (CIN), a certified copy of your baccalauréat or higher diploma, and a sworn statement (*déclaration sur l'honneur*), usually signed at the branch. Companies add their trade register extract and statutes. ATB asks applicants to open a dedicated account first.\n3. **Load the card** in dinars at the branch or through online banking. The issuer converts at its own exchange rate when you pay.\n4. **Keep your invoices.** You may be asked to justify payments, and lending or selling the card breaks your sworn statement.\n\nFees vary by issuer and are often not published. The guides report a TND 20 annual fee at Banque Zitouna and a TND 3 renewal at La Poste; ask your bank about the issuance fee and the foreign-exchange commission before you choose.\n\n## What can you pay with it?\n\nThe BCT circular lists the services allowed. They include:\n\n- **Website and app hosting**, domain names and cloud services\n- **Online advertising** (search and social media ads)\n- **Software licences** and app development tools\n- **Subscriptions** to foreign websites, including freelance platforms, databases and educational sites\n- **Online training** and courses\n\n**Excluded:** buying physical goods, living expenses, betting and prohibited sites. Some issuers filter by merchant category, so a payment can be declined even when it seems eligible. University tuition and visa fees are not explicitly listed; check with your bank.\n\n## Can you use PayPal in Tunisia?\n\nOnly in a very limited way. Foreign exchange rules stop residents from holding and withdrawing foreign-currency balances freely, so PayPal is not a practical way for Tunisians to get paid, and the technology card's allowance is too small for most freelancers' needs anyway. A bill tabled by eleven MPs, reported by [Business News](https://businessnews.com.tn/2026/08/10/freelances-la-loi-qui-veut-ouvrir-paypal-et-preleve-15/1413684/) in August 2026, would recognise freelance work and open access to international payment platforms. But it also proposes a 15% levy on withdrawals and a USD 5,000 monthly cap. It has not been passed.\n\nTo get paid from abroad, see our guide to [receiving money in Tunisia](post:receive-money-in-tunisia). The wider [foreign exchange code reform](post:tunisia-foreign-exchange-code-reform) could eventually loosen these rules, but it is still before Parliament.\n\n## Which option fits you?\n\n- **Student or individual developer:** the TND 1,000 card covers hosting, a domain and a few small subscriptions. La Poste is often the simplest option if you already have a CCP.\n- **Freelancer or agency:** apply as a company for the TND 10,000 allowance, and check your bank's sector list first.\n- **Startup:** get the Startup label to unlock TND 100,000 a year and a foreign-currency account.\n- **Tourist travel:** the separate tourist allowance (TND 6,000 a year) is for trips abroad, not online subscriptions.",
+  "faq": [
+   {
+    "q": "What is the limit of the carte technologique internationale?",
+    "a": "TND 1,000 per calendar year for individuals, TND 10,000 for companies and TND 100,000 for companies with the Startup label. Unused amounts do not carry over to the next year."
+   },
+   {
+    "q": "Who can get an international technology card in Tunisia?",
+    "a": "Tunisian residents with at least the baccalauréat or an equivalent diploma, and resident companies. You apply at a bank or La Poste with your ID card, a certified copy of your diploma and a signed sworn statement."
+   },
+   {
+    "q": "Can I buy products on foreign websites with the technology card?",
+    "a": "No. The card is for services such as hosting, advertising, software, subscriptions and online training. Buying physical goods, living expenses and betting are excluded."
+   },
+   {
+    "q": "Can La Poste issue a technology card?",
+    "a": "Yes. La Poste Tunisienne issues the international technology card to holders of an active postal current account (CCP), who can manage it through e-dinar."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Carte technologique internationale en Tunisie : plafond, usages, démarches",
+  "meta_description": "Carte technologique internationale en Tunisie : plafond de 1 000 TND par an pour les particuliers, 10 000 pour les entreprises, conditions, documents, usages.",
+  "excerpt": "La carte technologique internationale permet aux Tunisiens de payer logiciels, hébergement, publicité et formations en ligne à l'étranger. Qui peut l'obtenir, combien dépenser, ce qu'elle permet ou non, et les alternatives.",
+  "keywords": [
+   "carte technologique internationale",
+   "carte technologique plafond",
+   "carte technologique La Poste",
+   "carte technologique BIAT",
+   "payer en ligne à l'étranger depuis la Tunisie",
+   "PayPal Tunisie",
+   "payer un logiciel depuis la Tunisie"
+  ],
+  "tags": [
+   "Paiements",
+   "Change",
+   "Freelances",
+   "Startups",
+   "Guide"
+  ],
+  "key_takeaways": [
+   "La carte technologique internationale permet aux résidents tunisiens de payer des sites étrangers en devises, dans la limite d'une allocation annuelle fixée par la Banque centrale.",
+   "Le plafond est de 1 000 TND par an pour un particulier, 10 000 TND pour une entreprise et 100 000 TND pour une société labellisée Startup.",
+   "Les particuliers doivent être résidents tunisiens et titulaires au moins du baccalauréat ; la demande se fait en banque ou à La Poste avec la CIN, le diplôme et une déclaration sur l'honneur.",
+   "Elle couvre hébergement, publicité, logiciels, abonnements et formations en ligne, pas l'achat de biens, les frais de séjour ni les paris."
+  ],
+  "body": "Le dinar n'étant pas convertible, une carte bancaire tunisienne classique ne fonctionne qu'en Tunisie. Pour payer un nom de domaine, un serveur cloud, une licence de logiciel ou une formation en ligne à l'étranger, les résidents ont besoin d'une carte spéciale alimentée en devises : la **carte technologique internationale** (CTI). Ce guide explique les plafonds, les conditions, les usages autorisés et les alternatives. Il s'appuie sur les pages produit de la [BIAT](https://www.biat.tn/biat/Fr/carte-technologique_63_356), de l'[ATB](https://www.atb.tn/particuliers/moyens-de-paiement/carte-technologique-atb) et de la [Banque de Tunisie](https://www.bt.com.tn/carte-technologique-international-entreprises), ainsi que sur deux guides détaillés publiés en 2026 par [Wassim Gatri](https://wassimgatri.com/fr/blog/carte-technologique-internationale/) et [NovaHoster](https://www.novahoster.tn/blog/payer-service-en-ligne-etranger-depuis-tunisie/).\n\n## Qu'est-ce que la carte technologique internationale ?\n\nC'est une carte de paiement émise par une banque tunisienne ou La Poste, alimentée en dinars, que l'émetteur convertit en devises lorsque vous payez un site étranger. La Banque centrale de Tunisie (BCT) a créé le dispositif en 2015 et en a fixé les règles actuelles par la circulaire 2016-09, étendue aux startups par la circulaire 2019-02. Le montant annuel est une allocation en devises : une fois consommé, il faut attendre l'année civile suivante.\n\n## Quel est le plafond de la carte technologique ?\n\n| Titulaire | Plafond annuel | Remarques |\n|---|---|---|\n| Particulier (résident tunisien) | 1 000 TND | Une seule allocation par personne, toutes banques confondues |\n| Entreprise | 10 000 TND | Certaines banques la réservent aux secteurs informatique, télécoms, enseignement, conseil ou recherche |\n| Société labellisée Startup | 100 000 TND | Dans le cadre du [Startup Act](post:startup-act-tunisia-explained) |\n\nL'allocation vaut pour l'année civile, selon la BIAT, et le reliquat n'est pas reporté. À environ 3,36 dinars pour un euro (voir le [taux euro-dinar du jour](page:fx-eur)), 1 000 TND représentent environ 300 euros par an, soit 25 euros par mois : de quoi payer un hébergement et quelques abonnements, pas une panoplie complète d'outils professionnels. Le relèvement du plafond des particuliers a été annoncé à plusieurs reprises depuis 2022, mais aucune nouvelle circulaire ne l'a modifié à ce jour.\n\n## Qui peut l'obtenir ?\n\nPour les particuliers, les banques exigent la nationalité tunisienne, la résidence en Tunisie et au moins le baccalauréat ou un diplôme équivalent, selon l'ATB et les guides de 2026. En pratique, la carte est délivrée aux majeurs. Les entreprises la demandent en leur nom propre, et les startups doivent présenter leur décision de labellisation.\n\n## Comment faire la demande ?\n\n1. **Choisir un émetteur.** La plupart des banques la proposent (BIAT, ATB, BT, BTK, STB, Banque Zitouna, entre autres), tout comme La Poste, qui exige un compte courant postal (CCP) actif.\n2. **Réunir les documents :** la carte d'identité nationale (CIN), une copie certifiée conforme du baccalauréat ou d'un diplôme supérieur, et une déclaration sur l'honneur, généralement signée en agence. Les entreprises ajoutent l'extrait du registre de commerce et les statuts. L'ATB demande d'ouvrir d'abord un compte dédié.\n3. **Alimenter la carte** en dinars en agence ou par la banque en ligne. L'émetteur applique son propre taux de change au moment du paiement.\n4. **Conserver les factures.** Vous pouvez devoir justifier vos paiements, et prêter ou vendre la carte viole votre déclaration sur l'honneur.\n\nLes frais varient selon l'émetteur et sont souvent non publiés. Les guides font état d'une cotisation annuelle de 20 TND à la Banque Zitouna et d'un renouvellement à 3 TND à La Poste ; renseignez-vous sur les frais d'émission et la commission de change avant de choisir.\n\n## Que peut-on payer avec ?\n\nLa circulaire de la BCT liste les services autorisés, notamment :\n\n- **l'hébergement de sites et d'applications**, les noms de domaine et les services cloud ;\n- **la publicité en ligne** (moteurs de recherche et réseaux sociaux) ;\n- **les licences de logiciels** et outils de développement d'applications ;\n- **les abonnements** à des sites étrangers, y compris plateformes de freelance, bases de données et sites éducatifs ;\n- **les formations en ligne**.\n\n**Exclus :** l'achat de biens, les frais de séjour, les paris et les sites interdits. Certains émetteurs filtrent par catégorie de commerçant : un paiement peut donc être refusé même s'il semble éligible. Les frais de scolarité universitaires et les frais de visa ne figurent pas explicitement dans la liste ; vérifiez auprès de votre banque.\n\n## Peut-on utiliser PayPal en Tunisie ?\n\nDe façon très limitée. La réglementation des changes empêche les résidents de détenir et de retirer librement des soldes en devises : PayPal n'est donc pas un moyen pratique de se faire payer, et l'allocation de la carte technologique est de toute façon trop faible pour la plupart des freelances. Une proposition de loi déposée par onze députés, rapportée par [Business News](https://businessnews.com.tn/2026/08/10/freelances-la-loi-qui-veut-ouvrir-paypal-et-preleve-15/1413684/) en août 2026, reconnaîtrait le travail freelance et ouvrirait l'accès aux plateformes de paiement internationales. Elle prévoit toutefois un prélèvement de 15 % sur les retraits et un plafond mensuel de 5 000 dollars. Elle n'a pas été adoptée.\n\nPour être payé depuis l'étranger, consultez notre guide pour [recevoir de l'argent en Tunisie](post:receive-money-in-tunisia). La [réforme du code des changes](post:tunisia-foreign-exchange-code-reform) pourrait à terme assouplir ces règles, mais elle est toujours devant le Parlement.\n\n## Quelle solution vous convient ?\n\n- **Étudiant ou développeur indépendant :** la carte à 1 000 TND couvre un hébergement, un domaine et quelques petits abonnements. La Poste est souvent la voie la plus simple si vous avez déjà un CCP.\n- **Freelance ou agence :** faites la demande au nom d'une société pour l'allocation de 10 000 TND, en vérifiant d'abord la liste des secteurs de votre banque.\n- **Startup :** obtenez le label Startup pour débloquer 100 000 TND par an et un compte en devises.\n- **Voyage :** l'allocation touristique (6 000 TND par an) sert aux séjours à l'étranger, pas aux abonnements en ligne.",
+  "faq": [
+   {
+    "q": "Quel est le plafond de la carte technologique internationale ?",
+    "a": "1 000 TND par année civile pour un particulier, 10 000 TND pour une entreprise et 100 000 TND pour une société labellisée Startup. Le reliquat n'est pas reporté sur l'année suivante."
+   },
+   {
+    "q": "Qui peut obtenir la carte technologique internationale ?",
+    "a": "Les résidents tunisiens titulaires au moins du baccalauréat ou d'un diplôme équivalent, ainsi que les entreprises résidentes. La demande se fait en banque ou à La Poste avec la CIN, une copie certifiée du diplôme et une déclaration sur l'honneur signée."
+   },
+   {
+    "q": "Peut-on acheter des produits sur des sites étrangers avec la carte technologique ?",
+    "a": "Non. La carte sert à payer des services : hébergement, publicité, logiciels, abonnements et formations en ligne. L'achat de biens, les frais de séjour et les paris sont exclus."
+   },
+   {
+    "q": "La Poste délivre-t-elle la carte technologique ?",
+    "a": "Oui. La Poste Tunisienne délivre la carte technologique internationale aux titulaires d'un compte courant postal (CCP) actif, qui peuvent la gérer via e-dinar."
+   }
+  ]
+ }
+}
