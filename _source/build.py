@@ -193,8 +193,9 @@ def render_md(text, page, L):
     def prepl(m):
         k = m.group(1)
         if k.startswith("fx-"): return "](" + page.rel(path_of(L, "fx", k[3:])) + ")"
+        if k.startswith("co-"): return "](" + page.rel(path_of(L, "company", k[3:])) + ")"
         return "](" + page.rel(path_of(L, k)) + ")"
-    text = re.sub(r"\]\(page:([a-z\-]+)\)", prepl, text)
+    text = re.sub(r"\]\(page:([a-z0-9\-]+)\)", prepl, text)
     md = markdown.Markdown(extensions=["tables", "sane_lists", "toc"], extension_configs={"toc": {"slugify": slugify, "toc_depth": "2"}})
     out = md.convert(text)
     out = re.sub(r'<a href="(https?://[^"]+)"', r'<a href="\1" target="_blank" rel="noopener"', out)

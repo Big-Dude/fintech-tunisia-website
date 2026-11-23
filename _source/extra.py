@@ -200,10 +200,11 @@ def build_company(B, L, c):
     org = {k: v for k, v in org.items() if v}
     lds = [{"@context": "https://schema.org", "@type": "ProfilePage", "url": B.absu(path), "inLanguage": L, "dateModified": B.iso(c.get("last_verified", B.BUILD_DATE)), "mainEntity": org},
            B.crumbs_ld(crumbs)]
-    title = f"{c['name']}: {a['tagline']}"
-    if len(title) > 70: title = f"{c['name']} — " + {"en": "Tunisian fintech profile", "fr": "fiche fintech tunisienne", "ar": "بطاقة شركة فنتك تونسية"}[L]
+    title = a.get("seo_title") or f"{c['name']}: {a['tagline']}"
+    if len(title) > 70 and not a.get("seo_title"): title = f"{c['name']} — " + {"en": "Tunisian fintech profile", "fr": "fiche fintech tunisienne", "ar": "بطاقة شركة فنتك تونسية"}[L]
     desc = a["description"].split(". ")[0][:150].rstrip(".") + "."
     if len(desc) < 90: desc = (a["tagline"] + ". " + desc)[:158]
+    desc = a.get("seo_desc") or desc
     h = B.head(page, L, f"{title} | {B.SITE_NAME}", desc, path, alt, B.og_rel("directory", L), ld=lds)
     h += B.header(page, L, "directory", alt)
     facts = [(x["category"], E(DIR_CAT[L].get(c["category"], c["category"]))),

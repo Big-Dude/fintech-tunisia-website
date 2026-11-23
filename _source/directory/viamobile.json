@@ -29,7 +29,9 @@
    "Transfers, bill payments and top-ups",
    "Remittance cash payout",
    "Licensed partner for Tunisie Telecom's Kashy wallet"
-  ]
+  ],
+  "seo_title": "Viamobile Tunisia: payment institution, Swared and Kashy",
+  "seo_desc": "Viamobile, a licensed Tunisian payment institution behind the Swared agent network and the Kashy wallet: services, licence and key facts."
  },
  "fr": {
   "tagline": "Établissement de paiement agréé derrière le réseau d'agents Swared et le wallet Kashy",
@@ -39,7 +41,9 @@
    "Transferts, factures et recharges",
    "Paiement en espèces des transferts internationaux",
    "Partenaire agréé du wallet Kashy de Tunisie Telecom"
-  ]
+  ],
+  "seo_title": "Viamobile Tunisie : établissement de paiement, Swared, Kashy",
+  "seo_desc": "Viamobile, établissement de paiement agréé en Tunisie, derrière le réseau d'agents Swared et le portefeuille Kashy : services, agrément et repères."
  },
  "related_articles": [
   "mobile-payments-tunisia",

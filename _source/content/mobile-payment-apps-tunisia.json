@@ -1,0 +1,156 @@
+{
+ "category": "payments",
+ "cover_motif": "phone-wallet",
+ "date": "2026-11-23",
+ "stats": [
+  {
+   "value": "719,000",
+   "label_en": "Mobile wallets in Tunisia, end of September 2026",
+   "label_fr": "Portefeuilles mobiles en Tunisie, fin septembre 2026",
+   "source": "BCT, Les paiements en chiffres n°18"
+  },
+  {
+   "value": "20",
+   "label_en": "Payment service providers running wallets",
+   "label_fr": "Prestataires de services de paiement gérant des portefeuilles",
+   "source": "BCT, Les paiements en chiffres n°18"
+  },
+  {
+   "value": "TND 20,000",
+   "label_en": "Maximum balance on a fully verified (level 3) wallet",
+   "label_fr": "Solde maximal d'un portefeuille entièrement vérifié (niveau 3)",
+   "source": "BCT Circular 2026-10"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Les Tunisiens ont de plus en plus le réflexe du paiement digital, selon la BCT",
+   "publisher": "Managers (10 Nov. 2026)",
+   "url": "https://managers.tn/2026/11/10/les-tunisiens-ont-de-plus-en-plus-le-reflexe-du-paiement-digital-selon-la-bct/"
+  },
+  {
+   "title": "Tunisia's state telecom operator enters digital services with Kashy mobile wallet",
+   "publisher": "Ecofin Agency (Mar. 2026)",
+   "url": "https://www.ecofinagency.com/news-digital/1903-53913-tunisia-s-state-telecom-operator-enters-digital-services-with-kashy-mobile-wallet"
+  },
+  {
+   "title": "OFT Tunisie, filiale d'Ooredoo Fintech, officiellement agréée par la BCT",
+   "publisher": "Webmanagercenter (16 Mar. 2026)",
+   "url": "https://www.webmanagercenter.com/2026/03/16/563259/paiement-electronique-en-tunisie-oft-tunisie-filiale-dooredoo-fintech-officiellement-agreee-par-la-bct/"
+  },
+  {
+   "title": "Zitouna Payment dévoile son application de paiement mobile izi",
+   "publisher": "L'Économiste Maghrébin (25 Mar. 2022)",
+   "url": "https://www.leconomistemaghrebin.com/2022/03/25/zitouna-payment-devoile-application-paiement-mobile-izi/"
+  },
+  {
+   "title": "Flouci by Kaoun, The Middle East's Fintech 50 2025",
+   "publisher": "Forbes Middle East",
+   "url": "https://www.forbesmiddleeast.com/lists/the-middle-easts-fintech-50-2025/flouci-by-kaoun/"
+  },
+  {
+   "title": "Payvago de PGH : la révolution des paiements mobiles",
+   "publisher": "Managers (2 Aug. 2023)",
+   "url": "https://managers.tn/2023/08/02/payvago-de-pgh-la-revolution-des-paiements-mobiles/"
+  },
+  {
+   "title": "Paiement mobile en Tunisie : la BCT resserre les règles avec sa nouvelle circulaire n°2026-10",
+   "publisher": "Challenges (25 Sept. 2026)",
+   "url": "https://www.challenges.tn/economie/paiement-mobile-en-tunisie-la-bct-resserre-les-regles-avec-sa-nouvelle-circulaire-n2026-10/"
+  }
+ ],
+ "en": {
+  "title": "Mobile Payment Apps in Tunisia 2026: D17, Flouci, walletii, Kashy, izi",
+  "meta_description": "Compare Tunisia's mobile payment apps in 2026: D17, Flouci, walletii by Ooredoo, Kashy, izi and Payvago. Who runs them, what they do and how to choose.",
+  "excerpt": "Tunisia now has 719,000 mobile wallets run by 20 providers. Here is how the main apps compare (La Poste's D17, Flouci, walletii, Kashy, izi and Payvago) and how to pick the right one.",
+  "keywords": [
+   "mobile payment app Tunisia",
+   "best wallet Tunisia",
+   "D17 La Poste",
+   "Flouci",
+   "walletii Ooredoo",
+   "Kashy Tunisie Telecom",
+   "izi Zitouna",
+   "application paiement mobile Tunisie"
+  ],
+  "tags": [
+   "Mobile money",
+   "Wallets",
+   "Payments",
+   "Guide",
+   "Comparison"
+  ],
+  "key_takeaways": [
+   "Six apps matter most in 2026: La Poste's D17, Flouci, Ooredoo's walletii, Tunisie Telecom's Kashy, Banque Zitouna's izi and Poulina's Payvago.",
+   "They differ mainly in who stands behind them (a public operator, a startup with partner banks, telecom operators, a bank) and in how you load cash: post offices, bank accounts or agent networks.",
+   "All work in dinars and inside Tunisia only, and wallet balances are capped at TND 1,500, 5,000 or 20,000 depending on how far you verify your identity.",
+   "Look for the TunPay label at merchants, check fees in the app before you transfer, and pick the app whose cash-in points are closest to you."
+  ],
+  "body": "Paying by phone has become a real option in Tunisia. The Central Bank (BCT) counted [719,000 mobile wallets](post:tunisia-payment-statistics-2026) at the end of September 2026, up 53% in a year, run by 20 payment service providers. With telecom operators joining La Poste, banks and startups, the choice can be confusing. This guide compares the main apps for everyday users. It is based on our [company directory](page:directory), which sources every profile; fees change often, so check them in each app before you pay.\n\n## Which mobile payment apps can you use in Tunisia?\n\n| App | Run by | Type | How you add money | Notable features |\n|---|---|---|---|---|\n| [D17 / e-Dinar](post:la-poste-tunisienne-e-dinar-d17) | La Poste Tunisienne (public) | Postal wallet and prepaid cards | Post offices, postal account | Free e-Dinar wallet since July 2025, school and university fees, wide online acceptance |\n| [Flouci](post:flouci-profile) | Kaoun (startup), accounts at partner banks | App-based bank account and wallet | Bank transfer, cardless ATM, card | IBAN, dinar card, QR payments, merchant gateway |\n| [walletii](page:co-walletii-ooredoo) | OFT Tunisie (Ooredoo), licensed payment institution | Telecom wallet | walletii agents | Launched August 2026, QR payments, bills |\n| [Kashy](page:co-kashy) | Tunisie Telecom with Viamobile (licensed payment institution) | Telecom wallet | Tunisie Telecom outlets, agents | Launched March 2026, send, receive, withdraw |\n| [izi](page:co-zitouna-payment) | Zitouna Payment (Banque Zitouna group) | Bank-owned wallet | Agents, Banque Zitouna | Top-ups for all operators, agent network for non-smartphone users |\n| [Payvago](page:co-payvago) | Poulina Group, licensed payment institution | Wallet | Agents | Remote opening, merchant and bill payments; little news since 2024 |\n\nBanks also offer their own payment apps for existing customers, such as Amen Bank's AmenPay, and Attijari and BTE customers can use Flouci with their accounts.\n\n## La Poste: D17 and e-Dinar\n\nLa Poste is the oldest player. Its e-Dinar cards have been accepted online for years, by government sites and most payment gateways, which made them the go-to option for people without a bank card. Since July 2025 the e-Dinar wallet is free for ten years, and the D17 app handles transfers, money orders, bill payments and merchant payments. The big advantage is the network of post offices across the country, including in places with no bank branch. La Poste does not publish D17 user figures.\n\n**Best for:** people without a bank account, paying government and school fees, buying online on Tunisian sites.\n\n## Flouci\n\nFlouci, built by the startup Kaoun, is the most \"app-like\" option. It is not a bank: accounts are held by partner banks (Attijari Bank and BTE), and the company describes itself as a payment facilitator authorised by the BCT. You get an account with an IBAN, a dinar card, transfers by phone number or QR code, cardless ATM withdrawals and bill payments. Merchants such as Monoprix accept Flouci QR payments, and Orange Tunisie integrated the wallet into its Max It app in 2025. The company cited more than 140,000 accounts opened by June 2026.\n\n**Best for:** smartphone users who want a full digital account, freelancers and small online sellers.\n\n## Telecom wallets: walletii and Kashy\n\n2026 is the year Tunisia's telecom operators entered payments. **walletii by Ooredoo** is run by OFT Tunisie, which got its definitive payment institution licence in March 2026 and launched commercially in late August. It offers transfers, bill payments, QR payments and cash deposits and withdrawals through walletii agents. **Kashy**, Tunisie Telecom's wallet, launched on 17 March 2026 with Viamobile as the licensed payment institution, starting in about 30 Tunisie Telecom outlets. Neither has published user numbers yet.\n\n**Best for:** prepaid mobile users who already visit their operator's shops, and sending money to family inside Tunisia.\n\n## izi and Payvago\n\n**izi** is the app of Zitouna Payment, the payment institution of the Islamic bank Banque Zitouna. Launched in 2022, it offers account opening, transfers, bill payments and top-ups for all operators, with a network of agents for customers without a smartphone. **Payvago**, Poulina Group's payment institution, has been licensed since February 2023 and offers a wallet with remote opening, agent cash services and bill payments. We have found little news about it since 2024. Both have been admitted to the SIBTEL interbank clearing system, so they can exchange transfers directly with banks.\n\n**Best for:** izi suits customers who want a Sharia-compliant provider; Payvago is worth checking if its agents are near you.\n\n## How much can you keep in a wallet?\n\nWallets run by payment institutions are payment accounts with three levels, set by [BCT Circular 2026-10](post:payment-institutions-tunisia):\n\n| Level | Maximum balance | Daily cash withdrawal |\n|---|---|---|\n| Level 1 | TND 1,500 | Not reported |\n| Level 2 | TND 5,000 | TND 3,000 |\n| Level 3 | TND 20,000 | TND 10,000 |\n\nThe more identity checks you complete, the higher your level. Wallets work only in dinars and inside Tunisia; to receive money from abroad, see our [guide to receiving money in Tunisia](post:receive-money-in-tunisia) and our [transfer comparator](page:remit).\n\n## How to choose\n\n- **Where can you add and withdraw cash?** For most people this matters more than features. Check where the nearest post office, operator shop or agent is.\n- **Where will you pay?** Look for the **TunPay** label, the national mobile payment logo the BCT introduced in May 2026, at shops and in apps.\n- **Do you need an IBAN or a card?** Flouci and bank apps give you a real account; telecom and agent-based wallets are simpler payment accounts.\n- **Check fees in the app** before transfers and withdrawals; they differ by provider and change often.\n- **Your money is protected, but it is not a deposit.** Payment institutions must keep client funds in a segregated account at a bank, but wallets pay no interest.",
+  "faq": [
+   {
+    "q": "What is the best mobile payment app in Tunisia?",
+    "a": "It depends on how you will use it. D17 (La Poste) suits people without a bank account and online payments on Tunisian sites; Flouci offers a full app-based account with an IBAN; walletii and Kashy suit telecom customers who load cash in operator shops; izi suits those who want a Sharia-compliant provider."
+   },
+   {
+    "q": "How many mobile wallets are there in Tunisia?",
+    "a": "The Central Bank of Tunisia counted 719,000 mobile wallets at the end of September 2026, run by 20 payment service providers."
+   },
+   {
+    "q": "Can I use a Tunisian mobile wallet abroad?",
+    "a": "No. Tunisian wallets operate in dinars and inside Tunisia only. To pay foreign websites you need an international technology card, and to receive money from abroad you need a bank account or a money transfer service."
+   },
+   {
+    "q": "What is the maximum balance on a Tunisian wallet?",
+    "a": "Under BCT Circular 2026-10, wallet balances are capped at TND 1,500 (level 1), TND 5,000 (level 2) or TND 20,000 (level 3), depending on how far you have verified your identity."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Applications de paiement mobile en Tunisie 2026 : D17, Flouci, walletii, Kashy, izi",
+  "meta_description": "Comparatif des applications de paiement mobile en Tunisie en 2026 : D17, Flouci, walletii, Kashy, izi et Payvago. Qui les gère, ce qu'elles font, comment choisir.",
+  "excerpt": "La Tunisie compte désormais 719 000 portefeuilles mobiles gérés par 20 prestataires. Comparatif des principales applications (D17 de La Poste, Flouci, walletii, Kashy, izi et Payvago) et conseils pour bien choisir.",
+  "keywords": [
+   "application paiement mobile Tunisie",
+   "meilleur portefeuille électronique Tunisie",
+   "D17 La Poste",
+   "Flouci",
+   "walletii Ooredoo",
+   "Kashy Tunisie Telecom",
+   "izi Zitouna",
+   "wallet Tunisie"
+  ],
+  "tags": [
+   "Paiement mobile",
+   "Portefeuilles",
+   "Paiements",
+   "Guide",
+   "Comparatif"
+  ],
+  "key_takeaways": [
+   "Six applications comptent en 2026 : D17 de La Poste, Flouci, walletii d'Ooredoo, Kashy de Tunisie Telecom, izi de Banque Zitouna et Payvago de Poulina.",
+   "Elles se distinguent surtout par l'acteur qui les porte (opérateur public, startup adossée à des banques, opérateurs télécoms, banque) et par la façon d'alimenter le compte : bureaux de poste, compte bancaire ou réseau d'agents.",
+   "Toutes fonctionnent en dinars et uniquement en Tunisie, avec un solde plafonné à 1 500, 5 000 ou 20 000 TND selon le niveau de vérification d'identité.",
+   "Repérez le label TunPay chez les commerçants, vérifiez les frais dans l'application avant un transfert et choisissez l'application dont les points de dépôt sont proches de chez vous."
+  ],
+  "body": "Payer avec son téléphone est devenu une vraie option en Tunisie. La Banque centrale (BCT) recensait [719 000 portefeuilles mobiles](post:tunisia-payment-statistics-2026) fin septembre 2026, en hausse de 53 % sur un an, gérés par 20 prestataires de services de paiement. Avec l'arrivée des opérateurs télécoms aux côtés de La Poste, des banques et des startups, le choix peut dérouter. Ce guide compare les principales applications pour un usage quotidien. Il s'appuie sur notre [annuaire des entreprises](page:directory), dont chaque fiche est sourcée ; les frais changent souvent, vérifiez-les dans chaque application avant de payer.\n\n## Quelles applications de paiement mobile en Tunisie ?\n\n| Application | Gérée par | Type | Comment l'alimenter | Points forts |\n|---|---|---|---|---|\n| [D17 / e-Dinar](post:la-poste-tunisienne-e-dinar-d17) | La Poste Tunisienne (public) | Portefeuille postal et cartes prépayées | Bureaux de poste, compte postal | Portefeuille e-Dinar gratuit depuis juillet 2025, frais scolaires et universitaires, large acceptation en ligne |\n| [Flouci](post:flouci-profile) | Kaoun (startup), comptes chez des banques partenaires | Compte bancaire sur application et portefeuille | Virement, retrait sans carte, carte | RIB, carte en dinars, paiement par QR code, passerelle marchande |\n| [walletii](page:co-walletii-ooredoo) | OFT Tunisie (Ooredoo), établissement de paiement agréé | Portefeuille télécom | Agents walletii | Lancé en août 2026, paiement QR, factures |\n| [Kashy](page:co-kashy) | Tunisie Telecom avec Viamobile (établissement de paiement agréé) | Portefeuille télécom | Boutiques Tunisie Telecom, agents | Lancé en mars 2026, envoi, réception, retrait |\n| [izi](page:co-zitouna-payment) | Zitouna Payment (groupe Banque Zitouna) | Portefeuille de banque | Agents, Banque Zitouna | Recharges tous opérateurs, agents pour les clients sans smartphone |\n| [Payvago](page:co-payvago) | Groupe Poulina, établissement de paiement agréé | Portefeuille | Agents | Ouverture à distance, paiements marchands et factures ; peu d'actualité depuis 2024 |\n\nLes banques proposent aussi leurs propres applications de paiement à leurs clients, comme AmenPay d'Amen Bank, et les clients d'Attijari et de la BTE peuvent utiliser Flouci avec leur compte.\n\n## La Poste : D17 et e-Dinar\n\nLa Poste est l'acteur historique. Ses cartes e-Dinar sont acceptées en ligne depuis des années, par les sites administratifs et la plupart des passerelles de paiement, ce qui en a fait la solution de référence pour les personnes sans carte bancaire. Depuis juillet 2025, le portefeuille e-Dinar est gratuit pendant dix ans, et l'application D17 permet transferts, mandats, paiement de factures et paiements chez les commerçants. Son grand atout est le réseau de bureaux de poste dans tout le pays, y compris là où il n'y a pas d'agence bancaire. La Poste ne publie pas le nombre d'utilisateurs de D17.\n\n**Idéal pour :** les personnes sans compte bancaire, le paiement des frais administratifs et scolaires, les achats sur les sites tunisiens.\n\n## Flouci\n\nFlouci, développée par la startup Kaoun, est l'option la plus « application ». Ce n'est pas une banque : les comptes sont tenus par des banques partenaires (Attijari Bank et BTE), et l'entreprise se présente comme facilitateur de paiement autorisé par la BCT. On y trouve un compte avec RIB, une carte en dinars, des transferts par numéro de téléphone ou QR code, des retraits sans carte et le paiement de factures. Des enseignes comme Monoprix acceptent le paiement par QR Flouci, et Orange Tunisie a intégré le portefeuille à son application Max It en 2025. L'entreprise revendiquait plus de 140 000 comptes ouverts en juin 2026.\n\n**Idéal pour :** les utilisateurs de smartphone qui veulent un compte entièrement numérique, les freelances et les petits vendeurs en ligne.\n\n## Les portefeuilles télécoms : walletii et Kashy\n\n2026 est l'année où les opérateurs télécoms tunisiens sont entrés dans le paiement. **walletii by Ooredoo** est géré par OFT Tunisie, qui a obtenu son agrément définitif d'établissement de paiement en mars 2026 et a lancé son offre commerciale fin août. Il propose transferts, paiement de factures, paiement par QR code, dépôts et retraits d'espèces chez les agents walletii. **Kashy**, le portefeuille de Tunisie Telecom, a été lancé le 17 mars 2026 avec Viamobile comme établissement de paiement agréé, d'abord dans une trentaine de boutiques Tunisie Telecom. Aucun des deux n'a encore publié de nombre d'utilisateurs.\n\n**Idéal pour :** les abonnés prépayés qui fréquentent déjà les boutiques de leur opérateur, et l'envoi d'argent à la famille en Tunisie.\n\n## izi et Payvago\n\n**izi** est l'application de Zitouna Payment, l'établissement de paiement de la banque islamique Banque Zitouna. Lancée en 2022, elle permet l'ouverture de compte, les transferts, le paiement de factures et les recharges tous opérateurs, avec un réseau d'agents pour les clients sans smartphone. **Payvago**, l'établissement de paiement du groupe Poulina, est agréé depuis février 2023 et propose un portefeuille ouvert à distance, des services d'espèces via agents et le paiement de factures. Nous avons trouvé peu d'actualité à son sujet depuis 2024. Les deux ont été admis au système de compensation interbancaire de la SIBTEL : ils peuvent échanger des virements directement avec les banques.\n\n**Idéal pour :** izi convient aux clients qui veulent un prestataire conforme à la charia ; Payvago mérite d'être regardé si ses agents sont proches de chez vous.\n\n## Combien peut-on garder sur un portefeuille ?\n\nLes portefeuilles des établissements de paiement sont des comptes de paiement à trois niveaux, fixés par la [circulaire BCT 2026-10](post:payment-institutions-tunisia) :\n\n| Niveau | Solde maximal | Retrait d'espèces par jour |\n|---|---|---|\n| Niveau 1 | 1 500 TND | Non précisé |\n| Niveau 2 | 5 000 TND | 3 000 TND |\n| Niveau 3 | 20 000 TND | 10 000 TND |\n\nPlus vous complétez de vérifications d'identité, plus votre niveau est élevé. Les portefeuilles fonctionnent uniquement en dinars et en Tunisie ; pour recevoir de l'argent de l'étranger, voir notre [guide pour recevoir de l'argent en Tunisie](post:receive-money-in-tunisia) et notre [comparateur de transferts](page:remit).\n\n## Comment choisir\n\n- **Où déposer et retirer des espèces ?** Pour la plupart des gens, c'est plus important que les fonctionnalités. Repérez le bureau de poste, la boutique de l'opérateur ou l'agent le plus proche.\n- **Où allez-vous payer ?** Cherchez le label **TunPay**, le logo national du paiement mobile lancé par la BCT en mai 2026, chez les commerçants et dans les applications.\n- **Avez-vous besoin d'un RIB ou d'une carte ?** Flouci et les applications bancaires offrent un vrai compte ; les portefeuilles télécoms et à agents sont des comptes de paiement plus simples.\n- **Vérifiez les frais dans l'application** avant transferts et retraits ; ils varient selon le prestataire et changent souvent.\n- **Votre argent est protégé, mais ce n'est pas un dépôt.** Les établissements de paiement doivent placer les fonds des clients sur un compte cantonné dans une banque, mais les portefeuilles ne rapportent pas d'intérêts.",
+  "faq": [
+   {
+    "q": "Quelle est la meilleure application de paiement mobile en Tunisie ?",
+    "a": "Tout dépend de l'usage. D17 (La Poste) convient aux personnes sans compte bancaire et aux paiements sur les sites tunisiens ; Flouci offre un compte complet sur application avec RIB ; walletii et Kashy conviennent aux clients télécoms qui déposent des espèces en boutique ; izi convient à ceux qui veulent un prestataire conforme à la charia."
+   },
+   {
+    "q": "Combien de portefeuilles mobiles en Tunisie ?",
+    "a": "La Banque centrale de Tunisie recensait 719 000 portefeuilles mobiles fin septembre 2026, gérés par 20 prestataires de services de paiement."
+   },
+   {
+    "q": "Peut-on utiliser un portefeuille tunisien à l'étranger ?",
+    "a": "Non. Les portefeuilles tunisiens fonctionnent en dinars et uniquement en Tunisie. Pour payer des sites étrangers, il faut une carte technologique internationale ; pour recevoir de l'argent de l'étranger, un compte bancaire ou un service de transfert."
+   },
+   {
+    "q": "Quel est le solde maximal d'un portefeuille en Tunisie ?",
+    "a": "Selon la circulaire BCT 2026-10, le solde est plafonné à 1 500 TND (niveau 1), 5 000 TND (niveau 2) ou 20 000 TND (niveau 3), selon le niveau de vérification d'identité."
+   }
+  ]
+ }
+}
